@@ -47,146 +47,157 @@
     },
     {
         "code": "02165",
-        "flavor": "The train has stopped on a bridge high above the Miskatonic River - you might be able to survive the fall, but you don’t like your chances. Your best bet is to make your way to the engine car as fast as you can and get the train running again.",
-        "name": "Run!",
-        "text": "<b>Objective</b> - If an investigator enters the Engine Car, immediately advance.",
-        "back_name": "Wings of Steam",
-        "back_text": "<b>The investigator entering the Engine Car reads the following (out loud):\n</b><blockquote><i>A tender car filled with coal blocks your way to the engine cab. Swallowing your fear, you climb out of the nearby window and clamber onto the roof of the train, making your way across the tender car. The steady backward motion of the train makes it difficult for you to keep your footing. As you get close, a winged creature swoops down from above, its body composed of piping hot steam.</i></blockquote>You must decide (choose one):\n- Test [agility] (3) to attempt to dodge the creature. If you fail, you leap too far and barely grip the side of the train, hanging on for dear life. Although you manage to pull yourself up, the experience is terrifying. You suffer 1 mental trauma.\n- Test [combat] (3) to attempt to endure the creature's extreme heat. If you fail, the creature flies through you and the heat burns you. You suffer 1 physical trauma."
+        "flavor": "O trem parou em uma ponte bem acima do Rio Miskatonic - vocês talvez consigam sobreviver à queda, mas não gostam de suas chances. A melhor aposta seria chegar à locomotiva o mais rápido possível e colocar o trem em movimento mais uma vez.",
+        "name": "Corram!",
+        "text": "<b>Objetivo</b> - Se um investigador entrar na Locomotiva, avance imediatamente.",
+        "back_name": "Asas de Vapor",
+        "back_text": "O investigador que entrar na Locomotiva deve ler o seguinte (em voz alta):\n\nUm vagão-reboque cheio de carvão bloqueia o caminho até a locomotiva. Engolindo o medo, você sai pela janela mais próxima e escala para o teto do trem, avançando pelo vagão-reboque. O trem faz um movimento constante para trás, o que torna difícil manter-se em pé. Conforme você se aproxima, uma criatura alada desce do céu, seu corpo composto por vapor quente e sibilante.\n\nVocê deve decidir (escolha um):\n- [action] Teste [agility] (3) para tentar desviar da criatura. Se você falhar, acaba saltando longe demais e por pouco se agarra à lateral do trem, segurando-se por sua vida. Embora consiga se levantar, a experiência é aterrorizante. Você sofre 1 trauma mental.\n- [action] Teste [combat] (3) para tentar resistir ao calor extremo da criatura. Se você falhar, a criatura voa através de você e o calor lhe queima. Você sofre 1 trauma físico.",
+        "subname": "Ato 1a"
     },
     {
         "code": "02166",
-        "flavor": "You’ve managed to make it to the engine cab, but now you have to get the engine started again so you can outrun the pulling force of the gate!",
-        "name": "Get the Engine Running!",
-        "text": "<b>Objective</b> - If there are no clues in the Engine Car, immediately advance.",
-        "back_name": "Forward Motion",
-        "back_flavor": "The engine roars to life and kicks into motion. You shovel coal into the engine's firebox and are relieved to see that the train is moving forward along the tracks once again.",
-        "back_text": "<b>(→R1)</b>"
+        "flavor": "Vocês conseguiram chegar à locomotiva, mas agora precisam ligar o motor novamente, para que consigam se afastar da força de tração do portal!",
+        "name": "Liguem os Motores!",
+        "text": "<b>Objetivo</b> - Se não houver pistas em Locomotiva, avance imediatamente.",
+        "back_name": "Movendo-se Adiante",
+        "back_flavor": "O motor ruge de volta à vida e começa a girar as rodas. Vocês colocam carvão na fornalha do motor e ficam aliviados ao ver que o trem está andando para frente mais uma vez.",
+        "back_text": "(→R1)"
     },
     {
         "code": "02167",
-        "name": "Passenger Car",
-        "text": "Passenger Car is connected to the locations to the left and right of it.\n<b>Forced</b> - After you enter Passenger Car: You must either discard cards from your hand with at least 2 total [agility] icons or take 2 damage.",
-        "traits": "Train.",
-        "back_name": "Train Car",
-        "back_text": "Train Car is connected to the locations to the left and right of it.\nYou cannot enter Train Car unless all of the clues on the location to its left have been discovered."
+        "name": "Carro de Passageiros",
+        "text": "Carro de Passageiros está conectado aos locais à direita e à esquerda de si.\n<b>Forçado</b> - Após você entrar em Carro de Passageiros: Você deve descartar cartas da sua mão com pelo menos um total de 2 ícones [agility] ou sofrer 2 de dano.",
+        "traits": "Trem.",
+        "back_name": "Carro do Trem",
+        "back_text": "Carro do Trem está conectado aos locais à direita e à esquerda de si.\nVocê não pode entrar em Carro do Trem a menos que todas as pistas no local à esquerda dele tenham sido descobertas.",
+        "back_traits": "Trem."
     },
     {
         "code": "02168",
-        "name": "Passenger Car",
-        "text": "Passenger Car is connected to the locations to the left and right of it.\n<b>Forced</b> - After you enter Passenger Car: You must either discard cards from your hand with at least 2 total [combat] icons or take 2 damage.",
-        "traits": "Train.",
-        "back_name": "Train Car",
-        "back_text": "Train Car is connected to the locations to the left and right of it.\nYou cannot enter Train Car unless all of the clues on the location to its left have been discovered."
+        "name": "Carro de Passageiros",
+        "text": "Carro de Passageiros está conectado aos locais à direita e à esquerda de si.\n<b>Forçado</b> - Após você entrar em Carro de Passageiros: Você deve descartar cartas da sua mão com pelo menos um total de 2 ícones [combat] ou sofrer 2 de dano.",
+        "traits": "Trem.",
+        "back_name": "Carro do Trem",
+        "back_text": "Carro do Trem está conectado aos locais à direita e à esquerda de si.\nVocê não pode entrar em Carro do Trem a menos que todas as pistas no local à esquerda dele tenham sido descobertas.",
+        "back_traits": "Trem."
     },
     {
         "code": "02169",
-        "name": "Passenger Car",
-        "text": "Passenger Car is connected to the locations to the left and right of it.\n<b>Forced</b> - After you enter Passenger Car: You must either discard cards from your hand with at least 2 total [willpower] icons or take 2 horror.",
-        "traits": "Train.",
-        "back_name": "Train Car",
-        "back_text": "Train Car is connected to the locations to the left and right of it.\nYou cannot enter Train Car unless all of the clues on the location to its left have been discovered."
+        "name": "Carro de Passageiros",
+        "text": "Carro de Passageiros está conectado aos locais à direita e à esquerda de si.\n<b>Forçado</b> - Após você entrar em Carro de Passageiros: Você deve descartar cartas da sua mão com pelo menos um total de 2 ícones [willpower] ou sofrer 2 de horror.",
+        "traits": "Trem.",
+        "back_name": "Carro do Trem",
+        "back_text": "Carro do Trem está conectado aos locais à direita e à esquerda de si.\nVocê não pode entrar em Carro do Trem a menos que todas as pistas no local à esquerda dele tenham sido descobertas.",
+        "back_traits": "Trem."
     },
     {
         "code": "02170",
-        "name": "Passenger Car",
-        "text": "Passenger Car is connected to the locations to the left and right of it.\n<b>Forced</b> - After you enter Passenger Car: You must either discard cards from your hand with at least 2 total [intellect] icons or take 2 horror.",
-        "traits": "Train.",
-        "back_name": "Train Car",
-        "back_text": "Train Car is connected to the locations to the left and right of it.\nYou cannot enter Train Car unless all of the clues on the location to its left have been discovered."
+        "name": "Carro de Passageiros",
+        "text": "Carro de Passageiros está conectado aos locais à direita e à esquerda de si.\n<b>Forçado</b> - Após você entrar em Carro de Passageiros: Você deve descartar cartas da sua mão com pelo menos um total de 2 ícones [intellect] ou sofrer 2 de horror.",
+        "traits": "Trem.",
+        "back_name": "Carro do Trem",
+        "back_text": "Carro do Trem está conectado aos locais à direita e à esquerda de si.\nVocê não pode entrar em Carro do Trem a menos que todas as pistas no local à esquerda dele tenham sido descobertas.",
+        "back_traits": "Trem."
     },
     {
         "code": "02171",
-        "name": "Passenger Car",
-        "text": "Passenger Car is connected to the locations to the left and right of it.\n<b>Forced</b> - After you enter Passenger Car: You must either discard a card from your hand with at least 1 [wild] icon or take 1 damage and 1 horror.",
-        "traits": "Train.",
-        "back_name": "Train Car",
-        "back_text": "Train Car is connected to the locations to the left and right of it.\nYou cannot enter Train Car unless all of the clues on the location to its left have been discovered."
+        "name": "Carro de Passageiros",
+        "text": "Carro de Passageiros está conectado aos locais à direita e à esquerda de si.\n<b>Forçado</b> - Após você entrar em Carro de Passageiros: Você deve descartar uma carta da sua mão com pelo menos um ícone 1 [wild] ou sofrer 1 de dano e 1 de horror.",
+        "traits": "Trem.",
+        "back_name": "Carro do Trem",
+        "back_text": "Carro do Trem está conectado aos locais à direita e à esquerda de si.\nVocê não pode entrar em Carro do Trem a menos que todas as pistas no local à esquerda dele tenham sido descobertas.",
+        "back_traits": "Trem."
     },
     {
         "code": "02172",
-        "name": "Sleeping Car",
-        "text": "Sleeping Car is connected to the locations to the left and right of it.\n[action]: Gain 3 resources. Remember that you have \"stolen a passenger's luggage.\" (Group limit once per game).",
-        "traits": "Train.",
-        "back_name": "Train Car",
-        "back_text": "Train Car is connected to the locations to the left and right of it.\nYou cannot enter Train Car unless all of the clues on the location to its left have been discovered."
+        "name": "Carro-Dormitório",
+        "text": "Carro-Dormitório está conectado aos locais à direita e à esquerda de si.\n[action]: Ganhe 3 recursos. Lembre-se de que você “roubou a mala de um passageiro.” (Limite de grupo de uma vez por jogo).",
+        "traits": "Trem.",
+        "back_name": "Carro do Trem",
+        "back_text": "Carro do Trem está conectado aos locais à direita e à esquerda de si.\nVocê não pode entrar em Carro do Trem a menos que todas as pistas no local à esquerda dele tenham sido descobertas.",
+        "back_traits": "Trem."
     },
     {
         "code": "02173",
-        "name": "Dining Car",
-        "text": "Dining Car is connected to the locations to the left and right of it.\n<b>Forced</b> - After you reveal Dining Car: Search the encounter deck and discard pile for a Grappling Horror and draw it.",
-        "traits": "Train.",
-        "back_name": "Train Car",
-        "back_text": "Train Car is connected to the locations to the left and right of it.\nYou cannot enter Train Car unless all of the clues on the location to its left have been discovered."
+        "name": "Carro-Restaurante",
+        "text": "Carro-Restaurante está conectado aos locais à direita e à esquerda de si.\n<b>Forçado</b> - Após você revelar Carro-Restaurante: Procure por Horror Agarrador no baralho de encontros e na pilha de descarte e compre-o.",
+        "traits": "Trem.",
+        "back_name": "Carro do Trem",
+        "back_text": "Carro do Trem está conectado aos locais à direita e à esquerda de si.\nVocê não pode entrar em Carro do Trem a menos que todas as pistas no local à esquerda dele tenham sido descobertas."
     },
     {
         "code": "02174",
-        "name": "Parlor Car",
-        "text": "Parlor Car is connected to the locations to the left and right of it.\nParlor Car cannot be investigated.\n[action] Spend 3 resources: Discover 1 clue in the Parlor Car.",
-        "traits": "Train.",
-        "back_name": "Train Car",
-        "back_text": "Train Car is connected to the locations to the left and right of it.\nYou cannot enter Train Car unless all of the clues on the location to its left have been discovered."
+        "name": "Carro-Salão",
+        "text": "Carro-Salão está conectado aos locais à direita e à esquerda de si.\nCarro-Salão não pode ser investigado.\n[action] Gaste 3 recursos: Descubra 1 pista em Carro-Salão.",
+        "traits": "Trem.",
+        "back_name": "Carro do Trem",
+        "back_text": "Carro do Trem está conectado aos locais à direita e à esquerda de si.\nVocê não pode entrar em Carro do Trem a menos que todas as pistas no local à esquerda dele tenham sido descobertas.",
+        "back_traits": "Trem."
     },
     {
         "code": "02175",
-        "flavor": "There is no sign of the conductor anywhere. You have to figure out how to start the engine on your own.",
-        "name": "Engine Car",
-        "text": "Engine Car is connected to the location to the left of it.",
-        "traits": "Train.",
-        "back_text": "Engine Car is connected to the location to the left of it.\nYou cannot enter Engine Car unless all of the clues on the location to its left have been discovered."
+        "flavor": "Não há sinal do condutor em lugar algum. Vocês precisam descobrir sozinhos como ligar o motor.",
+        "name": "Locomotiva",
+        "text": "Locomotiva está conectada ao local à esquerda dela.",
+        "traits": "Trem.",
+        "back_text": "Locomotiva está conectada ao local à esquerda dela.\nVocê não pode entrar em Locomotiva, a menos que todas as pistas no local à esquerda dela tenham sido descobertas.",
+        "back_traits": "Trem."
     },
     {
         "code": "02176",
-        "flavor": "You see a foul beast atop the terrified train conductor, who cries out in panic!",
-        "name": "Engine Car",
-        "text": "Engine Car is connected to the location to the left of it.\n<b>Forced</b> - After you reveal Engine Car: Search the encounter deck and discard pile for a Grappling Horror and draw it. Shuffle the encounter deck.",
-        "traits": "Train.",
-        "back_text": "Engine Car is connected to the location to the left of it.\nYou cannot enter Engine Car unless all of the clues on the location to its left have been discovered."
+        "flavor": "Vocês veem uma besta nefasta em cima do aterrorizado condutor do trem, que grita em pânico!",
+        "name": "Locomotiva",
+        "text": "Locomotiva está conectada ao local à esquerda dela.\n<b>Forçado</b> - Após você revelar Locomotiva: Procure por Horror Agarrador no baralho de encontros e na pilha de descarte e compre-o. Embaralhe o baralho de encontros.",
+        "traits": "Trem.",
+        "back_text": "Locomotiva está conectada ao local à esquerda dela.\nVocê não pode entrar em Locomotiva, a menos que todas as pistas no local à esquerda dela tenham sido descobertas.",
+        "back_traits": "Trem."
     },
     {
         "code": "02177",
-        "flavor": "The slain body of the conductor is draped across the many control mechanisms of the engine car.",
-        "name": "Engine Car",
-        "text": "Engine Car is connected to the location to the left of it.\n<b>Forced</b> - After you reveal Engine Car: Draw the top 3 cards of the encounter deck.",
-        "traits": "Train.",
-        "back_text": "Engine Car is connected to the location to the left of it.\nYou cannot enter Engine Car unless all of the clues on the location to its left have been discovered."
+        "flavor": "O cadáver do condutor está jogado ao longo dos vários mecanismos de controle da locomotiva.",
+        "name": "Locomotiva",
+        "text": "Locomotiva está conectada ao local à esquerda dela.\n<b>Forçado</b> – Após você revelar Locomotiva: Compre as 3 cartas do topo do baralho de encontros.",
+        "traits": "Trem.",
+        "back_text": "Locomotiva está conectada ao local à esquerda dela.\nVocê não pode entrar em Locomotiva, a menos que todas as pistas no local à esquerda dela tenham sido descobertas.",
+        "back_traits": "Trem."
     },
     {
         "code": "02178",
-        "flavor": "What happened on the other side?",
-        "name": "Across Space and Time",
-        "text": "<b>Revelation</b> - Discard the top 3 cards of your deck.",
-        "traits": "Madness."
+        "flavor": "O que aconteceu no outro lado?",
+        "name": "Através do Espaço e do Tempo",
+        "text": "<b>Revelação</b> – Descarte as 3 cartas do topo do seu baralho.",
+        "traits": "Loucura."
     },
     {
         "code": "02179",
-        "name": "Helpless Passenger",
-        "text": "Surge.\n<b>Revelation</b> - Put Helpless Passenger into play at the location to your left (or at your location if you cannot).\n[action] <b>Parley</b>. Take control of Helpless Passenger.\n<b>Forced</b> - If Helpless Passenger leaves play: Each investigator takes 1 horror.",
-        "traits": "Ally. Bystander."
+        "name": "Passageiro Desamparado",
+        "text": "Ímpeto.\n<b>Revelação</b> - Coloque Passageiro Desamparado em jogo no local à sua esquerda (ou em seu local, se não for possível).\n[action] <b>Negociata.</b> Assuma o controle de Passageiro Desamparado.\n<b>Forçado</b> - Se Passageiro Desamparado sair de jogo: Cada investigador sofre 1 de horror.",
+        "traits": "Aliado. Espectador."
     },
     {
         "code": "02180",
-        "name": "Claws of Steam",
-        "text": "<b>Revelation</b> - Test [willpower] (3). If you fail, take 2 damage and you cannot move from this location this round. Damage from this effect must be assigned to your assets first, if able.",
-        "traits": "Power."
+        "name": "Garras de Vapor",
+        "text": "<b>Revelação</b> – Teste [willpower] (3). Se você falhar, sofra 2 de dano e você não pode se mover deste local nesta rodada. O dano deste efeito deve ser atribuído aos seus ativos primeiro, se possível.",
+        "traits": "Poder."
     },
     {
         "code": "02181",
-        "flavor": "Your train car begins to shake and shudder violently back and forth along the tracks, knocking you to the ground.",
-        "name": "Broken Rails",
-        "text": "<b>Revelation</b> - Each investigator at your location loses 1 action. Each investigator at your location with 4 or more damage must also discard an asset he or she controls.",
-        "traits": "Hazard."
+        "flavor": "Seu carro do trem começa a estremecer e chacoalhar violentamente pelos trilhos, jogando-os no chão.",
+        "name": "Trilhos Quebrados",
+        "text": "<b>Revelação</b> – Cada investigador no seu local perde 1 ação. Cada investigador no seu local com 4 ou mais de dano também deve descartar um ativo que controla.",
+        "traits": "Risco."
     },
     {
         "code": "02182",
-        "name": "Grappling Horror",
-        "text": "Hunter.\nWhile you are engaged with Grappling Horror, you cannot move.",
-        "traits": "Monster. Abomination."
+        "name": "Horror Agarrador",
+        "text": "<b>Caçador.</b>\nEnquanto você estiver engajado com Horror Agarrador, você não pode se mover.",
+        "traits": "Monstro. Abominação."
     },
     {
         "code": "02183",
-        "flavor": "The creature erupts from underneath one of the seats, growing ceaselessly in mass and volume, threatening to envelop the entire compartment.",
-        "name": "Emergent Monstrosity",
-        "text": "<b>Spawn</b> - The location to your right (or your location if there is no location to your right).\nEmergent Monstrosity enters play exhausted.",
-        "traits": "Monster. Abomination."
+        "flavor": "A criatura irrompe de baixo de um dos assentos, aumentando em massa e volume sem parar, ameaçando envolver o compartimento inteiro.",
+        "name": "Monstruosidade Emergente",
+        "text": "<b>Surgir</b> – O local à sua direita (ou o seu local, se não houver local à sua direita).\nMonstruosidade Emergente entra em jogo esgotada.",
+        "traits": "Monstro. Abominação."
     }
 ]
