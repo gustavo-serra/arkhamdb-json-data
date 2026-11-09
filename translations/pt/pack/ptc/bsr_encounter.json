@@ -1,194 +1,194 @@
 [
     {
         "code": "03274",
-        "name": "Black Stars Rise",
-        "text": "Easy / Standard\n[skull]: -X. X is the highest amount of doom on an agenda in play.\n[cultist]: Reveal another token. If this token is revealed during an attack or evasion attempt against an enemy with doom on it, this skill test automatically fails instead.\n[tablet]: Reveal another token. If you fail, place 1 doom on each agenda.\n[elder_thing]: -2. If you fail, search the encounter deck and discard pile for a [[Byakhee]] enemy and draw it.",
-        "back_text": "Hard / Expert\n[skull]: -X. X is the total amount of doom on agendas in play.\n[cultist]: Reveal another token. If there is an enemy with 1 or more doom on it at your location, this test automatically fails instead.\n[tablet]: Reveal another token. If you do not succeed by at least 1, place 1 doom on each agenda.\n[elder_thing]: -3. If you fail, search the encounter deck and discard pile for a [[Byakhee]] enemy and draw it."
+        "name": "Ascensão das Estrelas Sombrias",
+        "text": "FÁCIL / MÉDIO\n[skull]: -X. X é a maior quantidade de perdições sobre uma agenda em jogo.\n[cultist]: Revele outra ficha. Se esta ficha for revelada durante um ataque ou tentativa de evasão contra um inimigo com perdição sobre ele, esse teste de perícia falha automaticamente em vez disso.\n[tablet]: Revele outra ficha. Se você falhar, coloque 1 perdição sobre cada agenda.\n[elder_thing]: -2. Se você falhar, procure um inimigo <b>Byakhee</b> no baralho de encontros e na pilha de descarte e compre-o.",
+        "back_text": "DIFÍCIL / EXPERIENTE\n[skull]: -X. X é a quantidade total de perdições sobre as agendas em jogo.\n[cultist]: Revele outra ficha. Se houver um inimigo com 1 ou mais perdições sobre ele em seu local, esse teste falha automaticamente em vez disso.\n[tablet]: Revele outra ficha. Se você não tiver sucesso por pelo menos 1, coloque 1 perdição sobre cada agenda.\n[elder_thing]: -3. Se você falhar, procure um inimigo <b>Byakhee</b> no baralho de encontros e na pilha de descarte e compre-o."
     },
     {
         "code": "03275",
-        "flavor": "Your boat docks at Porte de l’Avancée, but with the rising tide and torrential rain flooding the street, the boat’s captain isn’t keen on sticking around. He tells you he will come back for you in the morning. You tell him not to bother; you probably won’t be around by then.",
-        "name": "The Tide Rises",
-        "text": "[free] The investigators spend 1 [per_investigator] clues, as a group: Place 1 doom on this agenda (this effect can cause this agenda to advance). Each investigator gains 2 resources. (Group limit once per round.)",
-        "back_name": "Red Dawn's Sunrise",
-        "back_flavor": "The tide continues to rise rapidly, the outer walls of the village assaulted by hurricane-force winds and freezing rain. The storm only grows in intensity as the evening turns to night. Soon, the tidewater will completely flood the city.",
-        "back_text": "Shuffle the encounter discard pile and both set-aside copies of Tidal Terror into the encounter deck.\nCheck the current \"c\" agenda.\n- If agenda 1c has 2 or fewer doom on it, mark one <b>Conviction</b> in your Campaign Log.\n- If agenda 1c has 3 or more doom on it, mark one <b>Doubt</b> in your Campaign Log.\n- If agenda 1c is not the current \"c\" agenda, do not mark any <b>Conviction</b> or <b>Doubt</b>."
+        "flavor": "O bote de vocês aporta no Porte de l'Avancée, mas com o aumento da maré e a chuva torrencial afogando as ruas, o capitão do bote não quer ficar para esperar. Ele diz que vai voltar para buscá-los no dia seguinte. Vocês falam para ele não se incomodar; provavelmente não estarão por lá pela manhã.",
+        "name": "A Subida da Maré",
+        "text": "[fast] Os investigadores gastam 1 [per_investigator] pistas, em grupo: Coloque 1 perdição nesta agenda (este efeito pode fazer esta agenda avançar). Cada investigador ganha 2 recursos. (Limite de grupo de uma vez por rodada.)",
+        "back_name": "Conjectura do Alvorecer Vermelho",
+        "back_flavor": "A maré continua a subir bem rápido, as muralhas exteriores do vilarejo são assoladas por ventos com a força de furacões e chuva congelante. A tempestade vai ficando cada vez mais intensa conforme a tarde se torna noite. Logo a maré vai inundar a cidade por completo.",
+        "back_text": "Embaralhe a pilha de descarte de encontros e ambas as cópias de Terror Marítimo, que foram previamente separadas, no baralho de encontros.\nVerifique a agenda \"c\" atual.\n◇ Se a agenda 1c tiver 2 ou menos perdições, marque uma <b>Convicção</b> no Registro da Campanha.\n◇ Se a agenda 1c tiver 3 ou mais perdições, marque uma <b>Dúvida</b> no Registro da Campanha.\n◇ Se a agenda 1c não for a agenda \"c\" atual, não marque nenhuma <b>Dúvida</b> ou <b>Convicção</b>."
     },
     {
         "code": "03276a",
-        "flavor": "The angry sea continues to barrage the island. Waves crash against the walls, and rain pelts the rooftops. Is the rising sea the key to opening the path? If so, you have no choice but to let the storm rage on…",
-        "name": "Let The Storm Rage",
-        "text": "Each copy of Ancient Evils gains surge.\n[free] The investigators spend 1 [per_investigator] clues, as a group: Place 1 doom on this agenda (this effect can cause this agenda to advance). Each investigator gains 2 resources. (Group limit once per round.)",
-        "back_name": "Worlds Intertwine",
-        "back_flavor": "Something is wrong. The flood must have triggered the gate by now. You researched this ritual to the best of your abilities, but for some reason, it isn't working.\nDesperate, you look up at the heavens for a sign. Lightning courses through the vortex of black clouds above. Figures robed in yellow search through the sky on the backs of monstrous winged creatures. Suddenly, you realize your error - the tide wasn't the key, it was the sky!",
-        "back_text": "Spawn the set-aside Beast of Aldebaran enemy in the Abbey Tower.\nCheck Campaign Log. If Ashleigh Clarke is not listed under \"VIPs Slain,\" search the collection for Ashleigh Clarke <i>(Songs Die Unheard)</i> and spawn her at Porte de l'Avancée.\nRemove the set-aside act 3a card from the game. Advance to agenda 3a.\n<i>Your objective lies within the other agenda deck.</i>"
+        "flavor": "O mar revolto continua a assolar a ilha. Ondas quebram contra as muralhas, e a chuva fustiga os tetos. O aumento do mar é a chave para abrir o caminho? Se for o caso, vocês não têm escolha além de deixar a tempestade rugir...",
+        "name": "Que Ruja a Tempestade",
+        "text": "Cada cópia de Males Anciães ganha ímpeto.\n[fast] Os investigadores gastam 1 [per_investigator] pistas, em grupo: Coloque 1 perdição nesta agenda (este efeito pode fazer esta agenda avançar). Cada investigador ganha 2 recursos. (Limite de grupo de uma vez por rodada.)",
+        "back_name": "Mundos se Entrelaçam",
+        "back_flavor": "Algo está errado. A inundação já deveria ter aberto o portal a essa hora. Vocês pesquisaram esse ritual com toda atenção que tinham, mas, por algum motivo, não está funcionando.\nDesesperados, vocês olham para os céus em busca de um sinal. Raios cruzam através do vórtice de nuvens escuras acima. Figuras vestidas com túnicas amarelas vasculham o céu montadas no dorso de monstruosas criaturas aladas. De súbito, vocês entendem o erro — a maré não é a chave, é o céu!",
+        "back_text": "Faça surgir o inimigo Fera de Aldebaran, que foi previamente separado, na Torre da Abadia.\nVerifique o Registro da Campanha. Se Ashleigh Clarke não estiver listada na seção \"VIPs Mortos,\" procure Ashleigh Clarke <i>(Canções Findam Inauditas)</i> na coleção e faça-a surgir em Porte de l'Avancée.\nRemova do jogo a carta de ato 3a, que foi previamente separada. Avance para a agenda 3a.\n<i>Seu objetivo está no outro baralho de agendas.</i>"
     },
     {
         "code": "03276b",
-        "flavor": "The angry sea continues to barrage the island. Waves crash against the walls, and rain pelts the rooftops. Is the rising sea the key to opening the path? If so, you have no choice but to let the storm rage on…",
-        "name": "Let The Storm Rage",
-        "text": "Each copy of Ancient Evils gains surge.\n[free] The investigators spend 1 [per_investigator] clues, as a group: Place 1 doom on this agenda (this effect can cause this agenda to advance). Each investigator gains 2 resources. (Group limit once per round.)",
-        "back_name": "The Path to Carcosa",
+        "flavor": "O mar revolto continua a assolar a ilha. Ondas quebram contra as muralhas, e a chuva fustiga os tetos. O aumento do mar é a chave para abrir o caminho? Se for o caso, vocês não têm escolha além de deixar a tempestade rugir...",
+        "name": "Que Ruja a Tempestade",
+        "text": "Cada cópia de Males Anciães ganha ímpeto.\n[fast] Os investigadores gastam 1 [per_investigator] pistas, em grupo: Coloque 1 perdição nesta agenda (este efeito pode fazer esta agenda avançar). Cada investigador ganha 2 recursos. (Limite de grupo de uma vez por rodada.)",
+        "back_name": "O Caminho para Carcosa",
         "back_flavor": "The ritual is almost complete. All that is left is to find the gate and step through.",
-        "back_text": "Remove the remainder of this agenda deck from the game and replace it with the set-aside act 3a card. Advance to that act card."
+        "back_text": "O ritual está quase completo. Tudo o que falta é encontrar o portal e passar por ele. Remova do jogo o restante deste baralho de agendas e substitua-o pela carta de ato 3a que foi previamente separada. Avance para essa carta de ato."
     },
     {
         "code": "03277",
-        "flavor": "The water level continues to rise. The outer walls cannot stop the tide from swallowing the island. The streets flood with ice cold water, and powerful waves demolish buildings where they stand. If you do not act soon, the path will be forever lost, and nobody will be able to prevent Hastur’s agents from releasing his bonds.",
-        "name": "The City Floods",
-        "text": "Each copy of Ancient Evils gains surge.",
-        "back_name": "Die Unheard",
-        "back_flavor": "The sea swallows Mont Saint-Michel whole. Seawater pours over the walls and crashes through the lower half of the city. The abbey is the only refuge from the flood, but even that will be consumed in time. The vortex above - your only hope for escaping this doom - suddenly fades into wisps of gray cloud.\nYou sit on a slab of wet rock outside the abbey and contemplate the madness all around you. How has it come to this? Is all of this even truly happening? Or will you awaken in an asylum like Daniel Chesterfield, a victim of some cruel cosmic joke?",
+        "flavor": "O nível da água continua a subir. As muralhas exteriores não conseguem impedir a maré de engolir a ilha. As ruas inundam com água fria como gelo, e ondas poderosas devastam prédios onde eles estão. Se vocês não agirem logo, o caminho estará perdido para sempre e ninguém poderá impedir os agentes de Hastur de libertá-lo de suas amarras.",
+        "name": "A Cidade Inunda",
+        "text": "Cada cópia de Males Anciães ganha ímpeto.",
+        "back_name": "Findam Inauditas",
+        "back_flavor": "O mar engole Mont Saint-Michel completamente. Água salgada jorra pelas muralhas e atinge a metade inferior da cidade. A abadia é o único refúgio contra a inundação, mas mesmo ela será consumida com tempo. O vórtice acima — sua única esperança de fugir desse fim horrível — subitamente desvanece em fiapos de fumaça cinza.\n\nVocês se sentam em uma laje de pedra úmida do lado de fora da abadia e contemplam a loucura à sua volta. Como as coisas chegaram a isso? Isso está realmente acontecendo? Ou será que vocês acordarão em um asiló como Daniel Chesterfield, vítimas de alguma cruel piada cósmica?",
         "back_text": "<b>(→R3)</b>"
     },
     {
         "code": "03278",
-        "flavor": "Dark storm clouds swirl overhead. A vortex of eldritch energy rages in the center of the storm. The ritual has begun. The gate may appear above the abbey, or below it. You must choose which route to pursue and reach the gate before Hastur’s agents do.",
-        "name": "The Ritual Begins",
-        "text": "[free] The investigators spend 1 [per_investigator] clues, as a group: Place 1 doom on this agenda (this effect can cause this agenda to advance). Each investigator draws 1 card. (Group limit once per round.)",
-        "back_name": "Blue Star's Demise",
-        "back_flavor": "As the vortex grows in size and force, so too does its pull on reality. Debris and rubble start to float upwards, pulled into the terrible void. A thunderous crash shakes the island to its very core. Soon, the whole city will be destroyed by the maelstrom.",
-        "back_text": "Shuffle the encounter discard pile and both set-aside copies of Rift Seeker into the encounter deck.\nCheck the current \"a\" agenda.\n- If agenda 1a has 2 or fewer doom on it, mark one <b>Conviction</b> in your Campaign Log.\n- If agenda 1a has 3 or more doom on it, mark one <b>Doubt</b> in your Campaign Log.\n&- If agenda 1a is not the current \"a\" agenda, do not mark any <b>Conviction</b> or <b>Doubt</b>."
+        "flavor": "Nuvens escuras e tempestuosas rodopeiam acima. Um vórtice de energia arcana explode no centro da tempestade. O ritual começou. O portal deve aparecer acima da abadia, ou abaixo dela. Vocês precisam escolher qual rota prosseguir e alcançar o portal antes que os agentes de Hastur o façam.",
+        "name": "O Ritual Começa",
+        "text": "[fast] Os investigadores gastam 1 [per_investigator] pistas, em grupo: Coloque 1 perdição nesta agenda (este efeito pode fazer esta agenda avançar). Cada investigador compra 1 carta. (Limite de grupo de uma vez por rodada.)",
+        "back_name": "Perdição da Estrela Azul",
+        "back_flavor": "Conforme o vórtice vai ficando maior e mais poderoso, também aumenta sua força de sucção sobre a realidade. Detritos e destroços começam a flutuar, atraídos pelo terrível vazio. Um grande estrondo abala a ilha até as suas bases. Logo a cidade inteira será destruída por esse turbilhão.",
+        "back_text": "Embaralhe a pilha de descarte de encontros e ambas as cópias de Buscador da Fenda, que foram previamente separadas, no baralho de encontros\nVerifique a agenda \"a\" atual.\n- Se a agenda 1a a tiver 2 ou menos perdições, marque uma <b>Convicção</b> no Registro da Campanha.\n- Se a agenda 1a tiver 3 ou mais perdições, marque uma <b>Dúvida</b> no Registro da Campanha.\n- Se a agenda 1a não for a agenda \"a\" atual, não marque nenhuma <b>Dúvida</b> ou <b>Convicção</b>."
     },
     {
         "code": "03279a",
-        "flavor": "The whirlwind over the island continues to rage. Blinding flashes of lightning and deafening thunder assault your senses. Is the vortex above the key to opening the path? If so, you have no choice but to beckon the entity closer…",
-        "name": "The Entity Above",
-        "text": "Each [[Monster]] enemy gets +1 fight.\n[free] The investigators spend 1 [per_investigator] clues, as a group: Place 1 doom on this agenda (this effect can cause this agenda to advance). Each investigator draws 1 card. (Group limit once per round.)",
-        "back_name": "Worlds Intertwine",
-        "back_flavor": "Something is wrong. The vortex must have triggered the gate by now. You researched this ritual to the best of your abilities, but for some reason, it isn't working.\nDesperate, you examine your surroundings. Waves crash just over the outer walls of the village, flooding the streets. Figures robed in yellow search through the streets, their hooded lamps illuminating the floodwater. Suddenly, you realize your error - the vortex wasn't the key, it was the sea!",
-        "back_text": "Spawn the set-aside Beast of Aldebaran enemy in the Chapel of St. Aubert.\nCheck Campaign Log. If Ashleigh Clarke is not listed under \"VIPs Slain,\" search the collection for Ashleigh Clarke <i>(Songs Die Unheard)</i> and spawn her at Porte de l'Avancée.\nRemove the set-aside act 3c card from the game. Advance to agenda 3c.\n<i>Your objective lies within the other agenda deck.</i>"
+        "flavor": "O redemoinho acima da ilha continua a girar. Clarões cegantes de relâmpagos e trovões ensurdecedores assolam os seus sentidos. O vórtice acima é a chave para abrir o caminho? Se for, vocês não têm outra escolha além de investigá-lo de perto.",
+        "name": "A Entidade Acima",
+        "text": "Cada inimigo <b>Monstro</b> recebe +1 de Luta.\n[fast] Os investigadores gastam 1 [per_investigator] pistas, em grupo: Coloque 1 perdição nesta agenda (este efeito pode fazer esta agenda avançar). Cada investigador compra 1 carta. (Limite de grupo de uma vez por rodada.)",
+        "back_name": "Mundos se Entrelaçam",
+        "back_flavor": "Algo está errado. O vórtice já deveria ter aberto o portal a essa hora. Vocês pesquisaram esse ritual com toda atenção que tinham, mas, por algum motivo, não está funcionando.\nDesesperados, vocês examinam os arredores. Ondas quebram nas muralhas exteriores do vilarejo, inundando as ruas. Figuras de túnica amarela vasculham pelas ruas, com suas lâmpadas cobertas iluminando as águas da enchente. De súbito, vocês entendem o erro — o vórtice não é a chave, é o mar!",
+        "back_text": "Faça surgir o inimigo Fera de Aldebaran, que foi previamente separado, na Capela de St. Aubert.\nVerifique o Registro da Campanha. Se Ashleigh Clarke não estiver listada na seção \"VIPs Mortos\", procure Ashleigh Clarke (Canções Findam Inauditas) na coleção e faça-a surgir em Porte de l'Avancée.\nRemova do jogo a carta de ato 3c, que foi previamente separada. Avance para a agenda 3c.\n<i>Seu objetivo está no outro baralho de agendas.</i>"
     },
     {
         "code": "03279b",
-        "flavor": "The whirlwind over the island continues to rage. Blinding flashes of lightning and deafening thunder assault your senses. Is the vortex above the key to opening the path? If so, you have no choice but to beckon the entity closer…",
-        "name": "The Entity Above",
-        "text": "Each [[Monster]] enemy gets +1 fight.\n[free] The investigators spend 1 [per_investigator] clues, as a group: Place 1 doom on this agenda (this effect can cause this agenda to advance). Each investigator draws 1 card. (Group limit once per round.)",
-        "back_name": "The Path to Carcosa",
+        "flavor": "O redemoinho acima da ilha continua a girar. Clarões cegantes de relâmpagos e trovões ensurdecedores assolam os seus sentidos. O vórtice acima é a chave para abrir o caminho? Se for, vocês não têm outra escolha além de investigá-lo de perto.",
+        "name": "A Entidade Acima",
+        "text": "Cada inimigo <b>Monstro</b> recebe +1 de Luta.\n[fast] Os investigadores gastam 1 [per_investigator] pistas, em grupo: Coloque 1 perdição nesta agenda (este efeito pode fazer esta agenda avançar). Cada investigador compra 1 carta. (Limite de grupo de uma vez por rodada.)",
+        "back_name": "O Caminho para Carcosa",
         "back_flavor": "The ritual is almost complete. All that is left is to find the gate and step through.",
-        "back_text": "Remove the remainder of this agenda deck from the game and replace it with the set-aside act 3c card. Advance to that act card."
+        "back_text": "O ritual está quase completo. Tudo o que falta é encontrar o portal e passar por ele.\nRemova do jogo o restante deste baralho de agendas e substitua-o pela carta de ato 3c que foi previamente separada. Avance para essa carta de ato."
     },
     {
         "code": "03280",
-        "flavor": "The maelstrom in the sky envelops the horizon. The island starts to break into pieces. The screeches of uncanny creatures fill the air, an unholy choir praying to a force beyond your comprehension. If you do not act soon, the path will be forever lost, and nobody will be able to prevent Hastur’s agents from releasing his bonds.",
-        "name": "Swallowed Sky",
-        "text": "Each [[Monster]] enemy gets +1 fight.",
-        "back_name": "Die Unheard",
-        "back_flavor": "The vortex consumes the abbey of Mont Saint-Michel, shattering it into a thousand shards of reality. Gravity's hold on the island is released, and debris begins to lift into the air. The lower streets of the island are the only refuge from the angry sky, but even they will be consumed in time. The tidewater - your only hope for escaping this doom - suddenly recedes, and floodwater seeps into the earth below.\nYou sit at the edge of the north tower below the abbey and contemplate the madness all around you. How has it come to this? Is all of this even truly happening? Or will you awaken in an asylum like Daniel Chesterfield, a victim of some cruel cosmic joke?",
+        "flavor": "O turbilhão no céu envolve o horizonte. A ilha começa a se partir em pedaços. Os guinchos das criaturas aterradoras preenchem o céu, um coro profano começa a rezar para uma força além de sua compreensão. Se vocês não agirem logo, o caminho estará perdido para sempre e ninguém poderá impedir os agentes de Hastur de libertá-lo de suas amarras.",
+        "name": "Céu Engolido",
+        "text": "Cada inimigo <b>Monstro</b> recebe +1 de Luta.",
+        "back_name": "Findam Inauditas",
+        "back_flavor": "O vórtice consome a abadia de Mont Saint-Michel, despedaçando-a em milhares de estilhaços de realidade. A gravidade perde sua força sobre a ilha, e os destroços começam a flutuar no ar. As ruas inferiores da ilha são o único refúgio contra a fúria do céu, mas até mesmo elas serão consumidas com o tempo. A água da maré — sua única esperança de fugir desse fim horrível — subitamente retrocede, e a água da enchente se entranha na terra abaixo.\n\nVocê se sentam na borda da torre norte abaixo da abadia e contemplam a loucura ao seu redor. Como as coisas chegaram a isso? Isso está realmente acontecendo? Ou será que vocês acordarão em um asilo como Daniel Chesterfield, vítimas de alguma cruel piada cósmica?",
         "back_text": "<b>(→R3)</b>"
     },
     {
         "code": "03281",
         "flavor": "Tidewater churns around the walls of the city. Layers of reality unfold. Reflected in the depths below, you can see the twisted spires of Carcosa. You have no choice but to dive in.",
-        "name": "Open The Path Below",
-        "text": "<b>Objective</b> - If each undefeated investigator is at the Chapel of St. Aubert and there are no clues on that location, advance.",
-        "back_name": "To Carcosa",
+        "name": "Abrir o Caminho Abaixo",
+        "text": "<i>A água da maré se agita em torno das muralhas da cidade. Camadas de realidade se desdobram. Refletidos nas profundezas abaixo, vocês enxergam os pináculos retorcidos de Carcosa. Não há escolha além de mergulhar.</i>\n\n<b>Objetivo</b> - Se cada investigador não derrotado estiver na Capela de St. Aubert e não houver pistas sobre esse local, avance.",
+        "back_name": "Para Carcosa",
         "back_flavor": "Only you can stop Hastur from escaping his prison.\nYou dive into the churning waters and open the path to Carcosa, the realm of madness.",
-        "back_text": "<b>(→R1)</b>"
+        "back_text": "Somente vocês podem impedir Hastur de escapar de sua prisão.\n\nVocês mergulham nas águas indomadas e abrem o caminho para Carcosa, o reino da loucura.\n<b>(→R1)</b>"
     },
     {
         "code": "03282",
         "flavor": "Clouds churn over the abbey tower. Layers of reality unfold. Through the dark storm clouds, you can see the twisted spires of Carcosa. You have no choice but to make the leap.",
-        "name": "Open The Path Above",
-        "text": "<b>Objective</b> - If each undefeated investigator is at the Abbey Tower and there are no clues on that location, advance.",
-        "back_name": "To Carcosa",
+        "name": "Abrir o Caminho Acima",
+        "text": "Nuvens se agitam sobre a torre da abadia. Camadas de realidade se desdobram. Através das nuvens escuras, vocês enxergam os pináculos retorcidos de Carcosa. Não há escolha além de saltar.\n\n<b>Objetivo</b> - Se cada investigador não derrotado estiver na Torre da Abadia e não houver pistas sobre esse local, avance.",
+        "back_name": "Para Carcosa",
         "back_flavor": "Only you can stop Hastur from escaping his prison.\nYou leap into the churning maelstrom and open the path to Carcosa, the realm of madness.",
-        "back_text": "<b>(→R2)</b>"
+        "back_text": "Somente vocês podem impedir Hastur de escapar de sua prisão.\n\nVocês mergulham no turbilhão agitado e abrem o caminho para Carcosa, o reino da loucura.\n<b>(→R2)</b>"
     },
     {
         "code": "03283",
         "name": "Porte de l'Avancée",
-        "text": "[action][action]: Move 1 doom from one agenda deck to the other. Then, place 2 clues on Porte de l'Avancée <i>(from the token bank)</i>.",
-        "back_flavor": "This gateway serves as an entrance to the Grand Rue during high tide, when a boat is the only means of reaching the city."
+        "text": "[action][action]: Mova 1 perdição de um baralho de agendas para o outro. Então coloque 2 pistas em Porte de l'Avancée <i>(da reserva de fichas)</i>.",
+        "back_flavor": "Este portal serve de entrada para a Grand Rue durante a maré alta, quando um bote é a única forma de chegar à cidade."
     },
     {
         "code": "03284",
         "name": "Grand Rue",
-        "text": "<b>Forced</b> - After you succeed at a skill test by 1 or less while investigating Grand Rue: Place 1 doom on the agenda with the most doom <i>(if they are tied for the most doom, choose one to place 1 doom on)</i>.",
-        "back_flavor": "Mont Saint-Michel’s main road courses around the abbey, lined with shops and homes for fishermen and farmers."
+        "text": "<b>Forçado</b> – Após você ter sucesso em um teste por 1 ou menos enquanto está investigando a Grand Rue: Coloque 1 perdição sobre a agenda com mais perdições <i>(se estiverem empatadas, escolha uma para colocar 1 perdição)</i>.",
+        "back_flavor": "A estrada principal de Mont Saint-Michel passa pela abadia, pontilhada por lojas e casas de pescadores e fazendeiros."
     },
     {
         "code": "03285",
-        "flavor": "Waves slam against the stone walls, water spraying onto the pathways above. If you don't act quickly, even these stalwart walls won't be able to stop the rising tide.",
-        "name": "Outer Wall",
-        "text": "<b>Forced</b> - After 1 or more doom is placed on the \"a\" agenda deck: Each investigator at the Outer Wall takes 1 damage.",
-        "back_flavor": "The outer wall of the city defends it from the wrath of the tides, and also from conquering invaders."
+        "flavor": "Ondas quebram contra as muralhas de pedra, esguichando água pelo caminho acima. Se vocês não agirem rápido, nem mesmo essas robustas muralhas conseguirão impedir a maré.",
+        "name": "Muralha Exterior",
+        "text": "<b>Forçado</b> - Após 1 ou mais perdições serem colocadas no baralho de agendas \"a\": Cada investigador na Muralha Exterior sofre 1 de dano.",
+        "back_flavor": "A muralha exterior da cidade a defende contra a fúria das ondas e também contra invasores."
     },
     {
         "code": "03286",
-        "flavor": "Waves slam against the stone walls, water spraying onto the pathways above. If you don't act quickly, even these stalwart walls won't be able to stop the rising tide.",
-        "name": "Outer Wall",
-        "text": "While the current \"c\" agenda has more doom on it than the current \"a\" agenda, double the number of skill icons on cards committed to skill tests at the Outer Wall.",
-        "back_flavor": "The outer wall of the city defends it from the wrath of the tides, and also from conquering invaders."
+        "flavor": "Ondas quebram contra as muralhas de pedra, esguichando água pelo caminho acima. Se vocês não agirem rápido, nem mesmo essas robustas muralhas conseguirão impedir a maré.",
+        "name": "Muralha Exterior",
+        "text": "Enquanto a agenda \"c\" atual tiver mais perdições do que a agenda \"a\" atual, dobre a quantidade de ícones de perícia em cartas comprometidas em testes de perícia na Muralha Exterior.",
+        "back_flavor": "A muralha exterior da cidade a defende contra a fúria das ondas e também contra invasores."
     },
     {
         "code": "03287",
-        "flavor": "Wet, stone steps lead higher up the path, toward the abbey. Above, black storm clouds threaten to overtake the island.",
-        "name": "North Tower",
-        "text": "<b>Forced</b> - After 1 or more doom is placed on the \"c\" agenda deck: Each investigator at North Tower takes 1 horror.",
-        "back_flavor": "The north tower along the outer wall overlooks the town on one side and the tumultuous waters on the other. Freezing rain has made this path slippery and dangerous to follow."
+        "flavor": "Degraus de pedra úmidos vão subindo o caminho, em direção à abadia. Acima, nuvens escuras ameaçam dominar a ilha.",
+        "name": "Torre Norte",
+        "text": "<b>Forçado</b> - Após 1 ou mais perdições serem colocadas no baralho de agendas \"c\": Cada investigador na Torre Norte sofre 1 de horror.",
+        "back_flavor": "A torre norte ao longo da muralha externa vigia a cidade de um lado e as águas turbulentas do outro. A chuva congelante deixou o caminho escorregadio e perigoso de seguir."
     },
     {
         "code": "03288",
-        "flavor": "Wet, stone steps lead higher up the path, toward the abbey. Above, black storm clouds threaten to overtake the island.",
-        "name": "North Tower",
-        "text": "While the current \"a\" agenda has more doom on it than the current \"c\" agenda, reduce the difficulty of each skill test at North Tower by 1.",
-        "back_flavor": "The north tower along the outer wall overlooks the town on one side and the tumultuous waters on the other. Freezing rain has made this path slippery and dangerous to follow."
+        "flavor": "Degraus de pedra úmidos vão subindo o caminho, em direção à abadia. Acima, nuvens escuras ameaçam dominar a ilha.",
+        "name": "Torre Norte",
+        "text": "Enquanto a agenda \"a\" atual tiver mais perdições do que a agenda \"c\" atual, reduza em 1 a dificuldade de cada teste de perícia realizado na Torre Norte.",
+        "back_flavor": "A torre norte ao longo da muralha externa vigia a cidade de um lado e as águas turbulentas do outro.\nA chuva congelante deixou o caminho escorregadio e perigoso de seguir."
     },
     {
         "code": "03289",
-        "name": "Broken Steps",
-        "text": "<b>Forced</b> - After you enter Broken Steps: You must either lose 1 action or draw the topmost [[Omen]] treachery in the encounter discard pile.",
-        "back_flavor": "Bolts of lightning silhouette the abbey above. A path of long, winding steps leads up the hill, branching into multiple routes as you draw nearer to the abbey."
+        "name": "Degraus Quebrados",
+        "text": "<b>Forçado</b> - Após você entrar em Degraus Quebrados: Você deve perder 1 ação ou comprar a traição de <i>Presságio</i> mais acima na pilha de descarte de encontros.",
+        "back_flavor": "Raios iluminam a abadia acima. Um longo caminho, com degraus sinuosos, sobe a colina, se dividindo em múltiplas rotas conforme se aproxima da abadia."
     },
     {
         "code": "03290",
-        "name": "Broken Steps",
-        "text": "<b>Forced</b> - After you enter Broken Steps: You must either discard an asset you control or draw the topmost [[Cultist]] enemy in the encounter discard pile.",
-        "back_flavor": "Bolts of lightning silhouette the abbey above. A path of long, winding steps leads up the hill, branching into multiple routes as you draw nearer to the abbey."
+        "name": "Degraus Quebrados",
+        "text": "<b>Forçado</b> – Após você entrar em Degraus Quebrados: Você deve descartar um ativo que você controla ou comprar o inimigo <i>Cultista</i> mais acima na pilha de descarte de encontros.",
+        "back_flavor": "Raios iluminam a abadia acima. Um longo caminho, com degraus sinuosos, sobe a colina, se dividindo em múltiplas rotas conforme se aproxima da abadia."
     },
     {
         "code": "03291",
-        "name": "Abbey Church",
-        "text": "If there are two agendas in play with different agenda numbers, Abbey Church gets +2 shroud.\n<b>Forced</b> - When Abbey Church is revealed: Put the set-aside Chœur Gothique, Knight's Hall, Cloister, Chapel of St. Aubert, and Abbey Tower locations into play.",
-        "back_flavor": "You’ll have to find a path not blocked by debris and rubble in order to reach the abbey.",
-        "back_text": "The path leading to the Abbey Church is blocked. As an additional cost for you to enter the Abbey Church, investigators at Broken Steps must spend 3 [per_investigator] clues, as a group."
+        "name": "Igreja da Abadia",
+        "text": "Se houver duas agendas em jogo com números de agenda diferentes, Igreja da Abadia recebe +2 de véu.\n<b>Forced</b> - Quando Igreja da Abadia for revelada: coloque em jogo os locais Choeur Gothique, Salão do Cavaleiro, Claustro, Capela de St. Aubert e Torre da Abadia.",
+        "back_flavor": "Vocês precisarão encontrar um caminho que não esteja bloqueado por detritos e destroços para conseguir chegar à abadia.",
+        "back_text": "O caminho que leva até a Igreja da Abadia está bloqueado. Como custo adicional para entrar em Igreja da Abadia, os investigadores em Degraus Quebrados devem gastar 3 [per_investigator] pistas, em grupo."
     },
     {
         "code": "03292",
-        "flavor": "Lightning flashes through the windows of the abbey, thunder quickly answering in a booming voice all around the island.",
+        "flavor": "Relâmpagos brilham através das janelas da abadia, com o trovão logo respondendo em uma voz que ecoa por toda a ilha.",
         "name": "Chœur Gothique",
-        "text": "[action] Place 1 doom on the current \"a\" agenda: Heal 2 damage. (Group limit once per game).",
-        "back_flavor": "A long pool of blood spreads slowly across the floor, leading toward the chœur gothique."
+        "text": "[action] Coloque 1 perdição sobre a agenda \"a\" atual: Cure 2 de dano. (Limite de grupo de uma vez por jogo).",
+        "back_flavor": "Uma grande poça de sangue se espalha lentamente pelo chão, levando ao chœur gothique."
     },
     {
         "code": "03293",
-        "flavor": "Lightning flashes through the windows of the abbey, thunder quickly answering in a booming voice all around the island.",
+        "flavor": "Relâmpagos brilham através das janelas da abadia, com o trovão logo respondendo em uma voz que ecoa por toda a ilha.",
         "name": "Chœur Gothique",
-        "text": "[action] Place 1 doom on the current \"c\" agenda: Heal 2 horror. (Group limit once per game).",
-        "back_flavor": "A long pool of blood spreads slowly across the floor, leading toward the chœur gothique."
+        "text": "[action] Coloque 1 perdição sobre a agenda \"c\" atual: Cure 2 de horror. (Limite de grupo de uma vez por jogo).",
+        "back_flavor": "Uma grande poça de sangue se espalha lentamente pelo chão, levando ao chœur gothique."
     },
     {
         "code": "03294",
-        "flavor": "A lone monk patrols the covered walk, surrounding himself in whispered prayer. He doesn't seem to notice the storm threatening to tear the abbey down.",
-        "name": "Cloister",
-        "text": "[action] If there are no clues on Cloister: <b>Parley.</b> Test [willpower] (3). If you succeed, remember that you have \"found a guide.\"",
-        "back_flavor": "The open arcade of the cloister is normally restricted to the monastery’s monks and religious leaders, but with the abbey seemingly abandoned, it takes little effort for you to sneak your way in."
+        "flavor": "Um monge solitário patrulha o passadiço coberto, cercando-se com orações sussurradas. Ele parece não notar a tempestade ameaçando arrasar a abadia.",
+        "name": "Claustro",
+        "text": "[action] Se não houver pistas no Claustro:\n<b>Negociata.</b> Teste [willpower] (3). Se você tiver sucesso, lembre-se de que vocês \"encontraram um guia.\"",
+        "back_flavor": "A arcada aberta do claustro normalmente é restrita aos monges do monastério e líderes religiosos, mas com a abadia aparentemente abandonada, não é preciso muito esforço para entrar sorrateiramente."
     },
     {
         "code": "03295",
-        "name": "Knight's Hall",
-        "text": "[action] If there are no clues on Knight's Hall: <b>Investigate.</b> Investigate using [agility] instead of [intellect]. If you succeed, instead of discovering clues, remember that you have \"found the tower key.\"",
-        "back_flavor": "Rows of symmetrical stone pillars give this hall a sense of calm serenity that clashes with the torrent outside."
+        "name": "Salão do Cavaleiro",
+        "text": "[action] Se não houver pistas em Salão do Cavaleiro: <b>Investigue.</b> Investigate usando [agility] em vez de [intellect]. Se você tiver sucesso, em vez de descobrir pistas, lembre-se de que vocês \"encontraram a chave da torre.\"",
+        "back_flavor": "As fileiras de pilares de pedra deste salão transmitem calma e serenidade, contrastando com a torrente que cai lá fora."
     },
     {
         "code": "03296",
-        "flavor": "In the water below, you can see the spires of Carcosa. You are almost there - you need only open the gate.",
-        "name": "Chapel of St. Aubert",
-        "subname": "The Path is Open",
-        "text": "You can only discover clues in the Chapel of St. Aubert if you have 3 or fewer remaining sanity.\n[action]: Take up to 3 horror.",
-        "back_flavor": "Waves crash violently upon the rocks. The chapel stands lonely against the rain, barely able to survive the storm’s onslaught.",
-        "back_text": "The way to the Chapel of St. Aubert is hidden. You cannot enter the Chapel of St. Aubert unless you have \"found a guide.\""
+        "flavor": "Nas profundezas abaixo, vocês enxergam os pináculos de Carcosa. Vocês estão quase lá — precisam apenas abrir o portão.",
+        "name": "Capela de St. Aubert",
+        "subname": "O Caminho é Aberto",
+        "text": "Você só pode descobrir pistas na Capela de St. Aubert se você tiver 3 ou menos de sanidade restante.\n[action]: Sofra até 3 de horror.",
+        "back_flavor": "Ondas quebram violentamente contra as pedras.\nA capela resiste solitária contra a chuva, mal consegue sobreviver à investida da tempestade.",
+        "back_text": "O caminho para a Capela de St. Aubert está oculto. Você não pode entrar na Capela de St. Aubert a menos que tenha \"encontrado um guia.\""
     },
     {
         "code": "03297",
@@ -200,12 +200,12 @@
     },
     {
         "code": "03298",
-        "flavor": "In the vortex above, you can see the spires of Carcosa. You are almost there - you need only open the gate.",
-        "name": "Abbey Tower",
-        "subname": "The Path is Open",
-        "text": "You can only discover clues in the Abbey Tower if you have no cards in your hand.\n[action]: Discard up to 3 cards from your hand.",
-        "back_flavor": "Dark lightning crashes throughout the air. Surrounding the top of the tower is a whirlwind of black clouds and bellowing wind.",
-        "back_text": "The door leading up to the Abbey Tower is locked. You cannot enter the Abbey Tower unless you have \"found the tower key.\""
+        "flavor": "No vórtice acima, vocês enxergam os pináculos de Carcosa. Vocês estão quase lá — precisam apenas abrir o portão.",
+        "name": "Torre da Abadia",
+        "subname": "O Caminho é Aberto",
+        "text": "Você só pode descobrir pistas na Torre da Abadia se você não tiver cartas na sua mão.\n[action]: Descarte até 3 cartas da sua mão.",
+        "back_flavor": "Relâmpagos sombrios estalam pelo ar. Envolvendo o topo da torre há um redemoinho de nuvens escuras e vento uivante.",
+        "back_text": "A porta que leva para a Torre da Abadia está trancada. Você não pode entrar na Torre da Abadia a menos que tenha \"encontrado a chave da torre.\""
     },
     {
         "code": "03299",
@@ -217,27 +217,27 @@
     },
     {
         "code": "03300",
-        "flavor": "When the tide is high, they emerge from the sea to feed.",
-        "name": "Tidal Terror",
-        "text": "<b>Spawn</b> - Porte de l'Avancée or Chapel of St. Aubert.\nHunter.",
-        "traits": "Monster."
+        "flavor": "Quando a maré está alta, eles saem do mar para comer.",
+        "name": "Terror Marítimo",
+        "text": "<b>Surgir</b> - Porte de l'Avancée ou Capela de St. Aubert.\nCaçador.",
+        "traits": "Monstro."
     },
     {
         "code": "03301",
-        "name": "Rift Seeker",
-        "text": "<b>Forced</b> - After Rift Seeker attacks you: You must either take 1 additional damage and 1 additional horror, or place 1 doom on each agenda in play.\n[action] Place 1 doom on each agenda in play and take 2 horror: <b>Parley.</b> Discard Rift Seeker.",
-        "traits": "Monster. Byakhee. Cultist."
+        "name": "Buscador da Fenda",
+        "text": "<b>Forçado</b> – Após Buscador da Fenda atacar você: Você deve sofrer 1 de dano adicional e 1 de horror adicional, ou colocar 1 perdição em cada agenda em jogo.\n[action] Coloque 1 perdição em cada agenda em jogo e sofra 2 de horror: <b>Negociata.</b> Descarte Buscador da Fenda.",
+        "traits": "Monstro. Byakhee. Cultista."
     },
     {
         "code": "03302",
-        "name": "Crashing Floods",
-        "text": "<b>Revelation</b> - Test [agility] (3). If you fail:\n- If agenda 1a is in play, take 1 damage and lose 1 action.\n- If agenda 2a is in play, take 2 damage and lose 2 actions.\n- If act 3a or agenda 3a is in play, take 3 damage and lose 3 actions.",
-        "traits": "Omen."
+        "name": "Inundação Devastadora",
+        "text": "<b>Revelação</b> – Teste [agility] (3). Se você falhar:\n- Se a agenda 1a estiver em jogo, sofra 1 de dano e perca 1 ação.\n- Se a agenda 2a estiver em jogo, sofra 2 de dano e perca 2 ações.\n- Se a agenda 3a ou o ato 3a estiver em jogo, sofra 3 de dano e perca 3 ações.",
+        "traits": "Presságio."
     },
     {
         "code": "03303",
-        "name": "Worlds Merge",
-        "text": "<b>Revelation</b> - Test [willpower] (3). If you fail:\n- If agenda 1c is in play, take 1 horror and discard 1 card from your hand.\n- If agenda 2c is in play, take 2 horror and discard 2 cards from your hand.\n- If act 3c or agenda 3c is in play, take 3 horror and discard 3 cards from your hand.",
-        "traits": "Omen."
+        "name": "Mundos Se Misturam",
+        "text": "<b>Revelação</b> - Teste [willpower] (3). Se você falhar:\n- Se a agenda 1c estiver em jogo, sofra 1 de horror e descarte 1 carta da sua mão.\n- Se a agenda 2c estiver em jogo, sofra 2 de horror e descarte 2 cartas da sua mão.\n- Se a agenda 3c ou o ato 3c estiver em jogo, sofra 3 de horror e descarte 3 cartas da sua mão.",
+        "traits": "Presságio."
     }
 ]
