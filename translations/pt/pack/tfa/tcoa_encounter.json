@@ -1,97 +1,100 @@
 [
     {
         "code": "04237",
-        "name": "The City of Archives",
-        "text": "Easy / Standard\n[skull]: -1 (-3 instead if you have 5 or more cards in your hand).\n[cultist] or [elder_thing]: -2. If you fail, place 1 of your clues on your location.\n[tablet]: -3. If you fail, discard 1 random card from your hand.",
-        "back_text": "Hard / Expert\n[skull]: -2 (if you have 5 or more cards in your hand, you automatically fail instead).\n[cultist] or [elder_thing]: -2. Place 1 of your clues on your location.\n[tablet]: -3. For each point you fail by, discard 1 random card from your hand."
+        "name": "A Cidade dos Arquivos",
+        "text": "FÁCIL / MÉDIO\n[skull]: -1 (-3 em vez disso se você tiver 5 ou mais cartas na mão).\n[cultist] ou [elder_thing]: -2. Se você falhar, coloque 1 de suas pistas no seu local.\n[tablet]: -3. Se você falhar, descarte 1 carta aleatoriamente da sua mão.",
+        "back_text": "DIFÍCIL / EXPERIENTE\n[skull]: -2 (se você tiver 5 ou mais cartas na mão, você falha automaticamente em vez disso).\n[cultist] ou [elder_thing]: -2. Coloque 1 de suas pistas no seu local.\n[tablet]: -3. Para cada ponto que você falhar, descarte 1 carta aleatoriamente da sua mão."
     },
     {
         "code": "04238",
-        "flavor": "Somehow you have awoken in a futuristic city, inhabited by odd alien creatures beyond your imagining. You must explore this strange place if you are to find a way out, but your new body is difficult to get used to.",
-        "name": "City of the Great Race",
-        "text": "Investigators cannot put [[Item]] assets into play (including [[Item]] weaknesses).",
-        "back_name": "The Replicator",
-        "back_flavor": "As you traverse these strange halls, you come across a chamber you hadn't noticed before. It is filled with trinkets and items of all kinds from various civilizations. Many of them match the descriptions you have given to the city's inhabitants - descriptions of the equipment you had on your person when you first encountered the creatures. Have they somehow replicated the objects you had with you? You take what you can find and continue exploring.",
-        "back_text": "Each investigator searches the top 9 cards of his or her deck for up to 2 [[Item]] assets and draws them. Shuffle each searched deck. <i>(Note: Investigators are now able to put [[Item]] assets into play.)</i>\nShuffle the encounter discard pile into the encounter deck.\nIf The Custodian is in play and not controlled by an investigator, move it to the location with the most clues on it."
+        "flavor": "De alguma forma, você acordou em uma cidade futurista, habitada por estranhas criaturas alienígenas além da sua imaginação. Você deve explorar este lugar esquisito se quiser encontrar uma saída, mas seu novo corpo é difícil de se acostumar.",
+        "name": "Cidade da Grande Raça",
+        "text": "Os investigadores não podem colocar ativos de <b>Item</b> em jogo (incluindo fraquezas de <b>Item</b>).",
+        "back_name": "O Replicador",
+        "back_flavor": "Ao atravessar esses estranhos corredores, você chega a uma câmara que ainda não havia notado. Ela está cheia de bugigangas e itens de todos os tipos de várias civilizações. Muitos deles correspondem às descrições que você deu aos habitantes da cidade — descrições do equipamento que você tinha consigo quando encontrou as criaturas pela primeira vez. Eles teriam de alguma forma replicado os objetos que você levava? Você pega o que consegue e continua a explorar.",
+        "back_text": "Cada investigador procura até 2 ativos de <b>Item</b> nas 9 cartas do topo do próprio baralho e os compra. Embaralhe cada baralho. (Observação: Os investigadores agora podem colocar ativos de <b>Item</b> em jogo.)\nEmbaralhe a pilha de descarte de encontros no baralho de encontros.\nSe O Custódio estiver em jogo e não estiver sob o controle de um investigador, mova-o para o local com mais pistas."
     },
     {
         "code": "04239",
-        "flavor": "Little by little, the memories of your former life are starting to fade. The most recent events are the first to disappear, but soon you begin to lose your grip on your human identity.",
-        "name": "Lost Memories",
-        "text": "Each investigator's maximum hand size is reduced by 2.",
-        "back_name": "Final Recollection",
-        "back_text": "Shuffle the encounter discard pile into the encounter deck.\nIf The Custodian is in play and not controlled by an investigator, move it to the location with the most clues on it.\n<hr><b>Check your supplies. If an investigator has a pendant, that investigator reads the following:</b>\n<blockquote><i>As you spend more and more time in the alien city, your memories of the past continue to fade. Then, a spark of hope returns to you, and you recall an object you once carried with you, one that brought you comfort when times were tough. You sift through the objects the Yithians replicated from your descriptions, and there you find it: a pendant on a silver chain. As you hold it, your real identity comes flooding back.</i></blockquote>\nEach investigator with a pendant draws 2 cards. For the remainder of the scenario, each investigator with a pendant ignores any effect that would reduce his or her maximum hand size."
+        "flavor": "Aos poucos, as memórias de sua vida anterior estão começando a desaparecer. Os eventos mais recentes são os primeiros a desaparecer, mas logo você começa a se perder de sua identidade humana.",
+        "name": "Memórias Perdidas",
+        "text": "O tamanho máximo da mão de cada investigador é reduzido em 2.",
+        "back_name": "Lembrança Final",
+        "back_text": "Embaralhe a pilha de descarte de encontros no baralho de encontros.\nSe O Custódio estiver em jogo e não estiver sob o controle de um investigador, mova-o para o local com mais pistas.\n<hr><b>Verifique seus suprimentos. Se um investigador tiver um pingente, esse investigador lê o seguinte:</b>\n<blockquote>Quanto mais tempo você passa na cidade alienígena, mais as suas memórias do passado desaparecem. Então, uma fagulha de esperança retorna a você, e você se lembra de um objeto que carregava consigo, um que lhe trouxe conforto nos momentos difíceis. Você procura entre os objetos que os Yithianos replicaram das suas descrições, e lá você o encontra: um pingente em uma corrente de prata. Ao segurá-lo, sua verdadeira identidade volta à tona.</blockquote>\nCada investigador com um pingente compra 2 cartas. Pelo resto do cenário, cada investigador com um pingente ignora qualquer efeito que reduziria o tamanho máximo da própria mão."
     },
     {
         "code": "04240",
-        "flavor": "How long has it been? Days? Weeks?\n\n…Years?",
-        "name": "Humanity Fading",
-        "text": "Each investigator's maximum hand size is reduced by 4.",
-        "back_name": "Alien Existence",
-        "back_flavor": "You forget all that you once were. Your name, and your humanity, are lost. However, the lost city of Pnakotus calls to you, its peaceful halls a treasure trove of knowledge more vast than anything your mind could have comprehended before your arrival here. Your purpose lost in the haze, you live out your days with the Great Race of Yith, until one day...",
-        "back_text": "Each surviving investigator is defeated."
+        "flavor": "Quanto tempo faz? Dias? Semanas?\n\n…Anos?",
+        "name": "A Humanidade se Esvai",
+        "text": "O tamanho máximo da mão de cada investigador é reduzido em 4.",
+        "back_name": "Existência Alienígena",
+        "back_flavor": "Você se esquece de tudo o que você já foi. Seu nome e sua identidade se perdem. No entanto, a cidade perdida de Pnakotus chama você, seus silenciosos salões são um tesouro de conhecimento mais vasto que qualquer coisa que sua mente poderia ter compreendido antes de você chegar aqui. Seu propósito perdido na névoa, você passa seus dias com a Grande Raça de Yith, até que um dia...",
+        "back_text": "Cada investigador sobrevivente é derrotado."
     },
     {
         "code": "04241",
-        "flavor": "Getting out of this strange city might be harder than you thought. Its halls are endless and filled with all manner of complex, futuristic machinery.",
-        "name": "Exploring Pnakotus",
-        "text": "Each copy of Yithian Observer gains aloof.",
-        "back_name": "Finding Your Way",
-        "back_flavor": "You explore the area near your interview chamber for some time, learning more of this city and its dwellers. It is a place of knowledge and research, inhabited by beings who call themselves the Great Race of Yith. For the most part, the Yithians allow you to explore the city without troubling you, though some of them follow you about and observe you with keen interest. As you pass through one of the city's meandering halls, you find a panel attached to the wall. It is a technological device you cannot hope to understand. As you stand in front of it, dumbfounded, one of your observers approaches cautiously. It extends one of its claw-appendages and manipulates the panel in a convoluted manner. To your surprise, the wall in front of you slides open to reveal another series of halls. The creature steps aside to let you pass.",
-        "back_text": "Put each set-aside location into play (Great Library, Laboratory of the Great Race, Yithian Orrery, Deconstuction Room, and Towers of Pnakotus).\nChoose one of those locations at random. Put the set-aside The Custodian asset into play at the randomly chosen location.\n<i>(Note: Each copy of Yithian Observer is no longer aloof.)</i>"
+        "flavor": "Sair desta estranha cidade pode ser mais difícil do que você pensava. Os corredores dela são intermináveis e cheios de todo tipo de maquinário complexo futurista.",
+        "name": "Explorando Pnakotus",
+        "text": "Cada cópia de Observador Yithiano ganha arredio.",
+        "back_name": "Encontrando Seu Caminho",
+        "back_flavor": "Você explora a área perto de sua câmara de entrevistas por algum tempo, aprendendo mais sobre esta cidade e seus habitantes. É um lugar de conhecimento e pesquisa, habitado por seres que se denominam a Grande Raça de Yith. De modo geral, os Yithianos permitem que você explore a cidade sem incomodá-lo, embora alguns deles sigam você e o observem com grande interesse. Passando por um dos corredores sinuosos da cidade, você encontra um painel preso à parede. É um dispositivo tecnológico que você não tem chances de compreender. Você para à frente dele, confuso, até que um de seus observadores se aproxima cuidadosamente. Ele estende um de seus apêndices com garra e manipula o painel de uma forma complicada. Para sua surpresa, a parede à sua frente desliza, se abrindo para revelar outra série de corredores. A criatura se move para o lado para que você passe.",
+        "back_text": "Coloque em jogo cada local separado (Grande Biblioteca, Laboratório da Grande Raça, Planetário Yithiano, Sala de Desconstrução e Torres de Pnakotus).\nEscolha aleatoriamente um desses lugares. Coloque o ativo separado O Custódio em jogo no local escolhido aleatoriamente.\n(Observação: Cada cópia de Observador Yithiano não tem mais arredio.)",
+        "subname": "Ato 1a"
     },
     {
         "code": "04242",
-        "flavor": "You have to find a way back home. Surely if the Yithians can bring you to this place, there must be a way to return…",
-        "name": "Restricted Access",
-        "text": "<b>Objective</b> - If three of the following are true, you must advance:\n- An investigator \"found the process.\"\n- An investigator \"dissected an organ.\"\n- An investigator \"interviewed a subject.\"\n- An investigator \"realized what year it is.\"\n- An investigator \"activated the device.\"\n- An investigator controls The Custodian.",
-        "back_name": "The Process",
-        "back_flavor": "You believe you have discovered the process used by the Yithians to transport you here. But the truth is hard to accept. Your body was never brought to this place. Your mind has been transferred into the body of one of these creatures. Somewhere, in another place - in another time - one of the reviled creatures dwells in your body.",
-        "back_text": "You no longer have to perform any of the following tasks. However, the more you have performed by the time the scenario ends, the easier the transition to your human body will be, and the less likely the process is to fail or backfire. <b>Be careful...</b>\nPlace this act in the victory display with this side faceup, as a reminder.\n- An investigator \"found the process.\"\n- An investigator \"dissected an organ.\"\n- An investigator \"interviewed a subject.\"\n- An investigator \"realized what year it is.\"\n- An investigator \"activated the device.\"\n- An investigator controls The Custodian."
+        "flavor": "Você precisa encontrar um caminho de volta para casa. Se os Yithianos podem trazer você para este lugar, deve haver uma forma de voltar...",
+        "name": "Acesso Restrito",
+        "text": "<b>Objetivo</b> - Se três das condições abaixo forem verdadeiras, você deve avançar:\n- Um investigador \"encontrou o processo\".\n- Um investigador \"dissecou um órgão\".\n- Um investigador \"entrevistou um sujeito\".\n- Um investigador \"descobriu em que ano estamos\".\n- Um investigador \"ativou o dispositivo\".\n- Um investigador controla O Custódio.",
+        "back_name": "O Processo",
+        "back_flavor": "Você acredita ter descoberto o processo usado pelos Yithianos para transportá-lo para cá. Mas é difícil aceitar a verdade. Seu corpo nunca foi trazido para este lugar. Sua mente foi transferida para o corpo de uma dessas criaturas. Em algum outro lugar — em algum outro tempo — uma das odiosas criaturas está habitando o seu corpo.",
+        "back_text": "Você não precisa mais realizar nenhuma das seguintes tarefas. No entanto, quanto mais você tiver realizado no momento em que o cenário acabar, mais fácil será a transição para seu corpo humano, e menor a chance de o processo falhar ou ter efeitos adversos. <b>Tome cuidado...</b>\nColoque este ato no painel de vitórias com este lado para cima, como lembrete.\n- Um investigador \"encontrou o processo\".\n- Um investigador \"dissecou um órgão\".\n- Um investigador \"entrevistou um sujeito\".\n- Um investigador \"descobriu em que ano estamos\".\n- Um investigador \"ativou o dispositivo\".\n- Um investigador controla O Custódio."
     },
     {
         "code": "04243",
-        "flavor": "You have gathered the knowledge necessary to repossess your body, but before you can initiate the process, you must expand your mind.",
-        "name": "Repossession",
-        "text": "Each Yithian Observer gains hunter.\n[action] Spend 1 clue: <b>Draw.</b> Draw 2 cards instead of 1. If your hand exceeds your maximum hand size, draw 1 additional card.\n<b>Objective</b> - If each surviving investigator has 10 or more cards in his or her hand, immediately advance. <i>(Beware - remember to complete as many of the tasks listed on act 2b as you can.)</i>",
-        "back_name": "Back to the Future",
-        "back_flavor": "The machine whirs with intense vibration. It has taken many hours to construct, and you have had to build it in secret, using the knowledge you have gathered from the various areas within the city. It is a strange device of rods, wheels, and glass, about the size of a small filing cabinet. A circular mirror in the center sends your alien reflection staring back at you.\nYou activate the device, and you feel a tugging on your psyche, stretching your consciousness across the aether of space and time. The memories come flooding back.",
-        "back_text": "<b>(→R1)</b>"
+        "flavor": "Você reuniu o conhecimento necessário para recuperar seu corpo, mas antes de iniciar o processo, você deve expandir sua mente.",
+        "name": "Repossessão",
+        "text": "Cada Observador Yithiano ganha <b>caçador</b>.\n[action] Gaste 1 pista: <b>Compre.</b> Compre 2 cartas em vez de 1. Se sua mão exceder seu tamanho máximo de mão, compre 1 carta adicional.\n<b>Objetivo</b> - Se cada investigador sobrevivente tiver 10 ou mais cartas na mão, avance imediatamente. <i>(Cuidado — lembre-se de completar o máximo que puder das tarefas listadas no ato 2b.)</i>",
+        "back_name": "De Volta para o Futuro",
+        "back_flavor": "A máquina zumbe com uma vibração intensa. Levou muitas horas para construí-la, e você teve que fazê-lo em segredo, usando o conhecimento que reuniu de várias áreas da cidade. É um estranho dispositivo de alavancas, rodas e vidro, do tamanho de um pequeno armário. Um espelho circular no centro projeta seu reflexo alienígena olhando para você.\nVocê ativa o dispositivo, e sente um puxão em sua psique, esticando sua consciência através do éter do espaço e do tempo. As memórias retornam como uma enxurrada.",
+        "back_text": "(→R1)"
     },
     {
         "code": "04244",
-        "name": "Body of a Yithian",
-        "subname": "Captive in Another Form",
-        "text": "Each of your [[Ally]] assets gains the [[Yithian]] trait.\n[reaction] After you commit a card to a skill test you are performing: Double the skill icons on that card. (Limit once per test.)\n[elder_sign] effect: +2. Draw 1 card.",
-        "traits": "Monster. Yithian.",
-        "back_flavor": "And then the morbid temptation to look down at myself became greater and greater, till one night I could not resist it. At first my downward glance revealed nothing whatsoever. A moment later I perceived that this was because my head lay at the end of a flexible neck of enormous length. Retracting this neck and gazing down very sharply, I saw the scale, rugose, iridescent bulk of a vast cone ten feet tall and ten feet wide at the base. THat was when I waked half of Arkham with my screaming as I plunged madly up from the abyss of sleep. - H. P. Lovecraft, <u>The Shadow out of Time</u>",
-        "back_text": "<b>Deck Size:</b> What it used to be, when you were human.\n<b>Deckbuilding Options:</b> Yithians can't build decks.\n<b>Deckbuilding Requirements</b>: (do not count toward deck size): Do you remember...?"
+        "name": "Corpo de um Yithiano",
+        "subname": "Prisioneiro em Outra Forma",
+        "text": "Cada um de seus ativos de <b>Aliado</b> ganha a propriedade <b>Yithiano</b>.\n[reaction] Após você comprometer uma carta em um teste de perícia que você está realizando: Dobre os ícones de perícia nessa carta. (Limite de uma vez por teste.)\n[elder_sign] efeito: +2. Compre 1 carta.",
+        "traits": "Monstro. Yithiano.",
+        "back_flavor": "Então a mórbida tentação de olhar para mim tornou-se cada vez maior, até que uma noite eu não pude resistir. A primeira vista, meu olhar para baixo não revelou absolutamente nada. No momento seguinte percebi que isso era porque minha cabeça estava na ponta de um pescoço flexível de enorme comprimento. Retraindo esse pescoço e olhando atentamente para baixo, eu vi a massa escamosa, rugosa, iridescente de um vasto cone de três metros de altura e três metros de largura na base. Foi aí que acordei metade de Arkham com meus gritos enquanto mergulhava loucamente do abismo do sono.\n- H. P. Lovecraft, A Sombra Vinda do Tempo",
+        "back_text": "<b>Tamanho do Baralho:</b> O que costumava ser, quando você era humano.\n<b>Opções de Construção de Baralho:</b> Yithianos não podem construir baralhos.\n<b>Requisitos de Construção de Baralho</b> (não contam para o tamanho do baralho): Você se lembra...?"
     },
     {
         "code": "04245",
-        "flavor": "There were colossal round windows and high arched doors, and pedestals or tables each as tall as the height of an ordinary room. - H. P. Lovecraft, <u>The Shadow out of Time</u>",
-        "name": "Interview Room",
-        "subname": "Arrival Chamber",
-        "text": "[reaction] After you begin your turn in this location, if there is a [[Yithian]] enemy in this location: Draw 1 card.",
-        "traits": "Ancient. Pnakotus.",
-        "back_flavor": "Meanwhile the displaced mind, thrown back to the displacer’s age and body, would be carefully guarded. It would be kept from harming the body it occupied, and would be drained of all its knowledge by trained questioners. - H. P. Lovecraft, <u>The Shadow out of Time</u>"
+        "flavor": "Havia colossais janelas redondas e imensas portas em arco, e pedestais ou mesas tão altas quanto uma sala comum.\n– H. P. Lovecraft, A Sombra Vinda do Tempo",
+        "name": "Sala de Entrevistas",
+        "subname": "Câmara de Chegada",
+        "text": "[reaction] Após você começar seu turno neste local, se houver um inimigo <b>Yithiano</b> neste local: Compre 1 carta.",
+        "traits": "Remoto. Pnakotus.",
+        "back_flavor": "Enquanto isso, a mente deslocada, lançada à era e ao corpo do deslocador, seria cuidadosamente guardada. Ela seria impedida de ferir o corpo que ocupava e seria drenada de todo seu conhecimento por interrogadores treinados.\n– H. P. Lovecraft, A Sombra Vinda do Tempo"
     },
     {
         "code": "04246",
-        "name": "Interview Room",
-        "subname": "Restraining Chamber",
-        "text": "[action]: <b>Parley.</b> Test [intellect] (4) or [combat] (4) to interrogate the captive mind restrained here. If you succeed, remember that you \"interviewed a subject.\" If you fail, take 2 horror.",
-        "traits": "Ancient. Pnakotus.",
-        "back_flavor": "Meanwhile the displaced mind, thrown back to the displacer’s age and body, would be carefully guarded. It would be kept from harming the body it occupied, and would be drained of all its knowledge by trained questioners. - H. P. Lovecraft, <u>The Shadow out of Time</u>"
+        "name": "Sala de Entrevistas",
+        "subname": "Câmara de Imobilização",
+        "text": "[action]: <b>Negociata.</b> Teste [intellect] (4) ou [combat] (4) para interrogar a mente prisioneira imobilizada aqui. Se você tiver sucesso, lembre-se de que você \"entrevistou um sujeito\". Se você falhar, sofra 2 de horror.",
+        "traits": "Local. Pnakotus.",
+        "back_flavor": "Enquanto isso, a mente deslocada, lançada à era e ao corpo do deslocador, seria cuidadosamente guardada. Ela seria impedida de ferir o corpo que ocupava e seria drenada de todo seu conhecimento por interrogadores treinados.\n- H. P. Lovecraft, A Sombra Vinda do Tempo",
+        "back_traits": "Local. Pnakotus."
     },
     {
         "code": "04247",
-        "flavor": "An unidentifiable ooze covers the large table near the center of the chamber. The remains of a failed experiment? Or something far worse?",
-        "name": "Interview Room",
-        "subname": "Ichor-Filled Chamber",
-        "text": "<b>Forced</b> - After you enter this location: Test [willpower] (3). Take 1 horror for each point you fail by.",
-        "traits": "Ancient. Pnakotus.",
-        "back_flavor": "Meanwhile the displaced mind, thrown back to the displacer’s age and body, would be carefully guarded. It would be kept from harming the body it occupied, and would be drained of all its knowledge by trained questioners. - H. P. Lovecraft, <u>The Shadow out of Time</u>"
+        "flavor": "Uma gosma não identificável cobre a grande mesa perto do centro da câmara: Vestígios de um experimento fracassado? Ou algo muito pior?",
+        "name": "Sala de Entrevistas",
+        "subname": "Câmara Cheia de Icor",
+        "text": "<b>Forçado</b> - Após você entrar neste local: Teste [willpower] (3). Sofra 1 de horror para cada ponto que você falhar.",
+        "traits": "Local. Pnakotus.",
+        "back_flavor": "Enquanto isso, a mente deslocada, lançada à era e ao corpo do deslocador, seria cuidadosamente guardada. Ela seria impedida de ferir o corpo que ocupava e seria drenada de todo seu conhecimento por interrogadores treinados.\n- H. P. Lovecraft, A Sombra Vinda do Tempo",
+        "back_traits": "Local. Pnakotus."
     },
     {
         "code": "04248",
@@ -122,96 +125,98 @@
     },
     {
         "code": "04251",
-        "name": "Great Library",
-        "text": "[action] Spend 1 [per_investigator] clues: Test [intellect] (3) to decipher the information you've found. If you succeed, remember that you have \"found the process.\"\n<b>Forced</b> - At the end of the round, if there are fewer than 4 clues on Great Library: Add clues to Great Library until there are 4 clues on it.",
-        "traits": "Ancient. Pnakotus.",
-        "back_flavor": "In its vast libraries were volumes of texts and pictures holding the whole of earth’s annals - histories and descriptions of every species that had ever been or that ever would be, with full records of their arts, their achievements, their languages, and their psychologies. - H. P. Lovecraft, <u>The Shadow out of Time</u>"
+        "name": "Grande Biblioteca",
+        "text": "[action] Gaste 1 [per_investigator] pistas: Teste [intellect] (3) para decifrar a informação que você encontrou. Se você tiver sucesso, lembre-se de que você “encontrou o processo”.\n<b>Forçado</b> - Ao final da rodada, se houver menos de 4 pistas na Grande Biblioteca: Adicione pistas à Grande Biblioteca até que haja 4 pistas nela.",
+        "traits": "Remoto. Pnakotus.",
+        "back_flavor": "Em suas vastas bibliotecas havia volumes de textos e imagens contendo todas as memórias da Terra — histórias e descrições de cada espécie que já havia existido ou viria a existir, com registros completos de suas artes, suas realizações, suas línguas e psicologias.\n- H. P. Lovecraft, A Sombra Vinda do Tempo"
     },
     {
         "code": "04252",
-        "name": "Yithian Orrery",
-        "text": "[action][action] If there are no clues on Yithian Orrery: Remember that you \"realized what year it is.\"\nWhile you are in the Yithian Orrery, increase your maximum hand size by 2.",
-        "traits": "Ancient. Pnakotus.",
-        "back_flavor": "I seemed to talk, in some odd language of claw-clickings, with exiled intellects from every corner of the solar system. There was a mind from the planet we know as Venus, which would live incalculable epochs to come, and one from an outer moon of Jupiter six million years in the past. - H. P. Lovecraft, <u>The Shadow out of Time</u>"
+        "name": "Planetário Yithiano",
+        "text": "Remoto. Pnakotus.\n[action][action] Se não houver pistas no Planetário Yithiano: Lembre-se de que você \"descobriu em que ano estamos\".\nEnquanto você estiver no Planetário Yithiano, aumente em 2 o tamanho máximo da sua mão.",
+        "traits": "Local.",
+        "back_flavor": "Eu parecia falar, em um estranho idioma de estalos de garra, com intelectos exilados de todas as partes do sistema solar. Havia uma mente do planeta que conhecemos como Vênus, que viveria épocas incalculáveis por vir, e outra de uma lua externa de Júpiter, seis milhões de anos no passado.\n– H. P. Lovecraft, A Sombra Vinda do Tempo",
+        "back_traits": "Local."
     },
     {
         "code": "04253",
-        "name": "Laboratory of the Great Race",
-        "text": "[action] If there are no clues on Laboratory of the Great Race: Test [agility] (3) to manipulate the controls on the technological device nearby. If you succeed, remember that you \"activated the device.\" If you fail, place 1 clue on Laboratory of the Great Race <i>(from the token pool)</i>.",
-        "traits": "Ancient. Pnakotus.",
-        "back_flavor": "It had learned all things that ever were known or ever would be known on the earth, through the power of its keener minds to project themselves into the past and future, even through gulfs of millions of years, and study the lore of every age. - H. P. Lovecraft, <u>The Shadow out of Time</u>"
+        "name": "Laboratório da Grande Raça",
+        "text": "[action] Se não houver pistas no Laboratório da Grande Raça: Teste [agility] (3) para manipular os controles do dispositivo tecnológico próximo. Se você tiver sucesso, lembre-se de que você “ativou o dispositivo”. Se você falhar, coloque 1 pista no Laboratório da Grande Raça (da reserva de fichas).",
+        "traits": "Remoto. Pnakotus.",
+        "back_flavor": "Ela havia aprendido tudo que era sabido ou viria a ser sabido na Terra, por meio do poder de suas mentes mais aguçadas de se projetar no passado e no futuro, mesmo através de golfos de milhões de anos, e estudar o conhecimento de cada era.\n– H. P. Lovecraft, A Sombra Vinda do Tempo",
+        "back_traits": "Remoto. Pnakotus."
     },
     {
         "code": "04254",
-        "name": "Deconstruction Room",
-        "text": "[action]: Test [combat] (4) to attempt to retrieve a valuable organ from one of the alien cadavers. This test gets +1 difficulty for each clue on Deconstruction Room. If you succeed, remember that you \"dissected an organ.\"",
-        "traits": "Ancient. Pnakotus.",
-        "back_flavor": "They were only partly material - as we understand matter - and their type of consciousness and media of perception differed wholly from those of terrestrial organisms. - H. P. Lovecraft, <u>The Shadow out of Time</u>"
+        "name": "Sala de Desconstrução",
+        "text": "[action]: Teste [combat] (4) para tentar recuperar um órgão valioso de um dos cadáveres alienígenas. Esse teste recebe +1 de dificuldade para cada pista na Sala de Desconstrução. Se você tiver sucesso, lembre-se de que você “dissecou um órgão”.",
+        "traits": "Remoto. Pnakotus.",
+        "back_flavor": "Eles eram apenas parcialmente materiais — da maneira como compreendemos a matéria — e seus tipos de consciência e meios de percepção eram inteiramente diferentes daqueles dos organismos terrestres.\n– H. P. Lovecraft, A Sombra Vinda do Tempo"
     },
     {
         "code": "04255",
-        "flavor": "The great sandy desert beyond is no escape for you. If you leave, you will never repossess your body.",
-        "name": "Towers of Pnakotus",
-        "text": "[action]: Discard any number of cards from your hand. Shuffle your discard pile into your deck and draw cards equal to 1 more than the number of cards you discarded. (Limit once per turn.)",
-        "traits": "Ancient. Pnakotus.",
-        "back_flavor": "In certain places I beheld enormous dark cylindrical towers which climbed far above any of the other structures. - H. P. Lovecraft, <u>The Shadow out of Time</u>"
+        "flavor": "O grande deserto arenoso além não é uma saída para você. Se você for embora, nunca recuperará seu corpo.",
+        "name": "Torres de Pnakotus",
+        "text": "[action]: Descarte qualquer quantidade de cartas da sua mão. Embaralhe sua pilha de descarte no seu baralho e compre uma quantidade de cartas igual a 1 mais a quantidade de cartas que você descartou. (Limite de uma vez por turno.)",
+        "traits": "Remoto. Pnakotus.",
+        "back_flavor": "Em certos lugares, contemplei enormes torres cilíndricas escuras, que se erguiam muito acima de todas as outras estruturas.\n– H. P. Lovecraft, A Sombra Vinda do Tempo"
     },
     {
         "code": "04256",
-        "name": "The Custodian",
-        "subname": "Curious Yithian",
-        "text": "[reaction] When the investigation phase begins, if you control The Custodian: Each investigator at its location draws 1 card.\n[action] If The Custodian is not controlled by a player: <b>Parley.</b> Test [intellect] (3) to converse with the library custodian. If you succeed, something about its mannerisms seems familiar to you; place 1 of your clues on it. Then, if there are 1 [per_investigator] clues on it, take control of The Custodian.",
-        "traits": "Ally. Yithian."
+        "name": "O Custódio",
+        "subname": "Yithiano Curioso",
+        "text": "[reaction] Quando a fase de investigação começar, se você controlar O Custódio: Cada investigador no local dele compra 1 carta.\n[action] Se O Custódio não estiver sob o controle de um investigador: <b>Negociata.</b> Teste [intellect] (3) para conversar com o custódio da biblioteca. Se você tiver sucesso, algo nos maneirismos dele parece familiar para você; coloque 1 das suas pistas nele. Então, se houver 1 [per_investigator] pistas nele, assuma o controle de O Custódio.",
+        "traits": "Aliado. Yithiano."
     },
     {
         "code": "04257",
-        "name": "Keeper of the Great Library",
-        "text": "<b>Spawn</b> - Great Library.\nAlert. Aloof.\nIf an investigator has \"found the process\" or \"realized what year it is,\" Keeper of the Great Library loses aloof and gains hunter.",
-        "traits": "Monster. Yithian."
+        "name": "Guardião da Grande Biblioteca",
+        "text": "<b>Surgir</b> – Grande Biblioteca.\nAlerta. Arredio.\nSe um investigador \"encontrou o processo\" ou \"descobriu em que ano estamos\", Guardião da Grande Biblioteca perde arredio e ganha caçador.",
+        "traits": "Monstro. Yithiano."
     },
     {
         "code": "04258",
-        "name": "Scientist of Yith",
-        "text": "<b>Spawn</b> - Laboratory of the Great Race.\nAloof.\nIf an investigator has \"activated the device\" or \"dissected an organ,\" Scientist of Yith loses aloof and gains hunter.",
-        "traits": "Monster. Yithian."
+        "name": "Cientista de Yith",
+        "text": "<b>Surgir</b> - Laboratório da Grande Raça.\nArredio.\nSe um investigador \"ativou o dispositivo\" ou \"dissecou um órgão\", Cientista de Yith perde arredio e ganha caçador.",
+        "traits": "Monstro. Yithiano."
     },
     {
         "code": "04259",
-        "name": "Scholar from Yith",
-        "text": "<b>Prey</b> - Most cards in hand.\n<b>Forced</b> - When Scholar from Yith attacks you: Discard 2 random cards from your hand.\n[action] If Scholar from Yith is ready and engaged with you: <b>Parley.</b> Test [intellect] (3) to attempt to pass as a member of the creature's race. If you succeed, draw 1 card and evade Scholar from Yith. If you fail, Scholar from Yith attacks you.",
-        "traits": "Monster. Yithian."
+        "name": "Acadêmico de Yith",
+        "text": "<b>Presa</b> - Mais cartas na mão.\n<b>Forçado</b> - Quando Acadêmico de Yith atacar você: Descarte 2 cartas aleatoriamente da sua mão.\n[action] Se Acadêmico de Yith estiver preparado e engajado com você: <b>Negociata.</b> Teste [intellect] (3) para tentar se passar por um membro da raça da criatura. Se você tiver sucesso, compre 1 carta e evada Acadêmico de Yith. Se você falhar, Acadêmico de Yith ataca você.",
+        "traits": "Monstro. Yithiano."
     },
     {
         "code": "04260",
-        "name": "Yithian Presence",
-        "text": "<b>Revelation</b> - Put Yithian Presence into play in your threat area.\nIf there is a [[Yithian]] enemy at your location, you cannot investigate that location or trigger [action] abilities on encounter cards <i>(including this card).</i>\n[action] Choose and discard 2 cards from your hand: Discard Yithian Presence.",
-        "traits": "Power. Terror."
+        "name": "Presença Yithiana",
+        "text": "<b>Revelação</b> – Coloque Presença Yithiana em jogo na sua área de ameaças.\nSe houver um inimigo <i>Yithiano</i> no seu local, você não pode investigar esse local ou ativar habilidades [action] em cartas de encontro <i>(incluindo esta carta)</i>.\n[action] Escolha e descarte 2 cartas da sua mão: Descarte Presença Yithiana.",
+        "traits": "Poder. Terror."
     },
     {
         "code": "04261",
-        "name": "Cruel Interrogations",
-        "text": "<b>Revelation</b> - Put Cruel Interrogations into play in your threat area. If any investigator has \"interviewed a subject,\" take 1 horror and Cruel Interrogations gains surge.\nYou cannot take draw actions.\n[action]: Test [willpower] (2). If you succeed, discard Cruel Interrogations.",
-        "traits": "Injury. Terror."
+        "name": "Interrogatórios Cruéis",
+        "text": "<b>Revelação</b> – Coloque Interrogatórios Cruéis em jogo na sua área de ameaças. Se um investigador “entrevistou um sujeito”, sofra 1 de horror e Interrogatórios Cruéis ganha ímpeto.\nVocê não pode realizar ações de compra.\n[action]: Teste [willpower] (2). Se você tiver sucesso, descarte Interrogatórios Cruéis.",
+        "traits": "Ferimento. Terror."
     },
     {
         "code": "04262",
-        "flavor": "All memories that could be eradicated were eradicated, so that in most cases only a dream-shadowed blank stretched back to the time of the first exchange. - H. P. Lovecraft, <u>The Shadow out of Time</u>",
-        "name": "Lost Humanity",
-        "text": "<b>Revelation</b> - Test [willpower] (5). For each point you fail by, remove the top card of your deck from the game. If there are less than 10 total cards in your hand, deck and discard pile, you are driven insane.",
+        "flavor": "Todas as memórias que podiam ser erradicadas foram erradicadas, de modo que, na maioria dos casos, apenas um vazio encoberto por sonhos se estendia até o momento da primeira troca.\n- H. P. Lovecraft, A Sombra Vinda do Tempo",
+        "name": "Humanidade Perdida",
+        "text": "<b>Revelação</b> - Teste [willpower] (5). Para cada ponto que você falhar, remova do jogo a carta do topo do seu baralho. Se houver menos de 10 cartas no total na sua mão, baralho e pilha de descarte, você enlouquece.",
         "traits": "Terror."
     },
     {
         "code": "04263",
-        "flavor": "It was not a kidnapping, but an exchange.",
-        "name": "Captive Mind",
-        "text": "<b>Revelation</b> - Test [willpower] (0). Regardless of whether this skill test succeeds or fails, choose and discard all but X cards from your hand. X is your modified skill value for this test.",
-        "traits": "Hex."
+        "flavor": "Não era um sequestro, mas uma troca.",
+        "name": "Mente Prisioneira",
+        "text": "<b>Revelação</b> - Teste [willpower] (0). Independentemente de esse teste de perícia ter sucesso ou falhar, escolha e descarte todas as cartas, exceto X, da sua mão. X é seu valor de perícia modificado nesse teste.",
+        "traits": "Sortilégio."
     },
     {
         "code": "04264",
-        "flavor": "My head was aching, and I had a singular feeling - altogether new to me - that someone else was trying to get possession of my thoughts. - H. P. Lovecraft, <u>The Shadow Out of Time</u>",
-        "name": "Out of Body Experience",
-        "text": "<b>Revelation</b> - Shuffle each card from your hand into your deck and draw an equal number of cards. Shuffle Out of Body Experience into your deck.",
-        "traits": "Madness. Paradox."
+        "flavor": "Minha cabeça doía, e eu tinha uma curiosa sensação — inteiramente nova para mim — de que alguém estava tentando se apossar de meus pensamentos.\n- H. P. Lovecraft, A Sombra Vinda do Tempo",
+        "name": "Experiência Extracorpórea",
+        "text": "<b>Revelação</b> - Embaralhe cada carta da sua mão no seu baralho e compre a mesma quantidade de cartas. Embaralhe Experiência Extracorpórea no seu baralho.",
+        "traits": "Loucura. Paradoxo."
     }
 ]

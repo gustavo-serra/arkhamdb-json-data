@@ -1,151 +1,154 @@
 [
     {
         "code": "04043",
-        "name": "The Untamed Wilds",
-        "text": "Easy / Standard\n[skull]: -X. X is the number of vengeance points in the victory display.\n[cultist]: -X. X is the number of locations in play (max 5).\n[tablet]: -X. X is the number of cards in the exploration deck (max 5).\n[elder_thing]: -2. If you are poisoned, this test automatically fails instead.",
-        "back_text": "Hard / Expert\n[skull]: -X. X is 1 higher than the number of vengeance points in the victory display.\n[cultist]: -X. X is the number of locations in play.\n[tablet]: -X. X is the number of cards in the exploration deck (min 3).\n[elder_thing]: -3. If you are poisoned, this test automatically fails instead. If you are not poisoned and you fail, put a set-aside Poisoned weakness into play in your threat area."
+        "name": "Os Ermos Indômitos",
+        "text": "FÁCIL / MÉDIO\n[skull]: -X. X é o número de pontos de vingança no painel de vitórias.\n[cultist]: -X. X é o número de locais em jogo (máximo de 5).\n[tablet]: -X. X é o número de cartas no baralho de exploração (máximo de 5).\n[elder_thing]: -2. Se você estiver envenenado, este teste falha automaticamente em vez disso.",
+        "back_text": "DIFÍCIL / EXPERIENTE\n[skull]: -X. X é 1 mais o número de pontos de vingança no painel de vitórias.\n[cultist]: -X. X é o número de locais em jogo.\n[tablet]: -X. X é o número de cartas no baralho de exploração (mínimo de 3).\n[elder_thing]: -3. Se você estiver envenenado, este teste falha automaticamente em vez disso. Se você não estiver envenenado e falhar, coloque uma fraqueza separada Envenenado em jogo na sua área de ameaças."
     },
     {
         "code": "04044",
-        "flavor": "Your expedition has ventured far into the rainforests of southern Mexico in search of a forgotten Aztec city-state. What will you find when you head deeper into the untamed jungle?",
-        "name": "Expedition into the Wild",
-        "text": "[action]: <b>Explore.</b> Draw the top card of the exploration deck. If it is a connecting location, put it into play and move to it.",
-        "back_name": "The Serpents Attack!",
-        "back_flavor": "After hours of exploration and futile attempts to map out the wilds, you're convinced something is watching your progress, stalking your every move. The shapes of large serpentine creatures slither in the brush all around you. You try to back away, but the creatures have you completely surrounded, hissing at you from all sides. Suddenly, several shapes emerge from the brush: human-sized creatures with the bodies of serpents and arms wielding spears and jagged knives. The creatures are savage, attacking you fiercely. Somehow, you manage to flee to safety, though the sensation that you are being watched remains. Although you survive the encounter, you are confronted with a stark reality: this place is home to creatures beyond your understanding.",
-        "back_text": "Shuffle the encounter discard pile and the set-aside Agents of Yig encounter set into the encounter deck.\nEach investigator tests [willpower] (3). Each investigator who fails performs the following, in order:\n- If you are poisoned, take 1 damage and 1 horror.\n- If you are not poisoned, put a set-aside Poisoned weakness into play in your threat area."
+        "flavor": "Sua expedição se aventurou nas florestas tropicais do sul do México, buscando uma cidade-estado asteca esquecida. O que você encontrará ao avançar mais fundo na selva?",
+        "name": "Expedição aos Ermos",
+        "text": "[action]: <b>Explore.</b> Compre a carta do topo do baralho de exploração. Se for um local conectado, coloque-o em jogo e mova-se para ele.",
+        "back_name": "As Serpentes Atacam!",
+        "back_flavor": "Após horas de exploração e tentativas em vão de mapear os ermos, você está convencido de que alguma coisa está observando seu progresso, espreitando cada passo seu. As formas de grandes criaturas serpentinas deslizam pela mata à sua volta. Você tenta se afastar, mas as criaturas cercam você completamente, silvando para você de todas as direções. De repente, várias formas emergem da mata: criaturas de tamanho humano, com corpo de serpente e braços empunhando lanças e facas serrilhadas. As criaturas são selvagens, atacando ferozmente. De alguma forma, você consegue fugir para a segurança, embora a sensação de estar sendo observado permaneça. Embora você tenha sobrevivido ao encontro, você é confrontado com uma dura realidade: este lugar é lar de criaturas além da sua compreensão.",
+        "back_text": "Embaralhe a pilha de descarte de encontros e o conjunto de encontros separado Agentes de Yig no baralho de encontros.\nCada investigador testa [willpower] (3). Cada investigador que falhar realiza o seguinte, em ordem:\n- Se você estiver envenenado, sofra 1 de dano e 1 de horror.\n- Se você não estiver envenenado, coloque uma fraqueza separada Envenenado em jogo na sua área de ameaças."
     },
     {
         "code": "04045",
-        "flavor": "What was once excitement has turned to dread. This place is far deadlier than you could have imagined. It is as though the jungle itself wants you out.",
-        "name": "Intruders",
-        "text": "[action]: <b>Explore.</b> Draw the top card of the exploration deck. If it is a connecting location, put it into play and move to it.",
-        "back_name": "Endless Meandering",
-        "back_flavor": "You find yourself in an endless loop, traversing the same path through the jungle over and over again. No matter which direction you walk, the result is the same. It has been hours, perhaps even days. Meanwhile, you can hear the serpent creatures hissing in the trees, mocking you from afar. Out of food and exhausted from lack of sleep, you collapse against a half-rotted tree. Your vision becomes hazy.",
-        "back_text": "Each investigator is defeated. Each investigator who is not poisoned adds a set-aside Poisoned weakness to his or her deck."
+        "flavor": "O que outrora foi entusiasmo se tornou pavor. Este lugar é muito mais letal do que você poderia imaginar. É como se a própria selva quisesse você fora daqui.",
+        "name": "Intrusos",
+        "text": "[action]: <b>Explore.</b> Compre a carta do topo do baralho de exploração. Se for um local conectado, coloque-o em jogo e mova-se para ele.",
+        "back_name": "Volteio Infinito",
+        "back_flavor": "Você se encontra em uma volta sem fim, percorrendo o mesmo caminho pela selva repetidamente. Não importa em que direção você ande, o resultado é o mesmo. Já faz horas, talvez até dias. Enquanto isso, você consegue ouvir as criaturas serpente silvando entre as árvores, zombando de você de longe. Sem comida e exausto com a falta de sono, você desfalece, apoiando-se em uma árvore meio apodrecida. Sua visão fica embaçada.",
+        "back_text": "Cada investigador é derrotado. Cada investigador que não está envenenado adiciona uma fraqueza separada Envenenado ao próprio baralho."
     },
     {
         "code": "04046",
-        "flavor": "Today, you depart from your camp in order to find the ruins Alejandro seeks. That is, if they even exist…",
-        "name": "Exploring the Rainforest",
-        "text": "<b>Objective</b> - When the round ends, investigators at any non-[[Campsite]] locations may spend the requisite number of clues, as a group, to advance.",
-        "back_name": "The Natives",
-        "back_flavor": "As you explore the dense jungle, you are suddenly confronted by several natives. At first glance, they appear to be warriors of an Aztec city-state: perhaps even the one you seek. But how could they have survived undiscovered for this long?\nEven with Alejandro's notes, you are barely able to translate what the warriors say, only that they call you \"intruder\" and implore you to leave the jungle at once. You try to explain that you are searching for the \"Eztli,\" which causes them to murmur and debate among themselves. Finally, one of them speaks to you in rudimentary Spanish. \"Ichtaca will know what to do with you, intruder.\" He blows on a decorated clay ocarina, producing a shrill note that echoes throughout the jungle. The warriors depart as suddenly as they arrived.",
-        "back_text": "Put the set-aside Ichtaca enemy into play at the lead investigator's location.\nShuffle the encounter discard pile into the encounter deck."
+        "flavor": "Hoje você parte de seu acampamento para encontrar as ruínas que Alejandro busca. Se é que elas existem...",
+        "name": "Explorando a Floresta Tropical",
+        "text": "<b>Objetivo</b> - Quando a rodada terminar, os investigadores em locais não <b>Acampamento</b> podem gastar o número necessário de pistas, em grupo, para avançar.",
+        "back_name": "Os Nativos",
+        "back_flavor": "Explorando a densa selva, você de repente se depara com diversos nativos. À primeira vista, parecem ser guerreiros de uma cidade-estado asteca: talvez até mesmo a que você está buscando. Mas como eles podem ter sobrevivido por tanto tempo sem serem descobertos?\nMesmo com as notas de Alejandro, você mal consegue traduzir o que os guerreiros dizem, apenas que chamam você de \"intruso\" e imploram para que você deixe a floresta imediatamente. Você tenta explicar que está procurando \"Eztli\", o que faz com que eles murmurem e discutam entre si. Por fim, um deles fala com você em um espanhol rudimentar. \"Ichtaca saberá o que fazer com você, intruso.\" Ele sopra uma ocarina de argila decorada, produzindo uma nota estridente que ecoa pela selva.\nOs guerreiros partem tão repentinamente quanto apareceram.",
+        "back_text": "Coloque o inimigo separado Ichtaca em jogo no local do investigador líder.\nEmbaralhe a pilha de descarte de encontros no baralho de encontros."
     },
     {
         "code": "04047",
-        "flavor": "\"I don't trust them,\" Alejandro says as soon as the natives are out of earshot. \"They mean to kill us, not aid us. If you think this 'Ichtaca' is going to help us find the ruins, be my guest. But I refuse to follow where she leads.\" You can feel the discomfort and confusion in Alejandro's voice. You can attempt to speak with Ichtaca, or you can take Alejandro's advice and fight your way to the ruins you seek.",
-        "name": "Huntress of the Eztli",
-        "text": "<b>Objective</b> - If Ichtaca is defeated, advance.\n<b>Objective</b> - If there are 1 [per_investigator] clues on Ichtaca, place her in the victory display and advance.",
-        "back_name": "Ichtaca's Response",
-        "back_text": "<b>If Ichtaca has 1 [per_investigator] clues on her:</b>\n<blockquote><i>\"Interesting. You are not simply here to shed blood,\" Ichtaca says with a spark of wonder in her voice, and you are stunned to hear her speaking in perfect English.</i></blockquote>\nRemember that \"Ichtaca is leading the way.\" Add 1 [cultist] token to the chaos bag for the remainder of the campaign.\nShuffle the 3 set-aside [[Ruins]] locations into the exploration deck and advance to Act 3 - \"Search for the Ruins.\"\n<b><hr>If you defeated Ichtaca:</b>\n<blockquote><i>\"Fools!\" Ichtaca shouts to you with a pained voice. \"You do not understand the forces you are meddling with. If you truly wish to die, you will find the temple over the river to the south.\"</i></blockquote>\nRemember that \"you fought with Ichtaca.\" Choose an investigator to take control of the set-aside Alejandro Vela asset. Add 1 [tablet] token to the chaos bag for the remainder of the campaign.\nShuffle the 3 set-aside [[Ruins]] locations into the exploration deck and advance to Act 3a - \"The Guarded Ruins.\""
+        "flavor": "\"Não confio neles\", Alejandro diz assim que os nativos estão longe demais para ouvir. \"Eles querem nos matar, não nos ajudar. Se você acha que essa 'Ichtaca' vai nos ajudar a encontrar as ruínas, fique à vontade. Mas eu me recuso a segui-la.\" Você sente o desconforto e a confusão na voz de Alejandro. Você pode tentar falar com Ichtaca, ou pode seguir o conselho de Alejandro e lutar para chegar até as ruínas que você busca.",
+        "name": "Caçadora de Eztli",
+        "text": "<b>Objetivo</b> - Se Ichtaca for derrotada, avance.\n<b>Objetivo</b> - Se houver 1 [per_investigator] pistas em Ichtaca, coloque-a no painel de vitórias e avance.",
+        "back_name": "A Resposta de Ichtaca",
+        "back_text": "<b>Se houver 1 [per_investigator] pistas em Ichtaca:</b>\n<blockquote><i>\"Interessante. Você não está aqui simplesmente para derramar sangue\", Ichtaca diz com um traço de admiração na voz, e você se surpreende ao ouvi-la falar em inglês perfeito.</i></blockquote>\nLembre-se de que \"Ichtaca está conduzindo vocês\". Adicione 1 [cultist] ficha à bolsa de caos pelo resto da campanha.\nEmbaralhe os 3 locais separados de <b>Ruínas</b> no baralho de exploração e avance para o Ato 3a — \"Busca pelas Ruínas\".\n<hr>\n<b>Se você derrotou Ichtaca:</b>\n<blockquote><i>\"Tolos!\" Ichtaca grita para você, a dor se mostrando em sua voz. \"Vocês não entendem as forças com que estão se metendo. Se querem mesmo morrer, encontrarão o templo cruzando o rio para o sul.\"</i></blockquote>\nLembre-se de que \"vocês lutaram contra Ichtaca\". Escolha um investigador para assumir o controle do ativo separado Alejandro Vela. Adicione 1 [tablet] ficha à bolsa de caos pelo resto da campanha.\nEmbaralhe os 3 locais separados de <b>Ruínas</b> no baralho de exploração e avance para o Ato 3a — \"As Ruínas Vigiadas\".",
+        "subname": "Ato 2a"
     },
     {
         "code": "04048",
-        "flavor": "\"If I cannot dissuade you, so be it. Follow me, and I will lead you to the place you seek. But heed my warning: Disturb the ruins at your own risk. They have remained hidden for a reason.\" Alejandro warily keeps a safe distance from Ichtaca as she shows you the way.",
-        "name": "Search for the Ruins",
-        "text": "Each Eztli Guardian enemy cannot attack or be attacked. Ignore the effects of each Arrows from the Trees treachery.\n<b>Objective</b> - Only investigators at the Ruins of Eztli can spend the requisite number of clues, as a group, to advance.",
-        "back_name": "Discovery of a Lifetime",
-        "back_flavor": "What you have found is beyond your wildest expectations. Despite their supposed age, the ruins appear preserved in time. Several aspects of the architecture are strangely futuristic. You set out to investigate at once.",
-        "back_text": "<b>(→R1)</b>"
+        "flavor": "\"Se não posso dissuadi-los, que assim seja. Sigam-me, e conduzirei vocês ao lugar que procuram. Mas ouçam o meu aviso: Vocês estão se arriscando, perturbando as ruínas. Elas permaneceram escondidas por uma razão.\" Alejandro, suspeitando, mantém uma distância segura de Ichtaca enquanto ela mostra o caminho.",
+        "name": "Busca pelas Ruínas",
+        "text": "Cada inimigo Guardião de Eztli não pode atacar nem ser atacado. Ignore os efeitos de cada traição Flechas Vindas das Árvores.\n<b>Objetivo</b> - Apenas os investigadores nas Ruínas de Eztli podem gastar o número necessário de pistas, em grupo, para avançar.",
+        "back_name": "Descoberta de Uma Vida",
+        "back_flavor": "O que você encontrou vai muito além das suas expectativas. Apesar da suposta idade, as ruínas parecem preservadas no tempo. Vários aspectos da arquitetura são estranhamente futuristas. Você parte para investigar imediatamente.",
+        "back_text": "(→R1)"
     },
     {
         "code": "04049",
-        "flavor": "Ichtaca swiftly retreats, and Alejandro places a hand on your shoulder. \"Thank you for taking my advice,\" he says, relieved. \"Now that she's gone, I'll take point from now on. I know the river she speaks of. Come, follow me!\"",
-        "name": "The Guarded Ruins",
-        "text": "Each Eztli Guardian enemy gets +1 fight and +1 evade. Each Arrows from the Trees treachery gains surge.\n<b>Objective</b> - Only investigators at the Ruins of Eztli can spend the requisite number of clues, as a group, to advance.",
-        "back_name": "Discovery of a Lifetime",
-        "back_flavor": "What you have found is beyond your wildest expectations. Despite their supposed age, the ruins appear preserved in time. Several aspects of the architecture are strangely futuristic. You set out to investigate at once.",
-        "back_text": "<b>(→R2)</b>"
+        "flavor": "Ichtaca se retira rapidamente, e Alejandro coloca uma mão no seu ombro. \"Obrigado por seguir meu conselho\", ele diz, aliviado. \"Agora que ela foi embora, eu lidero a partir daqui. Sei de que rio ela está falando. Venham, sigam-me!\"",
+        "name": "As Ruínas Vigiadas",
+        "text": "Cada inimigo Guardião de Eztli ganha +1 de luta e +1 de evasão. Cada traição Flechas Vindas das Árvores ganha ímpeto.\n<b>Objetivo</b> - Apenas os investigadores nas Ruínas de Eztli podem gastar o número necessário de pistas, em grupo, para avançar.",
+        "back_name": "Descoberta de Uma Vida",
+        "back_flavor": "O que você encontrou vai muito além das suas expectativas. Apesar da suposta idade, as ruínas parecem preservadas no tempo. Vários aspectos da arquitetura são estranhamente futuristas. Você parte para investigar imediatamente.",
+        "back_text": "(→R2)"
     },
     {
         "code": "04050",
-        "flavor": "The expedition has staked its claim on the jungle, and the jungle doesn't seem too happy about it.",
-        "name": "Expedition Camp",
-        "text": "[action]: <b>Resign.</b> The wilds are too dangerous!\n[action]: Check your supplies. If you have a map, look at the top 3 cards of the exploration deck. Place 1 on the bottom and the other 2 on top, in any order.",
-        "traits": "Campsite. Jungle.",
-        "back_flavor": "The camp is abuzz with both excitement and dread. Some members of the expedition are setting up additional canvas tents for supplies, while others are huddled around an incomplete map of the northern edge of the rainforest."
+        "flavor": "A expedição tomou seu lugar na selva, e a selva não parece nada feliz com isso.",
+        "name": "Acampamento da Expedição",
+        "text": "[action]: <b>Renuncie.</b> A mata é perigosa demais!\n[action]: Verifique seus suprimentos. Se você tiver um mapa, olhe as 3 cartas do topo do baralho de exploração. Coloque 1 no fundo e as outras 2 no topo, em qualquer ordem.",
+        "traits": "Acampamento. Selva.",
+        "back_flavor": "O acampamento está cheio de agitação e pavor. Alguns membros da expedição estão montando barracas adicionais para suprimentos, enquanto outros estão aglomerados em volta de um mapa incompleto do extremo norte da floresta.",
+        "back_traits": "Acampamento. Selva."
     },
     {
         "code": "04051",
         "name": "Alejandro Vela",
-        "subname": "Renowned Historian",
-        "text": "You get +1 skill value while investigating an [[Ancient]] location.\n[action] If you are at an [[Ancient]] location, exhaust Alejandro Vela: Draw 2 cards.",
-        "traits": "Ally. Wayfarer.",
+        "subname": "Renomado Historiador",
+        "text": "Você recebe +1 de valor de perícia ao investigar em um local <b>Remoto</b>.\n[action] Se você estiver em um local <b>Remoto</b>, esgote Alejandro Vela: Compre 2 cartas.",
+        "traits": "Aliado. Viajante.",
         "slot": "Ally"
     },
     {
         "code": "04052",
         "name": "Ichtaca",
-        "subname": "Keeper of the Eztli",
-        "text": "Alert. Retaliate.\n[action]: <b>Parley.</b> Test [intellect] (4) to convince Ichtaca you are not her enemy. If you succeed, place 1 clue on her. If you fail and Ichtaca is ready, she attacks you.",
-        "traits": "Humanoid. Eztli. Elite."
+        "subname": "Guardiã de Eztli",
+        "text": "Alerta. Retaliação.\n[action]: <b>Negociata.</b> Teste [intellect] (4) para convencer Ichtaca de que você não é inimigo dela. Se você tiver sucesso, coloque 1 pista (da reserva de fichas) nela. Se você falhar e Ichtaca estiver preparada, ela ataca você.",
+        "traits": "Humanoide. Eztli. Elite."
     },
     {
         "code": "04053",
-        "flavor": "Serpent statues carved from limestone surround the central temple, glaring at you ominously from afar.",
-        "name": "Ruins of Eztli",
-        "text": "<b>Forced</b> - After you fail a skill test while investigating Ruins of Eztli: Draw the top card of the encounter deck.",
-        "traits": "Ancient. Ruins."
+        "flavor": "Estátuas de serpente esculpidas em calcário cercam o templo central, olhando para você ameaçadoramente de longe.",
+        "name": "Ruínas de Eztli",
+        "text": "<b>Forçado</b> - Após você falhar em um teste de perícia enquanto estiver investigando as Ruínas de Eztli: Compre a carta do topo do baralho de encontros.",
+        "traits": "Remoto. Ruínas."
     },
     {
         "code": "04054",
-        "name": "The Doom of Eztli",
-        "text": "Easy / Standard\n[skull]: -1 (-3 instead if there is doom on your location).\n[cultist] [tablet]: -X. X is the number of locations with doom on them.\n[elder_thing]: Reveal another chaos token. If you fail, place 1 doom on your location.",
-        "back_text": "Hard / Expert\n[skull]: -2 (-4 instead if there is doom on your location).\n[cultist] [tablet]: -X. X is the total amount of doom on locations in play.\n[elder_thing]: Reveal another chaos token. Place 1 doom on your location."
+        "name": "A Perdição de Eztli",
+        "text": "FÁCIL / MÉDIO\n[skull]: -1 (-3 em vez disso se houver perdição em seu local).\n[cultist] [tablet]: -X. X é o número de locais com perdição sobre eles.\n[elder_thing]: Revele outra ficha de caos. Se você falhar, coloque 1 perdição no seu local.",
+        "back_text": "DIFÍCIL / EXPERIENTE\n[skull]: -2 (-4 em vez disso se houver perdição em seu local).\n[cultist] [tablet]: -X. X é o número total de perdição nos locais em jogo.\n[elder_thing]: Revele outra ficha de caos. Coloque 1 perdição no seu local."
     },
     {
         "code": "04055",
-        "flavor": "Despite Ichtaca's warnings, you've entered the ruins of the temple in search of ancient knowledge and artifacts.",
-        "name": "Something Stirs…",
-        "text": "*This agenda gets +1 [per_investigator] doom threshold.\n<b>Forced</b> - When this agenda advances: Do not remove doom from each location in play.",
-        "back_name": "The Ruins Awaken",
-        "back_flavor": "Just then, a sound thrums in the walls of the temple, a dull humming similar to that of a generator. Grooves in the walls and the ceiling flicker and start to glow. It is as though the temple is alive, and it senses your presence. The strange statues and carvings you've seen, coupled with the dim glow and the power coursing through the walls, makes it clear that this temple isn't Aztec in origin. In fact, it appears to be from an even older, more ancient civilization altogether. You feel as though you are an intruder in a world you cannot begin to understand. Confirming your worst fears, a loud hiss and rattling echoes throughout the temple. Whatever you just woke up, it's not happy to see you.",
-        "back_text": "Spawn the set-aside Harbinger of Valusia at the location with the most doom."
+        "flavor": "Apesar dos avisos de Ichtaca, você entrou nas ruínas do templo, buscando conhecimento e artefatos antigos.",
+        "name": "Algo se Agita...",
+        "text": "*Esta agenda recebe +1 [per_investigator] no limiar de perdição.\n<b>Forçado</b> - Quando esta agenda avançar: Não remova perdição dos locais em jogo.",
+        "back_name": "As Ruínas Despertam",
+        "back_flavor": "Nesse momento, um som vibra pelas paredes do templo, um zumbido abafado semelhante ao de um gerador. Relevos nas paredes e no teto cintilam e começam a brilhar. É como se o templo estivesse vivo, sentindo sua presença. As estranhas estátuas e entalhes que você viu, junto ao brilho fraco e a energia correndo pelas paredes, deixam claro que a origem deste templo não é asteca. Na verdade, parece ser de uma civilização ainda mais antiga, mais remota. Você se sente como um intruso em um mundo do qual não entende nada. Confirmando seus maiores medos, um silvo e um chocalho altos ecoam pelo templo. O que quer que você tenha despertado não está feliz em vê-lo.",
+        "back_text": "Faça surgir o inimigo separado Arauto de Valusia no local com mais perdição."
     },
     {
         "code": "04056",
-        "flavor": "The serpent creature emerges from the shadows with terrifying speed. It is bedecked in ornate gold feathers, and it wields a golden spear, the blade tip unravaged by time. The rattle at the end of the creature's tail produces a tremendous noise as the creature hunts you throughout the ruins.",
-        "name": "The Temple Warden",
-        "text": "*This agenda gets +1 [per_investigator] doom threshold.",
-        "back_name": "Catastrophic Ruin",
-        "back_flavor": "The ruins groan and shake with anger. You are not wanted here. The walls and ceiling shift erratically, blocking off corridors and attempting to prevent your escape. Grooves in the stone are now glowing a vibrant red hue. A sinister hiss follows you throughout the temple. The realization dawns on you that you are not making it out of this place alive…",
-        "back_text": "Each investigator who has not resigned is defeated."
+        "flavor": "A criatura serpente emerge das sombras com uma velocidade assustadora. Ela é ornada de penas áureas e empunha uma lança dourada, a ponta intocada pelo tempo. O chocalho na ponta da cauda da criatura produz um tremendo barulho enquanto ela caça você pelas ruínas.",
+        "name": "O Guardião do Templo",
+        "text": "*Esta agenda recebe +1 [per_investigator] no limiar de perdição.",
+        "back_name": "Ruína Catastrófica",
+        "back_flavor": "As ruínas rangem e se agitam com raiva. Você não é bem-vindo aqui. As paredes e o teto se movem de forma errática, bloqueando corredores e tentando impedir você de escapar. Os relevos na pedra agora brilham em um tom vermelho vibrante. Um silvo sinistro o persegue pelo templo. Você se dá conta de que não sairá vivo deste lugar...",
+        "back_text": "Todos os investigadores que não renunciaram são derrotados."
     },
     {
         "code": "04057",
-        "flavor": "After your hellish journey through the jungle, the quiet solitude of the temple ruins sows paranoia in your mind. Serpent eyes glare at you from the darkness. Every drop of water and fallen pebble causes you to whirl about in search of danger… But the real danger is yet to come.",
-        "name": "Into the Ruins",
-        "text": "[action]: <b>Explore.</b> Draw the top card of the exploration deck. If it is a connecting location, put it into play and move to it.",
-        "back_name": "Hidden Corridors",
-        "back_flavor": "The ruins are far more vast than even Alejandro had anticipated. Carvings in the walls and hieroglyphs etched into stone altars suggest the existence of a central chamber underground. Perhaps a hidden passageway will show you the way to this chamber - the very heart of the temple ruins.",
-        "back_text": "Shuffle the set-aside Chamber of Time location into the exploration deck.\n<blockquote><i>As you pass the strange glyphs in the walls, the ruins groan and creak in protest, and the carvings glow ominously. Years of deterioration have faded the pattern of these glyphs, and the surrounding stones seep with a venomous pus. If only you had some way to restore these glyphs…</i></blockquote>\nCheck your supplies. If any investigator has chalk, remove this act from the game. Otherwise, place this act in the victory display. It gains <b>Vengeance 1</b>."
+        "flavor": "Após sua jornada infernal pela selva, a solidão silenciosa das ruínas do templo o deixa paranoico. Olhos de serpente encaram você da escuridão. Cada gota de água e cada pedrinha o deixam alerta... mas o verdadeiro perigo ainda está por vir.",
+        "name": "Entrando nas Ruínas",
+        "text": "[action]: <b>Explore.</b> Compre a carta do topo do baralho de exploração. Se for um local conectado, coloque-o em jogo e mova-se para ele.",
+        "back_name": "Corredores Ocultos",
+        "back_flavor": "As ruínas são muito mais vastas do que Alejandro previa. Entalhes nas paredes e hieróglifos gravados em altares de pedra sugerem a existência de uma câmara central no subterrâneo. Talvez uma passagem secreta mostrará a você o caminho para essa câmara — o coração das ruínas do templo.",
+        "back_text": "Embaralhe o local separado Câmara do Tempo no baralho de exploração.\n\nAo passar pelos estranhos glifos nas paredes, as ruínas rangem e chiam em protesto e os entalhes emitem um brilho sinistro. Um pus viscoso vaza das pedras ao redor, e anos de deterioração apagaram o padrão dos glifos. Se houvesse alguma forma de restaurá-los...\n\nVerifique seus suprimentos. Se algum investigador tiver giz, remova este ato do jogo. Caso contrário, coloque este ato no painel de vitórias. Ele ganha <b>Vingança 1</b>."
     },
     {
         "code": "04058",
-        "flavor": "Whatever is inside this central chamber must be very important; much care was taken to obscure its location.",
-        "name": "Magic and Science",
-        "text": "[action]: <b>Explore.</b> Draw the top card of the exploration deck. If it is a connecting location, put it into play and move to it.\n<b>Objective</b> - Only investigators in the Chamber of Time may spend the requisite number of clues, as a group, to advance.",
-        "back_name": "The Relic",
-        "back_flavor": "The relic hums with power and throbs in your hands. Energy from the device seeps into the corridors of the ruins, and the structure of the temple shifts.",
-        "back_text": "Choose an investigator in the Chamber of Time to take control of the Relic of Ages.\nMove the placement of each location to form a straight line, with the Chamber of Time on the left and the Entryway on the right. Each other location is placed from left to right in between these two locations, in order of how much doom is on them, from lowest to highest <i>(in the event of a tie, you may decide the order)</i>.\nUntil the end of the scenario, ignore all location connections. Instead, each location is connected to each location to its left and right."
+        "flavor": "O que quer que esteja dentro desta Câmara central deve ser muito importante, sua localização foi ocultada de maneira cuidadosa.",
+        "name": "Magia e Ciência",
+        "text": "[action]: <b>Explore.</b> Compre a carta do topo do baralho de exploração. Se for um local conectado, coloque-o em jogo e mova-se para ele.\n<b>Objetivo</b> - Apenas os investigadores na Câmara do Tempo podem gastar o número necessário de pistas, em grupo, para avançar.",
+        "back_name": "A Relíquia",
+        "back_flavor": "A relíquia zumbe de poder e vibra nas suas mãos. A energia do dispositivo flui para os corredores das ruínas e a estrutura do templo se altera.",
+        "back_text": "Escolha um investigador na Câmara do Tempo para assumir o controle da Relíquia das Eras.\nMude o posicionamento de cada local para formar uma linha reta, com a Câmara do Tempo na esquerda e a Entrada na direita. Posicione cada outro local, da esquerda para a direita, entre esses dois locais, em ordem de quanta perdição há sobre eles, da menor quantidade à maior <i>(em caso de empate, você pode escolher a ordem)</i>.\nAté o fim do cenário, ignore todas as conexões entre locais. Em vez disso, cada local está conectado a cada local à esquerda e à direita dele."
     },
     {
         "code": "04059",
-        "flavor": "The ruins are shuddering with a tremendous power. You fear that the structure may collapse if this keeps up. You have to escape with the relic!",
-        "name": "Escape the Ruins",
-        "text": "While there are 3 or more vengeance points in the victory display, each [[Serpent]] enemy gets +1 evade.\n<b>Objective</b> - If each undefeated investigator has resigned, advance.",
-        "back_name": "Avoiding Doom",
-        "back_flavor": "As soon as you cross the threshold of the entryway, something inside the temple begins to change…",
-        "back_text": "<b>If an investigator resigned with the Relic of Ages under his or her control:</b>\n<blockquote><i>The floor of the temple stops shaking, and the dull humming in the walls goes quiet. Without the relic in its chamber, the ruins appear to be sleeping once more. You still have no idea what the object is or what its purpose may be, but you dare not tarry any longer to find out.</i></blockquote>\n<b>(→R1)</b>\n<hr><b>Otherwise:</b>\n<blockquote><i>For a moment, the temple continues to shudder, the architecture twisting and contorting strangely. Pleased that it is once again whole, the temple then returns to its dormant state.</i></blockquote>\n<b>(→R3)</b>"
+        "flavor": "As ruínas tremem com um enorme poder. Você teme que a estrutura possa desabar se isso continuar. Você precisa escapar com a relíquia!",
+        "name": "Fuga das Ruínas",
+        "text": "Enquanto houver 3 ou mais pontos de vingança no painel de vitórias, cada inimigo <b>Serpente</b> recebe +1 de evasão.\n<b>Objetivo</b> - Se todos os investigadores não derrotados renunciaram, avance.",
+        "back_name": "Evitando a Perdição",
+        "back_flavor": "Assim que você cruza o limiar da entrada, algo dentro do templo começa a mudar...",
+        "back_text": "<b>Se um investigador renunciou com a Relíquia das Eras sob seu controle:</b>\nO chão do templo para de chacoalhar e o zumbido abafado nas paredes silencia. Sem a relíquia na câmara, as ruínas parecem ter adormecido novamente. Você ainda não tem ideia do que o objeto é ou qual seria seu propósito, mas não se atreve a se demorar mais para descobrir.\n(→R1)\n<hr><b>Caso contrário:</b>\nPor um momento, o templo continua a tremer, a arquitetura dobrando-se e contorcendo-se de forma estranha. Satisfeito de estar inteiro novamente, o templo retorna a seu estado dormente.\n(→R3)"
     },
     {
         "code": "04060",
-        "flavor": "Many hundreds of years ago, this temple might have been a bastion of beauty and reverence in this perilous jungle.",
-        "name": "Entryway",
-        "text": "[action]: <b>Resign.</b> You've escaped… for now.\n[action]: Check your supplies. If you have torches, look at the top 2 cards of the exploration deck. Discard each treachery looked at by this effect. Shuffle the exploration deck.",
-        "traits": "Ancient. Ruins.",
-        "back_flavor": "The sun sets over the temple ruins, bathing the stone in warm light. The sounds of the rainforest are distant by the time you cross underneath the painted entryway. Inside, the halls are plunged into darkness."
+        "flavor": "Muitos séculos atrás, este templo talvez tenha sido um bastião de beleza e reverência nesta perigosa selva.",
+        "name": "Entrada",
+        "text": "[action]: <b>Renuncie.</b> Você escapou... por enquanto.\n[action]: Verifique seus suprimentos. Se você tiver tochas, olhe as 2 cartas do topo do baralho de exploração. Descarte cada traição que você olhar com este efeito. Embaralhe o baralho de exploração.",
+        "traits": "Remoto. Ruínas.",
+        "back_flavor": "O sol se põe sobre as ruínas do templo, banhando as pedras com luz quente. Os sons da floresta tropical já estão distantes no momento em que você cruza a entrada pintada. Do lado de dentro, os corredores estão mergulhados na escuridão.",
+        "back_traits": "Remoto. Ruínas."
     },
     {
         "code": "04061",
@@ -156,267 +159,267 @@
     },
     {
         "code": "04062",
-        "name": "Harbinger of Valusia",
-        "subname": "The Sleeper Awakens",
-        "text": "Alert. Hunter. Retaliate.\nHarbinger of Valusia can retaliate while exhausted.\n<b>Forced</b> - After Harbinger of Valusia is successfully attacked or evaded: Place 1 resource on it. Then, if there are 2 [per_investigator] resources on it, it vanishes with a sinister hiss. (Set it aside, out of play. It keeps all damage tokens.)",
-        "traits": "Humanoid. Monster. Serpent. Elite."
+        "name": "Arauto de Valusia",
+        "subname": "O Adormecido Acorda",
+        "text": "Alerta. Caçador. Retaliação.\nArauto de Valusia pode retaliar enquanto estiver esgotado.\n<b>Forçado</b> - Após Arauto de Valusia ser atacado ou evadido com sucesso: Coloque 1 recurso nele. Então, se houver 2 [per_investigator] recursos nele, ele desaparece com um silvo sinistro. (Separe-o fora de jogo. Ele mantém todas as fichas de dano.)",
+        "traits": "Humanoide. Monstro. Serpente. Elite."
     },
     {
         "code": "04063",
-        "flavor": "A hall of crumbling stone looms before you, daring you to venture deeper into the ruins.",
-        "name": "Ancient Hall",
-        "text": "<b>Forced</b> - At the end of the round: Flip 1 of the clues on Ancient Hall to its doom side. Any investigator at Ancient Hall may spend 3 resources to cancel this effect.",
-        "traits": "Ancient. Ruins."
+        "flavor": "Um salão de pedra em ruínas ergue-se diante de você, desafiando-o a entrar mais fundo nas ruínas.",
+        "name": "Salão Ancestral",
+        "text": "<b>Forçado</b> - Ao final da rodada: Vire 1 das pistas no Salão Ancestral para o lado de perdição. Qualquer investigador no Salão Ancestral pode gastar 3 recursos para cancelar este efeito.",
+        "traits": "Remoto. Ruínas."
     },
     {
         "code": "04064",
-        "flavor": "The ornate dais in the center of this chamber is covered in detailed hand-carved hieroglyphs. A site for ancient gatherings or rituals, perhaps?",
-        "name": "Grand Chamber",
-        "text": "<b>Forced</b> - When you investigate Grand Chamber and do not succeed by at least 2: Before resolving any other effects from this skill test, flip 1 of the clues on Grand Chamber to its doom side.",
-        "traits": "Ancient. Ruins."
+        "flavor": "A plataforma decorada no centro da câmara é coberta de hieróglifos detalhados, gravados à mão. Um local para reuniões ou rituais ancestrais, talvez?",
+        "name": "Câmara Principal",
+        "text": "<b>Forçado</b> - Quando você investigar a Câmara Principal e não tiver sucesso por pelo menos 2: Antes de resolver quaisquer outros efeitos deste teste de perícia, vire 1 das pistas na Câmara Principal para o lado de perdição.",
+        "traits": "Remoto. Ruínas."
     },
     {
         "code": "04065",
-        "flavor": "Urns and broken bones fill this pit of ash and sand. The stench of rot has long since dissipated, leaving behind only stale‑smelling air saturated with choking dust.",
-        "name": "Burial Pit",
-        "text": "<b>Forced</b> - After you put Burial Pit into play by exploring successfully: You must either draw 2 cards from the top of the encounter deck or place 2 doom on Burial Pit, or any combination thereof.",
-        "traits": "Ancient. Ruins."
+        "flavor": "Urnas e ossos quebrados enchem este fosso de cinzas e areia. O fedor da putrefação já se dissipou há tempos, deixando apenas o ar de cheiro estagnado, saturado de poeira sufocante.",
+        "name": "Fosso Funerário",
+        "text": "<b>Forçado</b> - Após você colocar Fosso Funerário em jogo ao explorar com sucesso: Você deve comprar 2 cartas do topo do baralho de encontros ou colocar 2 perdições no Fosso Funerário, ou qualquer combinação dos dois.",
+        "traits": "Remoto. Ruínas."
     },
     {
         "code": "04066",
-        "name": "Underground Ruins",
-        "text": "While there is an enemy in Underground Ruins, Underground Ruins is considered to be in the victory display (for the purposes of counting vengeance).\n<b>Forced</b> - After an enemy in Underground Ruins leaves play: Place 1 doom on Underground Ruins.",
-        "traits": "Ancient. Ruins."
+        "name": "Ruínas Subterrâneas",
+        "text": "Enquanto houver pelo menos um inimigo nas Ruínas Subterrâneas, considere as Ruínas Subterrâneas como estando no painel de vitórias (para fins da contagem de vingança).\n<b>Forçado</b> - Após um inimigo nas Ruínas Subterrâneas sair de jogo: Coloque 1 perdição nas Ruínas Subterrâneas.",
+        "traits": "Remoto. Ruínas."
     },
     {
         "code": "04067",
-        "flavor": "A boulder obscured the route to this dark passageway. As soon as you step through the doorway, it opens into a vast underground pit below…",
-        "name": "Secret Passage",
-        "text": "<b>Forced</b> - After you enter Secret Passage: You must either take 1 horror and 1 damage, or place 1 doom on Secret Passage. Check your supplies. If you or an investigator at Secret Passage has a rope, ignore this effect.",
-        "traits": "Ancient. Ruins."
+        "flavor": "Uma rocha ocultava o caminho para esta passagem escura. Assim que você passa pela porta, ela se abre para um vasto fosso subterrâneo abaixo...",
+        "name": "Passagem Secreta",
+        "text": "<b>Forçado</b> - Após você entrar na Passagem Secreta: Você deve sofrer 1 de dano e 1 de horror, ou colocar 1 perdição na Passagem Secreta. Verifique seus suprimentos. Se você ou outro investigador na Passagem Secreta tiver uma corda, ignore este efeito.",
+        "traits": "Remoto. Ruínas."
     },
     {
         "code": "04068",
-        "flavor": "The floor of this central chamber is intricately carved and glows strangely…",
-        "name": "Chamber of Time",
-        "text": "<b>Forced</b> - After Chamber of Time enters play: Attach the set-aside Relic of Ages asset to the Chamber of Time. Place 1 doom on Chamber of Time.",
-        "traits": "Forgotten. Ruins."
+        "flavor": "O chão desta câmara central tem entalhes intrincados e um brilho estranho...",
+        "name": "Câmara do Tempo",
+        "text": "<b>Forçado</b> - Após a Câmara do Tempo entrar em jogo: Anexe o ativo separado Relíquia das Eras à Câmara do Tempo. Coloque 1 perdição na Câmara do Tempo.",
+        "traits": "Esquecido. Ruínas."
     },
     {
         "code": "04069",
-        "name": "Path of Thorns",
-        "text": "<b>Forced</b> - After you fail a skill test while investigating Path of Thorns: Take 1 damage.\n<b>Forced</b> - After you explore while at Path of Thorns, if the exploration was not successful: Take 1 damage.",
-        "traits": "Jungle."
+        "name": "Caminho de Espinhos",
+        "text": "<b>Forçado</b> - Após você falhar em um teste de perícia enquanto estiver investigando o Caminho de Espinhos: Sofra 1 de dano.\n<b>Forçado</b> - Após você explorar enquanto estiver no Caminho de Espinhos, se a exploração não foi bem-sucedida: Sofra 1 de dano.",
+        "traits": "Selva."
     },
     {
         "code": "04070",
-        "flavor": "The river is deeper than it appears. Ripples along its surface obscure the creatures that lie within. Water cascades into the river from above, causing a strong, steady current.",
-        "name": "River Canyon",
-        "text": "[action]: Heal 1 damage from an investigator at River Canyon. Check your supplies. If you have a canteen, heal 2 additional damage. (Limit once per game.)",
-        "traits": "Jungle."
+        "flavor": "O rio é mais fundo do que parece. As vibrações na superfície escondem as criaturas abaixo. A água cai do alto em cascata no rio, causando uma correnteza forte e constante.",
+        "name": "Canyon Fluvial",
+        "text": "[action]: Cure 1 de dano de um investigador no Canyon Fluvial. Verifique seus suprimentos. Se você tiver um cantil, cure 2 de dano adicionais. (Limite de uma vez por jogo.)",
+        "traits": "Selva."
     },
     {
         "code": "04071",
-        "name": "Rope Bridge",
-        "text": "<b>Forced</b> - When you attempt to explore while at Rope Bridge: Test [agility] (2). If you fail, cancel the exploration, take 2 damage, lose all remaining actions, and end your turn. Place your investigator in the River Canyon (if it is not in play, search the exploration deck for River Canyon and put it into play first; shuffle the exploration deck).",
-        "traits": "Jungle."
+        "name": "Ponte de Corda",
+        "text": "<b>Forçado</b> - Quando você tentar explorar enquanto estiver na Ponte de Corda: Teste [agility] (2). Se você falhar, cancele a exploração, sofra 2 de dano, perca todas as ações restantes e encerre seu turno. Coloque seu investigador no Canyon Fluvial (se o local não estiver em jogo, procure Canyon Fluvial no baralho de exploração e coloque-o em jogo primeiro; embaralhe o baralho de exploração).",
+        "traits": "Selva."
     },
     {
         "code": "04072",
-        "name": "Serpent's Haven",
-        "text": "Each [[Serpent]] enemy at Serpent's Haven gets +1 fight.\n<b>Forced</b> - After you investigate or explore while at Serpent's Haven, if you are poisoned: Take 1 damage.",
-        "traits": "Jungle."
+        "name": "Lar da Serpente",
+        "text": "Cada inimigo <b>Serpente</b> no Lar da Serpente recebe +1 de luta.\n<b>Forçado</b> - Após você investigar ou explorar enquanto estiver no Lar da Serpente, se você estiver envenenado: Sofra 1 de dano.",
+        "traits": "Selva."
     },
     {
         "code": "04073",
-        "flavor": "Haven't you been here before?",
-        "name": "Circuitous Trail",
-        "text": "As an additional cost for you to investigate or explore while at Circuitous Trail, check your supplies. If no investigator at your location has a compass, you must spend 3 resources.",
-        "traits": "Jungle."
+        "flavor": "Você já não passou por aqui?",
+        "name": "Trilha Tortuosa",
+        "text": "Como custo adicional para você investigar ou explorar enquanto estiver na Trilha Tortuosa, verifique seus suprimentos. Se nenhum investigador no seu local tiver uma bússola, você deve gastar 3 recursos.",
+        "traits": "Selva."
     },
     {
         "code": "04074",
-        "flavor": "Rising just over the tree canopy is a timeworn step pyramid of pale stone. A storm of hisses surrounds you from the trees.",
-        "name": "Temple of the Fang",
-        "text": "Temple of the Fang gets +1 shroud for each vengeance point in the victory display.",
-        "traits": "Ancient. Ruins."
+        "flavor": "Se erguendo logo acima da copa das árvores há uma pirâmide em degraus de pedras pálidas, desgastada pelo tempo. Uma tempestade de silvos cerca você, vinda das árvores.",
+        "name": "Templo da Presa",
+        "text": "Templo da Presa recebe +1 de véu para cada ponto de vingança no painel de vitórias.",
+        "traits": "Remoto. Ruínas."
     },
     {
         "code": "04075",
-        "flavor": "A dense thicket of flora obscures the route to these ruins. Tendrils of vine grip the pyramid steps as though holding on for dear life.",
-        "name": "Overgrown Ruins",
-        "text": "<b>Forced</b> - After you enter this location, if you are poisoned: Lose all remaining actions and end your turn.",
-        "traits": "Ancient. Ruins."
+        "flavor": "Uma densa camada de flora oculta o caminho para estas ruínas. Tentáculos de vinhas se agarram aos degraus da pirâmide como se a vida deles dependesse disso.",
+        "name": "Ruínas Cobertas de Vegetação",
+        "text": "<b>Forçado</b> - Após você entrar nas Ruínas Cobertas de Vegetação, se você estiver envenenado: Perca todas as ações restantes e encerre seu turno.",
+        "traits": "Remoto. Ruínas."
     },
     {
         "code": "04076",
-        "name": "Overgrowth",
-        "text": "<b>Revelation</b> - Attach to your location. Limit 1 per location.\nYou cannot explore at attached location.\n[action]: Test [combat] (4) to hack through the brush or [intellect] (4) to find another route. If you succeed, discard Overgrowth.",
-        "traits": "Obstacle."
+        "name": "Mata Cerrada",
+        "text": "<b>Revelação</b> – Anexe ao seu local. Limite de 1 por local.\nVocê não pode explorar no local anexado.\n[action]: Teste [combat] (4) para abrir caminho à força ou [intellect] (4) para encontrar outra rota. Se você tiver sucesso, descarte Mata Cerrada.",
+        "traits": "Obstáculo."
     },
     {
         "code": "04077",
-        "name": "Voice of the Jungle",
-        "text": "<b>Revelation</b> - Put Voice of the Jungle into play in your threat area.\n<b>Forced</b> - At the end of your turn, if you did not successfully explore this turn: Take 1 horror.\n[action]: Test [willpower] (3). If you succeed, discard Voice of the Jungle.",
-        "traits": "Power."
+        "name": "Voz da Selva",
+        "text": "<b>Revelação</b> – Coloque Voz da Selva em jogo na sua área de ameaças.\n<b>Forçado</b> – Ao final do seu turno, se você não explorou com sucesso neste turno: Sofra 1 de horror.\n[action]: Teste [willpower] (3). Se você tiver sucesso, descarte Voz da Selva.",
+        "traits": "Poder."
     },
     {
         "code": "04078",
-        "flavor": "Deadlier than it seems.",
-        "name": "Pit Viper",
-        "text": "<b>Forced</b> - After Pit Viper deals you damage from its attack: If you are not poisoned, put a set-aside Poisoned weakness into play in your threat area.",
-        "traits": "Creature. Serpent."
+        "flavor": "Mais mortal do que parece.",
+        "name": "Víbora do Poço",
+        "text": "<b>Forçado</b> - Após Víbora do Poço causar dano a você com um ataque: Se você não estiver envenenado, coloque uma fraqueza separada Envenenado em jogo na sua área de ameaças.\n\nVingança 1.",
+        "traits": "Criatura. Serpente."
     },
     {
         "code": "04079",
-        "flavor": "Fourteen feet of scaled hunger.",
-        "name": "Boa Constrictor",
-        "text": "Hunter.\n<b>Forced</b> - After Boa Constrictor attacks you: During the next upkeep phase, your exhausted cards cannot ready.",
-        "traits": "Creature. Serpent."
+        "flavor": "Quatro metros de fome e escamas.",
+        "name": "Jiboia Constritora",
+        "text": "<b>Caçador</b>.\n<b>Forçado</b> - Após Jiboia Constritora atacar você: Durante a próxima fase de manutenção, suas cartas esgotadas não podem ser preparadas.",
+        "traits": "Criatura. Serpente."
     },
     {
         "code": "04080",
-        "name": "Snake Bite",
-        "text": "<b>Revelation</b> - Test [agility] (3). If you fail, you must either (choose one):\n- Deal 5 damage to an [[Ally]] asset you control.\n- Take 1 direct damage. If you are not poisoned, put a set-aside Poisoned weakness into play in your threat area.",
-        "traits": "Hazard. Poison."
+        "name": "Mordida de Cobra",
+        "text": "<b>Revelação</b> - Teste [agility] (3). Se você falhar, você deve (escolha um):\n[action] Cause 5 de dano a um ativo de <i>Aliado</i> que você controla.\n[action] Sofra 1 de dano direto. Se você não estiver envenenado, coloque uma fraqueza separada Envenenado em jogo na sua área de ameaças.",
+        "traits": "Risco. Veneno."
     },
     {
         "code": "04081",
-        "name": "Lost in the Wilds",
-        "text": "<b>Revelation</b> - Test [willpower] (3). If you fail, take 1 horror for each point you fail by and add Lost in the Wilds to your threat area.\nYou cannot move or explore.\n<b>Forced</b> - At the end of your turn: Discard Lost in the Wilds.",
-        "traits": "Blunder."
+        "name": "Perdido nos Ermos",
+        "text": "<b>Revelação</b> - Teste [willpower] (3). Se você falhar, sofra 1 de horror para cada ponto que você falhar e adicione Perdido nos Ermos à sua área de ameaças.\nVocê não pode se mover ou explorar.\n<b>Forçado</b> - Ao final do seu turno: Descarte Perdido nos Ermos.",
+        "traits": "Tropeço."
     },
     {
         "code": "04082",
-        "name": "Low on Supplies",
-        "text": "Peril.\n<b>Revelation</b> - You must decide (choose one):\n- Each investigator loses 2 resources.\n- Each investigator takes 1 damage.\n- Each investigator chooses and discards an asset he or she controls.",
-        "traits": "Blunder."
+        "name": "Suprimentos Acabando",
+        "text": "Perigo.\n<b>Revelação</b> - Você deve decidir (escolha um):\n[action] Cada investigador perde 2 recursos.\n[action] Cada investigador sofre 1 de dano.\n[action] Cada investigador escolhe e descarta um ativo que ele controla.",
+        "traits": "Tropeço."
     },
     {
         "code": "04083",
-        "flavor": "A serpentine creature with scaled arms, bearing primitive armor and weaponry.",
-        "name": "Brood of Yig",
-        "text": "Hunter.\nBrood of Yig gets +1 fight for each vengeance point in the victory display.",
-        "traits": "Humanoid. Monster. Serpent."
+        "flavor": "Uma criatura serpentina com braços escamados, portando armadura e armamento antigos.",
+        "name": "Prole de Yig",
+        "text": "<b>Caçador.</b>\nProle de Yig recebe +1 de luta para cada ponto de vingança no painel de vitórias.",
+        "traits": "Humanoide. Monstro. Serpente."
     },
     {
         "code": "04084",
-        "name": "Serpent from Yoth",
-        "text": "While there are 1 or more vengeance points in the victory display, Serpent from Yoth gains retaliate.\nWhile there are 2 or more vengeance points in the victory display, Serpent from Yoth gains hunter.\nWhile there are 3 or more vengeance points in the victory display, Serpent from Yoth takes 1 less damage from each attack made against it.",
-        "traits": "Humanoid. Monster. Serpent."
+        "name": "Serpente de Yoth",
+        "text": "Enquanto houver 1 ou mais pontos de vingança no painel de vitórias, Serpente de Yoth ganha <b>retaliação</b>.\nEnquanto houver 2 ou mais pontos de vingança no painel de vitórias, Serpente de Yoth ganha <b>caçador</b>.\nEnquanto houver 3 ou mais pontos de vingança no painel de vitórias, Serpente de Yoth sofre 1 de dano a menos de cada ataque realizado contra ela.",
+        "traits": "Humanoide. Monstro. Serpente."
     },
     {
         "code": "04085",
-        "name": "Curse of Yig",
-        "text": "<b>Revelation</b> - Put Curse of Yig into play in your threat area.\nYou get -1 [combat], -1 health, and gain the [[Serpent]] trait.\n[action]: Test [willpower] (2). This test gets +1 difficulty for each vengeance point in the victory display. If you succeed, discard Curse of Yig.",
-        "traits": "Curse."
+        "name": "Maldição de Yig",
+        "text": "<b>Revelação</b> – Coloque Maldição de Yig em jogo na sua área de ameaças.\nVocê recebe -1 [combat], -1 de vida e ganha a Propriedade <b>Serpente</b>.\n[action]: Teste [willpower] (2). Este teste recebe +1 de dificuldade para cada ponto de vingança no painel de vitórias. Se você tiver sucesso, descarte Maldição de Yig.",
+        "traits": "Maldição."
     },
     {
         "code": "04086",
-        "flavor": "The secret must be kept.",
-        "name": "Eztli Guardian",
-        "text": "<b>Spawn</b> - Any empty location ([[Ancient]], if able).\nAlert. Aloof.\n<b>Forced</b> - When enemies attack during the enemy phase, if Eztli Guardian is ready and unengaged: It attacks each investigator in each connecting location.",
-        "traits": "Humanoid. Eztli."
+        "flavor": "O segredo deve ser guardado.",
+        "name": "Guardião de Eztli",
+        "text": "<b>Surgir</b> - Qualquer local vazio (<b>Remoto</b>, se possível).\nAlerta. Arredio.\n<b>Forçado</b> - Quando os inimigos atacarem durante a fase dos inimigos, se Guardião de Eztli estiver preparado e desengajado: Ele ataca cada investigador em cada local conectado.",
+        "traits": "Humanoide. Eztli."
     },
     {
         "code": "04087",
-        "flavor": "You are caught in a volley of obsidian-tipped arrows fired by unseen assailants, a dire warning to leave this place at once.",
-        "name": "Arrows from the Trees",
-        "text": "<b>Revelation</b> - Take 1 damage, plus 1 additional damage for each [[Ally]] asset you control. Each other investigator at an [[Ancient]] location must also resolve that effect.",
-        "traits": "Scheme."
+        "flavor": "Você é pego por uma saraivada de flechas com ponta de obsidiana, lançadas por atacantes que você não consegue ver; um terrível aviso para deixar este lugar imediatamente.",
+        "name": "Flechas Vindas das Árvores",
+        "text": "<b>Revelação</b> – Sofra 1 de dano, mais 1 de dano adicional para cada ativo de <b>Aliado</b> que você controla. Cada outro investigador em um local <b>Remoto</b> também deve resolver este efeito.",
+        "traits": "Esquema."
     },
     {
         "code": "04088",
-        "flavor": "Do we dare follow in his footsteps?",
-        "name": "Final Mistake",
-        "text": "<b>Revelation</b> - Test [agility] (2). This test gets +1 difficulty for each doom on your location. If you fail, take 2 damage.",
-        "traits": "Trap."
+        "flavor": "Ousaremos seguir os passos dele?",
+        "name": "Último Equívoco",
+        "text": "<b>Revelação</b> – Teste [agility] (2). Este teste recebe +1 de dificuldade para cada perdição no seu local.\nSe você falhar, sofra 2 de dano.",
+        "traits": "Armadilha."
     },
     {
         "code": "04089",
-        "name": "Entombed",
-        "text": "<b>Revelation</b> - Put Entombed into play in your threat area.\nYou cannot disengage from enemies or move.\n[action]: Test [agility] (4) to escape the tomb or [combat] (4) to break out. If you succeed, discard Entombed. If you fail, reduce the difficulty of this test by 1 until the end of the round.",
-        "traits": "Trap."
+        "name": "Sepultado",
+        "text": "<b>Revelação</b> - Coloque Sepultado em jogo na sua área de ameaças.\nVocê não pode se desengajar de inimigos ou se mover.\n[action]: Teste [agility] (4) para escapar da tumba ou [combat] (4) para forçar sua saída. Se você tiver sucesso, descarte Sepultado. Se você falhar, reduza em 1 a dificuldade deste teste até o final da rodada.",
+        "traits": "Armadilha."
     },
     {
         "code": "04090",
-        "flavor": "\"We've been conceptualizing time as if it were a straight line, moving forward from one point to the next. The truth is quite different.\"",
-        "name": "A Tear in Time",
-        "text": "<b>Revelation</b> - Test [willpower] (3). For each point you fail by, you must either lose 1 action or take 1 horror.",
-        "traits": "Hex."
+        "flavor": "“Conceitualizamos o tempo como uma linha reta, que se move para frente de um ponto a outro. A verdade é bem diferente.”",
+        "name": "Uma Fenda no Tempo",
+        "text": "<b>Revelação</b> – Teste [willpower] (3). Para cada ponto que você falhar, você deve perder 1 ação ou sofrer 1 de horror.",
+        "traits": "Sortilégio."
     },
     {
         "code": "04091",
-        "name": "Lost in Time",
-        "text": "<b>Revelation</b> - Shuffle a non-story asset you control into your deck, moving all damage and horror from that asset to your investigator. If no asset is shuffled into your deck by this effect, choose and discard 3 cards from your hand.",
-        "traits": "Hex."
+        "name": "Perdido no Tempo",
+        "text": "<b>Revelação</b> – Embaralhe um ativo não história que você controla no seu baralho, movendo todo dano e todo horror desse ativo para o seu investigador. Se nenhum ativo for embaralhado no seu baralho devido a este efeito, escolha e descarte 3 cartas da sua mão.",
+        "traits": "Sortilégio."
     },
     {
         "code": "04092",
-        "flavor": "It was not a natural death.",
-        "name": "Ill Omen",
-        "text": "Peril.\n<b>Revelation</b> - Choose a location where there is at least 1 investigator. Place 1 doom on that location. Each investigator at the chosen location takes 1 horror.",
-        "traits": "Omen. Terror."
+        "flavor": "Não foi morte natural.",
+        "name": "Mau Agouro",
+        "text": "Perigo.\n<b>Revelação</b> – Escolha um local onde haja pelo menos 1 investigador. Coloque 1 perdição nesse local. Cada investigador no local escolhido sofre 1 de horror.",
+        "traits": "Presságio. Terror."
     },
     {
         "code": "04093",
-        "name": "Ancestral Fear",
-        "text": "Peril. Surge.\n<b>Revelation</b> - You must either (choose one):\n- Place 1 doom on your location and discard Ancestral Fear <i>(instead of placing it in the victory display)</i>.\n- Place Ancestral Fear in the victory display.",
+        "name": "Temor Ancestral",
+        "text": "Perigo. Ímpeto.\n<b>Revelação</b> – Você deve (escolha um):\n[action] Coloque 1 perdição no seu local e descarte Temor Ancestral <i>(em vez de colocá-lo no painel de vitórias)</i>.\n[action] Coloque Temor Ancestral no painel de vitórias.\n\nVingança 1.",
         "traits": "Terror."
     },
     {
         "code": "04094",
-        "name": "Deep Dark",
-        "text": "<b>Revelation</b> - Put Deep Dark into play next to the agenda deck.\nNo more than 1 clue may be discovered from each location by each investigator each round.\n<b>Forced</b> - At the end of the round: Discard 1 copy of Deep Dark from play. (Max once per round.)",
-        "traits": "Hazard."
+        "name": "Escuridão Profunda",
+        "text": "<b>Revelação</b> – Coloque Escuridão Profunda em jogo próxima ao baralho de agendas.\nCada investigador não pode descobrir mais do que 1 pista de cada local a cada rodada.\n<b>Forçado</b> – Ao final da rodada: Descarte 1 cópia de Escuridão Profunda de jogo. (Máximo de uma vez por rodada.)",
+        "traits": "Risco."
     },
     {
         "code": "04095",
-        "name": "Brotherhood Cultist",
-        "text": "Hunter.\nBrotherhood Cultist gets +1 fight and +1 evade for each doom on it.\n<b>Forced</b> - When you initiate an attack against Brotherhood Cultist: Place 1 doom on Brotherhood Cultist.",
-        "traits": "Humanoid. Cultist."
+        "name": "Cultista da Irmandade",
+        "text": "<b>Caçador</b>.\nCultista da Irmandade recebe +1 de luta e +1 de evasão para cada perdição nele.\n<b>Forçado</b> - Quando você iniciar um ataque contra Cultista da Irmandade: Coloque 1 perdição em Cultista da Irmandade.",
+        "traits": "Humanoide. Cultista."
     },
     {
         "code": "04096",
-        "name": "Shadowed",
-        "text": "<b>Revelation</b> - If there are no [[Cultist]] enemies in play, take 1 horror and Shadowed gains surge. Otherwise, find the [[Cultist]] enemy nearest to you. Place 1 doom on that enemy and test [willpower] (X), where X is that enemy's fight value. If you fail, take 2 horror.",
-        "traits": "Scheme."
+        "name": "Seguido",
+        "text": "<b>Revelação</b> – Se não houver inimigos <b>Cultistas</b> em jogo, sofra 1 de horror e Seguido ganha ímpeto. Caso contrário, encontre o inimigo <b>Cultista</b> mais próximo de você. Coloque 1 perdição nesse inimigo e teste [willpower] (X), onde X é o valor de luta desse inimigo. Se você falhar, sofra 2 de horror.",
+        "traits": "Esquema."
     },
     {
         "code": "04097",
-        "name": "Words of Power",
-        "text": "<b>Revelation</b> - Put Words of Power into play in your threat area.\nIf there are 1 or more enemies at your location with doom on them, you cannot damage those enemies or discover clues at your location.\n[action][action]: Discard Words of Power.",
-        "traits": "Hex."
+        "name": "Palavras de Poder",
+        "text": "<b>Revelação</b> - Coloque Palavras de Poder em jogo na sua área de ameaças.\nSe houver 1 ou mais inimigos no seu local com perdição sobre eles, você não pode causar dano a eles ou descobrir pistas no seu local.\n[action][action]: Descarte Palavras de Poder.",
+        "traits": "Sortilégio."
     },
     {
         "code": "04098",
-        "name": "Fang of Yig",
-        "text": "<b>Prey</b> - Poisoned investigator.\nRetaliate.\nWhile Fang of Yig is engaged with a poisoned investigator, that investigator cannot play cards or commit cards to skill tests.",
-        "traits": "Humanoid. Monster. Serpent."
+        "name": "Presa de Yig",
+        "text": "<b>Presa</b> - Investigador envenenado.\nRetaliação.\nEnquanto Presa de Yig estiver engajado com um investigador envenenado, esse investigador não pode jogar cartas ou comprometer cartas em testes de perícia.",
+        "traits": "Humanoide. Monstro. Serpente."
     },
     {
         "code": "04099",
-        "name": "Snakescourge",
-        "text": "<b>Revelation</b> - Put Snakescourge into play in your threat area. If you are poisoned, Snakescourge gains surge.\nTreat each of your non-weakness [[Item]] assets as if its text box were blank (except for [[Traits]]).\n<b>Forced</b> - At the end of the round: Discard Snakescourge.",
-        "traits": "Curse."
+        "name": "Flagelo da Serpente",
+        "text": "<b>Revelação</b> – Coloque Flagelo da Serpente em jogo na sua área de ameaças. Se você estiver envenenado, Flagelo da Serpente ganha ímpeto.\nTrate cada um de seus ativos de <i>Item</i> não fraqueza como se sua caixa de texto estivesse em branco (exceto pelas <i>Propriedades</i>).\n<b>Forçado</b> – Ao final da rodada: Descarte Flagelo da Serpente.",
+        "traits": "Maldição."
     },
     {
         "code": "04100",
-        "name": "Serpent's Call",
-        "text": "<b>Revelation</b> - You must either (choose one): Put a set-aside Poisoned weakness into play in your threat area, or draw the top 2 cards of the encounter deck.",
-        "traits": "Power."
+        "name": "Chamado da Serpente",
+        "text": "<b>Revelação</b> – Você deve (escolha um): Coloque uma fraqueza separada Envenenado em jogo na sua área de ameaças ou compre as 2 cartas do topo do baralho de encontros.",
+        "traits": "Poder."
     },
     {
         "code": "04101",
-        "flavor": "Black veins crawled underneath her skin, pulsating with every heartbeat. It would not be long now.",
-        "name": "Creeping Poison",
-        "text": "Surge.\n<b>Revelation</b> - Each investigator who is poisoned takes 1 damage.",
-        "traits": "Poison."
+        "flavor": "Veias escuras rastejavam sob a pele dela, pulsando a cada batimento cardíaco. Não levaria muito mais tempo.",
+        "name": "Veneno Alastrante",
+        "text": "Ímpeto.\n<b>Revelação</b> - Cada investigador envenenado sofre 1 de dano.",
+        "traits": "Veneno."
     },
     {
         "code": "04102",
-        "name": "Poisoned",
-        "text": "Limit 1 per investigator. Limit 1 per deck.\nPermanent.\nYou are poisoned. <i>(This has no game effect on its own. Other card effects may change or become stronger while you are poisoned.)</i>",
-        "traits": "Poison."
+        "name": "Envenenado",
+        "text": "Limite de 1 por investigador. Limite de 1 por baralho.\n<b>Permanente.</b>\nVocê está envenenado. (Isso não tem efeito de jogo por si só. Outros efeitos de cartas podem mudar ou se tornar mais fortes enquanto você estiver envenenado.)",
+        "traits": "Veneno."
     }
 ]
