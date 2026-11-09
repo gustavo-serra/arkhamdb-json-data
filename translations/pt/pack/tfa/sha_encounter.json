@@ -1,267 +1,275 @@
 [
     {
         "code": "04314",
-        "name": "Shattered Aeons",
-        "text": "Easy / Standard\n[skull]: -2 (-4 instead if the Relic of Ages is at your location).\n[cultist]: -2. If you do not succeed by at least 1, place 1 doom on the nearest [[Cultist]] enemy.\n[tablet]: -2. If you are poisoned, this test automatically fails instead.\n[elder_thing]: -2. If you fail, shuffle the topmost [[Hex]] treachery in the encounter discard pile into the exploration deck.",
-        "back_text": "Hard / Expert\n[skull]: -3 (-5 instead if the Relic of Ages is at your location).\n[cultist]: -3. If you do not succeed by at least 1, place 1 doom on each [[Cultist]] enemy.\n[tablet]: -3. If you are poisoned, this test automatically fails instead. If you are not poisoned and you fail, put a set-aside Poisoned weakness into play in your threat area.\n[elder_thing]: -3. Shuffle the topmost [[Hex]] treachery in the encounter discard pile into the exploration deck."
+        "name": "Éons Estilhaçados",
+        "text": "FÁCIL / MÉDIO\n[skull]: -2 (-4 em vez disso se a Relíquia das Eras estiver em seu local).\n[cultist]: -2. Se você não tiver sucesso por pelo menos 1, coloque 1 perdição no inimigo <b>Cultista</b> mais próximo.\n[tablet]: -2. Se você estiver envenenado, este teste falha automaticamente em vez disso.\n[elder_thing]: -2. Se você falhar, embaralhe no baralho de exploração a traição de <b>Sortilégio</b> mais acima na pilha de descarte de encontros.",
+        "back_text": "DIFÍCIL / EXPERIENTE\n[skull]: -3 (-5 em vez disso se a Relíquia das Eras estiver em seu local).\n[cultist]: -3. Se você não tiver sucesso por pelo menos 1, coloque 1 perdição em cada inimigo <b>Cultista</b>.\n[tablet]: -3. Se você estiver envenenado, este teste falha automaticamente em vez disso. Se você não estiver envenenado e falhar, coloque uma fraqueza separada Envenenado em jogo na sua área de ameaças.\n[elder_thing]: -3. Embaralhe no baralho de exploração a traição de <b>Sortilégio</b> mais acima na pilha de descarte de encontros."
     },
     {
         "code": "04315",
-        "flavor": "As you enter the grand chamber beyond the doorway, the Nexus stirs. The Earth quakes below you, and the wall chips and crumbles. Shards of stone float in midair above the Nexus. You are running out of time: Reality is starting to shatter all around you.",
-        "name": "Threads of Time",
-        "text": "<b>Forced</b> - If an investigator with the Relic of Ages in his or her hand, deck, discard pile, or play area is eliminated: Immediately advance to agenda 3b.",
-        "back_name": "The Spawn of N'Kai",
-        "back_flavor": "You are not the first to intrude in this abyssal pit. You were warned not to break the seal, and yet here you are. Now you face the consequences for your foolish transgression.\nThe <i>thing</i> emerges from the lightless void beyond the Nexus. It is a being of black polymorphic ichor, an animated viscous ooze that crawls along the ground with shapeless limbs and leaves a trail of smooth, dissolved stone in its wake.",
-        "back_text": "Shuffle the encounter discard pile into the encounter deck.\nSpawn the set-aside Formless Spawn in the Nexus of N'kai.\nPlace this card in the victory display. It gains <b>Vengeance 1</b>."
+        "flavor": "Quando você entra na grande câmara além da porta, o Nexus se agita. A Terra treme abaixo de você e a parede descasca e desmorona. Lascas de pedra flutuam no ar sobre o Nexus. Seu tempo está acabando: a realidade está começando a romper à sua volta.",
+        "name": "Fios do Tempo",
+        "text": "<b>Forçado</b> - Se um investigador com a Relicária das Eras em sua mão, baralho, pilha de descarte ou área de jogo for eliminado: Avance imediatamente para a agenda 3b.",
+        "back_name": "A Prole de N'kai",
+        "back_flavor": "Você não é o primeiro a invadir este poço abissal. Já fora avisado de que não rompesse o selo e, no entanto, cá está você. Enfrente agora as consequências de sua tola transgressão.\nA coisa emerge do vazio sem luz além do Nexus. É um ser de icor escuro polimórfico, uma gosma viscosa animada que rasteja pelo chão com membros disformes, deixando por onde passa uma trilha de pedra lisa dissolvida.",
+        "back_text": "Embaralhe a pilha de descarte de encontros no baralho de encontros.\nFaça surgir o inimigo separado Prole Disforme no Nexus de N'kai.\nColoque esta carta no painel de vitórias. Ela ganha <b>Vingança 1</b>."
     },
     {
         "code": "04316",
-        "flavor": "Inside the Nexus, the interwoven\nthreads of ethereal light\nbegin to unravel, and reality\nunravels with it.",
-        "name": "Pendulous Threads",
-        "text": "<b>Forced</b> - If an investigator with the Relic of Ages in his or her hand, deck, discard pile, or play area is eliminated: Immediately advance to agenda 3b.",
-        "back_name": "The Nexus Falters",
-        "back_flavor": "The electrical currents coursing through the machinery of the Nexus begin to malfunction, sending a shower of sparks into the air. The portal ring overheats. Threads of ethereal light within the portal begin to snap.",
-        "back_text": "Shuffle the encounter discard pile into the encounter deck.\nIf Formless Spawn is in play, place 2 doom on the Nexus of N'kai. If Formless Spawn is in the victory display, shuffle it into the encounter deck.\nPlace this card in the victory display. It gains <b>Vengeance 1</b>."
+        "flavor": "Dentro do Nexus, os fios\n\nentrelaçados de luz etérea\n\ncomeçam a se desfazer e a realidade\n\nse desfaz com eles.",
+        "name": "Fios Oscilantes",
+        "text": "<b>Forçado</b> - Se um investigador com a Relic of Ages em sua mão, baralho, pilha de descarte ou área de jogo for eliminado: Avance imediatamente para a agenda 3b.",
+        "back_name": "O Nexus Fraqueja",
+        "back_flavor": "As correntes elétricas fluindo pelo maquinário do Nexus começam a sobrecarregar, lançando uma chuva de faíscas pelo ar. O círculo do portal superaquece. Fios de luz etérea no portal começam a arrebentar.",
+        "back_text": "Embaralhe a pilha de descarte de encontros no baralho de encontros.\nSe Prole Disforme estiver em jogo, coloque 2 perdições no Nexus de N'kai. Se Prole Disforme estiver no painel de vitórias, embaralhe-o no baralho de encontros.\nColoque esta carta no painel de vitórias. Ele ganha <b>Vingança 1</b>."
     },
     {
         "code": "04317",
-        "flavor": ".time shattered of purgatory endless awful this in forever lost is know you Everything .Terrifying .False .different are they but ,repeat on out play future and ,present ,past your from Moments .changed has continuity the ,blink you time Each .between in everything and ,reverse in ,order in out play actions Your .here got you how recall cannot you but ,occurred yet not have that things remember You .alter to continues time of flow The",
-        "name": "Snapped Threads",
-        "text": "<b>Forced</b> - If an investigator with the Relic of Ages in his or her hand, deck, discard pile, or play area is eliminated: Immediately advance to agenda 3b.",
-        "back_name": "Shattered Aeons",
+        "flavor": "estilhaçado tempo de purgatório terrível neste sempre para perdido está conhece você que Tudo .Aparorantes. Falso .diferentes mas ,repetem se futuro e presente ,passado seu do Momentos .mudou continuidade a ,pisca você que vez Cada ,intermediários estados os todos e ,contrário ao ,ordem na acontecem atos Seus .aqui chegou como de lembrar se consegue não mas ,aconteceram não ainda que coisas de lembra se Você .alterar se a continua tempo do fluxo O",
+        "name": "Fios Arrebentados",
+        "text": "<b>Forçado</b> - Se um investigador com a Relicário das Eras em sua mão, baralho, pilha de descarte ou área de jogo for eliminado: Avance imediatamente para a agenda 3b.",
+        "back_name": "Éons Estilhaçados",
         "back_flavor": "The timeline collapses.\nReality dissolves before your very eyes. First to vanish is the environment around you: the matter blurs and thins into strings of light that fade into an empty void.\nNext comes your body: it disintegrates slowly and painlessly into hundreds of millions of subatomic particles, which diffuse throughout the vast emptiness.\nFinally, your cognition: your memories of events both real and unreal. Your hopes and dreams. Thoughts that never held any significance in the infinite scheme of the cosmos.",
-        "back_text": "<b>(→R4)</b>"
+        "back_text": "A linha do tempo colapsa.\nA realidade se dissolve diante dos seus olhos. A primeira coisa a desaparecer é o ambiente ao seu redor: a matéria se turva e afina em linhas de luz que desvanecem para o vazio.\nDepois vem seu corpo: ele se desintegra lentamente e sem dor em centenas de milhões de partículas subatômicas, que se dispersam no vasto vazio.\nEntão, sua consciência: suas memórias de eventos reais e irreais. Suas esperanças e sonhos. Pensamentos que nunca tiveram qualquer significado no esquema infinito do cosmos.\n(→R4)"
     },
     {
         "code": "04318",
-        "flavor": "The energies of the Nexus swirl in the ground below you, beckoning you to enter. Whether it is a thing of science or magic, you do not know. It is a gateway of sorts, that much you can tell... but a gateway to where?",
-        "name": "Worlds Beyond",
-        "text": "<b>Forced</b> - When an enemy would spawn at an empty location and there are no empty locations in play: Reveal cards from the exploration deck until a location is revealed. Put that location into play and spawn that enemy there. Shuffle the exploration deck.",
-        "back_name": "Return to Another Time",
+        "flavor": "As energias do Nexus rodopiam no chão em volta dos seus pés, convidando-o a entrar. Se isso é ciência ou magia, você não sabe. É uma espécie de portal, isso você concluiu... mas para onde?",
+        "name": "Mundos Além",
+        "text": "<b>Forçado</b> - Quando um inimigo for surgir em um local vazio e não houver locais vazios em jogo: Revele cartas do baralho de exploração até revelar um local. Coloque esse local em jogo e faça surgir o inimigo nele. Embaralhe o baralho de exploração.",
+        "back_name": "Retorno a Outro Tempo",
         "back_flavor": "Each time you step through the Nexus, you get one step closer to your ultimate destination - a place that exists outside the boundaries of time and space...",
-        "back_text": "Shuffle the set-aside A Pocket in Time location into the exploration deck."
+        "back_text": "Cada vez que você avança pelo Nexus, você fica um passo mais próximo de seu destino — um lugar que existe fora das barreiras de tempo e espaço...\nEmbaralhe o local separado Um Bolsão no Tempo no baralho de exploração.",
+        "subname": "Ato 1a"
     },
     {
         "code": "04319",
-        "flavor": "Somewhere deep within this nexus of worlds lies your objective: a place where timelines converge. You can see it in flashes of insight from beyond this reality. Windows into other timelines. A place carved out of time and space, where the Brotherhood no doubt resides.",
-        "name": "Search for the Brotherhood",
-        "text": "<b>Objective</b> - If an investigator enters A Pocket in Time, advance.",
-        "back_name": "Gateways to Other Times",
-        "back_flavor": "What you see before you is truly staggering. Throughout these halls are hundreds of windows into places both ancient and futuristic: once-grand civilizations that came before even the earliest records of known history, and more still that have yet to be realized. The psychological weight of this discovery is almost more than your mind can bear. Humans are not the masters or caretakers of the Earth. They are merely a footnote in a much longer history - a history which is about to be revised.",
-        "back_text": "Shuffle the set-aside [[Shattered]] locations into the exploration deck. Each investigator shuffles the topmost [[Hex]] treachery in the encounter discard pile into the exploration deck.\nCheck Campaign Log.\n- <i>If the relic is missing</i>, attach the set-aside Relic of Ages <i>(Unleash the Timestream)</i> to A Pocket in Time, under no investigator's control. Advance to Act 3a - \"The Yithian Relic.\"\n- <i>If the investigators found the missing relic</i>, advance to Act 3a - \"The Yithian Relic.\""
+        "flavor": "Em algum lugar, fundo neste nexus de mundos, está seu objetivo: um lugar onde as linhas do tempo convergem. Você o vê em lampejos de percepção vindos de além desta realidade. Janelas para outras linhas temporais. Um lugar fora do tempo e do espaço, onde sem dúvida reside a Irmandade.",
+        "name": "Busca pela Irmandade",
+        "text": "<b>Objetivo</b> - Se um investigador entrar em Um Bolsão no Tempo, avance.",
+        "back_name": "Portais para Outros Tempos",
+        "back_flavor": "O que você vê diante de si é verdadeiramente atordoante. Ao longo destes corredores há centenas de janelas para lugares tanto antigos quanto futuros: civilizações outrora grandes, que vieram antes mesmo dos primeiros registros da história conhecida, e outras mais que ainda estão por vir. O peso psicológico desta descoberta é quase maior do que sua mente pode suportar. Os seres humanos não são mestres nem cuidadores da Terra. São uma mera nota de rodapé em uma história muito mais longa — e que está prestes a ser revisada.",
+        "back_text": "Embaralhe os locais separados <b>Estilhaçados</b> no baralho de exploração. Cada investigador embaralha o <b>Sortilégio</b> mais acima na pilha de descarte de encontros no baralho de exploração.\nConsulte o Registro da Campanha.\n◇ Se a relíquia desapareceu, anexe a Relíquia das Eras (Liberte o Fluxo do Tempo) separada a Um Bolsão no Tempo, sob o controle de nenhum investigador. Avance para o Ato 3a — \"A Relíquia Yithiana\".\n◇ Se os investigadores encontraram a relíquia desaparecida, avance para o Ato 3a — \"A Relíquia Yithiana\"."
     },
     {
         "code": "04320",
-        "flavor": "If you intend to mend the shattered timelines, you will need to find the Relic of Ages and learn to harness its power.",
-        "name": "The Yithian Relic",
-        "text": "[action]: Search your deck or discard pile for the Relic of Ages and add it to your hand. Shuffle your deck.\n[action] If the Relic of Ages is attached to your location and there are no clues on that location: Take control of the Relic of Ages.\n<b>Objective</b> - If an investigator controls the Relic of Ages, advance.",
-        "back_name": "The Relic is the Key",
+        "flavor": "Se você pretende reparar as linhas do tempo estilhaçadas, você precisará encontrar a Relíquia das Eras e aprender a direcionar o poder dela.",
+        "name": "A Relíquia Yithiana",
+        "text": "[action]: Procure em seu baralho ou em sua pilha de descarte a Relíquia das Eras e adicione-a à sua mão. Embaralhe o seu baralho.\n[action] Se a Relíquia das Eras estiver anexada ao seu local e não houver pistas no local: Assuma o controle da Relíquia das Eras.\n<b>Objetivo</b> - Se a Relíquia das Eras estiver sob o controle de um investigador, avance.",
+        "back_name": "A Relíquia É a Chave",
         "back_flavor": "In your hands, you hold the key to fixing all of this. It hums and vibrates with immense power - power that seems to grow and flourish as you visit other timelines.",
-        "back_text": "For the remainder of the scenario, if the Relic of Ages leaves play for any reason, shuffle each location attached to it into the exploration deck and reset the act deck to act 3a.\n<hr><b>Check Campaign Log. <i>If Ichtaca is set against you:</i></b>\n<blockquote><i>The thing that was once your companion slithers out of the darkness, hissing. \"Yig will have his way! Valusia will be returned to us!\"</i></blockquote>\nSpawn the set-aside Ichtaca <i>(Scion of Yig)</i> in the Nexus of N'kai.\n<hr><b><i>If Alejandro is set against you:</i></b>\n<blockquote><i>\"Fools! Are you blind?\" Alejandro motions to the worlds before him. \"Your kind stands no chance against the ravages of time.\"</i></blockquote>\nSpawn the set-aside Alejandro <i>(Or, Is He?)</i> in A Pocket in Time."
+        "back_text": "Você tem nas mãos a chave para consertar tudo isso. Ela zumbe e vibra com imenso poder — um poder que parece crescer e florescer conforme você visita outras linhas de tempo.\nPelo restante deste cenário, se a Relíquia das Eras sair do jogo por qualquer motivo, embaralhe cada local anexado a ela no baralho de exploração e reinicie o baralho de atos para o Ato 3a.\n<hr><b>Consulte o Registro da Campanha. Se Ichtaca estiver contra você:</b>\n<blockquote><i>A coisa que outrora foi sua companheira rasteja vinda da escuridão, silvando. \"Será conforme a vontade de Yig! Valusia será devolvida a nós!\"</i></blockquote>\nFaça surgir o inimigo separado Ichtaca (Descendente de Yig) no Nexus de N'kai.\n<hr><b>Se Alejandro estiver contra você:</b>\n<blockquote><i>\"Tolos! Vocês estão iludidos?\" Alejandro gesticula em direção aos mundos diante dele. \"Seu povo não tem chance contra as marés do tempo.\"</i></blockquote>\nFaça surgir o inimigo separado Alejandro (Será Ele Mesmo?) em Um Bolsão no Tempo."
     },
     {
         "code": "04321",
-        "flavor": "Each window you step through seems to empower the relic. Once the artifact is fully powered, you can use it to mend the shattered timelines and prevent catastrophe.",
-        "name": "Mend the Shatter",
-        "text": "[action] If you are at a [[Shattered]] location with no clues: Test [willpower] or [intellect] (3). If you succeed, attach your location facedown to the Relic of Ages. Each investigator and enemy at that location is moved to A Pocket in Time.\n<b>Objective</b> - If the number of locations attached to the Relic of Ages is equal to 1 plus the number of investigators who started the game, advance.",
-        "back_name": "It Is Done",
-        "back_flavor": "You manipulate the thrumming device in your hands with the skill and knowledge of one of the relic's ingenious inventors. It is as though your mind has suddenly become flooded with the knowledge of the ancients that came before you. Power seeps from the device's every aperture. Rays of blinding light shoot forth from cracks appearing on its surface. You only have one chance to restore these shattered realities - only one chance to make things right.",
-        "back_text": "- If Relic of Ages <i>(Repossess the Past)</i> is the version of the Relic of Ages that the investigators control, proceed to <b>(→R5)</b>.\n- If the investigators control any other version of the Relic of Ages, proceed to <b>(→R1)</b>."
+        "flavor": "Cada janela pela qual você passa parece fortalecer a relíquia. Quando o artefato estiver inteiramente energizado, você poderá usá-lo para reparar as linhas do tempo estilhaçadas e evitar a catástrofe.",
+        "name": "Repare o Estilhaçamento",
+        "text": "[action] Se você estiver em um local <b>Estilhaçado</b> com sem pistas: Teste [willpower] ou [intellect] (3). Se você tiver sucesso, anexe o seu local, virado para baixo, à Relic of Ages. Todos os investigadores e inimigos nesse local são movidos para Um Bolsão no Tempo.\n<b>Objetivo</b> - Se o número de locais anexados à Relic of Ages for igual a 1 mais o número de investigadores que iniciou o jogo, avance.",
+        "back_name": "Está Feito",
+        "back_flavor": "Você manipula o dispositivo, que vibra nas suas mãos, com a habilidade e o conhecimento de um dos engenhosos inventores da relíquia. É como se sua mente de repente tivesse sido inundada com as informações dos antigos que vieram antes de você. O poder emana de cada abertura do dispositivo. Raios de luz brilhante são lançados de rachaduras que aparecem na superfície. Você só tem uma chance de restaurar essas realidades estilhaçadas — só uma chance de consertar as coisas.",
+        "back_text": "◊ Se a Relic of Ages (Recupere o Passado) for a versão da Relic of Ages sob o controle dos investigadores, prossiga para <b>(→R5)</b>.\n◊ Se a versão da Relic of Ages sob o controle dos investigadores for qualquer outra, prossiga para <b>(→R1)</b>."
     },
     {
         "code": "04322",
-        "flavor": "Each window you step through seems to empower the relic. Once the artifact is fully powered, will you use it to restore the serpent civilization of Valusia to its former glory?",
-        "name": "Paradise Lost",
-        "text": "[action] If you are at a [[Shattered]] location with no clues: Test [willpower] or [intellect] (3). If you succeed, attach your location facedown to the Relic of Ages. Each investigator and enemy at that location is moved to A Pocket in Time.\n<b>Objective</b> - If Valusia is attached to the Relic of Ages, advance.",
-        "back_name": "Glory to Valusia",
-        "back_flavor": "Ichtaca observes you with narrow yellow eyes as you manipulate the thrumming device in your hands. Power seeps from the device's every aperture. Rays of blinding light shoot forth from the cracks appearing on its surface. You watch as the boundary between timelines begins to mend, and the window closes, trapping you within the time and place you have chosen. Once the deed is done, the light fades from the artifact. Its humming ceases, and it never sounds again.\nA beautiful yellow sun rises over the lush kingdom of Valusia, and you wonder what to make of your new life.",
+        "flavor": "Cada janela pela qual você passa parece fortalecer a relíquia. Quando o artefato estiver inteiramente energizado, você o usará para restaurar a antiga glória da civilização de serpentes de Valusia?",
+        "name": "Paraíso Perdido",
+        "text": "[action] Se você estiver em um local <b>Estilhaçado</b> sem pistas: Teste [willpower] ou [intellect] (3). Se você tiver sucesso, anexe seu local, virado para baixo, à Relíquia das Eras. Todos os investigadores e inimigos nesse local são movidos para Um Bolsão no Tempo.\n<b>Objetivo</b> - Se Valusia estiver anexada à Relíquia das Eras, avance.",
+        "back_name": "Glória a Valusia",
+        "back_flavor": "Ichtaca observa você com olhos amarelos semicerrados enquanto o vê manipular o dispositivo que vibra nas suas mãos. O poder emana de cada abertura dele. Raios de luz brilhante são lançados de rachaduras que aparecem na superfície. Você observa enquanto a barreira entre as linhas do tempo começa a se reparar e a janela se fecha, prendendo você dentro do tempo e do lugar que você escolheu. Depois quando tudo se conclui, a luz se esvai do artefato. Seu zumbido cessa, e ele finalmente silencia para sempre.\n\nEnquanto um lindo sol amarelo nasce sobre o exuberante reino de Valusia, você pensa no que fará com sua nova vida.",
         "back_text": "<b>(→R2)</b>"
     },
     {
         "code": "04323",
-        "flavor": "Each window you step through seems to empower the relic. Once the artifact is fully powered, will you use it to prevent the destruction of Pnakotus and the Yithians?",
-        "name": "Timelock",
-        "text": "[action] If you are at a [[Shattered]] location with no clues: Test [willpower] or [intellect] (3). If you succeed, attach your location facedown to the Relic of Ages. Each investigator and enemy at that location is moved to A Pocket in Time.\n<b>Objective</b> - If Pnakotus is attached to the Relic of Ages, advance.",
-        "back_name": "Survival of Pnakotus",
-        "back_flavor": "Alejandro studies your every move as you manipulate the thrumming device in your hands. Power seeps from the device's every aperture. Rays of blinding light shoot forth from the cracks appearing on its surface. You watch as the boundary between timelines begins to mend, and the window closes, trapping you within the time and place you have chosen. Once the deed is done, the light fades from the artifact. Its humming ceases, and it never sounds again.\n\"Come, my friend,\" Alejandro says stoically, motioning toward the tallest basalt tower of the city of endless archives. \"Now our work can truly begin.\"",
-        "back_text": "<b>(→R3)</b>"
+        "flavor": "Cada janela pela qual você passa parece fortalecer a relíquia. Quando o artefato estiver inteiramente energizado, você o usará para impedir a destruição de Pnakotus e dos Yithians?",
+        "name": "Tempo Paralisado",
+        "text": "[action] Se você estiver em um local <b>Estilhaçado</b> sem pistas: Teste [willpower] ou [intellect] (3). Se você tiver sucesso, anexe seu local, virado para baixo, à Relíquia das Eras. Todos os investigadores e inimigos nesse local são movidos para Um Bolsão no Tempo.\n<b>Objetivo</b> - Se Pnakotus estiver anexado à Relíquia das Eras, avance.",
+        "back_name": "Sobrevivência de Pnakotus",
+        "back_flavor": "Alejandro observa cada movimento seu enquanto o vê manipular o dispositivo que vibra nas suas mãos. O poder emana de cada abertura dele. Raios de luz brilhante são lançados de rachaduras que aparecem na superfície. Você observa enquanto a barreira entre as linhas do tempo começa a se reparar e a janela se fecha, prendendo você dentro do tempo e do lugar que você escolheu. Quando tudo se conclui, a luz se esvai do artefato. Seu zumbido cessa, e ele finalmente silencia para sempre.\n\"Venha, meu amigo\", Alejandro diz, estoico, gesticulando em direção à mais alta torre de basalto da cidade de infinitos arquivos. \"Agora nossa obra pode verdadeiramente começar.\"",
+        "back_text": "(→R3)"
     },
     {
         "code": "04324",
-        "name": "Nexus of N'kai",
-        "subname": "Unraveling the Threads",
-        "text": "<b>Forced</b> - After you move from Nexus of N'kai to an [[Otherworld]] location, or vice versa: Take 1 horror for each clue on that [[Otherworld]] location.\n[action]: <b>Explore.</b> Draw the top card of the exploration deck. If it is a connecting location, put it into play and move to it. Do not take horror from the above <b>Forced</b> ability when moving via this effect.",
-        "traits": "Ancient. Ruins.",
-        "back_flavor": "At the center of the chamber lies the Nexus: a bottomless pit in the Earth, ringed by futuristic machinery no doubt built by those who came before humanity. Inside this pit is a swirling soup of eldritch energy; glowing strands of ethereal light that ripple, fold, and weave among one another. As you approach, a fragment of stone chips from the brim and falls into the portal, vanishing from existence."
+        "name": "Nexus de N'kai",
+        "subname": "Desembaraçando os Fios",
+        "text": "<b>Forçado</b> - Após você se mover do Nexus de N'kai para um local de <b>Outro Mundo</b> ou vice-versa: Sofra 1 de horror para cada pista nesse local de <b>Outro Mundo</b>.\n[action]: <b>Explore.</b> Compre a carta do topo do baralho de exploração. Se for um local conectado, coloque-o em jogo e mova-se para ele. Não sofra horror da habilidade <b>Forçado</b> acima ao se mover por meio deste efeito.",
+        "traits": "Remoto. Ruínas.",
+        "back_flavor": "No centro da câmara está o Nexus: um poço sem fundo na Terra, circundado por maquinário futurista, sem dúvida construído por antecessores da humanidade. Dentro do poço há uma sopa rodopiante de energia quimérica, fios brilhantes de luz etérea que vibram, dobram e tecem entre si. Quando você se aproxima, um fragmento de pedra se desprende da borda e cai no portal, desaparecendo da existência.",
+        "back_traits": "Remoto. Ruínas."
     },
     {
         "code": "04325",
-        "name": "Ichtaca",
+        "name": "Misericórdia de Yig",
         "subname": "Scion of Yig",
-        "text": "Hunter. Retaliate\n[action]: <b>Parley.</b> Test [intellect] (5) to plead for your life. If a [cultist] symbol is revealed during this test, you automatically succeed. If you fail, Ichtaca attacks you. If you succeed, flip this card over and resolve its text.",
+        "text": "Consulte o Registro da Campanha. Se houver 16 ou mais marcas em \"Fúria de Yig\":\nIchtaca se recusa. Vire esta carta para o outro lado.\nSe houver 15 ou menos marcas:\nIchtaca cessa o ataque e ouve suas palavras. \"A glória de Valusia deve ser restaurada. Não há outra maneira\", ela decreta com amarga determinação. \"Ajude-nos a alcançar este objetivo e poderá se juntar a nós. Yig o recriará à sua imagem e semelhança, e viveremos juntos em nosso paraíso atemporal de Valusia.\"\nOs investigadores devem decidir (escolha um):\n[action] \"Eu nunca daria as costas à humanidade!\" Vire esta carta para o outro lado, esgotada e desengajada. Pelo restante deste cenário, você não pode <b>Negociar</b> com Ichtaca.\n[action] \"Eu aceito.\" Remova do jogo esta carta e o ato 4a — \"Repare o Estilhaçamento\" e avance para o ato separado Ato 4a — \"Paraíso Perdido\". Pelo restante deste cenário, você não pode <b>Negociar</b> com Alejandro Vela e inimigos <b>Serpentes</b> não engajam nem atacam você.",
         "traits": "Humanoid. Monster. Serpent. Elite."
     },
     {
         "code": "04325b",
-        "name": "Yig's Mercy",
-        "text": "<b>Check Campaign Log. If there are 16 or more tally marks under \"Yig's Fury\":</b>\nIchtaca refuses your plea. Flip this card back over.\n<b>If there are 15 or fewer tally marks:</b>\n<blockquote><i>Ichtaca ceases her assault and listens to your words. \"Valusia must be returned to glory. There is no other way,\" she decrees with bitter certainty. \"Help us to achieve this goal, and you can join with us. Yig will remake you in his image, and we shall live together in our timeless paradise of Valusia.\"</i></blockquote>\nThe investigators must decide (choose one):\n- \"I could never turn my back on humanity!\" Flip this card back over, exhausted and unengaged. For the remainder of the scenario, you cannot <b>parley</b> with Ichtaca.\n- \"I accept.\" Remove this card and Act 4a - \"Mend the Shatter\" from the game and advance to the set-aside Act 4a - \"Paradise Lost\". For the remainder of the scenario, you cannot <b>parley</b> with Alejandro Vela, and [[Serpent]] enemies do not engage or attack you."
+        "name": "Ichtaca",
+        "text": "<b>Caçador. Retaliação.</b>\n[action]: <b>Negociata.</b> Teste [intellect] (5) para implorar por sua vida. Se um símbolo [cultist] for revelado durante este teste, você tem sucesso automaticamente. Se você falhar, Ichtaca ataca você. Se você tiver sucesso, vire esta carta para o verso e resolva o efeito dela.",
+        "subname": "Descendente de Yig",
+        "traits": "Humanoide. Monstro. Serpente. Elite."
     },
     {
         "code": "04326",
-        "name": "Alejandro Vela",
+        "name": "Outra Maneira",
         "subname": "Or, Is He?",
-        "text": "Alert. Hunter.\n[action]: <b>Parley.</b> Test [intellect] (5) to plead for your life. If a [tablet] symbol is revealed during this test, you automatically succeed. If you fail, Alejandro Vela attacks you. If you succeed, flip this card over and resolve its text.",
-        "traits": "Humanoid. Cultist. Elite."
+        "text": "Os investigadores devem decidir (escolha um):\n◇ \"Eu nunca daria as costas à humanidade!\" Vire esta carta para o outro lado, esgotada e desengajada. Pelo restante deste cenário, você não pode <b>Negociar</b> com Alejandro Vela.\n◇ \"Eu aceito.\" Remova do jogo esta carta e o ato 4a — \"Repare o Estilhaçamento\" e avance para o ato separado Ato 4a — \"Tempo Paralisado\". Pelo restante deste cenário, você não pode <b>Negociar</b> com Ichtaca e inimigos <b>Cultistas</b> não engajam nem atacam você.",
+        "traits": "Humanoid. Cultist. Elite.",
+        "flavor": "Alejandro — se realmente for ele mesmo abaixo da máscara de humanidade — considera suas palavras. \"Muito bem. Pouparemos você, mas somente se ajudar a Irmandade.\" Ele gesticula em direção aos portais ao redor de vocês. \"Seu povo não foi o primeiro a herdar a Terra. Você sabe disso devido às suas viagens. Tentamos fazê-lo entender, mas, na sua teimosia, não nos ouviu. Ouça-me agora. As criaturas que nos levaram à ruína retornarão. Elas varrerão a humanidade deste planeta e a única evidência da sua existência sobreviverá em Pnakotus. Mas juntos podemos impedi-las. Junte-se a nós e você ainda poderá salvar a Terra — e vocês próprios.\""
     },
     {
         "code": "04326b",
         "flavor": "Alejandro - if it is really him beneath that guise of humanity - contemplates your words. \"Very well. We will spare you, but only if you assist the Brotherhood.\" He motions to the gateways all around you. \"Your kind was not the first to inherit the Earth. You know this, now, from your travels. We tried to get you to understand, but in your stubbornness, you would not listen. Hear me now. The creatures that drove us to ruin will return. They will wipe humanity off this planet, and the only evidence of your existence will live on in Pnakotus. But together we can stop them. Join us, and you may yet save the Earth - and yourselves.",
-        "name": "Another Way",
-        "text": "The investigators must decide (choose one):\n- \"I could never turn my back on humanity!\" Flip this card back over, exhausted and unengaged. For the remainder of the scenario, you cannot <b>parley</b> with Alejandro Vela.\n- \"I accept.\" Remove this card and Act 4 - \"Mend the Shatter\" from the game and advance to the set-aside Act 4a - \"Timelock\". For the remainder of the scenario, you cannot <b>parley</b> with Ichtaca, and [[Cultist]] enemies do not engage or attack you."
+        "name": "Alejandro Vela",
+        "text": "<b>Alerta. Caçador.</b>\n[action]: <b>Negociata.</b> Teste [intellect] (5) para implorar por sua vida. Se um símbolo [cultist] for revelado durante este teste, você tem sucesso automaticamente.\nSe você falhar, Alejandro Vela ataca você. Se você tiver sucesso, vire esta carta para o verso e resolva o efeito dela.",
+        "subname": "Será Ele Mesmo?",
+        "traits": "Humanoide. Cultista. Elite."
     },
     {
         "code": "04327",
-        "flavor": "It is a strange dark orb at the very rim of our solar system - unknown to earthly astronomers as yet. - H. P. Lovecraft, <u>The Whisperer in Darkness</u>",
+        "flavor": "É um estranho orbe escuro no limite de nosso sistema solar — ainda desconhecido pelos astrônomos terrestres.\n- H. P. Lovecraft, Sussurros na Escuridão",
         "name": "Yuggoth",
-        "text": "[action]: Flip a clue on Yuggoth to its doom side. Draw 1 card.",
-        "traits": "Otherworld."
+        "text": "[action]: Vire uma pista em Yuggoth para o lado de perdição. Compre 1 carta.",
+        "traits": "Outro Mundo."
     },
     {
         "code": "04328",
-        "flavor": "The great stone city R’lyeh, with its monoliths and sepulchres, had sunk beneath the waves... - H. P. Lovecraft, <u>The Call of Cthulhu</u>",
-        "name": "Shores of R'lyeh",
-        "text": "Shores of R'lyeh gets +1 shroud for each doom on each card in Shores of R'lyeh (including itself).\n<b>Forced</b> - After Shores of R'lyeh enters play: Place 1 doom on it.",
-        "traits": "Otherworld."
+        "flavor": "A grande cidade de pedra, R'lyeh, com seus monólitos e sepulcros, havia afundado sob as ondas...\n- H. P. Lovecraft, O Chamado de Cthulhu",
+        "name": "Praias de R'lyeh",
+        "text": "Praias de R'lyeh recebe +1 de véu para cada perdição em cada carta em Praias de R'lyeh (incluindo ela própria).\n<b>Forçado</b> - Após Praias de R'lyeh entrar em jogo: Coloque 1 perdição nela.",
+        "traits": "Outro Mundo."
     },
     {
         "code": "04329",
-        "flavor": "There are secrets in the cosmos better left unknown.\nBut once your Eyes are open, you will truly See.",
-        "name": "City of the Unseen",
-        "text": "<b>Forced</b> - After 1 or more doom is placed on a [[Cultist]] enemy at City of the Unseen: Place 1 additional doom on that enemy.",
-        "traits": "Otherworld."
+        "flavor": "Há segredos no cosmos que é melhor que fiquem desconhecidos. Mas quando seus Olhos estiverem abertos, você verdadeiramente Verá.",
+        "name": "Cidade dos Invisíveis",
+        "text": "<b>Forçado</b> - Após 1 ou mais perdições serem colocadas em um inimigo [cultist] <b>Cultista</b> na Cidade dos Invisíveis: Coloque 1 perdição adicional nesse inimigo.",
+        "traits": "Outro Mundo."
     },
     {
         "code": "04330",
-        "name": "A Pocket in Time",
-        "text": "<b>Forced</b> - After you move from A Pocket in Time to a [[Shattered]] location, or vice versa: Take 1 damage for each clue on that [[Shattered]] location.\n[action]: <b>Explore.</b> Draw the top card of the exploration deck. If it is a connecting location, put it into play and move to it. Do not take damage from the above <b>Forced</b> ability when moving via this effect.",
+        "name": "Um Bolsão no Tempo",
+        "text": "<b>Forçado</b> - Após se mover de Um Bolsão no Tempo para um local <i>Estilhaçado</i> ou vice-versa: Sofra 1 de dano para cada pista nesse local <i>Estilhaçado</i>.\n[action]: <b>Explore.</b> Compre a carta do topo do baralho de exploração. Se for um local conectado, coloque-o em jogo e mova-se para ele. Não sofra dano da habilidade <b>Forçado</b> acima ao se mover por meio deste efeito",
         "traits": "Extradimensional."
     },
     {
         "code": "04331",
-        "name": "Ruins of New York",
-        "text": "<b>Forced</b> - After Ruins of New York enters play: Put the top card of the lead investigator's deck into play at this location, facedown (2 cards instead if there are 3 or 4 investigators in the game). Treat each of those cards as Flying Polyp enemies with 2 fight, 2 health, 2 evade, 1 damage, and the [[Monster]] trait.",
-        "traits": "Shattered. Future. Ruins."
+        "name": "Ruínas de Nova York",
+        "text": "<b>Forçado</b> - Após Ruínas de Nova York entrar em jogo: Coloque a carta do topo do baralho do investigador líder em jogo neste local, virada para baixo (2 cartas em vez disso se houver 3 ou 4 investigadores no jogo). Trate cada uma dessas cartas como inimigos Pólipo Voador com 2 de luta, 2 de vida, 2 de evasão, 1 de dano e a propriedade <b>Monstro</b>.",
+        "traits": "Estilhaçado. Futuro. Ruínas."
     },
     {
         "code": "04332",
-        "flavor": "...till at last on a hideous day of storm and thunder, terrific rumbling, and mountain-high waves, all the land of Mu sank into the sea forever. - H. P. Lovecraft and Hazel Heald, <u>Out of the Aeons</u>",
+        "flavor": "...até que, por fim, em um horrível dia de tempestade e trovão, tremores terríveis e ondas grandes como montanhas, toda a terra de Mu afundou no oceano para sempre.\n- H. P. Lovecraft e Hazel Heald, Fora dos Éons",
         "name": "Mu",
-        "text": "While you are at Mu, the first [skull], [cultist], [tablet], or [elder_thing] symbol you reveal during each skill test gains: \"Reveal another token.\"",
-        "traits": "Shattered. Ancient."
+        "text": "Enquanto você estiver em Mu, o primeiro símbolo [skull], [cultist], [tablet] ou [elder_thing] que você revelar em cada teste de perícia ganha: \"Revele outra ficha.\"",
+        "traits": "Estilhaçado. Remoto."
     },
     {
         "code": "04333",
-        "name": "Atlantis",
-        "text": "<b>Forced</b> - After an [auto_fail] symbol is revealed during a skill test at any location: Place 1 doom on Atlantis. Then, if there are 3 or more doom on Atlantis, remove it from the game. Each enemy and investigator that was at Atlantis is defeated.",
-        "traits": "Shattered. Ancient."
+        "name": "Atlântida",
+        "text": "<b>Forçado</b> - Após um símbolo [auto_fail] ser revelado durante um teste de perícia em qualquer local: Coloque 1 perdição em Atlântida. Então, se houver 3 ou mais perdições em Atlântida, remova esta carta do jogo. Todos os investigadores e inimigos que estavam em Atlântida são derrotados.",
+        "traits": "Estilhaçado. Remoto."
     },
     {
         "code": "04334",
         "name": "Pnakotus",
-        "text": "[action] If there are at least 3 [tablet] tokens in the chaos bag or sealed on cards in play: Discover all of the clues on Pnakotus and draw that many cards. (Group limit once per game.)",
-        "traits": "Shattered. Ancient."
+        "text": "[action] Se houver pelo menos 3 [tablet] fichas na bolsa de caos ou seladas em cartas em jogo: Descubra todas as pistas em Pnakotus e compre essa mesma quantidade de cartas. (Limite de grupo de uma vez por jogo.)",
+        "traits": "Estilhaçado. Remoto."
     },
     {
         "code": "04335",
         "name": "Valusia",
-        "text": "[action] If there are at least 3 [cultist] tokens in the chaos bag or sealed on cards in play: Heal 2 damage and 2 horror. Set Valusia's shroud to 0 for the remainder of the game. (Group limit once per game.)",
-        "traits": "Shattered. Ancient."
+        "text": "[action] Se houver pelo menos 3 [cultist] fichas na bolsa de caos ou seladas em cartas em jogo: Cure 2 de dano e 2 de horror. Defina o valor do véu de Valusia para 0 pelo restante do jogo. (Limite de grupo de uma vez por jogo.)",
+        "traits": "Estilhaçado. Remoto."
     },
     {
         "code": "04336",
-        "flavor": "…the conviction grew upon us that this hideous upland must indeed be the fabled nightmare plateau of Leng which even the mad author of the <u>Necronomicon</u> was reluctant to discuss. - H. P. Lovecraft, <u>At the Mountains of Madness</u>",
-        "name": "Plateau of Leng",
-        "text": "<b>Forced</b> - If you reveal an [elder_thing] symbol during a skill test at Plateau of Leng: Take 1 horror.",
-        "traits": "Shattered. Present-Day."
+        "flavor": "... a convicção cresceu em nós de que esta horrível elevação deveria de fato ser o infame platô de Leng, que mesmo o louco autor do Necronomicon relutou em discutir.\n- H. P. Lovecraft, Nas Montanhas da Loucura",
+        "name": "Platô de Leng",
+        "text": "<b>Forçado</b> - Se você revelar um símbolo [elder_thing] durante um teste de perícia no Platô de Leng: Sofra 1 de horror.",
+        "traits": "Estilhaçado. Dias Atuais."
     },
     {
         "code": "04337",
-        "flavor": "...they found living things - living things that oozed along stone channels and worshipped onyx and basalt images of Tsathoggua. - H. P. Lovecraft, <u>The Mound</u>",
-        "name": "Formless Spawn",
-        "subname": "From the Abyss",
-        "text": "<b>Spawn</b> - Nexus of N'kai.\nMassive. Formless Spawn cannot move or be moved.\nFormless Spawn gets +1 fight and +1 evade for each doom on each card in Nexus of N'kai <i>(including Nexus of N'Kai)</i>.",
-        "traits": "Monster. Abomination. Elite."
+        "flavor": "...eles encontraram coisas vivas — coisas vivas que rastejavam por canais de pedra e adoravam imagens de ônix e basalto de Tsathoggua. – H. P. Lovecraft, O Monte",
+        "name": "Prole Disforme",
+        "subname": "Vinda do Abismo",
+        "text": "<b>Surgir</b> – Nexus de N'Kai.\nMassivo. Prole Disforme não pode se mover ou ser movida.\nProle Disforme recebe +1 de luta e +1 de evasão para cada perdição em cada carta em Nexus de N'Kai <i>(incluindo Nexus de N'Kai)</i>.",
+        "traits": "Monstro. Abominação. Elite."
     },
     {
         "code": "04338",
-        "name": "Temporal Devourer",
-        "text": "<b>Spawn</b> - Farthest [[Shattered]] or [[Extradimensional]] location. If there are no such locations in play, Temporal Devourer gains surge.\nHunter.\n<b>Forced</b> - After Temporal Devourer enters a [[Shattered]] or [[Extradimensional]] location: Place 1 clue on that location <i>(from the token pool)</i>.",
-        "traits": "Monster. Extradimensional."
+        "name": "Devorador Temporal",
+        "text": "<b>Surgir</b> - O local <i>Estilhaçado</i> ou <i>Extradimensional</i> mais distante. Se não houver nenhum local desse tipo em jogo, Devorador Temporal ganha ímpeto.\n<b>Caçador</b>.\n<b>Forçado</b> - Após Devorador Temporal entrar em um local <i>Estilhaçado</i> ou <i>Extradimensional</i>: Coloque 1 pista nesse local (da reserva de fichas).",
+        "traits": "Monstro. Extradimensional."
     },
     {
         "code": "04339",
-        "flavor": "If you do not mend the shattered boundaries of time, this may be all that is left of our world.",
-        "name": "Shattered Ages",
-        "text": "<b>Revelation</b> - Test [willpower] (4). If you fail, place 1 clue <i>(from the token pool)</i> on each location other than Nexus of N'kai.",
-        "traits": "Hex."
+        "flavor": "Se você não reparar as barreiras estilhaçadas do tempo, pode ser que apenas isso reste do nosso mundo.",
+        "name": "Eras Estilhaçadas",
+        "text": "<b>Revelação</b> – Teste [willpower] (4). Se você falhar, coloque 1 pista (da reserva de fichas) em cada local que não seja Nexus de N'kai.",
+        "traits": "Sortilégio."
     },
     {
         "code": "04340",
-        "name": "Between Worlds",
-        "text": "<b>Revelation</b> - Put Between Worlds into play as an [[Otherworld]] location with 3 shroud and 1 clue, and move to it. It is connected to the Nexus of N'kai. <i>(If drawn from the exploration deck, this exploration is still considered unsuccessful.)</i>\n<b>Forced</b> - At the end of the round: Each investigator here takes 1 damage and 1 horror. If there are no investigators in this location, discard it and move each enemy here to Nexus of N'kai.",
-        "traits": "Hex."
+        "name": "Entre Mundos",
+        "text": "<b>Revelação</b> – Coloque Entre Mundos em jogo como um local de <i>Outro Mundo</i> com 3 de véu e 1 pista e mova-se para ele. Ele está conectado ao Nexus de N'kai. <i>(Se foi comprada do baralho de exploração, essa exploração ainda é considerada malsucedida.)</i>\n<b>Forçado</b> – Ao final da rodada: Cada investigador neste local sofre 1 de dano e 1 de horror. Se não houver investigadores neste local, descarte o local e mova cada inimigo daqui para Nexus de N'kai.",
+        "traits": "Sortilégio."
     },
     {
         "code": "04341",
-        "name": "Wracked by Time",
-        "text": "<b>Revelation</b> - Test [willpower] (3). Each investigator at a [[Shattered]] location must also perform this skill test. Each investigator who fails takes 2 damage. Each asset assigned damage by this effect that is not defeated is shuffled into its owner's deck.",
-        "traits": "Hex."
+        "name": "Arrasado pelo Tempo",
+        "text": "<b>Revelação</b> - Teste [willpower] (3). Cada investigador em um local <i>Estilhaçado</i> também deve realizar este teste de perícia. Cada investigador que falhar sofre 2 de dano. Cada ativo com dano atribuído por este efeito que não for derrotado é embaralhado no baralho de seu dono.",
+        "traits": "Sortilégio."
     },
     {
         "code": "04342",
-        "name": "Creeping Darkness",
-        "text": "<b>Revelation</b> - Attach to Nexus of N'kai. Place 1 doom on Creeping Darkness.\nFormless Spawn gets +1 [per_investigator] health.\n[action][action]: Test [willpower] (3) or check your supplies. If you succeed, or if you have torches, Discard Creeping Shadows.",
-        "traits": "Hazard."
+        "name": "Escuridão Rastejante",
+        "text": "<b>Revelação</b> - Anexe a Nexus de N'kai. Coloque 1 perdição em Escuridão Rastejante.\nProle Disforme recebe +1 [per_investigator] de vida.\n[action][action]: Teste [willpower] (3) ou verifique seus suprimentos. Se você tiver sucesso, ou se você tiver tochas, descarte Escuridão Rastejante.",
+        "traits": "Risco."
     },
     {
         "code": "04343",
-        "flavor": "The device undulates in your hands, its power overflowing, uncontrolled. The air around you is warped, as though time and space around you is twisting, distorting...",
-        "name": "Relic of Ages",
-        "subname": "Unleash the Timestream",
-        "text": "<b>Forced</b> - After you resolve a treachery while exploring: Shuffle that treachery back into the exploration deck instead of discarding it.",
-        "traits": "Item. Relic."
+        "flavor": "O dispositivo ondula na sua mão, seu poder transbordando, descontrolado. O ar à sua volta entorta, como se o tempo e o espaço estivessem dobrando-se, distorcendo-se...",
+        "name": "Relíquia das Eras",
+        "subname": "Liberte o Fluxo do Tempo",
+        "text": "<b>Forçado</b> - Após você resolver uma traição ao explorar: Embaralhe essa traição de volta no baralho de exploração em vez de descartá-la.",
+        "traits": "Item. Relíquia."
     },
     {
         "code": "04344",
-        "name": "Turn Back Time",
-        "text": "Easy / Standard\n[skull]: -X . X is the number of locations with doom on them.\n[elder_thing]: -4. If you fail, place 1 doom on your location.",
-        "back_text": "Hard / Expert\n[skull]: -X . X is the total amount of doom on locations.\n[elder_thing]: -6. Place 1 doom on your location."
+        "name": "Reversão do Tempo",
+        "text": "FÁCIL / MÉDIO\n[skull]: -X. X é o número de locais com perdição sobre eles.\n[elder_thing]: -4. Se você falhar, coloque 1 perdição em seu local.",
+        "back_text": "DIFÍCIL / EXPERIENTE\n[skull]: -X. X é o número total de perdição nos locais em jogo.\n[elder_thing]: -6. Coloque 1 perdição em seu local."
     },
     {
         "code": "04345",
-        "flavor": "Despite everything that has occurred since you were last here, the Eztli temple remains the same as it was when you first explored it, preserved in an echo of time. You use your memories to guide you, heading deeper into the ruins once more.",
-        "name": "Into the Ruins Once Again",
-        "text": "[action]: <b>Explore.</b> Draw the top card of the exploration deck. If it is a connecting location, put it into play and move to it.",
-        "back_name": "Sleeping Corridors",
+        "flavor": "Apesar de tudo que aconteceu desde a última vez em que esteve aqui, o templo de Eztli continua o mesmo de quando o explorou pela primeira vez, preservado em um eco do tempo. Você se guia por suas memórias, entrando mais fundo nas ruínas uma vez mais.",
+        "name": "Entrando nas Ruínas",
+        "text": "[action]: <b>Explore.</b> Compre a carta do topo do baralho de exploração. Se for um local conectado, coloque-o em jogo e mova-se para ele.",
+        "back_name": "Corredores Adormecidos",
         "back_flavor": "You pass by carvings in the walls and hieroglyphs etched into stone altars. The location of the relic's vault is already locked deep in your memory.",
-        "back_text": "Shuffle the set-aside Chamber of Time location into the exploration deck.\nPlace this act in the victory display. It gains <b>Vengeance 2</b>."
+        "back_text": "Você passa por entalhes nas paredes e hieróglifos gravados em altares de pedra. A localização do cofre da relíquia está gravada fundo na sua memória.\nEmbaralhe o local separado Câmara do Tempo no baralho de exploração.\nColoque este ato no painel de vitórias. Ele ganha <b>Vingança 2</b>.",
+        "subname": "Uma Vez Mais"
     },
     {
         "code": "04346",
-        "flavor": "In the central chamber deep within the core of the ruins, the relic awaits.",
-        "name": "The Chamber of Still Remains",
-        "text": "[action]: <b>Explore.</b> Draw the top card of the exploration deck. If it is a connecting location, put it into play and move to it.\n<b>Objective</b> - Only investigators in the Chamber of Time may spend the requisite number of clues, as a group, to advance.",
-        "back_name": "Reversal",
-        "back_flavor": "The relic hums with power and throbs in your hands. Energy from the device seeps into the corridors of the ruins, and the structure of the temple shifts. However, this does not matter to you. Escaping with the relic is no longer your goal. You skillfully work the hidden components of the device once more, manipulating the very fabric of time in the environment around you. Determined to stop all of this from having ever occurred, you turn the clock back once more.",
-        "back_text": "Choose an investigator in the Chamber of Time to take control of the Relic of Ages.\nSearch the collection for Yig <i>(The Forgotten Age card #296)</i>. Spawn it in the Chamber of Time.\nPlace this act in the victory display. It gains <b>Vengeance 2</b>."
+        "flavor": "Na câmara central, fundo no cerne das ruínas, a relíquia espera.",
+        "name": "A Câmara de Restos Mortais",
+        "text": "[action]: <b>Explore.</b> Compre a carta do topo do baralho de exploração. Se for um local conectado, coloque-o em jogo e mova-se para ele.\n<b>Objetivo</b> - Apenas investigadores na Câmara do Tempo podem gastar o número necessário de pistas, em grupo, para avançar.",
+        "back_name": "Inversão",
+        "back_flavor": "A relíquia zumbe de poder e vibra nas suas mãos. A energia do dispositivo flui para os corredores das ruínas e a estrutura do templo se altera. No entanto, isso não importa para você. Seu objetivo não é mais escapar com a relíquia. Uma vez mais, você opera habilidosamente os componentes ocultos do dispositivo, manipulando o próprio tecido do tempo no ambiente à sua volta. Determinado a impedir que tudo isso tenha acontecido, você gira o relógio para trás novamente.",
+        "back_text": "Escolha um investigador na Câmara do Tempo para assumir o controle da Relíquia das Eras.\nProcure Yig na coleção (Carta #296 de A Era Esquecida). Faça-o surgir na Câmara do Tempo.\nColoque este ato no painel de vitórias. Ele ganha <b>Vingança 2</b>."
     },
     {
         "code": "04347",
-        "flavor": "You stand in the center of the relic’s vault, surrounded on all sides by slain Eztli warriors. The Father of Serpents stands before you, his hiss shaking you to your bones. This is where the Eztli made their last stand. Now, only you stand in the creature’s way.",
-        "name": "Moment of Doom",
-        "text": "Relic of Ages gains: \"[action]: Test [willpower] or [intellect] (4). If you succeed, flip a clue controlled by an investigator at your location to its doom side, and place it on your location. Then, deal 3 damage to Yig.\"\n<b>Objective</b> - If Yig is defeated, advance.",
-        "back_name": "Yig's Fall",
-        "back_flavor": "The creature roars in pain. His tail thrashes violently, crushing several pillars and sending you flying to the ground. He retreats with a hateful, rumbling hiss. You turn your attention back to the relic and the chamber that was built to preserve it. It is time to end this, once and for all. It is time to do what must be done.",
-        "back_text": "<b>(→R1).</b>"
+        "flavor": "Você se põe no centro do cofre da relíquia, cercado por todos os lados de guerreiros mortos de Eztli. O Pai das Serpentes está diante de você, seu silvo fazendo-o tremer até os ossos. Foi aqui a última resistência de Eztli. Agora apenas você resta no caminho da criatura.",
+        "name": "Momento de Perdição",
+        "text": "A Reliquia das Eras ganha: \"[action]: Teste [willpower] ou [intellect] (4). Se você tiver sucesso, vire para o lado de perdição uma pista sob o controle de um investigador no seu local e coloque-a no seu local. Então, cause 3 de dano a Yig.\"\n<b>Objetivo</b> - Se Yig for derrotado, avance.",
+        "back_name": "A Queda de Yig",
+        "back_flavor": "A criatura ruge de dor. A cauda dela se agita violentamente, esmagando vários pilares e lançando você ao chão. Ele recua com um silvo odioso, estrondoso. Você volta sua atenção novamente à relíquia e à câmara que foi construída para preservá-la. É hora de acabar com isso, uma vez por todas. É hora de fazer o que deve ser feito.",
+        "back_text": "(→R1)"
     }
 ]
