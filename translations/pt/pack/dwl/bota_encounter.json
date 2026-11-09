@@ -1,9 +1,9 @@
 [
     {
         "code": "02195",
-        "name": "Blood on the Altar",
-        "text": "Easy / Standard\n[skull]: -1 for each location in play with no encounter card underneath it (max -4).\n[cultist]: -2. If you fail, add 1 clue from the token pool to your location.\n[tablet]: -2. If you are in the Hidden Chamber, reveal another token.\n[elder_thing]: -3. If you fail, place 1 doom on the current agenda.",
-        "back_text": "Hard / Expert\n[skull]: -1 for each location in play with no encounter card underneath it.\n[cultist]: -4. If you fail, add 1 clue from the token pool to your location.\n[tablet]: -3. Reveal another token.\n[elder_thing]: -3. Place 1 doom on the current agenda."
+        "name": "Sangue no Altar",
+        "text": "FÁCIL / MÉDIO\n[skull]: -1 para cada local em jogo que não tenha uma carta de encontro embaixo (máximo de -4).\n[cultist]: -2. Se você falhar, adicione 1 pista da reserva de fichas ao seu local.\n[tablet]: -2. Se você estiver na Câmara Secreta, revele outra ficha.\n[elder_thing]: -3. Se você falhar, coloque 1 de perdição na agenda atual.",
+        "back_text": "DIFÍCIL / EXPERIENTE\n[skull]: -1 para cada local em jogo que não tenha uma carta de encontro embaixo.\n[cultist]: -4. Se você falhar, adicione 1 pista da reserva de fichas ao seu local.\n[tablet]: -3. Revele outra ficha.\n[elder_thing]: -3. Coloque 1 de perdição na agenda atual."
     },
     {
         "code": "02196",
@@ -31,12 +31,12 @@
     },
     {
         "code": "02199",
-        "flavor": "The disappearances in town may be related to the events in Arkham. You suspect that something awful is afoot. You must find where the missing townsfolk are being held in order to unveil this conspiracy.",
-        "name": "Searching for Answers",
-        "text": "<b>Objective</b> - When an investigator enters The Hidden Chamber, advance.",
-        "back_name": "What Was Hidden",
-        "back_flavor": "You find your way into the hidden chamber where you believe the missing folk are being held, but the horrors that confront you there fray the edges of your sanity. Bound by chains in a secluded corner of the room is an unspeakable creature with the face of a man. It wheezes and wrestles to free itself as it notices your entrance. The many mouths covering the creature’s body are covered in blood and gristles of meat, as though it were feeding recently.\nWith a hideous croak, the creature speaks with seven mouths.\"Ss... se... eth...?\" Then it lurches forward as though to grab you, and several of its chains snap.",
-        "back_text": "Reveal each unrevealed location. \nMove all clues in play (including those on each investigator) to The Hidden Chamber.\nSpawn the set-aside Silas Bishop enemy in The Hidden Chamber."
+        "flavor": "Os desaparecimentos na cidade podem estar relacionados aos eventos em Arkham. Vocês suspeitam de que algo terrível está acontecendo. Será preciso encontrar onde os moradores desaparecidos estão presos para desvelar essa conspiração.",
+        "name": "Buscando por Respostas",
+        "text": "<b>Objetivo</b> - Quando um investigador entrar em A Câmara Secreta, avance.",
+        "back_name": "Aquilo Que Foi Ocultado",
+        "back_flavor": "Vocês conseguem chegar à câmara secreta onde acreditam que as pessoas desaparecidas estão presas, mas os horrores que lá encontram parecem roer os limites de sua sanidade. Presa por correntes em um canto isolado da sala, há uma criatura indescritível cujo rosto é o de um homem. Ela arqueja e se debate, tentando se libertar quando nota a entrada de vocês. As muitas bocas que cobrem o corpo da monstruosidade estão cobertas de sangue e pedaços de carne, como se tivessem se alimentado recentemente.\n\nCom um coachar horrendo, a criatura fala com sete bocas. \"Ss... se... eth...?\" Então ela se lança adiante, como se para agarrá-los, e várias das correntes se rompem.",
+        "back_text": "Revele cada local não revelado.\nMova todas as pistas em jogo (incluindo as pistas nos investigadores) para A Câmara Secreta.\nA carta de inimigo Silas Bishop previamente separada surge em A Câmara Secreta."
     },
     {
         "code": "02200",
@@ -49,11 +49,12 @@
     },
     {
         "code": "02201",
-        "flavor": "...the sparsely scattered houses wear a surprisingly uniform aspect of age, squalor, and dilapidation.\n-H. P. Lovecraft, \"The Dunwich Horror\"",
-        "name": "Village Commons",
-        "text": "[action] <b>Resign.</b> \"This is suicide! We're better off hiding out the night.\"",
+        "flavor": "... as casas esparsamente espalhadas apresentavam um aspecto surpreendentemente uniforme de velhice, miséria e deterioração.\n—H. P. Lovecraft, \"O Horror de Dunwich\"",
+        "name": "Ruas do Vilarejo",
+        "text": "[action] <b>Renúncia.</b> \"Isso é suicídio! Melhor passarmos a noite escondidos.\"",
         "traits": "Dunwich. Central.",
-        "back_flavor": "...it is hard to prevent the impression of a faint, malign odour about the village street, as of the massed mould and decay of centuries.\n-H. P. Lovecraft, \"The Dunwich Horror\""
+        "back_flavor": "... é difícil ignorar a impressão de que há um leve odor maligno nas ruas do vilarejo, como se fosse derivado do acúmulo de séculos de mofo e podridão.\n—H. P. Lovecraft, \"O Horror de Dunwich\"",
+        "back_traits": "Dunwich. Central."
     },
     {
         "code": "02202",
@@ -64,10 +65,11 @@
     },
     {
         "code": "02203",
-        "name": "Bishop's Brook",
-        "text": "If there is an investigator at Bishop's Brook, other investigators cannot enter Bishop's Brook.\n[free] If there are no clues here: Draw the encounter card underneath Bishop's Brook. (Group limit once per game).",
+        "name": "Córrego do Bispo",
+        "text": "Se houver um investigador em Córrego do Bispo, outros investigadores não podem entrar em Córrego do Bispo.\n[fast] Se não houver pistas aqui: Compre a carta de encontro que está embaixo de Córrego do Bispo. (Limite de grupo de uma vez por jogo).",
         "traits": "Dunwich.",
-        "back_flavor": "One dreads to trust the tenebrous tunnel of the bridge, yet there is no way to avoid it.\n-H. P. Lovecraft, \"The Dunwich Horror\""
+        "back_flavor": "É apavorante ter de confiar no tenebroso túnel da ponte, no entanto, não há como evitá-lo.\n-H. P. Lovecraft, \"O Horror de Dunwich\"",
+        "back_traits": "Dunwich."
     },
     {
         "code": "02204",
@@ -78,10 +80,10 @@
     },
     {
         "code": "02205",
-        "name": "Burned Ruins",
-        "text": "<b>Forced</b> - After you fail a skill test while investigating the Burned Ruins: Flip 1 clue token on the Burned Ruins to its doom side.\n[free] If there are no clues here: Draw the encounter card underneath Burned Ruins. (Group limit once per game).",
+        "name": "Ruínas Queimadas",
+        "text": "<b>Forçado</b> - Após você falhar em um teste de perícia enquanto está investigando Ruínas Queimadas: Vire 1 ficha de pista em Ruínas Queimadas para seu lado de perdição.\n[fast] Se não houver pistas aqui: Compre a carta de encontro que está embaixo de Ruínas Queimadas. (Limite de grupo de uma vez por jogo).",
         "traits": "Dunwich.",
-        "back_flavor": "It is not reassuring to see, on a closer glance, that most of the houses are deserted and falling to ruin...\n-H. P. Lovecraft, \"The Dunwich Horror\""
+        "back_flavor": "Não é reconfortante perceber que, olhando mais de perto, a maioria das casas está deserta e em ruínas...\n-H. P. Lovecraft, \"O Horror de Dunwich\""
     },
     {
         "code": "02206",
@@ -141,42 +143,42 @@
     },
     {
         "code": "02214",
-        "name": "The Hidden Chamber",
-        "subname": "Prison of the Beast",
-        "text": "<b>Revelation</b> - Put The Hidden Chamber into play.\nThe Hidden Chamber and the location from which it was drawn are connected to one another.\nThe door to The Hidden Chamber is locked. You cannot enter The Hidden Chamber unless Key to the Chamber is attached to The Hidden Chamber.",
+        "name": "A Câmara Secreta",
+        "subname": "Prisão da Besta",
+        "text": "<b>Revelação</b> – Coloque A Câmara Secreta em jogo.\nA Câmara Secreta e o local do qual ela foi comprada estão conectados um ao outro.\nA porta para A Câmara Secreta está trancada. Você não pode entrar em A Câmara Secreta a menos que Chave para a Câmara esteja anexada em A Câmara Secreta.",
         "traits": "Dunwich."
     },
     {
         "code": "02215",
-        "flavor": "This tarnished silver key was hidden and kept safe out of sight. It must lead somewhere important.",
-        "name": "Key to the Chamber",
-        "text": "<b>Revelation</b> - Take control of Key to the Chamber.\n[free] If The Hidden Chamber is connected to your location: Attach Key to the Chamber to The Hidden Chamber.",
-        "traits": "Item. Key."
+        "flavor": "Essa chave de prata manchada foi mantida escondida e longe das vistas. Ela deve levar a algum lugar importante.",
+        "name": "Chave para a Câmara",
+        "text": "<b>Revelação</b> - Assuma controle de Chave para a Câmara.\n[fast] Se A Câmara Secreta estiver conectada ao seu local: Anexe Chave para a Câmara em A Câmara Secreta.",
+        "traits": "Item. Chave."
     },
     {
         "code": "02216",
-        "flavor": "What walked on the mountains that May-Night?\nWhat Roodmas horror fastened itself on the world in half human flesh and blood?\n-H. P. Lovecraft, \"The Dunwich Horror\"",
+        "flavor": "O que andava pelas montanhas naquela noite de maio? Que horror abrira caminho para o mundo, travestido de carne e sangue humano, naquele dia da Festa da Cruz?\n—H. P. Lovecraft, \"O Horror de Dunwich\"",
         "name": "Silas Bishop",
-        "subname": "Infused With Evil",
-        "text": "Massive.\nSilas Bishop cannot make attacks of opportunity.",
-        "traits": "Monster. Abomination. Elite."
+        "subname": "Infundido Com O Mal",
+        "text": "<b>Massivo.</b>\nSilas Bishop não pode fazer ataques de oportunidade.",
+        "traits": "Monstro. Abominação. Elite."
     },
     {
         "code": "02217",
-        "flavor": "...His memories of chantings in the great stone circles were not altogether connected with Wilbur and his grandfather.\n-H. P. Lovecraft, \"The Dunwich Horror\"",
+        "flavor": "... suas memórias sobre cânticos em grandes círculos de pedra não estavam de todo conectadas a Wilbur e seu avô.\n-H.P. Lovecraft, \"O Horror de Dunwich\"",
         "name": "Zebulon Whateley",
-        "subname": "Recalling Ancient Things",
-        "text": "You get +1 [willpower].\n[reaction] After you succeed at a [willpower] test on a treachery card, exhaust Zebulon Whateley: Draw 1 card.",
-        "traits": "Ally. Dunwich.",
+        "subname": "Recordando-se de Coisas Antigas",
+        "text": "Você recebe +1 [willpower].\n[reaction] Após você ter sucesso em um teste [willpower] de uma carta de traição, esgote Zebulon Whateley: Compre 1 carta.",
+        "traits": "Aliado. Dunwich.",
         "slot": "Ally"
     },
     {
         "code": "02218",
-        "flavor": "Earl Sawyer, who tended the horse and cattle during Wilbur’s absence, had developed a woefully acute case of nerves.\n-H. P. Lovecraft, \"The Dunwich Horror\"",
+        "flavor": "Earl Sawyer, que cuidava dos cavalos e do gado durante a ausência de Wilbur, desenvolvera uma lamentável crise de nervos.\n-H.P. Lovecraft, \"O Horror de Dunwich\"",
         "name": "Earl Sawyer",
-        "subname": "Smarter Than He Lets On",
-        "text": "You get +1 [agility].\n[reaction] After you evade an enemy, exhaust Earl Sawyer: Draw 1 card.",
-        "traits": "Ally. Dunwich.",
+        "subname": "Mais Esperto Do Que Parece",
+        "text": "Você recebe +1 [agility].\n[reaction] Após você evadir um inimigo, esgote Earl Sawyer: Compre 1 carta.",
+        "traits": "Aliado. Dunwich.",
         "slot": "Ally"
     },
     {
@@ -188,32 +190,33 @@
     },
     {
         "code": "02220",
-        "name": "Kidnapped!",
-        "text": "<b>Revelation</b> - Test [willpower] (4) or [agility] (4). If you fail, add an [[Ally]] asset you control to the pool of potential sacrifices. Then, attach Kidnapped! to the current agenda. If you have no [[Ally]] assets, take 2 damage and discard Kidnapped! instead.\n<b>Forced</b> - When attached agenda advances: Choose a potential sacrifice at random and place it underneath the agenda deck."
+        "name": "Sequestrado!",
+        "text": "<b>Revelação</b> – Teste [willpower] (4) ou [agility] (4). Se você falhar, adicione um ativo <i>Aliado</i> que você controla, à pilha de sacrifícios em potencial. Então, anexe Sequestrado! à agenda atual. Se você não tiver nenhum ativo <i>Aliado</i>, em vez disso sofra 2 de dano e descarte Sequestrado!\n<b>Forçado</b> – Quando a agenda anexada avançar: Escolha um sacrifício em potencial aleatoriamente e coloque embaixo do baralho de agendas.",
+        "traits": "Traição."
     },
     {
         "code": "02221",
-        "name": "Psychopomp's Song",
-        "text": "Surge. Peril.\n<b>Revelation</b> - Add Psychopomp's Song to any investigator's threat area.\n<b>Forced</b> - When you would take 1 or more damage: Take 2 additional damage and discard Psychopomp's Song.",
-        "traits": "Omen."
+        "name": "Canção do Psicopompo",
+        "text": "Ímpeto. Perigo.\n<b>Revelação</b> – Adicione Canção do Psicopompo à área de ameaças de qualquer investigador.\n<b>Forçado</b> – Quando você for sofrer 1 ou mais de dano: Sofra 2 de dano adicional e descarte Canção do Psicopompo.",
+        "traits": "Presságio."
     },
     {
         "code": "02222",
-        "name": "Strange Signs",
-        "text": "<b>Revelation</b> - Test [intellect] (3). If you fail, add 1 clue from the token pool to your location (2 clues instead if there are 3 or 4 investigators in the game).",
-        "traits": "Omen."
+        "name": "Estranhos Sinais",
+        "text": "<b>Revelação</b> – Teste [intellect] (3). Se você falhar, adicione 1 pista da reserva de pistas ao seu local (2 pistas se, em vez disso, houver 3 ou 4 investigadores no jogo).",
+        "traits": "Presságio."
     },
     {
         "code": "02223",
-        "flavor": "A sickening display of gore causes you to retch. You’re glad this wasn’t you.",
-        "name": "Rotting Remains",
-        "text": "<b>Revelation</b> - Test [willpower] (3). For each point you fail by, take 1 horror.\n",
+        "flavor": "Uma visão perturbadora e sanguinolenta faz você ter ânsias. Pelo menos você não é parte do cenário.",
+        "name": "Restos Putrefatos",
+        "text": "<b>Revelação</b> – Teste [willpower] (3). Para cada ponto que você falhar, sofra 1 de horror.",
         "traits": "Terror."
     },
     {
         "code": "02224",
-        "name": "Servant of Many Mouths",
-        "text": "<b>Spawn</b> - Any empty location.\nRetaliate.\n[reaction] After you defeat Servant of Many Mouths: Discover 1 clue at any location.",
-        "traits": "Humanoid."
+        "name": "Servo do Muitas Bocas",
+        "text": "<b>Surgir</b> – Qualquer local vazio.\nRetaliação.\n[reaction] Após você derrotar Servo do Muitas Bocas: Descubra 1 pista em qualquer local.",
+        "traits": "Humanoide."
     }
 ]

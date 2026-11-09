@@ -1,36 +1,36 @@
 [
     {
         "code": "02118",
-        "name": "The Miskatonic Museum",
-        "text": "Easy / Standard\n[skull]: -1 (-3 instead if Hunting Horror is at your location.)\n[cultist]: -1. If you fail, search the encounter deck, discard pile, and the void for Hunting Horror and spawn it at your location, if able.\n[tablet]: -2. Return 1 of your clues to your current location.\n[elder_thing]: -3. If you fail, discard an asset you control.",
-        "back_text": "Hard / Expert\n[skull]: -2 (-4 instead if Hunting Horror is at your location.)\n[cultist]: -3. If you fail, search the encounter deck, discard pile, and the void for Hunting Horror and spawn it at your location, if able.\n[tablet]: -4. If Hunting Horror is at your location, it immediately attacks you.\n[elder_thing]: -5. If you fail, discard an asset you control."
+        "name": "O Museu Miskatonic",
+        "text": "FÁCIL / MÉDIO\n[skull]: -1 (-3 em vez disso, se Horror Caçador estiver em seu local.)\n[cultist]: -1. Se você falhar, procure no baralho de encontros, na pilha de descarte e no vazio por Horror Caçador. Ele surge em seu local, se possível.\n[tablet]: -2. Devolva 1 de suas pistas ao seu local atual.\n[elder_thing]: -3. Se você falhar, descarte um ativo que você controla.",
+        "back_text": "DIFÍCIL / EXPERIENTE\n[skull]: -2 (-4 em vez disso, se Horror Caçador estiver em seu local.)\n[cultist]: -3. Se você falhar, procure no baralho de encontros, na pilha de descarte e no vazio por Horror Caçador. Ele surge em seu local, se possível.\n[tablet]: -4. Se Horror Caçador estiver em seu local, ele ataca você imediatamente.\n[elder_thing]: -5. Se você falhar, descarte um ativo que você controla."
     },
     {
         "code": "02119",
-        "flavor": "Dr. Armitage has given the university’s Latin translation of The Necronomicon to his associate, Harold Walsted, the curator of the Miskatonic University Museum. Worried that someone might still be after the book, you have gone to the museum to recover it.",
-        "name": "Restricted Access",
-        "text": "<b>Forced</b> - When Hunting Horror enters play: Attach the set-aside copy of Shadow-spawned to it, or add 1 resource to Shadow-spawned if it is already attached.",
-        "back_name": "A Creature of the Void",
-        "back_flavor": "From the shadows of the museum halls, a terrible creature slithers forth, long and serpentine, and propelled by black leathery wings.",
-        "back_text": "If Hunting Horror is in play, add 1 doom to it.\nIf Hunting Horror is not in play, search the encounter deck, discard pile, and the void for Hunting Horror and spawn it in Museum Halls, if able. Shuffle the encounter discard pile into the encounter deck."
+        "flavor": "O Dr. Armitage entregou a tradução em latim do Necronomicon que a universidade tinha ao seu associado, Harold Walsted, o curador do Museu da Universidade Miskatonic. Preocupados que alguém ainda possa estar atrás do livro, vocês foram ao museu para recuperá-lo.",
+        "name": "Acesso Restrito",
+        "text": "<b>Forçado</b> - Quando Horror Caçador entrar em jogo: Anexe a ele a cópia de Surgido das Sombras previamente separada, ou então adicione 1 recurso a Surgido das Sombras, se já estiver anexada.",
+        "back_name": "Uma Criatura do Vazio",
+        "back_flavor": "Saindo das sombras dos salões do museu, rasteja uma terrível criatura, longa e serpentina, impulsionada por asas escuras e coriáceas.",
+        "back_text": "Se Horror Caçador estiver em jogo, adicione 1 perdição a ele.\nSe Horror Caçador não estiver em jogo, procure no baralho de encontros, na pilha de descarte e no vazio por Horror Caçador. Ele surge em Salões do Museu, se possível. Embaralhe a pilha de descarte de encontros no baralho de encontros."
     },
     {
         "code": "02120",
-        "flavor": "The shadows in the museum grow and become darker. As the shadows lengthen and shift, they begin to suggest the sinewy body of an uncanny creature darting at the periphery of your awareness...",
-        "name": "Shadows Deepen",
-        "text": "<b>Forced</b> - When Hunting Horror enters play: Attach the set-aside copy of Shadow-spawned to it, or add 1 resource to Shadow-spawned if it is already attached.",
-        "back_name": "Hunted Down",
-        "back_flavor": "The creature does not relent, pursuing you throughout the museum. ",
-        "back_text": "If Hunting Horror is in play, add 1 doom to it.\nIf Hunting Horror is not in play, search the encounter deck, discard pile, and the void for Hunting Horror and spawn it in Museum Halls, if able. Shuffle the encounter discard pile into the encounter deck."
+        "flavor": "As sombras do museu aumentam e tornam-se mais escuras. Conforme as sombras crescem e se agitam, começam a sugerir o corpo musculoso de uma criatura estranha passando pela periferia de sua consciência...",
+        "name": "As Sombras se Aprofundam",
+        "text": "<b>Forçado</b> - Quando Horror Caçador entrar em jogo: Anexe a ele a cópia de Surgido das Sombras que foi previamente separada, ou então adicione 1 recurso a Surgido das Sombras, se já estiver anexada.",
+        "back_name": "Caçados",
+        "back_flavor": "A criatura não dá trégua, perseguindo vocês pelo museu.",
+        "back_text": "|| A criatura não dá trégua, perseguindo vocês pelo museu.\nSe Horror Caçador estiver em jogo, adicione 1 perdição a ele.\nSe Horror Caçador não estiver em jogo, procure no baralho de encontros, na pilha de descarte e no vazio por Horror Caçador. Ele surge em Salões do Museu, se possível. Embaralhe a pilha de descarte de encontros no baralho de encontros."
     },
     {
         "code": "02121",
-        "flavor": "The creature in the museum grows larger and more terrifying with each passing moment. Its body slithers from shadow to shadow, every corner of every room a potential hiding place for the hideous beast.",
-        "name": "In Every Shadow",
-        "text": "<b>Forced</b> - When Hunting Horror enters play: Attach the set-aside copy of Shadow-spawned to it, or add 1 resource to Shadow-spawned if it is already attached.",
-        "back_name": "Driven Out",
-        "back_flavor": "With no way of defeating the creature in the museum, you flee. In every shadow of every corridor, the serpentine horror’s slithering body can be seen, the museum halls growing darker with the creature’s presence. As you reach the entrance, it blocks the doorway and attacks you with its terrible fangs. You barely manage to escape the building with your life, though the effects of the creature’s venom will scar you forever.",
-        "back_text": "Each investigator who has not resigned is defeated and suffers 1 physical trauma."
+        "flavor": "A criatura no museu vai ficando maior e mais aterrorizante a cada instante. Seu corpo serpenteia de sombra para sombra, cada canto de cada sala é um esconderijo em potencial para essa fera horrenda.",
+        "name": "Em Cada Sombra",
+        "text": "<b>Forçado</b> - Quando Horror Caçador entrar em jogo: Anexe a ele a cópia de Surgido das Sombras que foi previamente separada, ou então adicione 1 recurso a Surgido das Sombras, se já estiver anexada.",
+        "back_name": "Expulsos",
+        "back_flavor": "Sem formas de derrotar a criatura do museu, vocês fogem. Em cada sombra de cada corredor, o corpo rastejante do horror serpentino pode ser visto. Os salões do museu ficam mais escuros com a presença da criatura. Quando vocês alcançam a entrada, a coisa bloqueia a porta e os ataca com suas presas terríveis. Vocês mal conseguem fugir do prédio com suas vidas, embora os efeitos do veneno do monstro vão marcá-los para sempre.",
+        "back_text": "Cada investigador que não renunciou é derrotado e sofre 1 trauma físico."
     },
     {
         "code": "02122",
@@ -41,30 +41,31 @@
     },
     {
         "code": "02123",
-        "flavor": "The Necronomicon is being kept in a Restricted Hall somewhere in the museum. Adam barely knows his way around, and gives a startled jump at every creak of the old building. \"I just started here last week,\" he explains. \"What sort of trouble did you say was going on?\" You haven’t the heart to give him the full story.",
-        "name": "Night at the Museum",
-        "text": "<b>Objective</b> - If an investigator enters the Exhibit Hall (<i>Restricted Hall</i>), advance.",
-        "back_name": "The Curator's Fate",
-        "back_flavor": "When you enter the restricted hall, you find the curator of the museum lying in a pool of blood, his intestines strewn about in a grotesque display. Your stomach turns over and you resist the urge to vomit. Whatever did this, it’s still nearby...",
-        "back_text": "Search the encounter deck, discard pile, the void, and all play areas for Hunting Horror, and place it in the Exhibit Hall (<i>Restricted Hall</i>), ready.\nAdvance to Act 3a."
+        "flavor": "O Necronomicon é guardado no Salão Restrito, em algum lugar do museu. Adam mal sabe como se guiar pelo lugar e dá um pulo de susto a cada rangido do velho edifício. \"Eu comecei a trabalhar aqui na semana passada\", ele explica. \"Qual foi mesmo o problema que vocês disseram que estava acontecendo?\" Vocês ficam com pena de contar a história inteira para ele.",
+        "name": "Uma Noite no Museu",
+        "text": "<b>Objetivo</b> - Se um investigador entrar em Salão de Exposição (Salão Restrito), avance.",
+        "back_name": "O Destino do Curador",
+        "back_flavor": "Quando vocês entram no salão restrito, encontram o curador do museu caído em uma poça de sangue; os intestinos dele estão para fora, formando uma cena grotesca. O estômago de vocês revira e vocês resistem à ânsia de vômito. A coisa que fez isso ainda está por perto...",
+        "back_text": "Procure no baralho de encontros, na pilha de descarte, no vazio e em todas áreas de jogo por Horror Caçador, e coloque-o no Salão de Exposição (Salão Restrito), preparado.\nAvance para o Ato 3a."
     },
     {
         "code": "02124",
-        "flavor": "The Necronomicon is being kept in a Restricted Hall somewhere in the museum.",
-        "name": "Breaking and Entering",
-        "text": "<b>Objective</b> - If an investigator enters the Exhibit Hall (<i>Restricted Hall</i>), advance.",
-        "back_name": "The Guard's Fate",
-        "back_flavor": "When you enter the Restricted Hall, you find the curator of the museum clutching an ornate statue as if it were a club, his suit stained with blood, a panicked expression on his face. The security guard you saw earlier lies in a pool of blood nearby, his intestines strewn about in a grotesque display. Your stomach turns and you resist the urge to vomit. \"I tried to stop it, but...\" the curator says quietly, his voice quivering. Whatever did this, it’s still nearby...",
-        "back_text": "Choose an investigator to take control of the set-aside Harold Walsted asset. \nSearch the encounter deck, discard pile, the void, and all play areas for Hunting Horror, and place it in the Exhibit Hall (<i>Restricted Hall</i>), ready.\nAdvance to Act 3a."
+        "flavor": "O Necronomicon está guardado no Salão Restrito, em algum lugar do museu.",
+        "name": "Invadindo e Entrando",
+        "text": "<b>Objetivo</b> - Se um investigador entrar no Salão de Exposição (Salão Restrito), avance.",
+        "back_name": "O Destino do Guarda",
+        "back_flavor": "Quando vocês entram no Salão Restrito, encontram o curador do museu segurando uma estátua ornamentada como se fosse um porrete, seu paletó está manchado de sangue e seu rosto está tomado por pânico. O guarda que viram mais cedo jaz em uma poça de sangue nas proximidades, os intestinos dele estão para fora, formando uma cena grotesca. O estômago de vocês revira e vocês resistem a ânsia de vômito. \"Eu tentei impedir, mas...\" diz o curador calmamente, com sua voz estremecendo.\nA coisa que fez isso ainda está por perto...",
+        "back_text": "Escolha um investigador para assumir o controle do ativo Harold Walsted previamente separado.\nProcure no baralho de encontros, na pilha de descarte, no vazio e em todas áreas de jogo por Horror Caçador, e coloque-o no Salão de Exposição (Salão Restrito), preparado.\nAvance para o Ato 3a."
     },
     {
         "code": "02125",
-        "flavor": "Somewhere in this area is Olaus Wormius’s Latin translation of the Necronomicon. You must find it and escape while you can!",
-        "name": "Searching for the Tome",
-        "text": "<b>Objective</b> - If there are no clues remaining in the Exhibit Hall <i>(Restricted Hall)</i>, advance.",
-        "back_name": "The Necronomicon",
-        "back_flavor": "At last, you find the locked case containing the Necronomicon.\nThe tome, over eight hundred pages in length, is filled with all manner of macabre imagery, formulae, spells, prophecies, and descriptions of creatures from beyond the threshold of space.\nWithout a doubt, it is a dangerous book... But its secrets could be very useful.",
-        "back_text": "The investigators must decide (choose one):\n- It's too dangerous to keep around. We must destroy it. <b>(→R1)</b>\n- It's too valuable to destroy. We must keep it safe.<b>(→R2)</b>"
+        "flavor": "Em algum lugar dessa área está a tradução em latim que Olaus Wormius fez do Necronomicon. Vocês precisam encontrá-lo e fugir enquanto podem!",
+        "name": "Em Busca do Tomo",
+        "text": "<b>Objetivo</b> - Se não houver mais pistas restantes em Salão de Exposição <i>(Salão Restrito)</i>, avance.",
+        "back_name": "O Necronomicon",
+        "back_flavor": "ATO 3b",
+        "back_text": "Enfim, vocês encontram a caixa fechada que contém o Necronomicon.\nO tomo, com mais de oitocentas páginas, está cheio de imagens macabras, fórmulas, feitiços, profecias e descrições de criaturas de além dos limites do espaço.\nSem dúvidas, é um livro perigoso... Mas seus segredos podem ser muito úteis.\nOs investigadores devem decidir (escolha uma opção):\n[action] “É perigoso demais para existir. Precisamos destruí-lo” (→R1)\n[action] “É valioso demais para destruirmos. Precisamos mantê-lo em segurança” (→R2)",
+        "subname": "Ato 3a"
     },
     {
         "code": "02126",
@@ -76,156 +77,167 @@
     },
     {
         "code": "02127",
-        "name": "Museum Halls",
-        "text": "Museum Halls is connected to each copy of Exhibit Hall.\n[action] Investigators in the Museum Halls spend 1 [per_investigator] clues, as a group: Put the top card of the Exhibit deck into play, unrevealed.",
+        "name": "Salões do Museu",
+        "text": "Salões do Museu está conectado a cada cópia de Salão de Exposição.\n[action] Investigadores em Salões do Museu gastam 1 [per_investigator] pistas, em grupo: Coloque em jogo a carta do topo do baralho de Exposição, não revelada.",
         "traits": "Miskatonic.",
-        "back_text": "The entrance to the Museum Halls is locked. You cannot move into the Museum Halls.\nMuseum Entrance gains: \"[action]: Test [combat] (5) to attempt to break down the door to the Museum. If you are successful, immediately advance to Act 1b.\""
+        "back_text": "A entrada para os Salões do Museu está trancada. Você não pode entrar nos Salões do Museu.\nEntrada do Museu ganha: \"[action]: Teste [combat] (5) para tentar derrubar a porta do museu. Se você tiver sucesso, avance imediatamente para o Ato 1b.\""
     },
     {
         "code": "02128",
-        "flavor": "Somebody must have left the security office in a hurry. Blood stains the floor under the desk nearby. Thankfully, there are some useful supplies here you may be able to use.",
-        "name": "Security Office",
-        "text": "[action][action]: Search the top 6 cards of your deck for a card and add it to your hand. Shuffle the rest back into your deck. (Limit once per turn.)",
+        "flavor": "Alguém deve ter deixado o escritório de segurança com pressa. Há manchas de sangue no chão embaixo da escrivaninha. Felizmente, há suprimentos úteis que vocês podem utilizar.",
+        "name": "Escritório de Segurança",
+        "text": "[action][action]: Procure uma carta nas 6 cartas do topo de seu baralho e coloque-a na mão. Embaralhe o restante em seu baralho. (Limite de uma vez por turno.)",
         "traits": "Miskatonic.",
-        "back_flavor": "A plaque next to this doorway reads: \"Security.\" The door is ajar, and inside you catch the scent of blood."
+        "back_flavor": "Uma placa próxima à porta diz: \"Segurança.\" A porta está aberta, e dela emana o cheiro de sangue.",
+        "back_traits": "Miskatonic."
     },
     {
         "code": "02129",
-        "flavor": "Somebody must have left the security office in a hurry. Blood stains the floor under the desk nearby. There are some maps of the Museum in here, as well.",
-        "name": "Security Office",
-        "text": "[action][action]: Look at the revealed side of an Exhibit Hall in play, or the top card of the Exhibit deck. (Limit once per turn.)",
+        "flavor": "Alguém deve ter deixado o escritório de segurança com pressa. Há manchas de sangue no chão embaixo da escrivaninha. Também há alguns mapas do Museu nesse lugar.",
+        "name": "Escritório de Segurança",
+        "text": "[action][action]: Olhe o lado revelado de um Salão de Exposição que está em jogo, ou então a carta do topo do baralho de Exposição. (Limite de uma vez por turno.)",
         "traits": "Miskatonic.",
-        "back_flavor": "A plaque next to this doorway reads: \"Security.\" The door is ajar, and inside you catch the scent of blood."
+        "back_flavor": "Uma placa próxima à porta diz: \"Segurança.\" A porta está aberta, e dela emana o cheiro de sangue.",
+        "back_traits": "Miskatonic."
     },
     {
         "code": "02130",
-        "flavor": "This office is meticulously organized, from the books in alphabetical order on the shelves to the stacks of forms organized by category on each desk. A coat is draped over one of the nearby chairs; perhaps somebody other than the security guard is still here at this late hour.",
-        "name": "Administration Office",
-        "text": "You cannot investigate Administration Office while you have 4 or fewer resources.",
+        "flavor": "Esse escritório está meticulosamente organizado, dos livros em ordem alfabética nas estantes até as pilhas de formulários organizados por categoria em cada escrivaninha. Um casaco está pendurado numa cadeira próxima; talvez ainda tenha alguém no museu, além da segurança, nessas horas tardias.",
+        "name": "Escritório de Administração",
+        "text": "Você não pode investigar Escritório de Administração enquanto tiver 4 ou menos recursos.",
         "traits": "Miskatonic.",
-        "back_flavor": "A sturdy wooden door with a plaque next to it reads: \"Administration.\" In the hall outside the doorway, you see a row of paintings depicting the museum’s many curators through the years, each adorned with their name and years of employment. Perhaps it’s just your imagination, but they look more distressed in recent years."
+        "back_flavor": "Uma robusta porta de madeira com uma placa que indica: \"Administração.\" No corredor do lado de fora da porta, vocês veem uma série de pinturas representando os muitos curadores do museu através dos anos, cada um adornado com seus nomes e tempo no cargo. Talvez seja apenas sua imaginação, mas eles parecem mais preocupados nos anos recentes.",
+        "back_traits": "Miskatonic."
     },
     {
         "code": "02131",
-        "flavor": "This office is meticulously organized, from the books in alphabetical order on the shelves to the stacks of forms organized by category on each desk. A coat is draped over one of the nearby chairs; perhaps somebody other than the security guard is still here at this late hour.",
-        "name": "Administration Office",
-        "text": "You cannot investigate Administration Office while you have 4 or fewer cards in your hand.",
+        "flavor": "Esse escritório está meticulosamente organizado, dos livros em ordem alfabética nas estantes até as pilhas de formulários organizados por categoria em cada escrivaninha. Um casaco está pendurado numa cadeira próxima; talvez ainda tenha alguém no museu, além da segurança, nessas horas tardias.",
+        "name": "Escritório de Administração",
+        "text": "Você não pode investigar Escritório de Administração enquanto tiver 4 ou menos cartas na mão.",
         "traits": "Miskatonic.",
-        "back_flavor": "A sturdy wooden door with a plaque next to it reads: \"Administration.\" In the hall outside the doorway, you see a row of paintings depicting the museum’s many curators through the years, each adorned with their name and years of employment. Perhaps it’s just your imagination, but they look more distressed in recent years."
+        "back_flavor": "A sturdy wooden door with a plaque next to it reads: \"Administration.\" In the hall outside the doorway, you see a row of paintings depicting the museum’s many curators through the years, each adorned with their name and years of employment. Perhaps it’s just your imagination, but they look more distressed in recent years.",
+        "back_text": "Uma robusta porta de madeira com uma placa que indica: \"Administração.\" No corredor do lado de fora da porta, vocês veem uma série de pinturas representando os muitos curadores do museu através dos anos, cada um adornado com seus nomes e tempo no cargo. Talvez seja apenas sua imaginação, mas eles parecem mais preocupados nos anos recentes."
     },
     {
         "code": "02132",
-        "flavor": "A strange chill fills this hall, as if the climate of Alaskan wilderness has traveled along with the artifacts on display.",
-        "name": "Exhibit Hall",
-        "subname": "Athabaskan Exhibit",
-        "text": "<b>Forced</b> - After you enter this location: Lose all of your remaining actions and immediately end your turn.\nWhile you are in this location, you get +2 [agility].",
-        "traits": "Miskatonic. Exhibit.",
-        "back_flavor": "What alluring artifacts are displayed inside?\nDo they, too, hold a sinister secret?"
+        "flavor": "Um frio estranho preenche este salão, como se o clima do Alasca selvagem tivesse viajado para cá junto aos artefatos em exposição.",
+        "name": "Salão de Exposição",
+        "subname": "Exposição Atabascana",
+        "text": "<b>Forçado</b> - Após você entrar neste local:\nPerca todas as suas ações restantes e finalize seu turno imediatamente.\nEnquanto estiver neste local, você ganha +2 [agility].",
+        "traits": "Miskatonic. Exposição.",
+        "back_flavor": "Que artefatos interessantes estariam expostos lá dentro?\nSerá que eles também escondem um segredo sinistro?",
+        "back_traits": "Miskatonic. Exposição."
     },
     {
         "code": "02133",
-        "flavor": "Who would immortalize such a terrible fate?",
-        "name": "Exhibit Hall",
-        "subname": "Medusa Exhibit",
-        "text": "<b>Forced</b> - After you fail a skill test while investigating this location: Discard an asset you control.",
-        "traits": "Miskatonic. Exhibit.",
-        "back_flavor": "What alluring artifacts are displayed inside?\nDo they, too, hold a sinister secret?"
+        "flavor": "Quem imortalizaria tal destino horrível?",
+        "name": "Salão de Exposição",
+        "subname": "Exposição da Medusa",
+        "text": "<b>Forçado</b> - Após você falhar em um teste de perícia enquanto estiver investigando este local: Descarte um ativo que você controla.",
+        "traits": "Miskatonic. Exposição.",
+        "back_flavor": "Que artefatos interessantes estariam expostos lá dentro? Será que eles também escondem um segredo sinistro?",
+        "back_traits": "Miskatonic. Exposição."
     },
     {
         "code": "02134",
-        "flavor": "Nothing about this exhibit is natural.",
-        "name": "Exhibit Hall",
-        "subname": "Nature Exhibit",
-        "text": "<b>Forced</b> - After you enter this location: Discard 2 cards from your hand at random.",
-        "traits": "Miskatonic. Exhibit.",
-        "back_flavor": "What alluring artifacts are displayed inside?\nDo they, too, hold a sinister secret?"
+        "flavor": "De natural essa exposição não tem nada.",
+        "name": "Salão de Exposição",
+        "subname": "Exposição Natural",
+        "text": "<b>Forçado</b> - Após você entrar neste local: Descarte 2 cartas de sua mão aleatoriamente.",
+        "traits": "Miskatonic. Exposição.",
+        "back_flavor": "What alluring artifacts are displayed inside?\nDo they, too, hold a sinister secret?",
+        "back_text": "Que artefatos interessantes estariam expostos lá dentro? Será que eles também escondem um segredo sinistro?"
     },
     {
         "code": "02135",
-        "flavor": "Sandstone sculptures and bejeweled artifacts from another era clutter this exhibit, like the tomb of an ancient pharaoh.",
-        "name": "Exhibit Hall",
-        "subname": "Egyptian Exhibit",
-        "text": "<b>Forced</b> - After you fail a skill test while investigating this location: Lose 1 action.",
-        "traits": "Miskatonic. Exhibit.",
-        "back_flavor": "What alluring artifacts are displayed inside?\nDo they, too, hold a sinister secret?"
+        "flavor": "Esculturas de arenito e artefatos cravejados de joias vindos de outra era estão atulhados nessa exposição, como a tumba de um faraó antigo.",
+        "name": "Salão de Exposição",
+        "subname": "Exposição Egípcia",
+        "text": "<b>Forçado</b> - Após você falhar em um teste de perícia enquanto estiver investigando este local: Perca 1 ação.",
+        "traits": "Miskatonic. Exposição.",
+        "back_flavor": "What alluring artifacts are displayed inside?\nDo they, too, hold a sinister secret?",
+        "back_text": "Que artefatos interessantes estariam expostos lá dentro? Será que eles também escondem um segredo sinistro?"
     },
     {
         "code": "02136",
-        "flavor": "I need no reminder of my mortality.\nI know my death is imminent.",
-        "name": "Exhibit Hall",
-        "subname": "Hall of the Dead",
-        "text": "<b>Forced</b> - After you fail a skill test while investigating this location: Take 1 horror.",
-        "traits": "Miskatonic. Exhibit.",
-        "back_flavor": "What alluring artifacts are displayed inside?\nDo they, too, hold a sinister secret?"
+        "flavor": "Não preciso de nenhum lembrete quanto à minha mortalidade. Eu sei que minha morte é iminente.",
+        "name": "Salão de Exposição",
+        "subname": "Salão dos Mortos",
+        "text": "<b>Forçado</b> - Após você falhar em um teste de perícia enquanto estiver investigando este local: Sofra 1 de horror.",
+        "traits": "Miskatonic. Exposição.",
+        "back_flavor": "Que artefatos interessantes estariam expostos lá dentro? Será que eles também escondem um segredo sinistro?",
+        "back_traits": "Miskatonic. Exposição."
     },
     {
         "code": "02137",
-        "flavor": "Exhibit Not Yet Open For Viewing.",
-        "name": "Exhibit Hall",
-        "subname": "Restricted Hall",
-        "text": "While Hunting Horror is at this location, this location cannot be investigated.",
-        "traits": "Miskatonic. Exhibit.",
-        "back_flavor": "What alluring artifacts are displayed inside?\nDo they, too, hold a sinister secret?"
+        "flavor": "Exposição Ainda Não Aberta Para o Público.",
+        "name": "Salão de Exposição",
+        "subname": "Salão Restrito",
+        "text": "Enquanto <b>Horror Caçador</b> estiver neste local, este local não pode ser investigado.",
+        "traits": "Miskatonic. Exposição.",
+        "back_flavor": "Que artefatos interessantes estariam expostos lá dentro?\nSerá que eles também escondem um segredo sinistro?",
+        "back_traits": "Miskatonic. Exposição."
     },
     {
         "code": "02138",
         "name": "Harold Walsted",
-        "subname": "Curator of the Museum",
-        "text": "You get +2 [intellect] while investigating [[Miskatonic]] locations.\n<b>Forced</b> - When Harold Walsted leaves play: Remove him from the game and add 1 [tablet] token to the chaos bag for the remainder of the campaign.",
-        "traits": "Ally. Miskatonic."
+        "subname": "Curador do Museu",
+        "text": "Você recebe +2 [intellect] enquanto estiver investigando locais <i>Miskatonic</i>.\n<b>Forçado</b> - Quando Harold Walsted sair de jogo: Remova-o do jogo e adicione 1 [tablet] ficha à bolsa de caos pelo restante da campanha.",
+        "traits": "Aliado. Miskatonic."
     },
     {
         "code": "02139",
         "name": "Adam Lynch",
-        "subname": "Museum Security",
-        "text": "While you control Adam Lynch, treat the \"[action][action]\" ability on the Security Office as if it were an \"[action]\" ability.\n<b>Forced</b> - When Adam Lynch leaves play: Remove him from the game and add 1 [tablet] token to the chaos bag for the remainder of the campaign.",
-        "traits": "Ally. Miskatonic."
+        "subname": "Segurança do Museu",
+        "text": "Enquanto você controlar Adam Lynch, trate a habilidade \"[action][action]\" do Escritório de Segurança como se fosse uma habilidade \"[action]\".\n<b>Forçado</b> - Quando Adam Lynch sair de jogo: Remova-o do jogo e adicione 1 [tablet] ficha à bolsa de caos pelo restante da campanha.",
+        "traits": "Aliado. Miskatonic."
     },
     {
         "code": "02140",
-        "flavor": "It was Abdul Alhazred’s magnum opus.",
-        "name": "The Necronomicon",
-        "subname": "Olaus Wormius Translation",
-        "text": "You get +1 [intellect].\n[action]: Gain 2 resources.",
-        "traits": "Item. Tome.",
+        "flavor": "Foi o magnum opus de Abdul Alhazred.",
+        "name": "O Necronomicon",
+        "subname": "Tradução de Olaus Wormius",
+        "text": "Você recebe +1 [intellect].\n[action]: Ganhe 2 recursos.",
+        "traits": "Item. Tomo.",
         "slot": "Hand"
     },
     {
         "code": "02141",
-        "name": "Hunting Horror",
-        "subname": "Spawned from the Void",
-        "text": "Hunter. Retaliate.\n<b>Forced</b> - At the start of the enemy phase: Reveal a random token from the chaos bag. If the revealed token has a [skull], [cultist], [tablet], [elder_thing], or [auto_fail] symbol, ready Hunting Horror.\n<b>Forced</b> - When Hunting Horror leaves play, place it in the void.",
-        "traits": "Monster. Elite."
+        "name": "Horror Caçador",
+        "subname": "Gerado pelo Vazio",
+        "text": "<b>Caçador. Retaliação.</b>\n<b>Forçado</b> – No início da fase dos inimigos: Revele uma ficha aleatória da bolsa de caos. Se a ficha revelada tiver um símbolo [skull], [cultist], [tablet], [elder_thing], ou [auto_fail], prepare Horror Caçador.\n<b>Forçado</b> – Quando Horror Caçador sair de jogo, coloque-o no vazio.",
+        "traits": "Monstro. Elite."
     },
     {
         "code": "02142",
-        "name": "Shadow-spawned",
-        "text": "Shadow-spawned remains attached to Hunting Horror if it enters the void.\nHunting Horror gets +1 fight, +1 health, and +1 evade for each resource on Shadow-spawned. If there are 3 resources on Shadow-spawned, Hunting Horror also gains Massive.",
-        "traits": "Power."
+        "name": "Surgido das Sombras",
+        "text": "Surgido das Sombras permanece anexado a Horror Caçador se ele entrar no vazio.\nHorror Caçador Recebe +1 de luta, +1 de vida e +1 de evasão para cada recurso em Surgido das Sombras. Se houver pelo menos 3 recursos em Surgido das Sombras, Horro Caçador também ganha Massivo.",
+        "traits": "Poder."
     },
     {
         "code": "02143",
-        "flavor": "...viperine creatures, which had curiously distorted heads, and grotesquely great clawed appendages...\n-H.P. Lovecraft & August Derleth, The Lurker at the Threshold",
-        "name": "Stalked in the Dark",
-        "text": "<b>Revelation</b> - If Hunting Horror is in play, it readies, engages you, and attacks each investigator at your location. Otherwise, Stalked in the Dark gains surge.",
-        "traits": "Tactic."
+        "flavor": "... criaturas viperinas, com cabeças curiosamente distorcidas, com apêndices de garras grotescamente enlargecidos...\n–H.P. Lovecraft e August Derleth, The Lurker at the Threshold",
+        "name": "Espreitado na Escuridão",
+        "text": "<b>Revelação</b> – Se Horror Caçador estiver em jogo, ele prepara, engaja com você e ataca cada investigador em seu local. Caso contrário, Espreitado na Escuridão ganha ímpeto.",
+        "traits": "Tática."
     },
     {
         "code": "02144",
-        "name": "Passage into the Veil",
-        "text": "<b>Revelation</b> - Test [willpower] (3). This test has +2 difficulty if Hunting Horror is at your location. If you fail you must either (choose one): discard the top 5 cards of your deck, or take 1 direct damage and deal 1 damage to each of your [[Ally]] assets.",
-        "traits": "Power."
+        "name": "Passagem Rumo ao Véu",
+        "text": "<b>Revelação</b> – Teste [willpower] (3). Este teste tem +2 de dificuldade se <b>Horror Caçador</b> estiver em seu local. Se você falhar, você deve escolher uma dessas opções: descarte as 5 cartas do topo do seu baralho, ou sofra 1 de dano direto e cause 1 de dano direto a cada um de seus ativos <b>Aliado</b>.",
+        "traits": "Poder."
     },
     {
         "code": "02145",
-        "flavor": "Are you watching the exhibits, or are the exhibits watching you?",
-        "name": "Ephemeral Exhibits",
-        "text": "<b>Revelation</b> - Test [intellect] (3). If you fail, lose 1 action for each point you failed by.",
+        "flavor": "Vocês estão observando as exposições, ou as exposições estão observando vocês?",
+        "name": "Exposições Efêmeras",
+        "text": "<b>Revelação</b> - Teste [intellect] (3). Se você falhar, perca 1 ação para cada ponto que você falhar.",
         "traits": "Terror."
     },
     {
         "code": "02146",
-        "name": "Slithering Behind You",
-        "text": "<b>Revelation</b> - If Hunting Horror is in play, add 1 doom to it. If Hunting Horror is not in play, search the encounter deck, discard pile, and the void for Hunting Horror and spawn it at your location, engaged with you. Shuffle the encounter deck."
+        "name": "Deslizando Atrás de Você",
+        "text": "<b>Revelação</b> – Se Horror Caçador estiver em jogo, adicione 1 perdição a ele. Se Horror Caçador não estiver em jogo, procure no baralho de encontros, na pilha de descarte e no vazio por Horror Caçador. Ele surge em seu local, engajado com você. Embaralhe o baralho de encontros.",
+        "traits": "Traição."
     }
 ]
