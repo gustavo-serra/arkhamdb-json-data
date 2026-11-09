@@ -1,9 +1,9 @@
 [
     {
         "code": "03200",
-        "name": "A Phantom of Truth",
-        "text": "Easy / Standard\n[skull]: -X. X is the amount of doom in play (max 5).\n[cultist]: -2. If you fail, move each unengaged [[Byakhee]] in play once toward the nearest investigator.\n[tablet]: -3. Cancel the effects and icons of each skill card committed to this test.\n[elder_thing]: -2. If you fail, lose 1 resource for each point you failed by.",
-        "back_text": "Hard / Expert\n[skull]: -X. X is the amount of doom in play.\n[cultist]: -2. Move each unengaged [[Byakhee]] in play once toward the nearest investigator.\n[tablet]: -4. Cancel the effects and icons of each skill card committed to this test.\n[elder_thing]: -3. If you fail, lose 1 resource for each point you failed by."
+        "name": "Um Fantasma da Verdade",
+        "text": "FÁCIL / MÉDIO\n[skull]: -X. X é a quantidade de perdições em jogo (máx. de 5).\n[cultist]: -2. Se você falhar, mova cada <b>Byakhee</b> não engajado em jogo uma vez em direção ao investigador mais próximo.\n[tablet]: -3. Cancele os efeitos e ícones de cada carta de perícia comprometida nesse teste.\n[elder_thing]: -2. Se você falhar, perca 1 recurso para cada ponto que você falhar.",
+        "back_text": "DIFÍCIL / EXPERIENTE\n[skull]: -X. X é a quantidade de perdições em jogo.\n[cultist]: -2. Mova cada <b>Byakhee</b> não engajado em jogo uma vez em direção ao investigador mais próximo.\n[tablet]: -4. Cancele os efeitos e ícones de cada carta de perícia comprometida nesse teste.\n[elder_thing]: -3. Se você falhar, perca 1 recurso para cada ponto que você falhar."
     },
     {
         "code": "03201",
@@ -16,55 +16,55 @@
     },
     {
         "code": "03202",
-        "flavor": "The city stirs as cold shadows embrace the streets. There is danger all around you. Danger that you cannot escape. Danger that will follow you to the ends of the earth. When will this waking nightmare end?",
-        "name": "The Second Night",
-        "text": "While you have more <b>Conviction</b> than <b>Doubt</b>, this agenda gains:\n\"When checking the doom threshold, doom on cards other than this agenda subtract from the total doom in play instead of adding to it.\"",
-        "back_name": "A Red Sun Rises",
-        "back_flavor": "To your relief, the sun once again begins to rise, peeking just over the eastern horizon and casting long shadows across the city streets. You are completely exhausted from the night's events. It feels as though you haven't slept in weeks. Perhaps you haven't.",
-        "back_text": "Each investigator disengages from each enemy engaged with him or her and may move to a connecting location. Move The Organist 1 location away from the nearest investigator (to a location with no investigators, if possible).\nCheck Campaign Log. If Jordan Perry is not listed under \"VIPs Slain,\" search the collection for Jordan Perry <i>(An Imposing Presence)</i> and spawn him in Montparnasse."
+        "flavor": "A cidade se agita conforme as frias sombras abraçam as ruas. Há perigo ao seu redor. Perigos dos quais vocês não podem escapar. Perigos que os seguirão até os confins da Terra. Quando este pesadelo desperto vai chegar ao fim?",
+        "name": "A Segunda Noite",
+        "text": "Enquanto vocês tiverem mais <b>Convicções</b> do que <b>Dúvidas</b>, esta agenda ganha:\n<i>\"Ao verificar o limiar de perdição, as perdições sobre cartas que não sejam esta agenda subtraem do total de perdições em jogo em vez de somarem para o total.\"</i>",
+        "back_name": "Nasce um Sol Vermelho",
+        "back_flavor": "Para o seu alívio, o sol mais uma vez começa a nascer, espiando logo além do horizonte oriental, lançando sombras longas através das ruas da cidade. Vocês estão completamente esgotados devido aos eventos da noite. Parece até que não dormem há semanas. E talvez não tenham dormido mesmo.",
+        "back_text": "Cada investigador desengaja de cada inimigo engajado com ele e pode se mover para um local conectado.\nMova O Organistá 1 local para longe do investigador mais próximo (para um local sem investigadores, se possível).\nVerifique o Registro da Campanha. Se Jordan Perry não estiver listado na seção \"VIPs Mortos,\" procure Jordan Perry (Uma Presença Imponente) na coleção e faça-o surgir em Montparnasse."
     },
     {
         "code": "03203",
-        "flavor": "On the evening of your third night in Paris, a desperate resolve stirs within you. This cat and mouse game cannot go on any longer. One way or another, this night will end it. ",
-        "name": "The Third Night",
-        "text": "While you have more <b>Conviction</b> than <b>Doubt</b>, this agenda gains:\n\"When checking the doom threshold, doom on cards other than this agenda subtract from the total doom in play instead of adding to it.\"",
-        "back_name": "Dawn At Last",
-        "back_flavor": "The sun rises, and dispels the darkness. A warm fog envelops the city, blotting out the sky.",
-        "back_text": "Check Campaign Log.\n- If you have more (or equal) <b>Doubt</b> than <b>Conviction</b>, proceed to <b>(→R3)</b>.\n- If you have more <b>Conviction</b> than <b>Doubt</b>, advance to act 2b."
+        "flavor": "Na sua terceira noite em Paris, uma determinação desesperada se apodera de vocês. Esse jogo de gato e rato não pode mais continuar. De uma forma ou de outra, tudo vai terminar nesta noite.",
+        "name": "A Terceira Noite",
+        "text": "Enquanto vocês tiverem mais <b>Convicções</b> do que <b>Dúvidas</b>, esta agenda ganha:\n“Ao verificar o limiar de perdição, as perdições sobre cartas que não sejam esta agenda subtraem do total de perdições em jogo em vez de somarem para o total.”",
+        "back_name": "Finalmente Amanhece",
+        "back_flavor": "O sol se ergue e dispersa as trevas. Uma névoa cálida envolve a cidade, ocultando o céu.",
+        "back_text": "Verifique o Registro da Campanha.\n◇ Se vocês tiverem mais (ou a mesma quantidade de) <b>Dúvidas</b> do que <b>Convicções</b>, vá para <b>(→R3)</b>.\n◇ Se vocês tiverem mais <b>Convicções</b> do que <b>Dúvidas</b>: avance para o ato 2b."
     },
     {
         "code": "03204",
         "flavor": "You pass the Church of St. Barnabé as you exit the train station and cannot help but overhear the organ playing. Is there a sermon this late in the evening? You marvel at the wild and strange chords for a moment before continuing. Paris is a big city, and you have very few leads…",
-        "name": "The Parisian Conspiracy (v. I)",
-        "text": "<b>Objective</b> - Spend the requisite number of clues to advance.\n<b>Objective</b> - At the end of the round, if there are 3 or more doom in play, advance.",
+        "name": "A Conspiração Parisiense (v. I)",
+        "text": "<i>Vocês passam pela Igreja de St. Barnabé quando saem da estação de trem e acabam entrevistando um órgão sendo tocado. Estão ministrando um sermão tão tarde da noite? Vocês ficam maravilhados com os estranhos acordes por alguns instantes antes de continuar. Paris é uma cidade grande, e vocês têm poucas pistas...</i>\n\n<b>Objective</b> - Gaste o número necessário de pistas para avançar.\n\n<b>Objective</b> - No final da roda, se houver 3 ou mais perdições em jogo, avance.",
         "back_name": "St. Barnabé",
-        "back_text": "<b>If you spent clues to advance:</b>\n<blockquote><i>You nearly bump into a tall man, his coat and hat as black as his skin is pale. You remember seeing him through the windows of St. Barnabé Church. His organ playing continues to haunt you…</i></blockquote>\nSpawn the set-aside The Organist enemy at the lead investigator's location, <i>(Draped in Mystery)</i> side face-up. Advance to Act 2a - Pursuing Shadows.\n<hr><b>Otherwise:</b>\n<blockquote><i>The organ you heard earlier continues to haunt you. No matter where you are, the torturous chords play over and over in your head. Startled, you ask a passerby about the church. \"St. Barnabé?\" she replies in a thick accent. \"There is no such place.\"</i></blockquote>\nEach investigator takes 2 horror.\nSpawn the set-aside The Organist enemy at the location farthest from all investigators, <i>(Draped in Mystery)</i> side face-up. Advance to Act 2a - Pursuing Shadows."
+        "back_text": "<b>Se você gastou pistas para avançar:</b>\n<i>Vocês quase esbarram em um homem alto, com casaco e chapéu tão escuros quanto é pálida sua pele. Vocês se lembram de vê-lo através da janela da Igreja de St. Barnabé. A música do órgão que ele toca continua a assombrá-los...</i>\nFaça surgir o inimigo O Organista, que foi previamente separado, no local do investigador líder, com o lado (<i>Envolto em Mistério</i>) virado para cima. Avance para o Ato 2a - Pursuing Shadows.\n<hr><b>Caso contrário:</b>\n<i>O órgão que vocês ouviram mais cedo continua a assombrá-los. Não importa onde estejam, os acordes torturantes não param de tocar em suas cabeças. Assustados, vocês perguntan a uma transeunte sobre a igreja. \"St. Barnabé?\" pergunta ela com um sotaque forte. \"Não existe esse lugar.\"</i>\nCada investigador sofre 2 de horror.\nFaça surgir o inimigo O Organista, que foi previamente separado, no local mais distante de todos os investigadores, com o lado (<i>Envolto em Mistério</i>) virado para cima. Avance para o Ato 2a - Perseguindo Sombras."
     },
     {
         "code": "03205",
-        "flavor": "You pass the Church of St. Barnabé as you exit the train station and cannot help but overhear the organ playing. Is there a sermon this late in the evening? You marvel at the wild and strange chords for a moment before continuing. Paris is a big city, and you have very few leads…",
-        "name": "The Parisian Conspiracy (v. II)",
-        "text": "<b>Objective</b> - Spend the requisite number of clues to advance.\n<b>Objective</b> - At the end of the round, if there are 3 or more doom in play, advance.",
-        "back_name": "True Evil",
-        "back_text": "<b>If you spent clues to advance</b>:\n<blockquote><i>The organ you heard earlier continues to haunt you. No matter where you are, the torturous chords play over and over in your head. The sensation that you are being watched tugs at your mind.</i></blockquote>\nSpawn the set-aside The Organist enemy at the location farthest from all investigators, <i>(Hopeless, I Defied Him)</i> side face-up. Advance to Act 2a - Stalked by Shadows.\n<hr><b>Otherwise:</b>\n<blockquote><i>You nearly bump into a tall man, his coat and hat as black as his skin is pale. He gives you a look of hatred, as intense and as deadly as you have ever seen. You recoil at the mere sight of him, and shadows gather around his feet as he marches towards you.</i></blockquote>\nEach investigator takes 2 horror.\nSpawn the set-aside The Organist enemy at the lead investigator's location, <i>(Hopeless, I Defied Him)</i> side face-up. Advance to Act 2a - Stalked by Shadows."
+        "flavor": "Vocês passam pela Igreja de St. Barnabé quando saem da estação de trem e acabam entreouvindo um órgão sendo tocado. Estão ministrando um sermão tão tarde da noite? Vocês ficam maravilhados com os estranhos acordes por alguns instantes antes de continuar. Paris é uma cidade grande, e vocês têm poucas pistas...",
+        "name": "A Conspiração Parisiense (v. II)",
+        "text": "<b>Objetivo</b> - Gaste o número necessário de pistas para avançar.\n<b>Objetivo</b> - No final da rodada, se houver 3 ou mais perdições em jogo, avance.",
+        "back_name": "O Verdadeiro Mal",
+        "back_text": "<b>Se você gastou pistas para avançar:</b>\n\nO órgão que vocês ouviram mais cedo continua a assombrá-los. Não importa onde estejam, os acordes torturantes não param de tocar em suas cabeças. A sensação de estarem sendo observados perturba suas mentes.\n\nFaça surgir o inimigo O Organistá, que foi previamente separado, no local mais distante de todos os investigadores, com o lado (Sem Esperança, o Desafiei) virado para cima. Avance para o Ato 2a - Esprejitado por Sombras.\n\n<hr><b>Caso contrário:</b>\n\nVocês quase esbarram em um homem alto, com casaco e chapéu tão escuros quanto é pálida sua pele. Ele lhes dá um olhar de ódio, tão intenso e mortal quanto já viram. Vocês recuam à mera visão dele, e sombras se reúnem ao redor dos pés dele, conforme ele avança contra vocês.\n\nCada investigador sofre 2 de horror.\n\nFaça surgir o inimigo O Organista, que foi previamente separado, no local do investigador líder, com o lado (Sem Esperança, o Desafiei) virado para cima. Avance para o Ato 2a - Esprejitado por Sombras."
     },
     {
         "code": "03206",
         "flavor": "The chords that echo in your mind, the infernal man whose organ-playing intrigues and terrifies you… Perhaps there is a connection between this shadowy presence and <u>The King in Yellow</u>?",
-        "name": "Pursuing Shadows",
-        "text": "[reaction] After you successfully attack The Organist: An investigator at your location may place 1 of his or her clues on The Organist. (Group limit 1 [per_investigator] times per round.)\n<b>Objective</b> - If there are 3 [per_investigator] clues on The Organist, advance.",
-        "back_name": "Lost Lamb",
+        "name": "Perseguindo Sombras",
+        "text": "<i>Acordes ecoam em suas mentes, aquele homem infernal, cujo soar do órgão os intriga e os aterroriza... talvez haja uma conexão entre essa presença sombria e O Rei de Amarelo?</i>\n\n[reaction] Após ter tido sucesso atacando O Organistá: Um investigador em seu local pode colocar 1 das pistas dele sobre O Organistá. (Limite de grupo de 1 [per_investigator] vezes por rodada.)\n<b>Objetivo</b> - Se houver 3 [per_investigator] pistas sobre O Organistá, avance.",
+        "back_name": "Cordeiro Perdido",
         "back_flavor": "You pursue your quarry through a narrow avenue, passing a set of heavy iron gates. You are in a dead end - a court with tall, old houses on either side. You close the gates behind you and turn back toward the shadowed figure just as day begins to break. Rays of light peek out over the skyline, and you lift your hand to block the gaze of the sun. Then, as though dispersed by the sunlight, the figure you had been chasing folds into the shadows and vanishes. You search the court for the mysterious figure, but there is no sign of him anywhere. Just as you are about to leave, you spot a plaque next to a red-brown door atop a steep, narrow staircase. It reads: \"N. Engram.\"",
-        "back_text": "Check Campaign Log.\n- <i>If you intruded on a secret meeting</i>, proceed to <b>(→R2)</b>.\n- Otherwise, proceed to <b>(→R1)</b>."
+        "back_text": "Você perseguem sua presa através de uma avenida estreita, passando por um conjunto de pesados portões de ferro. Vocês estão em um beco sem saída — um pátio com casas velhas e altas em ambos os lados. Vocês fecham os portões atrás e se viram em direção à figura sombria logo quando o dia começa a raiar. Raios de luz aparecem no horizonte, e vocês erguem a mão para cobrir a vista do sol. Então, como se fosse dispersada pela luz solar, a figura que vocês vinham perseguindo se mistura às sombras e desaparece. Vocês vasculham o pátio em busca da figura misteriosa, mas não há mais sinal dela. Quando vocês estão para sair, notam uma placa ao lado de uma porta castanha no topo de uma escadaria estreita e íngreme. Ela diz: \"N. Engram.\"\n\nVerifique o Registro da Campanha.\n• Se vocês vislumbraram uma reunião secreta, vá para <b>(→R2)</b>.\n• Caso contrário, vá para <b>(→R1)</b>."
     },
     {
         "code": "03207",
-        "flavor": "I knew that every time I met him brought him nearer to the accomplishment of his purpose and my fate. And still I tried to save myself.\n-Robert W. Chambers, \"In the Court of the Dragon,\" <u>The King in Yellow</u>",
-        "name": "Stalked by Shadows",
-        "text": "[free] Spend 1 [per_investigator] clues, as a group: Either place 1 doom on the current agenda, or automatically evade The Organist. (Group limit once per round.)\n<b>Objective</b> - Survive three nights. <i>(Do not advance until you are instructed.)</i>",
-        "back_name": "Shepherd's Crook",
-        "back_flavor": "You lose track of yourself within the city as you flee for your life. Your feet move of their own accord. The beating of sinewy wings and screeching of creatures above you spurs you onward. Soon you find yourself running down a narrow avenue, passing a set of heavy iron gates. You are in a dead end - a court with tall, old houses on either side. You turn back toward the entrance and breathe a sigh of relief as you see the sun rising once more over the skyline of Paris. As though dispersed by the sunlight, the figure that had been chasing you folds into the shadows and vanishes. Just as you are about to leave, you spot a plaque next to a red-brown door atop a steep, narrow staircase. It reads: \"N. Engram.\"",
-        "back_text": "Check Campaign Log.\n- <i>If you intruded on a secret meeting</i>, proceed to <b>(→R2)</b>.\n- Otherwise, proceed to <b>(→R1)</b>."
+        "flavor": "Eu sabia que sempre que o encontrava o deixava mais perto de cumprir o seu propósito e meu destino. E, ainda assim, eu tentava salvar a mim mesmo.\n- Robert W. Chambers, \"Na Corte do Dragão\", \"O Rei de Amarelo\"",
+        "name": "Espreitado por Sombras",
+        "text": "[fast] Gastem 1 [per_investigator] pistas, em grupo: Coloque 1 perdição sobre a agenda atual ou automaticamente evada O Organista. (Limite de grupo de uma vez por rodada.)\n<b>Objetivo</b> - Sobreviva três noites. <i>(Não avance até ser instruído a fazer isso.)</i>",
+        "back_name": "Cajado do Pastor",
+        "back_flavor": "Vocês se perdem pela cidade enquanto fogem por suas vidas. Seus pés se movem sozinhos. O bater de asas vigorosas e o grito das criaturas acima de vocês lhes impele adiante. Logo vocês se encontram correndo por uma avenida estreita, passando por um conjunto de pesados portões de ferro. Vocês estão em um beco sem saída — um pátio com casas velhas e altas em ambos os lados. Vocês se viram para a entrada e suspiram de alívio quando veem o sol se erguendo mais uma vez sobre o horizonte de Paris. Então, como se fosse dispersada pela luz solar, a figura que vinha perseguindo vocês se mistura às sombras e desaparece. Quando vocês estão para sair, notam uma placa ao lado de uma porta castanha no topo de uma escadaria estreita e íngreme. Ela diz: \"N. Engram.\"",
+        "back_text": "Verifique o Registro da Campanha.\n- Se vocês vislumbraram uma reunião secreta, vá para <b>(→R2)</b>.\n- Caso contrário, vá para <b>(→R1)</b>."
     },
     {
         "code": "03208",
@@ -75,150 +75,163 @@
     },
     {
         "code": "03209",
-        "flavor": "Cold rain pelts the street. Every alleyway you pass is another hiding place for something sinister.",
+        "flavor": "A chuva fria cai na rua. Cada beco que vocês passam é outro esconderijo para algo sinistro.",
         "name": "Montmartre",
-        "text": "[action]: Reveal the top card of each investigator's deck. You may play an asset revealed by this effect <i>(paying its cost)</i>, under your control. Shuffle each investigator's deck. (Group limit once per round.)",
-        "traits": "Paris. Rail.",
-        "back_flavor": "You’ve heard this district to be vibrant and friendly, but the streets feel unusually lonely to you."
+        "text": "[action]: Revele a carta do topo do baralho de cada investigador. Você pode jogar um ativo revelado por este efeito <i>(pagando seu custo)</i>, sob seu controle. Embaralhe o baralho de cada investigador. (Limite de grupo de uma vez por rodada.)",
+        "traits": "Paris. Trilhos.",
+        "back_flavor": "Vocês ouviram falar que este distrito é vibrante e amigável, mas as ruas parecem estranhamente solitárias para vocês.",
+        "back_traits": "Paris. Trilhos."
     },
     {
         "code": "03210",
-        "flavor": "Cold rain pelts the street. Every alleyway you pass is another hiding place for something sinister.",
+        "flavor": "A chuva fria cai na rua. Cada beco que vocês passam é outro esconderijo para algo sinistro.",
         "name": "Montmartre",
-        "text": "[action] Spend 1 resource: Add 1 supply or ammo token to a card you control. (Limit once per round.)",
-        "traits": "Paris. Rail.",
-        "back_flavor": "You’ve heard this district to be vibrant and friendly, but the streets feel unusually lonely to you."
+        "text": "[action] Gaste 1 recurso: Adicione 1 ficha de suprimento ou de munição a uma carta que você controla. (Limite de uma vez por rodada.)",
+        "traits": "Paris. Trilhos.",
+        "back_flavor": "Vocês ouviram falar que este distrito é vibrante e amigável, mas as ruas parecem estranhamente solitárias para vocês.",
+        "back_traits": "Paris. Trilhos."
     },
     {
         "code": "03211",
-        "flavor": "It seems the theatre is performing a show about insanity. You wonder if they have ever performed <u>The King in Yellow</u>.",
+        "flavor": "Parece que o teatro está apresentando uma peça sobre insanidade. Vocês se perguntam se eles já apresentaram O Rei de Amarelo.",
         "name": "Grand Guignol",
-        "subname": "Theatre of the Great Puppet",
-        "text": "<b>Forced</b> - After you reveal Grand Guignol: You must either take 2 horror, or shuffle all non-weakness cards from your hand into your deck, then draw an equal number of cards.",
+        "subname": "Teatro do Grande Boneco",
+        "text": "<b>Forçado</b> – Após você revelar Grand Guignol:\nVocê deve sofrer 2 de horror ou embaralhar todas as cartas não fraqueza da sua mão em seu baralho, então comprar uma quantidade igual de cartas.",
         "traits": "Paris.",
-        "back_flavor": "Le Théâtre du Grand-Guignol specializes in horror shows of a graphic and sometimes amoral nature. It is among the smallest venues in Paris, and one of the most popular."
+        "back_flavor": "Le Théâtre du Grand-Guignol se especializa em apresentações de horror de natureza gráfica e às vezes amoral. Está entre uma das menores casas de Paris e também é uma das mais populares.",
+        "back_traits": "Paris."
     },
     {
         "code": "03212",
-        "flavor": "A trail of blood leads up the grand staircase. Deep, cold mist envelops the room. You get the unmistakable feeling that there is something inhuman in the opera house…",
+        "flavor": "Uma trilha de sangue sobe pela grande escadaria. Uma névoa profunda e fria envolve a sala. Vocês têm uma sensação inconfundível de que há alguma coisa inumana na casa de ópera...",
         "name": "Opéra Garnier",
-        "text": "While you are investigating Opéra Garnier, double the number of skill icons committed to this skill test.",
-        "traits": "Paris. Rail.",
-        "back_flavor": "The Palais Garnier is an ornate architectural masterpiece, and one of the most famous opera houses in the world. Strangely, you find the main doors thrown wide open, and a dark mist creeps out from the doorway."
+        "text": "Enquanto você estiver investigando a Opéra Garnier, dobre a quantidade de ícones de perícia em cartas comprometidas nesse teste de perícia.",
+        "traits": "Paris. Trilhos.",
+        "back_flavor": "O Palais Garnier é uma obra-prima arquitetônica. Todo ornamentado, é uma das casas de ópera mais famosas do mundo. Estranhamente, vocês encontram as portas principais escancaradas e uma névoa sombria rasteja de dentro.",
+        "back_traits": "Paris. Trilhos."
     },
     {
         "code": "03213",
-        "flavor": "A trail of blood leads up the grand staircase. Deep, cold mist envelops the room. You get the unmistakable feeling that there is something inhuman in the opera house…",
+        "flavor": "Uma trilha de sangue sobe pela grande escadaria.\nUma névoa profunda e fria envolve a sala.\nVocês têm uma sensação inconfundível de que há alguma coisa inhumana na casa de ópera...",
         "name": "Opéra Garnier",
-        "text": "While you are investigating Opéra Garnier, double the base value of your skill.",
-        "traits": "Paris. Rail.",
-        "back_flavor": "The Palais Garnier is an ornate architectural masterpiece, and one of the most famous opera houses in the world. Strangely, you find the main doors thrown wide open, and a dark mist creeps out from the doorway."
+        "text": "Enquanto você estiver investigando a Opéra Garnier, dobre o valor base de sua perícia.",
+        "traits": "Paris. Trilhos.",
+        "back_flavor": "O Palais Garnier é uma obra-prima arquitetônica.\nTodo ornamentado, é uma das casas de ópera mais famosas do mundo. Estranhamente, vocês encontram as portas principais escancaradas e uma névoa sombria rasteja de dentro.",
+        "back_traits": "Paris. Trilhos."
     },
     {
         "code": "03214",
-        "flavor": "You'd expect the station to be bustling, but it is eerily abandoned, save for a few passengers who wander the station in slow, meandering steps.",
+        "flavor": "Vocês esperavam que a estação estivesse cheia de gente, mas está sinistramente abandonada, a não ser por alguns passageiros, que vagam pela estação com passos lentos e vacilantes.",
         "name": "Gare d'Orsay",
-        "text": "[action] Spend 1 resource: Move to any [[Rail]] location.",
-        "traits": "Paris. Rail.",
-        "back_flavor": "Built in 1900, this train station was the first urban station in the world to use only electric trains."
+        "text": "[action] Gaste 1 recurso: Mova-se para qualquer local com <b>Trilhos</b>.",
+        "traits": "Paris. Trilhos.",
+        "back_flavor": "Construída em 1900, esta estação de trem foi a primeira estação urbana do mundo a usar apenas trens elétricos.",
+        "back_traits": "Paris. Trilhos."
     },
     {
         "code": "03215",
-        "flavor": "Paths of stone wind through rows of graves and countless mausoleums. The dense, twisting cemetery has you trapped in a state of melancholy, surrounded by death on all sides.",
-        "name": "Père Lachaise Cemetery",
-        "text": "<b>Forced</b> - After you successfully investigate Père Lachaise Cemetery: You cannot leave Père Lachaise Cemetery until the end of the round.",
+        "flavor": "Caminhos de pedra serpenteiam através de fileiras de lápides e inúmeros mausoléus. Este cemitério denso e sinuoso aprisionou vocês em um estado de melancolia, cercados de morte por todos os lados.",
+        "name": "Cemitério Père Lachaise",
+        "text": "<b>Forçado</b> – Após você investigar Cemitério Père Lachaise com sucesso: Você não pode sair do Cemitério Père Lachaise até o final da rodada.",
         "traits": "Paris.",
-        "back_flavor": "The largest cemetery in Paris, and its first garden cemetery, Père Lachaise is as beautiful as it is haunting."
+        "back_flavor": "O maior cemitério de Paris, e seu primeiro cemitério jardim, o Père Lachaise é tão belo quanto é assombroso.",
+        "back_traits": "Paris."
     },
     {
         "code": "03216",
         "name": "Canal Saint-Martin",
-        "text": "[reaction] After you evade an enemy at Canal Saint-Martin: Move that enemy to a connecting location. (Limit once per round.)",
+        "text": "[reaction] Após você evadir um inimigo no Canal Saint-Martin: Mova esse inimigo para um local conectado. (Limite de uma vez por rodada.)",
         "traits": "Paris.",
-        "back_flavor": "This underground canal connects the river Seine to the Canal de l’Ourcq. An old, cracked staircase leads down to the canal’s entrance."
+        "back_flavor": "This underground canal connects the river Seine to the Canal de l’Ourcq. An old, cracked staircase leads down to the canal’s entrance.",
+        "back_traits": "Paris.",
+        "back_text": "Este canal subterrâneo conecta o rio Sena ao Canal de l’Ourcq. Uma escadaria velha e rachada leva até a entrada dele."
     },
     {
         "code": "03217",
-        "flavor": "Throughout this region, you cannot shake the feeling that you are being watched. Something along the rooftops ducks just out of sight each time you peer upward.",
+        "flavor": "Nesta região, você não consegue afastar o sentimento de estar sendo observado. Alguma coisa que está nos telhados se abaixa e sai de vista sempre que você olha para cima.",
         "name": "Le Marais",
-        "text": "[reaction] When your turn begins, if you are in Le Marais: Draw 1 card. (Group limit once per round.)",
-        "traits": "Paris. Rail.",
-        "back_flavor": "This historic district has recently become less aristocratic, but the old architectural masterwork remains."
+        "text": "[reaction] Quando seu turno começar, se você estiver em Le Marais: Compre 1 carta. (Limite de grupo de uma vez por rodada.)",
+        "traits": "Paris. Trilhos.",
+        "back_flavor": "Este distrito histórico recentemente vem se tornando menos aristocrático, mas as velhas belas obras arquitetônicas permanecem.",
+        "back_traits": "Paris. Trilhos."
     },
     {
         "code": "03218",
-        "flavor": "Throughout this region, you cannot shake the feeling that you are being watched. Something along the rooftops ducks just out of sight each time you peer upward.",
+        "flavor": "Nesta região, você não consegue afastar o sentimento de estar sendo observado. Alguma coisa que está nos telhados se abaixa e sai de vista sempre que você olha para cima.",
         "name": "Le Marais",
-        "text": "<b>Forced</b> - After you enter Le Marais: For the remainder of the round, you cannot leave Le Marais.",
-        "traits": "Paris. Rail.",
-        "back_flavor": "This historic district has recently become less aristocratic, but the old architectural masterwork remains."
+        "text": "<b>Forçado</b> – Após você entrar em Le Marais:\nPelo restante da rodada, você não pode sair de Le Marais.",
+        "traits": "Paris. Trilhos.",
+        "back_flavor": "Este distrito histórico recentemente vem se tornando menos aristocrático, mas as velhas belas obras arquitetônicas permanecem.",
+        "back_traits": "Paris. Trilhos."
     },
     {
         "code": "03219",
         "name": "Notre-Dame",
-        "text": "Each enemy at Notre-Dame gets -1 fight and +1 evade.\n[action]: Test [willpower] (6). If you succeed, either place 1 doom on the current agenda, or remove 1 doom from the current agenda. (Group limit once per game.)",
-        "traits": "Paris. Rail.",
-        "back_flavor": "The most famous cathedral in all of Paris, and one of the finest examples of gothic architecture in the world, Notre-Dame de Paris - \"Our Lady of Paris\" - is an icon of the city. Light shines out from its stained glass windows, and you can hear a pipe organ inside blaring a bizarre, chaotic melody."
+        "text": "Cada inimigo em Notre-Dame recebe -1 de Luta e +1 de Evasão.\n[action]: Teste [willpower] (6). Se você tiver sucesso coloque 1 perdição sobre a agenda atual ou remova 1 perdição da agenda atual. (Limite de grupo de uma vez por jogo.)",
+        "traits": "Paris. Trilhos.",
+        "back_flavor": "A catedral mais famosa de toda Paris, e um dos maiores exemplos da arquitetura gótica no mundo, a Notre-Dame de Paris — ou \"Nossa Dama de Paris\" — é um ícone da cidade.\nLuzes brilham por suas janelas de vitrais, e é possível ouvir um órgão lá dentro, tocando uma melodia bizarra e caótica.",
+        "back_traits": "Paris. Trilhos."
     },
     {
         "code": "03220",
-        "name": "Gardens of Luxembourg",
-        "text": "While a [[Byakhee]] enemy is moving, if there is an investigator at Gardens of Luxembourg, that enemy's location is considered to be connected to Gardens of Luxembourg.",
+        "name": "Jardins de Luxemburgo",
+        "text": "Enquanto um inimigo <b>Byakhee</b> estiver se movendo, se houver um investigador em Jardins de Luxemburgo, o local desse inimigo é considerado conectado a Jardins de Luxemburgo.",
         "traits": "Paris.",
-        "back_flavor": "The gardens of Luxembourg Palace contain hundreds of scattered statues, monuments, and fountains. It would make for a relaxing walk if you hadn’t come here to escape the winged creatures that screech and soar in the dark sky overhead."
+        "back_flavor": "Os jardins do Palácio de Luxemburgo contêm centenas de estátuas, monumentos e fontes. Seria uma caminhada agradável se você não estivesse aqui para fugir de criaturas aladas que guincham e dão rasantes pelo céu escuro acima.",
+        "back_traits": "Paris."
     },
     {
         "code": "03221",
-        "flavor": "…the point from which it would strike was his infernal eyes. - Robert W. Chambers, \"In the Court of the Dragon,\" <u>The King in Yellow</u>",
-        "name": "The Organist",
-        "subname": "Hopeless, I Defied Him",
-        "text": "Hunter. Cannot be damaged.\n<b>Forced</b> - After The Organist moves from the hunter keyword, if it is unengaged: Resolve its hunter keyword again. The Organist cannot attack this phase. (Limit once per round).",
-        "traits": "Humanoid. Avatar. Elite."
+        "flavor": "… o que mais me apavorava eram os seus olhos infernais.\n– Robert W. Chambers, \"Na Corte do Dragão,\"\nO Rei de Amarelo",
+        "name": "O Organista",
+        "subname": "Sem Esperança, o Desafiei",
+        "text": "Caçador. Não pode sofrer dano.\n<b>Forçado</b> - Após O Organista se mover através da palavra-chave caçador, se ele não estiver engajado: Resolva sua palavra-chave caçador novamente. O Organista não pode atacar nesta fase. (Limite de uma vez por rodada).",
+        "traits": "Humanoide. Avatar. Elite."
     },
     {
         "code": "03221b",
-        "flavor": "I was creeping along, my feet almost refusing to move. - Robert W. Chambers, \"In the Court of the Dragon,\" <u>The King in Yellow</u>",
-        "name": "The Organist",
-        "subname": "Draped in Mystery",
-        "text": "Aloof. Cannot be damaged.\n<b>Forced</b> - At the end of the enemy phase: If The Organist is unengaged, move it 1 location away from the nearest investigator (to a location with no investigators, if possible). If it is engaged, disengage it instead.",
-        "traits": "Humanoid. Avatar. Elite."
+        "flavor": "Eu estava rastejando, meus pés quase se recusavam a se mover.\n– Robert W. Chambers, \"Na Corte do Dragão,\"\nO Rei de Amarelo",
+        "name": "O Organista",
+        "subname": "Envolto em Mistério",
+        "text": "Arredio. Não pode sofrer dano.\n<b>Forçado</b> – No final da fase dos inimigos: Se O Organista não estiver engajado, mova-o 1 local para longe do investigador mais próximo (para um local sem investigadores, se possível). Se ele estiver engajado, em vez disso, desengaje-o.",
+        "traits": "Humanoide. Avatar. Elite."
     },
     {
         "code": "03222",
-        "flavor": "If you can hear the beating of its leathery wings, it’s already too late.",
-        "name": "Stealthy Byakhee",
-        "text": "Hunter.\nWhile Stealthy Byakhee is exhausted, it gets -3 fight.",
-        "traits": "Monster. Byakhee."
+        "flavor": "Se você puder ouvir o bater de asas coriáceas, já é tarde demais.",
+        "name": "Byakhee Furtivo",
+        "text": "<b>Caçador.</b>\nEnquanto Byakhee Furtivo estiver esgotado, ele recebe -3 de Luta.",
+        "traits": "Monstro. Byakhee."
     },
     {
         "code": "03223",
-        "flavor": "The implication spoils what would otherwise be a lovely sunset.",
-        "name": "Twin Suns",
-        "text": "<b>Revelation</b> - Test [intellect] (4). If you fail, you must either remove 1 doom from the current agenda, or take 1 horror for each point you failed by.",
-        "traits": "Omen."
+        "flavor": "As implicações estragam o que, de outra forma, seria um belo pôr do sol.",
+        "name": "Sóis Gêmeos",
+        "text": "<b>Revelação</b> – Teste [intellect] (4). Se você falhar, você deve remover 1 perdição da agenda atual ou sofrer 1 de horror para cada ponto que você falhar.",
+        "traits": "Presságio."
     },
     {
         "code": "03224",
-        "name": "Deadly Fate",
-        "text": "<b>Revelation</b> - Test [willpower] (3). If you fail, discard cards from the top of the encounter deck until an enemy is discarded. You must either draw that enemy, or that enemy attacks you <i>(from the discard pile)</i>. If no enemy is discarded, take 1 horror instead.",
-        "traits": "Omen."
+        "name": "Destino Mortal",
+        "text": "<b>Revelação</b> – Teste [willpower] (3). Se você falhar, descarte cartas do topo do baralho de encontros até que um inimigo seja descartado. Você deve comprar esse inimigo ou esse inimigo ataca você <i>(da pilha de descarte)</i>.\nSe nenhum inimigo for descartado, sofra 1 de horror em vez disso.",
+        "traits": "Presságio."
     },
     {
         "code": "03225",
-        "name": "Torturous Chords",
-        "text": "<b>Revelation</b> - Test [willpower] (5). If you fail, put Torturous Chords into play in your threat area, with 1 resource on it for each point you failed by.\nEach time you play a card, increase the cost of that card by 1 and remove 1 resource from Torturous Chords.\nIf Torturous Chords has no resources, discard it.",
-        "traits": "Hex. Terror."
+        "name": "Acordes Torturantes",
+        "text": "<b>Revelação</b> – Teste [willpower] (5). Se você falhar, coloque Acordes Torturantes em jogo na sua área de ameaças com 1 recurso sobre ele para cada ponto que você falhar.\nCada vez que você jogar uma carta, aumente o custo da carta em 1 e remova 1 recurso de Acordes Torturantes.\nSe Acordes Torturantes não tiver recursos, descarte-o.",
+        "traits": "Sortilégio. Terror."
     },
     {
         "code": "03226",
-        "name": "Frozen in Fear",
-        "text": "<b>Revelation</b> - Put Frozen in Fear into play in your threat area.\nThe first time you perform one of the following actions (move, fight, or evade) each round, it costs 1 additional action.\n<b>Forced</b> - At the end of your turn: Test [willpower] (3). If you succeed, discard Frozen in Fear.",
+        "name": "Paralisado de Medo",
+        "text": "<b>Revelação</b> – Coloque Paralisado de Medo em jogo em sua área de ameaças.\nNa primeira vez que você realizar uma das seguintes ações (mover-se, lutar ou evadir) em cada rodada, ela custa 1 ação adicional.\n<b>Forçado</b> – No final do seu turno: Teste [willpower] (3). Se você tiver sucesso, descarte Paralisado de Medo.",
         "traits": "Terror."
     },
     {
         "code": "03227",
-        "name": "Lost Soul",
-        "text": "<b>Revelation</b> - Check Campaign Log. \n- If you have more (or equal) <b>Doubt</b> than <b>Conviction</b>, test [intellect] (X), where X is your [willpower]. If you fail, take 2 damage.\n- If you have more <b>Conviction</b> than <b>Doubt</b>, test [willpower] (X), where X is your [intellect]. If you fail, take 2 damage.",
-        "traits": "Madness. Pact."
+        "name": "Alma Perdida",
+        "text": "<b>Revelação</b> – Verifique o Registro da Campanha.\n- Se vocês tiverem mais (a mesma quantidade de) <b>Dúvidas</b> do que <b>Convicções</b>, teste [intellect] (X), onde X é sua [willpower]. Se você falhar, sofra 2 de dano.\n- Se vocês tiverem mais <b>Convicções</b> do que <b>Dúvidas</b>, teste [willpower] (X), onde X é seu [intellect]. Se você falhar, sofra 2 de dano.",
+        "traits": "Loucura. Pacto."
     }
 ]
