@@ -1,939 +1,941 @@
 [
     {
-        "code":"10001",
-        "traits":"Andarilho.",
-        "name":"Wilson Richards",
-        "subname":"O Faz-tudo",
-        "back_name":"Wilson Richards",
-        "back_text":"<b>Tamanho do Baralho</b>: 30.\n<b>Op\u00e7\u00f5es de Constru\u00e7\u00e3o de Baralho</b>: Cartas de [[Ferramenta]] de n\u00edveis 0-5, cartas de Guardi\u00e3o ([guardian]) de n\u00edveis 0-4, cartas Neutras de n\u00edveis 0-5, at\u00e9 5 outras cartas de [[Improvisado]] e/ou de [[Aprimoramento]] de n\u00edveis 0-1.\n<b>Requisitos de Constru\u00e7\u00e3o de Baralho</b> (n\u00e3o contam para o tamanho do baralho): Ad Hoc, Reparos R\u00e1pidos, 1 fraqueza b\u00e1sica aleat\u00f3ria.",
-        "back_flavor":"Wilson se orgulha por ter sempre a ferramenta certa para o trabalho. Encanamento vazando? Chave grifo. \u00c1rvore ca\u00edda? Serra de m\u00e3o. Reforma de interiores? Marreta. Mas recentemente seus trabalhos em Arkham e em seus arredores tornaram-se um pouco estranhos. No lugar de assoalhos barulhentos, t\u00faneis que parecem labirintos. Um telhado quebrado com sinais de ter sido rompido de dentro para fora e n\u00e3o ao contr\u00e1rio. O trabalho de Wilson \u00e9 solucionar problemas e, quando esses problemas envolvem criaturas bizarras e horripilantes e fen\u00f4menos inexplic\u00e1veis, s\u00f3 resta usar a criatividade com as ferramentas que ele tem.",
-        "text":"Reduza em 1 o custo de recurso do primeiro ativo de [[Ferramenta]] que voc\u00ea jogar em cada rodada.\nVoc\u00ea recebe +1 de valor de per\u00edcia durante testes de per\u00edcia em ativos de [[Ferramenta]].\n[elder_sign] efeito: +0. Voc\u00ea pode trocar um ativo de [[Ferramenta]] na sua \u00e1rea de jogo por um ativo de [[Ferramenta]] na sua m\u00e3o com custo impresso igual ou menor."
-    },
-    {
-        "code":"10002",
-        "traits":"Improvisado. Aprimoramento.",
-        "name":"Ad Hoc",
-        "text":"Apenas no baralho de Wilson Richards.\nAnexe Ad Hoc a um ativo de [[Ferramenta]] ou de [[Arma]] que voc\u00ea controla.\n[reaction] Ap\u00f3s resolver uma habilidade [action] no ativo anexado, esgote Ad Hoc e descarte um ativo de [[Ferramenta]] ou de [[Arma]] da sua m\u00e3o: Resolva uma habilidade [action] no ativo descartado, ignorando todos os custos.",
-        "flavor":"\"Este \u00e9 um trabalho e tanto.\""
+        "code": "10001",
+        "traits": "Andarilho.",
+        "name": "Wilson Richards",
+        "subname": "O Faz-tudo",
+        "back_name": "Wilson Richards",
+        "back_text": "<b>Tamanho do Baralho</b>: 30.\n<b>Opções de Construção de Baralho</b>: Cartas de [[Ferramenta]] de níveis 0-5, cartas de Guardião ([guardian]) de níveis 0-4, cartas Neutras de níveis 0-5, até 5 outras cartas de [[Improvisado]] e/ou de [[Aprimoramento]] de níveis 0-1.\n<b>Requisitos de Construção de Baralho</b> (não contam para o tamanho do baralho): Ad Hoc, Reparos Rápidos, 1 fraqueza básica aleatória.",
+        "back_flavor": "Wilson se orgulha por ter sempre a ferramenta certa para o trabalho. Encanamento vazando? Chave grifo. Árvore caída? Serra de mão. Reforma de interiores? Marreta. Mas recentemente seus trabalhos em Arkham e em seus arredores tornaram-se um pouco estranhos. No lugar de assoalhos barulhentos, túneis que parecem labirintos. Um telhado quebrado com sinais de ter sido rompido de dentro para fora e não ao contrário. O trabalho de Wilson é solucionar problemas e, quando esses problemas envolvem criaturas bizarras e horripilantes e fenômenos inexplicáveis, só resta usar a criatividade com as ferramentas que ele tem.",
+        "text": "Reduza em 1 o custo de recurso do primeiro ativo de [[Ferramenta]] que você jogar em cada rodada.\nVocê recebe +1 de valor de perícia durante testes de perícia em ativos de [[Ferramenta]].\n[elder_sign] efeito: +0. Você pode trocar um ativo de [[Ferramenta]] na sua área de jogo por um ativo de [[Ferramenta]] na sua mão com custo impresso igual ou menor."
+    },
+    {
+        "code": "10002",
+        "traits": "Improvisado. Aprimoramento.",
+        "name": "Ad Hoc",
+        "text": "Apenas no baralho de Wilson Richards.\nAnexe Ad Hoc a um ativo de [[Ferramenta]] ou de [[Arma]] que você controla.\n[reaction] Após resolver uma habilidade [action] no ativo anexado, esgote Ad Hoc e descarte um ativo de [[Ferramenta]] ou de [[Arma]] da sua mão: Resolva uma habilidade [action] no ativo descartado, ignorando todos os custos.",
+        "flavor": "\"Este é um trabalho e tanto.\""
     },
     {
-        "code":"10003",
-        "traits":"Trope\u00e7o.",
-        "name":"Reparos R\u00e1pidos",
-        "text":"<b>Revela\u00e7\u00e3o</b> - Coloque Reparos R\u00e1pidos em jogo em sua \u00e1rea de amea\u00e7as.\nAo ativar habilidades em ativos que voc\u00ea controla, ajuste o seu valor de per\u00edcia base para 0.\n[action][action]: Descarte Reparos R\u00e1pidos."
-    },
-    {
-        "code":"10004",
-        "traits":"Miskatonic. Acad\u00eamico.",
-        "name":"Kate Winthrop",
-        "subname":"A Cientista",
-        "back_name":"Kate Winthrop",
-        "back_text":"<b>Tamanho do Baralho</b>: 30.\n<b>Op\u00e7\u00f5es de Constru\u00e7\u00e3o de Baralho</b>: Cartas de Buscador ([seeker]) de n\u00edveis 0-5, cartas de [[Ci\u00eancia]] de n\u00edveis 0-4, cartas de [[Introspec\u00e7\u00e3o]] de n\u00edveis 0-1, cartas Neutras de n\u00edveis 0-5.\n<b>Requisitos de Constru\u00e7\u00e3o de Baralho</b> (n\u00e3o contam para o tamanho do baralho): Estabilizador de Fluxo, Experimento Fracassado, 1 fraqueza b\u00e1sica aleat\u00f3ria.",
-        "back_flavor":"Kate Winthrop passou anos fazendo pesquisas no por\u00e3o do pr\u00e9dio de ci\u00eancias da Universidade de Miskatonic, abrindo m\u00e3o de financiamentos e prest\u00edgio acad\u00eamico em sua busca do progresso. Finalmente, seu foco obstinado deu resultado com a inven\u00e7\u00e3o do Estabilizador de Fluxo: um dispositivo poderoso, capaz de canalizar uma nova forma de energia. Entretanto, o pre\u00e7o do progresso \u00e9 alto. O primeiro teste dessa inven\u00e7\u00e3o revolucion\u00e1ria acabou causando a morte de sua amiga e mentora Professora Young. Desde ent\u00e3o, Kate tem trabalhado incansavelmente para entender essas correntes alien\u00edgenas, com a esperan\u00e7a de descobrir uma forma de reverter seus efeitos.",
-        "text":"Voc\u00ea come\u00e7a o jogo com Estabilizador de Fluxo com o lado <i>(Inativado)</i> virado para cima.\n[fast]: Mova 1 pista de Kate Winthrop para um ativo de [[Ci\u00eancia]] ou de [[Ferramenta]] que voc\u00ea controla sem pistas sobre ele.\n<b>For\u00e7ado</b> - Quando um ativo que voc\u00ea controla com uma pista sobre ele sair de jogo: Coloque a pista do ativo em seu local.\n[elder_sign] efeito: +0. Voc\u00ea pode mover 1 pista de um ativo que voc\u00ea controla de volta para Kate Winthrop."
-    },
+        "code": "10003",
+        "traits": "Tropeço.",
+        "name": "Reparos Rápidos",
+        "text": "<b>Revelação</b> - Coloque Reparos Rápidos em jogo em sua área de ameaças.\nAo ativar habilidades em ativos que você controla, ajuste o seu valor de perícia base para 0.\n[action][action]: Descarte Reparos Rápidos."
+    },
+    {
+        "code": "10004",
+        "traits": "Miskatonic. Acadêmico.",
+        "name": "Kate Winthrop",
+        "subname": "A Cientista",
+        "back_name": "Kate Winthrop",
+        "back_text": "<b>Tamanho do Baralho</b>: 30.\n<b>Opções de Construção de Baralho</b>: Cartas de Buscador ([seeker]) de níveis 0-5, cartas de [[Ciência]] de níveis 0-4, cartas de [[Introspecção]] de níveis 0-1, cartas Neutras de níveis 0-5.\n<b>Requisitos de Construção de Baralho</b> (não contam para o tamanho do baralho): Estabilizador de Fluxo, Experimento Fracassado, 1 fraqueza básica aleatória.",
+        "back_flavor": "Kate Winthrop passou anos fazendo pesquisas no porão do prédio de ciências da Universidade de Miskatonic, abrindo mão de financiamentos e prestígio acadêmico em sua busca do progresso. Finalmente, seu foco obstinado deu resultado com a invenção do Estabilizador de Fluxo: um dispositivo poderoso, capaz de canalizar uma nova forma de energia. Entretanto, o preço do progresso é alto. O primeiro teste dessa invenção revolucionária acabou causando a morte de sua amiga e mentora Professora Young. Desde então, Kate tem trabalhado incansavelmente para entender essas correntes alienígenas, com a esperança de descobrir uma forma de reverter seus efeitos.",
+        "text": "Você começa o jogo com Estabilizador de Fluxo com o lado <i>(Inativado)</i> virado para cima.\n[fast]: Mova 1 pista de Kate Winthrop para um ativo de [[Ciência]] ou de [[Ferramenta]] que você controla sem pistas sobre ele.\n<b>Forçado</b> - Quando um ativo que você controla com uma pista sobre ele sair de jogo: Coloque a pista do ativo em seu local.\n[elder_sign] efeito: +0. Você pode mover 1 pista de um ativo que você controla de volta para Kate Winthrop."
+    },
     {
-        "code":"10005",
-        "traits":"Item. Ferramenta. Ci\u00eancia.",
-        "name":"Estabilizador de Fluxo",
-        "subname":"Inativado",
-        "text":"Permanente. Apenas no baralho de Kate Winthrop.\n<b>For\u00e7ado</b> - Ap\u00f3s uma pista ser colocada em Estabilizador de Fluxo: Procure 1 c\u00f3pia de Corrente de \u00c9ter nas suas cartas vinculadas ou pilha de descarte e embaralhe-a em seu baralho. Vire Estabilizador de Fluxo <i>(mantendo todas as fichas e anexos)</i>."
-    },
+        "code": "10005",
+        "traits": "Item. Ferramenta. Ciência.",
+        "name": "Estabilizador de Fluxo",
+        "subname": "Inativado",
+        "text": "Permanente. Apenas no baralho de Kate Winthrop.\n<b>Forçado</b> - Após uma pista ser colocada em Estabilizador de Fluxo: Procure 1 cópia de Corrente de Éter nas suas cartas vinculadas ou pilha de descarte e embaralhe-a em seu baralho. Vire Estabilizador de Fluxo <i>(mantendo todas as fichas e anexos)</i>."
+    },
     {
-        "code":"10005b",
-        "traits":"Item. Ferramenta. Ci\u00eancia.",
-        "name":"Estabilizador de Fluxo",
-        "subname":"Ativado",
-        "text":"Permanente. Apenas no baralho de Kate Winthrop.\n[reaction] Quando voc\u00ea colocar uma pista em um ativo que voc\u00ea controla: Receba +2 de valor de per\u00edcia no seu pr\u00f3ximo teste de per\u00edcia nesta fase.",
-        "flavor":"\"Seria esta a mesma energia canalizada por Nikola Tesla?\""
+        "code": "10005b",
+        "traits": "Item. Ferramenta. Ciência.",
+        "name": "Estabilizador de Fluxo",
+        "subname": "Ativado",
+        "text": "Permanente. Apenas no baralho de Kate Winthrop.\n[reaction] Quando você colocar uma pista em um ativo que você controla: Receba +2 de valor de perícia no seu próximo teste de perícia nesta fase.",
+        "flavor": "\"Seria esta a mesma energia canalizada por Nikola Tesla?\""
     },
     {
-        "code":"10006",
-        "traits":"Ci\u00eancia.",
-        "name":"Corrente de \u00c9ter",
-        "text":"Vinculado (Estabilizador de Fluxo). Jogue apenas se Estabilizador de Fluxo estiver em seu lado <i>(Ativado)</i>.\n<b>Lute.</b> Mova todas as pistas nos ativos que voc\u00ea controla para Kate Winthrop. Voc\u00ea pode usar [intellect] em vez de [combat] neste ataque. Se voc\u00ea tiver sucesso e o inimigo atacado for n\u00e3o-[[Elite]], voc\u00ea pode esgot\u00e1-lo e mov\u00ea-lo para qualquer local. Compre 1 carta. Vire Estabilizador de Fluxo <i>(mantendo todas as fichas e anexos)</i>.",
-        "subname":"Yuggoth"
+        "code": "10006",
+        "traits": "Ciência.",
+        "name": "Corrente de Éter",
+        "text": "Vinculado (Estabilizador de Fluxo). Jogue apenas se Estabilizador de Fluxo estiver em seu lado <i>(Ativado)</i>.\n<b>Lute.</b> Mova todas as pistas nos ativos que você controla para Kate Winthrop. Você pode usar [intellect] em vez de [combat] neste ataque. Se você tiver sucesso e o inimigo atacado for não-[[Elite]], você pode esgotá-lo e movê-lo para qualquer local. Compre 1 carta. Vire Estabilizador de Fluxo <i>(mantendo todas as fichas e anexos)</i>.",
+        "subname": "Yuggoth"
     },
     {
-        "code":"10007",
-        "traits":"Ci\u00eancia.",
-        "name":"Corrente de \u00c9ter",
-        "text":"Vinculado (Estabilizador de Fluxo). Jogue apenas se Estabilizador de Fluxo estiver em seu lado <i>(Ativado)</i>.\n<b>Evada.</b> Mova todas as pistas nos ativos que voc\u00ea controla para Kate Winthrop. Voc\u00ea pode usar [intellect] em vez de [agility] nesta tentativa de evas\u00e3o. Se voc\u00ea tiver sucesso e o alvo desta evas\u00e3o for n\u00e3o-[[Elite]], embaralhe-o no baralho de encontros. Compre 1 carta. Vire Estabilizador de Fluxo <i>(mantendo todas as fichas e anexos)</i>.",
-        "subname":"Yoth"
+        "code": "10007",
+        "traits": "Ciência.",
+        "name": "Corrente de Éter",
+        "text": "Vinculado (Estabilizador de Fluxo). Jogue apenas se Estabilizador de Fluxo estiver em seu lado <i>(Ativado)</i>.\n<b>Evada.</b> Mova todas as pistas nos ativos que você controla para Kate Winthrop. Você pode usar [intellect] em vez de [agility] nesta tentativa de evasão. Se você tiver sucesso e o alvo desta evasão for não-[[Elite]], embaralhe-o no baralho de encontros. Compre 1 carta. Vire Estabilizador de Fluxo <i>(mantendo todas as fichas e anexos)</i>.",
+        "subname": "Yoth"
     },
     {
-        "code":"10008",
-        "traits":"Trope\u00e7o.",
-        "name":"Experimento Fracassado",
-        "text":"<b>Revela\u00e7\u00e3o</b> - Teste [willpower] (3). Este teste recebe +1 de dificuldade para cada ativo que voc\u00ea controla com uma pista sobre ele. Para cada ponto que voc\u00ea falhar, voc\u00ea deve sofrer 1 de horror ou colocar 1 de suas pistas em seu local.",
-        "flavor":"\"Cometi um grande erro.\""
+        "code": "10008",
+        "traits": "Tropeço.",
+        "name": "Experimento Fracassado",
+        "text": "<b>Revelação</b> - Teste [willpower] (3). Este teste recebe +1 de dificuldade para cada ativo que você controla com uma pista sobre ele. Para cada ponto que você falhar, você deve sofrer 1 de horror ou colocar 1 de suas pistas em seu local.",
+        "flavor": "\"Cometi um grande erro.\""
     },
     {
-        "code":"10009",
-        "traits":"Andarilho. Socialite.",
-        "name":"Alessandra Zorzi",
-        "subname":"A Condessa",
-        "back_name":"Alessandra Zorzi",
-        "back_text":"<b>Tamanho do Baralho</b>: 30.\n<b>Op\u00e7\u00f5es de Constru\u00e7\u00e3o de Baralho</b>: Cartas de Ladino ([rogue]) de n\u00edveis 0-5, cartas com \"negociata\" de n\u00edveis 0-5, cartas Neutras de n\u00edveis 0-5.\n<b>Requisitos de Constru\u00e7\u00e3o de Baralho</b> (n\u00e3o contam para o tamanho do baralho): 3 c\u00f3pias de Seduzir, Zamacona, 1 fraqueza b\u00e1sica aleat\u00f3ria.",
-        "back_flavor":"A vida de luxo despreocupada de Alessandra permite que ela v\u00e1 de um baile de gala majestoso na Cidade de Nova York para um banquete com o Maraj\u00e1 da \u00cdndia com facilidade. A Condessa j\u00e1 provou todos os pratos, bebidas e damas de Marraquexe a Chicago. No entanto, o t\u00edtulo real \u00e9 s\u00f3 fingimento: na verdade, Alessandra usa seu disfarce para roubar galerias de arte, bancos e os cora\u00e7\u00f5es e carteiras dos ricos e fr\u00edvolos. Sua l\u00edngua afiada j\u00e1 a colocou em diversos problemas, mas tamb\u00e9m j\u00e1 lhe ajudou a escapar de tantos outros. Um novo trabalho com o misterioso Zamacona trouxe Alessandra a Arkham, Massachusetts, onde a Condessa aprendeu que h\u00e1 muito mais por tr\u00e1s dos excessos sugestivos dos ricos e fr\u00edvolos do que ela acreditava anteriormente.",
-        "text":"Voc\u00ea pode realizar uma a\u00e7\u00e3o adicional durante o seu turno, que s\u00f3 pode ser usada para negociata.\n[elder_sign] efeito: +2. Se voc\u00ea tiver sucesso, escolha um inimigo n\u00e3o-[[Elite]] em seu local ou em um local conectado revelado. Evada automaticamente esse inimigo.",
-        "flavor":"\"Adoro uma boa festa.\""
+        "code": "10009",
+        "traits": "Andarilho. Socialite.",
+        "name": "Alessandra Zorzi",
+        "subname": "A Condessa",
+        "back_name": "Alessandra Zorzi",
+        "back_text": "<b>Tamanho do Baralho</b>: 30.\n<b>Opções de Construção de Baralho</b>: Cartas de Ladino ([rogue]) de níveis 0-5, cartas com \"negociata\" de níveis 0-5, cartas Neutras de níveis 0-5.\n<b>Requisitos de Construção de Baralho</b> (não contam para o tamanho do baralho): 3 cópias de Seduzir, Zamacona, 1 fraqueza básica aleatória.",
+        "back_flavor": "A vida de luxo despreocupada de Alessandra permite que ela vá de um baile de gala majestoso na Cidade de Nova York para um banquete com o Marajá da Índia com facilidade. A Condessa já provou todos os pratos, bebidas e damas de Marraquexe a Chicago. No entanto, o título real é só fingimento: na verdade, Alessandra usa seu disfarce para roubar galerias de arte, bancos e os corações e carteiras dos ricos e frívolos. Sua língua afiada já a colocou em diversos problemas, mas também já lhe ajudou a escapar de tantos outros. Um novo trabalho com o misterioso Zamacona trouxe Alessandra a Arkham, Massachusetts, onde a Condessa aprendeu que há muito mais por trás dos excessos sugestivos dos ricos e frívolos do que ela acreditava anteriormente.",
+        "text": "Você pode realizar uma ação adicional durante o seu turno, que só pode ser usada para negociata.\n[elder_sign] efeito: +2. Se você tiver sucesso, escolha um inimigo não-[[Elite]] em seu local ou em um local conectado revelado. Evada automaticamente esse inimigo.",
+        "flavor": "\"Adoro uma boa festa.\""
     },
     {
-        "code":"10010",
-        "traits":"Truque.",
-        "name":"Seduzir",
-        "text":"Apenas no baralho de Alessandra Zorzi. Veloz. Jogue apenas durante o seu turno.\nAnexe Seduzir a um inimigo n\u00e3o-[[Elite]] em seu local.\n[action]: <b>Negociata.</b> Mova o inimigo anexado para um local conectado revelado ou realize uma a\u00e7\u00e3o b\u00e1sica de investigar ou de evadir no local do inimigo. Se voc\u00ea falhar em um teste de per\u00edcia enquanto estiver resolvendo esta habilidade, descarte Seduzir. Voc\u00ea pode ativar esta habilidade de qualquer local."
+        "code": "10010",
+        "traits": "Truque.",
+        "name": "Seduzir",
+        "text": "Apenas no baralho de Alessandra Zorzi. Veloz. Jogue apenas durante o seu turno.\nAnexe Seduzir a um inimigo não-[[Elite]] em seu local.\n[action]: <b>Negociata.</b> Mova o inimigo anexado para um local conectado revelado ou realize uma ação básica de investigar ou de evadir no local do inimigo. Se você falhar em um teste de perícia enquanto estiver resolvendo esta habilidade, descarte Seduzir. Você pode ativar esta habilidade de qualquer local."
     },
     {
-        "code":"10011",
-        "traits":"Humanoide. Criminoso.",
-        "name":"Zamacona",
-        "text":"Elusivo.\n<b>Surgir</b> - Local vazio mais pr\u00f3ximo, se poss\u00edvel.\nAlessandra Zorzi n\u00e3o pode negociar com Zamacona.\n<b>For\u00e7ado</b> - A primeira vez que Alessandra Zorzi negociar em cada rodada: Coloque 1 perdi\u00e7\u00e3o em Zamacona."
+        "code": "10011",
+        "traits": "Humanoide. Criminoso.",
+        "name": "Zamacona",
+        "text": "Elusivo.\n<b>Surgir</b> - Local vazio mais próximo, se possível.\nAlessandra Zorzi não pode negociar com Zamacona.\n<b>Forçado</b> - A primeira vez que Alessandra Zorzi negociar em cada rodada: Coloque 1 perdição em Zamacona."
     },
     {
-        "code":"10012",
-        "traits":"Acad\u00eamico. Aben\u00e7oado. Amaldi\u00e7oado.",
-        "name":"K\u014dhaku Narukami",
-        "subname":"O Folclorista",
-        "back_name":"K\u014dhaku Narukami",
-        "back_text":"<b>Tamanho do Baralho</b>: 30.\n<b>Op\u00e7\u00f5es de Constru\u00e7\u00e3o de Baralho</b>: Cartas de [[Aben\u00e7oado]] de n\u00edveis 0-5, cartas de [[Amaldi\u00e7oado]] de n\u00edveis 0-5, cartas de [[Oculto]] de n\u00edvel 0, cartas de M\u00edstico ([mystic]) de n\u00edveis 0-3, cartas Neutras de n\u00edveis 0-5.\n<b>Requisitos de Constru\u00e7\u00e3o de Baralho</b> (n\u00e3o contam para o tamanho do baralho): Livro dos Mitos Vivos, Yurei que Chora, 1 fraqueza b\u00e1sica aleat\u00f3ria.",
-        "back_flavor":"Todos na Sociedade Hist\u00f3rica de Arkham reconhecem a risada vibrante de K\u00f6haku e as hist\u00f3rias assustadoras que ele conta sobre os y\u014dkai do lar de sua inf\u00e2ncia, pr\u00f3ximo a T\u00f3quio, e das criaturas estranhas s que assombram a Floresta de Arkham. O folclorista exc\u00eantrico diz a todos que a sua maior obra ser\u00e1 o registro e a publica\u00e7\u00e3o da exist\u00eancia desses fen\u00f4menos. \u00c9 s\u00f3 quando ele est\u00e1 em casa com seu companheiro Gabriel que ele ouve os gritos do mesmo esp\u00edrito que assombrou seu pai e teme que sua \"maior obra\" nunca o deixar\u00e1 dormir novamente.",
-        "text":"[reaction] No in\u00edcio do seu turno: Adicione 1 ficha [bless] ou 1 ficha [curse] \u00e0 bolsa de caos, do tipo que houver menos <i>(no caso de empate, voc\u00ea escolhe)</i>, ou remova 2 fichas [bless] e 2 fichas [curse] da bolsa de caos para realizar uma a\u00e7\u00e3o adicional neste turno.\n[elder_sign] efeito: +2. Adicione 1 ficha [bless] e 1 ficha [curse] \u00e0 bolsa de caos.",
-        "flavor":"\"Por que n\u00e3o receber o desconhecido com encantamento em vez de medo?\""
+        "code": "10012",
+        "traits": "Acadêmico. Abençoado. Amaldiçoado.",
+        "name": "Kōhaku Narukami",
+        "subname": "O Folclorista",
+        "back_name": "Kōhaku Narukami",
+        "back_text": "<b>Tamanho do Baralho</b>: 30.\n<b>Opções de Construção de Baralho</b>: Cartas de [[Abençoado]] de níveis 0-5, cartas de [[Amaldiçoado]] de níveis 0-5, cartas de [[Oculto]] de nível 0, cartas de Místico ([mystic]) de níveis 0-3, cartas Neutras de níveis 0-5.\n<b>Requisitos de Construção de Baralho</b> (não contam para o tamanho do baralho): Livro dos Mitos Vivos, Yurei que Chora, 1 fraqueza básica aleatória.",
+        "back_flavor": "Todos na Sociedade Histórica de Arkham reconhecem a risada vibrante de Köhaku e as histórias assustadoras que ele conta sobre os yōkai do lar de sua infância, próximo a Tóquio, e das criaturas estranhas s que assombram a Floresta de Arkham. O folclorista excêntrico diz a todos que a sua maior obra será o registro e a publicação da existência desses fenômenos. É só quando ele está em casa com seu companheiro Gabriel que ele ouve os gritos do mesmo espírito que assombrou seu pai e teme que sua \"maior obra\" nunca o deixará dormir novamente.",
+        "text": "[reaction] No início do seu turno: Adicione 1 ficha [bless] ou 1 ficha [curse] à bolsa de caos, do tipo que houver menos <i>(no caso de empate, você escolhe)</i>, ou remova 2 fichas [bless] e 2 fichas [curse] da bolsa de caos para realizar uma ação adicional neste turno.\n[elder_sign] efeito: +2. Adicione 1 ficha [bless] e 1 ficha [curse] à bolsa de caos.",
+        "flavor": "\"Por que não receber o desconhecido com encantamento em vez de medo?\""
     },
     {
-        "code":"10013",
-        "traits":"Item. Tomo. Aben\u00e7oado. Amaldi\u00e7oado.",
-        "name":"Livro dos Mitos Vivos",
-        "subname":"Cr\u00f4nica de Maravilhas",
-        "text":"Apenas no baralho de K\u014dhaku Narukami.\n[reaction] Quando uma ficha de caos for ser revelada em seu local, esgote Livro dos Mitos Vivos: Procure na bolsa de caos uma ficha [bless] ou [curse], do tipo que houver mais <i>(no caso de empate, voc\u00ea escolhe)</i>, e resolva essa ficha em vez disso."
+        "code": "10013",
+        "traits": "Item. Tomo. Abençoado. Amaldiçoado.",
+        "name": "Livro dos Mitos Vivos",
+        "subname": "Crônica de Maravilhas",
+        "text": "Apenas no baralho de Kōhaku Narukami.\n[reaction] Quando uma ficha de caos for ser revelada em seu local, esgote Livro dos Mitos Vivos: Procure na bolsa de caos uma ficha [bless] ou [curse], do tipo que houver mais <i>(no caso de empate, você escolhe)</i>, e resolva essa ficha em vez disso."
     },
     {
-        "code":"10014",
-        "traits":"Monstro. Geist.",
-        "name":"Yurei que Chora",
-        "text":"Arredio. Elusivo. Ca\u00e7ador.\n<b>Presa</b> - Somente K\u014dhaku Narukami.\n<b>For\u00e7ado</b> - Ap\u00f3s um investigador revelar uma ficha [bless] ou uma ficha [curse] durante um teste de per\u00edcia no local de Yurei que Chora, se Yurei que Chora estiver preparado: Yurei que Chora ataca esse investigador. (Limite de uma vez por teste.)"
+        "code": "10014",
+        "traits": "Monstro. Geist.",
+        "name": "Yurei que Chora",
+        "text": "Arredio. Elusivo. Caçador.\n<b>Presa</b> - Somente Kōhaku Narukami.\n<b>Forçado</b> - Após um investigador revelar uma ficha [bless] ou uma ficha [curse] durante um teste de perícia no local de Yurei que Chora, se Yurei que Chora estiver preparado: Yurei que Chora ataca esse investigador. (Limite de uma vez por teste.)"
     },
     {
-        "code":"10015",
-        "traits":"Assistente. Protetor.",
-        "name":"Hank Samson",
-        "subname":"O Lavrador",
-        "back_name":"Hank Samson",
-        "back_text":"<b>Tamanho do Baralho</b>: 35.\n<b>Op\u00e7\u00f5es de Constru\u00e7\u00e3o de Baralho</b>: Cartas de Sobrevivente ([survivor]) de n\u00edveis 0-5, cartas Neutras de n\u00edveis 0-5, at\u00e9 10 outras cartas de [[Inato]] e/ou de [[Esp\u00edrito]] de n\u00edveis 0-2.\n<b>Requisitos de Constru\u00e7\u00e3o de Baralho</b> (n\u00e3o contam para o tamanho do baralho): Valente, \"Cad\u00ea o Pai?\", 1 fraqueza b\u00e1sica aleat\u00f3ria.",
-        "back_flavor":"Hank Samson cresceu em uma fazenda e realizava todas as tarefas que sua m\u00e3e e seu pai lhe pediam, incluindo cuidar de seus irm\u00e3os e irm\u00e3s. Quando seu pai lhe mostrou os animais estranhos no curral da cidade, Hank ficou apreensivo, mas fez como ordenado. Quando o pai lhe pediu para esperar, ele esperou. E quando seu pai n\u00e3o retornou, Hank foi procur\u00e1-lo. Seu pai lhe ensinou que a fam\u00edlia \u00e9 tudo, e que nunca abandonamos nenhum membro da fam\u00edlia.",
-        "text":"Voc\u00ea pode receber o dano/horror causado a ativos de [[Aliado]] ou a outros investigadores em seu local.\n[reaction] Quando voc\u00ea for derrotado por dano e/ou horror: Em vez disso, cure todo o seu dano e horror e troque esta carta por sua vers\u00e3o [[Resoluto]] vinculada, com qualquer um dos lados virado para cima.\n[elder_sign] efeito: +1."
+        "code": "10015",
+        "traits": "Assistente. Protetor.",
+        "name": "Hank Samson",
+        "subname": "O Lavrador",
+        "back_name": "Hank Samson",
+        "back_text": "<b>Tamanho do Baralho</b>: 35.\n<b>Opções de Construção de Baralho</b>: Cartas de Sobrevivente ([survivor]) de níveis 0-5, cartas Neutras de níveis 0-5, até 10 outras cartas de [[Inato]] e/ou de [[Espírito]] de níveis 0-2.\n<b>Requisitos de Construção de Baralho</b> (não contam para o tamanho do baralho): Valente, \"Cadê o Pai?\", 1 fraqueza básica aleatória.",
+        "back_flavor": "Hank Samson cresceu em uma fazenda e realizava todas as tarefas que sua mãe e seu pai lhe pediam, incluindo cuidar de seus irmãos e irmãs. Quando seu pai lhe mostrou os animais estranhos no curral da cidade, Hank ficou apreensivo, mas fez como ordenado. Quando o pai lhe pediu para esperar, ele esperou. E quando seu pai não retornou, Hank foi procurá-lo. Seu pai lhe ensinou que a família é tudo, e que nunca abandonamos nenhum membro da família.",
+        "text": "Você pode receber o dano/horror causado a ativos de [[Aliado]] ou a outros investigadores em seu local.\n[reaction] Quando você for derrotado por dano e/ou horror: Em vez disso, cure todo o seu dano e horror e troque esta carta por sua versão [[Resoluto]] vinculada, com qualquer um dos lados virado para cima.\n[elder_sign] efeito: +1."
     },
     {
-        "code":"10016a",
-        "traits":"Assistente. Resoluto.",
-        "name":"Hank Samson",
-        "subname":"O Lavrador",
-        "text":"Vinculado (Hank Samson).\nVoc\u00ea n\u00e3o pode ser curado. Voc\u00ea pode receber o dano/horror causado a ativos de [[Aliado]] ou a outros investigadores em seu local.\n[reaction] Quando 1 ou mais de horror forem colocados sobre voc\u00ea: Compre 1 carta.\n[elder_sign] efeito: +1. Mova 1 de horror de Hank Samson para um ativo que voc\u00ea controla."
+        "code": "10016a",
+        "traits": "Assistente. Resoluto.",
+        "name": "Hank Samson",
+        "subname": "O Lavrador",
+        "text": "Vinculado (Hank Samson).\nVocê não pode ser curado. Você pode receber o dano/horror causado a ativos de [[Aliado]] ou a outros investigadores em seu local.\n[reaction] Quando 1 ou mais de horror forem colocados sobre você: Compre 1 carta.\n[elder_sign] efeito: +1. Mova 1 de horror de Hank Samson para um ativo que você controla."
     },
     {
-        "code":"10016b",
-        "traits":"Protetor. Resoluto.",
-        "name":"Hank Samson",
-        "subname":"O Lavrador",
-        "text":"Vinculado (Hank Samson).\nVoc\u00ea n\u00e3o pode ser curado. Voc\u00ea pode receber o dano/horror causado a ativos de [[Aliado]] ou a outros investigadores em seu local.\n[reaction] Quando 1 ou mais de dano forem colocados sobre voc\u00ea: Ganhe 2 recursos.\n[elder_sign] efeito: +1. Mova 1 de dano de Hank Samson para um ativo que voc\u00ea controla."
+        "code": "10016b",
+        "traits": "Protetor. Resoluto.",
+        "name": "Hank Samson",
+        "subname": "O Lavrador",
+        "text": "Vinculado (Hank Samson).\nVocê não pode ser curado. Você pode receber o dano/horror causado a ativos de [[Aliado]] ou a outros investigadores em seu local.\n[reaction] Quando 1 ou mais de dano forem colocados sobre você: Ganhe 2 recursos.\n[elder_sign] efeito: +1. Mova 1 de dano de Hank Samson para um ativo que você controla."
     },
     {
-        "code":"10017",
-        "traits":"Esp\u00edrito.",
-        "name":"Valente",
-        "text":"Apenas no baralho de Hank Samson.\nVeloz. Jogue quando voc\u00ea engajar com um inimigo n\u00e3o-[[Elite]].\nMova at\u00e9 2 de dano e/ou de horror de Hank Samson para esse inimigo, como dano.",
-        "flavor":"\"Todo mundo \u00e9 um her\u00f3i para algu\u00e9m.\""
+        "code": "10017",
+        "traits": "Espírito.",
+        "name": "Valente",
+        "text": "Apenas no baralho de Hank Samson.\nVeloz. Jogue quando você engajar com um inimigo não-[[Elite]].\nMova até 2 de dano e/ou de horror de Hank Samson para esse inimigo, como dano.",
+        "flavor": "\"Todo mundo é um herói para alguém.\""
     },
     {
-        "code":"10018",
-        "traits":"Defeito.",
-        "name":"\"Cad\u00ea o Pai\"?",
-        "text":"<b>Revela\u00e7\u00e3o</b> - Descarte cartas do topo do baralho de encontros at\u00e9 que um inimigo seja descartado. Anexe \"Cad\u00ea o Pai?\" a esse inimigo e fa\u00e7a-o surgir em um local conectado, se poss\u00edvel.\nO inimigo anexado ganha elusivo.\n<b>For\u00e7ado</b> - No final da rodada: Hank Samson sofre 1 de horror direto."
+        "code": "10018",
+        "traits": "Defeito.",
+        "name": "\"Cadê o Pai\"?",
+        "text": "<b>Revelação</b> - Descarte cartas do topo do baralho de encontros até que um inimigo seja descartado. Anexe \"Cadê o Pai?\" a esse inimigo e faça-o surgir em um local conectado, se possível.\nO inimigo anexado ganha elusivo.\n<b>Forçado</b> - No final da rodada: Hank Samson sofre 1 de horror direto."
     },
     {
-        "code":"10019",
-        "traits":"Item. Talism\u00e3. Aben\u00e7oado.",
-        "name":"Souvenir Ancestral",
-        "text":"[reaction] Ap\u00f3s voc\u00ea derrotar um inimigo, esgote Souvenir Ancestral: Adicione uma quantidade de fichas [bless] \u00e0 bolsa de caos igual ao valor de vida impresso desse inimigo (m\u00e1x. 5).",
-        "flavor":"\"Nunca se esque\u00e7a daqueles que vieram antes de n\u00f3s.\""
+        "code": "10019",
+        "traits": "Item. Talismã. Abençoado.",
+        "name": "Souvenir Ancestral",
+        "text": "[reaction] Após você derrotar um inimigo, esgote Souvenir Ancestral: Adicione uma quantidade de fichas [bless] à bolsa de caos igual ao valor de vida impresso desse inimigo (máx. 5).",
+        "flavor": "\"Nunca se esqueça daqueles que vieram antes de nós.\""
     },
     {
-        "code":"10020",
-        "traits":"Item. Ferramenta.",
-        "name":"Kit de Limpeza",
-        "text":"Usa (3 suprimentos).\nOs suprimentos no Kit de Limpeza podem ser gastos como se fossem suprimentos ou muni\u00e7\u00f5es nos ativos que voc\u00ea controla.",
-        "flavor":"\"Ele limpa! Ele conserta! Ele desmonta, remonta, lustra e deixa tudo tinindo!\"\n-Cat\u00e1logo de Schoffner, Inverno, edi\u00e7\u00e3o de 1924"
+        "code": "10020",
+        "traits": "Item. Ferramenta.",
+        "name": "Kit de Limpeza",
+        "text": "Usa (3 suprimentos).\nOs suprimentos no Kit de Limpeza podem ser gastos como se fossem suprimentos ou munições nos ativos que você controla.",
+        "flavor": "\"Ele limpa! Ele conserta! Ele desmonta, remonta, lustra e deixa tudo tinindo!\"\n-Catálogo de Schoffner, Inverno, edição de 1924"
     },
     {
-        "code":"10021",
-        "traits":"Item. Arma. Corpo a Corpo.",
-        "name":"Katana",
-        "text":"[action]: <b>Lute.</b> Voc\u00ea recebe +2 [combat] neste teste. Se voc\u00ea tiver sucesso por exatamente 2, voc\u00ea pode esgotar Katana para causar +2 de dano neste ataque.\n[fast] Esgote Katana: <b>Lute.</b> Use [agility] em vez de [combat] neste ataque."
+        "code": "10021",
+        "traits": "Item. Arma. Corpo a Corpo.",
+        "name": "Katana",
+        "text": "[action]: <b>Lute.</b> Você recebe +2 [combat] neste teste. Se você tiver sucesso por exatamente 2, você pode esgotar Katana para causar +2 de dano neste ataque.\n[fast] Esgote Katana: <b>Lute.</b> Use [agility] em vez de [combat] neste ataque."
     },
     {
-        "code":"10022",
-        "traits":"Item. Talism\u00e3. Aben\u00e7oado.",
-        "name":"Ofuda",
-        "text":"Usa (1 carga). Reabaste\u00e7a esta carga na primeira vez que uma ficha [bless] for revelada em seu local a cada rodada.\n[fast] Escolha um inimigo n\u00e3o-[[Elite]] em seu local e gaste 1 carga: Esse inimigo perde as palavras-chave alerta, arredio, elusivo e retalia\u00e7\u00e3o at\u00e9 o final da rodada."
+        "code": "10022",
+        "traits": "Item. Talismã. Abençoado.",
+        "name": "Ofuda",
+        "text": "Usa (1 carga). Reabasteça esta carga na primeira vez que uma ficha [bless] for revelada em seu local a cada rodada.\n[fast] Escolha um inimigo não-[[Elite]] em seu local e gaste 1 carga: Esse inimigo perde as palavras-chave alerta, arredio, elusivo e retaliação até o final da rodada."
     },
     {
-        "code":"10023",
-        "traits":"Item. Talism\u00e3. M\u00e1scara.",
-        "name":"M\u00e1scara de Lobo",
-        "subname":"O Senhor da Lua",
-        "text":"Limite de 1 [[M\u00e1scara]] por investigador.\nUsa (2 oferendas). Reabaste\u00e7a 1 dessas oferendas ap\u00f3s voc\u00ea engajar com um inimigo.\n[fast] Gaste 1 oferenda: Voc\u00ea recebe +2 [combat] ou +2 [agility] nesse teste de per\u00edcia. (Limite de uma vez por teste.)"
+        "code": "10023",
+        "traits": "Item. Talismã. Máscara.",
+        "name": "Máscara de Lobo",
+        "subname": "O Senhor da Lua",
+        "text": "Limite de 1 [[Máscara]] por investigador.\nUsa (2 oferendas). Reabasteça 1 dessas oferendas após você engajar com um inimigo.\n[fast] Gaste 1 oferenda: Você recebe +2 [combat] ou +2 [agility] nesse teste de perícia. (Limite de uma vez por teste.)"
     },
     {
-        "code":"10024",
-        "traits":"Magia. Aben\u00e7oado.",
-        "name":"Absolvi\u00e7\u00e3o",
-        "text":"Revele 3 fichas aleat\u00f3rias da bolsa de caos, al\u00e9m de X fichas adicionais.\nPara cada ficha sem s\u00edmbolo revelada, adicione 1 ficha [bless] \u00e0 bolsa de caos. Para cada ficha [bless] revelada, cure 1 de horror de um investigador ou ativo de [[Aliado]] em seu local."
+        "code": "10024",
+        "traits": "Magia. Abençoado.",
+        "name": "Absolvição",
+        "text": "Revele 3 fichas aleatórias da bolsa de caos, além de X fichas adicionais.\nPara cada ficha sem símbolo revelada, adicione 1 ficha [bless] à bolsa de caos. Para cada ficha [bless] revelada, cure 1 de horror de um investigador ou ativo de [[Aliado]] em seu local."
     },
     {
-        "code":"10025",
-        "traits":"Esp\u00edrito. Aben\u00e7oado.",
-        "name":"Guiado pela F\u00e9",
-        "text":"<b>Investigue.</b> Voc\u00ea pode usar [willpower] em vez de [intellect] nesta investiga\u00e7\u00e3o. Antes de revelar fichas de caos neste teste, adicione 2 fichas [bless] \u00e0 bolsa de caos. Se uma ficha [bless] ou [elder_sign] for revelada durante este teste de per\u00edcia, descubra 1 pista adicional em seu local."
+        "code": "10025",
+        "traits": "Espírito. Abençoado.",
+        "name": "Guiado pela Fé",
+        "text": "<b>Investigue.</b> Você pode usar [willpower] em vez de [intellect] nesta investigação. Antes de revelar fichas de caos neste teste, adicione 2 fichas [bless] à bolsa de caos. Se uma ficha [bless] ou [elder_sign] for revelada durante este teste de perícia, descubra 1 pista adicional em seu local."
     },
     {
-        "code":"10026",
-        "traits":"T\u00e1tica. Truque.",
-        "name":"M\u00e3os ao Alto",
-        "text":"<b>Negociata.</b> Escolha um inimigo em seu local e um ativo de [[Item]] na sua m\u00e3o. Realize uma a\u00e7\u00e3o de lutar contra o inimigo escolhido. Se voc\u00ea tiver sucesso, em vez de causar dano, jogue o ativo escolhido, reduzindo seu custo para cada ponto que voc\u00ea teve sucesso.",
-        "flavor":"\"M-m\u00e3os onde eu possa v\u00ea-las!\""
+        "code": "10026",
+        "traits": "Tática. Truque.",
+        "name": "Mãos ao Alto",
+        "text": "<b>Negociata.</b> Escolha um inimigo em seu local e um ativo de [[Item]] na sua mão. Realize uma ação de lutar contra o inimigo escolhido. Se você tiver sucesso, em vez de causar dano, jogue o ativo escolhido, reduzindo seu custo para cada ponto que você teve sucesso.",
+        "flavor": "\"M-mãos onde eu possa vê-las!\""
     },
     {
-        "code":"10027",
-        "traits":"T\u00e1tica. Dobro.",
-        "name":"For\u00e7a Tarefa",
-        "text":"Como um custo adicional para jogar For\u00e7a Tarefa, gaste uma a\u00e7\u00e3o. Um por vez, em qualquer ordem, escolha um investigador em seu local para...\n- ...resolver uma habilidade [action] em um ativo que ele controla sem pagar seu custo [action].\n- ...mover-se para um local conectado.\n- ...descobrir 1 pista em seu local."
+        "code": "10027",
+        "traits": "Tática. Dobro.",
+        "name": "Força Tarefa",
+        "text": "Como um custo adicional para jogar Força Tarefa, gaste uma ação. Um por vez, em qualquer ordem, escolha um investigador em seu local para...\n- ...resolver uma habilidade [action] em um ativo que ele controla sem pagar seu custo [action].\n- ...mover-se para um local conectado.\n- ...descobrir 1 pista em seu local."
     },
     {
-        "code":"10028",
-        "traits":"Introspec\u00e7\u00e3o. Aprimoramento.",
-        "name":"Remendo",
-        "text":"Veloz. Jogue apenas durante o seu turno.\nAnexe Remendo a um ativo de [[Ferramenta]] em sua \u00e1rea de jogo. Limite de 1 por ativo.\nO ativo anexado ocupa 1 espa\u00e7o a menos de m\u00e3o ou de acess\u00f3rio.",
-        "flavor":"\"Voc\u00ea ainda chama isso de chave inglesa?!\""
+        "code": "10028",
+        "traits": "Introspecção. Aprimoramento.",
+        "name": "Remendo",
+        "text": "Veloz. Jogue apenas durante o seu turno.\nAnexe Remendo a um ativo de [[Ferramenta]] em sua área de jogo. Limite de 1 por ativo.\nO ativo anexado ocupa 1 espaço a menos de mão ou de acessório.",
+        "flavor": "\"Você ainda chama isso de chave inglesa?!\""
     },
     {
-        "code":"10029",
-        "traits":"Inato. Aben\u00e7oado.",
-        "name":"Purificado",
-        "text":"M\u00e1x. de 1 comprometida por teste de per\u00edcia.\nVoc\u00ea pode comprometer Purificado em qualquer tipo de teste.\nSe esse teste for bem-sucedido, para cada ponto que voc\u00ea tiver sucesso (at\u00e9 um m\u00e1ximo de 5), adicione 1 ficha [bless] ou remova 1 ficha [curse] da bolsa de caos."
+        "code": "10029",
+        "traits": "Inato. Abençoado.",
+        "name": "Purificado",
+        "text": "Máx. de 1 comprometida por teste de perícia.\nVocê pode comprometer Purificado em qualquer tipo de teste.\nSe esse teste for bem-sucedido, para cada ponto que você tiver sucesso (até um máximo de 5), adicione 1 ficha [bless] ou remova 1 ficha [curse] da bolsa de caos."
     },
     {
-        "code":"10030",
-        "traits":"Introspec\u00e7\u00e3o.",
-        "name":"Coordena\u00e7\u00e3o Olho-m\u00e3o",
-        "text":"Veloz. Jogue apenas durante o seu turno.\nResolva uma habilidade [action] em um ativo de [[Ferramenta]] ou de [[Arma]] que voc\u00ea controla sem pagar seu custo [action].",
-        "flavor":"Fique de olho no alvo."
+        "code": "10030",
+        "traits": "Introspecção.",
+        "name": "Coordenação Olho-mão",
+        "text": "Veloz. Jogue apenas durante o seu turno.\nResolva uma habilidade [action] em um ativo de [[Ferramenta]] ou de [[Arma]] que você controla sem pagar seu custo [action].",
+        "flavor": "Fique de olho no alvo."
     },
     {
-        "code":"10031",
-        "traits":"Inato.",
-        "name":"Fortemente Armado",
-        "text":"Enquanto Fortemente Armado estiver comprometido em um ataque usando um ativo [[Corpo a Corpo]] ou [[\u00c0 Dist\u00e2ncia]], esse ataque causa +1 de dano. Ap\u00f3s revelar ficha(s) de caos nesse teste de per\u00edcia, voc\u00ea pode sofrer 1 de dano para cancelar essa ficha de caos, devolv\u00ea-la para a bolsa de caos e revelar uma nova. <i>(Voc\u00ea pode fazer isso quantas vezes quiser.)</i>"
+        "code": "10031",
+        "traits": "Inato.",
+        "name": "Fortemente Armado",
+        "text": "Enquanto Fortemente Armado estiver comprometido em um ataque usando um ativo [[Corpo a Corpo]] ou [[À Distância]], esse ataque causa +1 de dano. Após revelar ficha(s) de caos nesse teste de perícia, você pode sofrer 1 de dano para cancelar essa ficha de caos, devolvê-la para a bolsa de caos e revelar uma nova. <i>(Você pode fazer isso quantas vezes quiser.)</i>"
     },
     {
-        "code":"10032",
-        "traits":"Esp\u00edrito. Audaz.",
-        "name":"F\u00f4lego Renovado",
-        "text":"Jogue apenas como sua primeira a\u00e7\u00e3o.\nCure 2 de dano (3 de dano, em vez disso, se voc\u00ea comprou uma trai\u00e7\u00e3o nesta rodada).\nCompre 1 carta."
+        "code": "10032",
+        "traits": "Espírito. Audaz.",
+        "name": "Fôlego Renovado",
+        "text": "Jogue apenas como sua primeira ação.\nCure 2 de dano (3 de dano, em vez disso, se você comprou uma traição nesta rodada).\nCompre 1 carta."
     },
     {
-        "code":"10033",
-        "traits":"Item. Ferramenta.",
-        "name":"Kit de Limpeza",
-        "text":"Usa (4 suprimentos).\nOs suprimentos no Kit de Limpeza podem ser gastos como se fossem suprimentos ou muni\u00e7\u00f5es nos ativos que voc\u00ea controla.\n[reaction] Quando um suprimento for gasto do Kit de Limpeza, esgote-o: O investigador realizando o teste recebe +2 de valor de per\u00edcia nesse teste."
+        "code": "10033",
+        "traits": "Item. Ferramenta.",
+        "name": "Kit de Limpeza",
+        "text": "Usa (4 suprimentos).\nOs suprimentos no Kit de Limpeza podem ser gastos como se fossem suprimentos ou munições nos ativos que você controla.\n[reaction] Quando um suprimento for gasto do Kit de Limpeza, esgote-o: O investigador realizando o teste recebe +2 de valor de perícia nesse teste."
     },
     {
-        "code":"10034",
-        "traits":"Item. Arma. Corpo a Corpo. Aben\u00e7oado.",
-        "name":"L\u00e2mina Aben\u00e7oada",
-        "text":"[action]: <b>Lute.</b> Voc\u00ea recebe +2 [combat] neste ataque. Se este ataque for bem-sucedido, ele causa +1 de dano. Devolva cada ficha [bless] revelada durante este ataque para a bolsa de caos. Antes de revelar ficha(s) de caos neste ataque, voc\u00ea pode esgotar L\u00e2mina Aben\u00e7oada para adicionar 2 fichas [bless] \u00e0 bolsa de caos."
+        "code": "10034",
+        "traits": "Item. Arma. Corpo a Corpo. Abençoado.",
+        "name": "Lâmina Abençoada",
+        "text": "[action]: <b>Lute.</b> Você recebe +2 [combat] neste ataque. Se este ataque for bem-sucedido, ele causa +1 de dano. Devolva cada ficha [bless] revelada durante este ataque para a bolsa de caos. Antes de revelar ficha(s) de caos neste ataque, você pode esgotar Lâmina Abençoada para adicionar 2 fichas [bless] à bolsa de caos."
     },
     {
-        "code":"10035",
-        "traits":"Item. Rel\u00edquia. Magia.",
-        "name":"Olhos de Valusia",
-        "subname":"A Ast\u00facia da M\u00e3e",
-        "text":"[action]: <b>Negociata.</b> Escolha um inimigo em seu local. At\u00e9 o final da rodada, cada investigador recebe +1 de valor de per\u00edcia enquanto estiver lutando, evadindo ou negociando com o inimigo escolhido. Coloque 1 recurso em Olhos de Valusia, como uma carga.\n[fast]: Procure Espada de Yoth em suas cartas vinculadas e troque-a por Olhos de Valusia, movendo todas as cargas de Olhos de Valusia para Espada de Yoth."
+        "code": "10035",
+        "traits": "Item. Relíquia. Magia.",
+        "name": "Olhos de Valusia",
+        "subname": "A Astúcia da Mãe",
+        "text": "[action]: <b>Negociata.</b> Escolha um inimigo em seu local. Até o final da rodada, cada investigador recebe +1 de valor de perícia enquanto estiver lutando, evadindo ou negociando com o inimigo escolhido. Coloque 1 recurso em Olhos de Valusia, como uma carga.\n[fast]: Procure Espada de Yoth em suas cartas vinculadas e troque-a por Olhos de Valusia, movendo todas as cargas de Olhos de Valusia para Espada de Yoth."
     },
     {
-        "code":"10036",
-        "traits":"Item. Rel\u00edquia. Arma. Corpo a Corpo.",
-        "name":"Espada de Yoth",
-        "subname":"A Ira do Pai",
-        "text":"Vinculado (Olhos de Valusia).\n[action] Gaste 1-3 cargas: <b>Lute.</b> Voc\u00ea pode usar [willpower] em vez de [combat] neste ataque. Voc\u00ea recebe +2 de valor de per\u00edcia e causa +1 de dano para cada carga gasta como parte do custo desta a\u00e7\u00e3o.\n[fast]: Procure Olhos de Valusia em suas cartas vinculadas e troque-a por Espada de Yoth, descartando todas as cargas."
+        "code": "10036",
+        "traits": "Item. Relíquia. Arma. Corpo a Corpo.",
+        "name": "Espada de Yoth",
+        "subname": "A Ira do Pai",
+        "text": "Vinculado (Olhos de Valusia).\n[action] Gaste 1-3 cargas: <b>Lute.</b> Você pode usar [willpower] em vez de [combat] neste ataque. Você recebe +2 de valor de perícia e causa +1 de dano para cada carga gasta como parte do custo desta ação.\n[fast]: Procure Olhos de Valusia em suas cartas vinculadas e troque-a por Espada de Yoth, descartando todas as cargas."
     },
     {
-        "code":"10037",
-        "traits":"T\u00e1tica. Dobro. Predestinado.",
-        "name":"Torrente de Golpes",
-        "text":"Jogue esta carta somente se voc\u00ea controlar um ativo [[Corpo a Corpo]]. Como um custo adicional para jogar Torrente de Golpes, gaste uma a\u00e7\u00e3o.\n<b>Lute.</b> Escolha um ativo [[Corpo a Corpo]] que voc\u00ea controla e realize imediatamente uma a\u00e7\u00e3o de lutar com esse ativo <i>(sem pagar seu custo [action])</i>. Voc\u00ea pode repetir este efeito at\u00e9 tr\u00eas vezes. Ap\u00f3s o ataque final ser resolvido, se for o seu turno, encerre seu turno."
+        "code": "10037",
+        "traits": "Tática. Dobro. Predestinado.",
+        "name": "Torrente de Golpes",
+        "text": "Jogue esta carta somente se você controlar um ativo [[Corpo a Corpo]]. Como um custo adicional para jogar Torrente de Golpes, gaste uma ação.\n<b>Lute.</b> Escolha um ativo [[Corpo a Corpo]] que você controla e realize imediatamente uma ação de lutar com esse ativo <i>(sem pagar seu custo [action])</i>. Você pode repetir este efeito até três vezes. Após o ataque final ser resolvido, se for o seu turno, encerre seu turno."
     },
     {
-        "code":"10038",
-        "traits":"Favor. Aben\u00e7oado.",
-        "name":"Pedido Milagroso",
-        "text":"Veloz. Jogue ap\u00f3s 1 ou mais fichas [bless] serem reveladas durante um teste de per\u00edcia em seu local.\nProcure Ascens\u00e3o Evanescente em suas cartas vinculadas e coloque-a em jogo. Coloque at\u00e9 X recursos sobre ela, como desejos (at\u00e9 no m\u00e1ximo o n\u00famero de fichas [bless] reveladas).\nRemova Pedido Milagroso do jogo."
+        "code": "10038",
+        "traits": "Favor. Abençoado.",
+        "name": "Pedido Milagroso",
+        "text": "Veloz. Jogue após 1 ou mais fichas [bless] serem reveladas durante um teste de perícia em seu local.\nProcure Ascensão Evanescente em suas cartas vinculadas e coloque-a em jogo. Coloque até X recursos sobre ela, como desejos (até no máximo o número de fichas [bless] reveladas).\nRemova Pedido Milagroso do jogo."
     },
     {
-        "code":"10039",
-        "traits":"Ritual. Pacto. Aben\u00e7oado.",
-        "name":"Ascens\u00e3o Evanescente",
-        "subname":"A Estrela da Manh\u00e3",
-        "text":"Vinculado (Pedido Milagroso). Se n\u00e3o houver desejos sobre Ascens\u00e3o Evanescente, separe-a, fora de jogo.\n[reaction] Quando um investigador em seu local for falhar em um teste de per\u00edcia, gaste 1 desejo e esgote Ascens\u00e3o Evanescente: Resolva o efeito [elder_sign] desse investigador <i>(al\u00e9m de todas as outras fichas reveladas durante este teste)</i>."
+        "code": "10039",
+        "traits": "Ritual. Pacto. Abençoado.",
+        "name": "Ascensão Evanescente",
+        "subname": "A Estrela da Manhã",
+        "text": "Vinculado (Pedido Milagroso). Se não houver desejos sobre Ascensão Evanescente, separe-a, fora de jogo.\n[reaction] Quando um investigador em seu local for falhar em um teste de perícia, gaste 1 desejo e esgote Ascensão Evanescente: Resolva o efeito [elder_sign] desse investigador <i>(além de todas as outras fichas reveladas durante este teste)</i>."
     },
     {
-        "code":"10040",
-        "traits":"Item. Ferramenta. Ci\u00eancia.",
-        "name":"Kit de Qu\u00edmica",
-        "text":"[action] Esgote Kit de Qu\u00edmica: <b>Investigue.</b> Se voc\u00ea...\n- ...falhar por exatamente 2, descarte Kit de Qu\u00edmica.\n- ...tiver sucesso por exatamente 0, ganhe 2 recursos.\n- ...tiver sucesso por exatamente 2, compre 1 carta.\n- ...tiver sucesso por exatamente 4, descubra 1 pista adicional em seu local."
+        "code": "10040",
+        "traits": "Item. Ferramenta. Ciência.",
+        "name": "Kit de Química",
+        "text": "[action] Esgote Kit de Química: <b>Investigue.</b> Se você...\n- ...falhar por exatamente 2, descarte Kit de Química.\n- ...tiver sucesso por exatamente 0, ganhe 2 recursos.\n- ...tiver sucesso por exatamente 2, compre 1 carta.\n- ...tiver sucesso por exatamente 4, descubra 1 pista adicional em seu local."
     },
     {
-        "code":"10041",
-        "traits":"Aliado. Ci\u00eancia.",
-        "name":"Dr. Charles West III",
-        "subname":"Compreende seu Prop\u00f3sito",
-        "text":"Voc\u00ea tem 1 espa\u00e7o de m\u00e3o adicional, que pode ser usado apenas para um ativo de [[Ferramenta]].\n[reaction] Ap\u00f3s voc\u00ea investigar com sucesso por exatamente 1 ou 3, esgote Dr. Charles West III: Cause 1 de dano a um inimigo em seu local."
+        "code": "10041",
+        "traits": "Aliado. Ciência.",
+        "name": "Dr. Charles West III",
+        "subname": "Compreende seu Propósito",
+        "text": "Você tem 1 espaço de mão adicional, que pode ser usado apenas para um ativo de [[Ferramenta]].\n[reaction] Após você investigar com sucesso por exatamente 1 ou 3, esgote Dr. Charles West III: Cause 1 de dano a um inimigo em seu local."
     },
     {
-        "code":"10042",
-        "traits":"Item. Ferramenta. Ci\u00eancia.",
-        "name":"Microsc\u00f3pio",
-        "text":"[reaction] Ap\u00f3s um inimigo em seu local ser evadido ou derrotado com sucesso, esgote Microsc\u00f3pio: Coloque 1 recurso em Microsc\u00f3pio, como evid\u00eancia.\n[action][action]: <b>Investigue.</b> Voc\u00ea recebe +1 [intellect] nesta investiga\u00e7\u00e3o para cada evid\u00eancia em Microsc\u00f3pio (m\u00e1x. de +3 [intellect]). Se voc\u00ea tiver sucesso, voc\u00ea pode gastar at\u00e9 2 evid\u00eancias para descobrir essa mesma quantidade de pistas adicionais em seu local."
+        "code": "10042",
+        "traits": "Item. Ferramenta. Ciência.",
+        "name": "Microscópio",
+        "text": "[reaction] Após um inimigo em seu local ser evadido ou derrotado com sucesso, esgote Microscópio: Coloque 1 recurso em Microscópio, como evidência.\n[action][action]: <b>Investigue.</b> Você recebe +1 [intellect] nesta investigação para cada evidência em Microscópio (máx. de +3 [intellect]). Se você tiver sucesso, você pode gastar até 2 evidências para descobrir essa mesma quantidade de pistas adicionais em seu local."
     },
     {
-        "code":"10043",
-        "traits":"Item. Talism\u00e3. M\u00e1scara.",
-        "name":"M\u00e1scara de Rato",
-        "subname":"O Observador Humilde",
-        "text":"Limite de 1 [[M\u00e1scara]] por investigador.\nUsa (2 oferendas). Reabaste\u00e7a 1 dessas oferendas ap\u00f3s voc\u00ea revelar um local ou colocar um novo local em jogo.\n[fast] Gaste 1 oferenda: Voc\u00ea recebe +2 [willpower] ou +2 [intellect] nesse teste de per\u00edcia. (Limite de uma vez por teste.)"
+        "code": "10043",
+        "traits": "Item. Talismã. Máscara.",
+        "name": "Máscara de Rato",
+        "subname": "O Observador Humilde",
+        "text": "Limite de 1 [[Máscara]] por investigador.\nUsa (2 oferendas). Reabasteça 1 dessas oferendas após você revelar um local ou colocar um novo local em jogo.\n[fast] Gaste 1 oferenda: Você recebe +2 [willpower] ou +2 [intellect] nesse teste de perícia. (Limite de uma vez por teste.)"
     },
     {
-        "code":"10044",
-        "traits":"Criatura. Monstro. Flora. Ci\u00eancia.",
-        "name":"Micon\u00eddeo Voraz",
-        "subname":"N\u00e3o Identificado",
-        "text":"Limite de 1 por baralho.\n[action]: Procure Crescimento Misterioso em suas cartas vinculadas e adicione-a \u00e0 sua m\u00e3o.\n[action] Se houver 3 ou mais de crescimento em Micon\u00eddeo Voraz: Mova cada crescimento para sua reserva de recursos, como recursos. Anote no Registro da Campanha que \"voc\u00ea classificou uma nova esp\u00e9cie.\""
+        "code": "10044",
+        "traits": "Criatura. Monstro. Flora. Ciência.",
+        "name": "Miconídeo Voraz",
+        "subname": "Não Identificado",
+        "text": "Limite de 1 por baralho.\n[action]: Procure Crescimento Misterioso em suas cartas vinculadas e adicione-a à sua mão.\n[action] Se houver 3 ou mais de crescimento em Miconídeo Voraz: Mova cada crescimento para sua reserva de recursos, como recursos. Anote no Registro da Campanha que \"você classificou uma nova espécie.\""
     },
     {
-        "code":"10045",
-        "traits":"Introspec\u00e7\u00e3o. Ci\u00eancia.",
-        "name":"Crescimento Misterioso",
-        "text":"Vinculado (Micon\u00eddeo Voraz).\n<b>Investigue.</b> Ap\u00f3s este teste ser resolvido, coloque 1 recurso em Micon\u00eddeo Voraz, como crescimento, para cada ponto que voc\u00ea tiver sucesso. Separe Crescimento Misterioso, fora de jogo. Se voc\u00ea falhar, devolva Crescimento Misterioso para sua m\u00e3o."
+        "code": "10045",
+        "traits": "Introspecção. Ciência.",
+        "name": "Crescimento Misterioso",
+        "text": "Vinculado (Miconídeo Voraz).\n<b>Investigue.</b> Após este teste ser resolvido, coloque 1 recurso em Miconídeo Voraz, como crescimento, para cada ponto que você tiver sucesso. Separe Crescimento Misterioso, fora de jogo. Se você falhar, devolva Crescimento Misterioso para sua mão."
     },
     {
-        "code":"10046",
-        "traits":"Introspec\u00e7\u00e3o. Ci\u00eancia. Amaldi\u00e7oado.",
-        "name":"Vari\u00e1vel de Controle",
-        "text":"Veloz. Jogue ap\u00f3s um investigador revelar uma ficha [curse] durante um teste de per\u00edcia em seu local.\nDescubra 1 pista em seu local.",
-        "flavor":"\"Havia uma solu\u00e7\u00e3o que ele injetava nas veias de coisas mortas e, se ainda estivessem frescas o suficiente, elas respondiam de formas estranhas.\"\n-H.P. Lovecraft, <i>Herbert West - Reanimador</i>"
+        "code": "10046",
+        "traits": "Introspecção. Ciência. Amaldiçoado.",
+        "name": "Variável de Controle",
+        "text": "Veloz. Jogue após um investigador revelar uma ficha [curse] durante um teste de perícia em seu local.\nDescubra 1 pista em seu local.",
+        "flavor": "\"Havia uma solução que ele injetava nas veias de coisas mortas e, se ainda estivessem frescas o suficiente, elas respondiam de formas estranhas.\"\n-H.P. Lovecraft, <i>Herbert West - Reanimador</i>"
     },
     {
-        "code":"10047",
-        "traits":"Introspec\u00e7\u00e3o. Dobro.",
-        "name":"Sequ\u00eancia de Testes",
-        "text":"Como um custo adicional para jogar Sequ\u00eancia de Testes, gaste uma a\u00e7\u00e3o.\n<b>Investigue.</b> Um por vez, investigue seu local e cada local conectado uma vez em ordem crescente de v\u00e9u, at\u00e9 que voc\u00ea falhe em uma investiga\u00e7\u00e3o ou investigue com sucesso cada local eleg\u00edvel."
+        "code": "10047",
+        "traits": "Introspecção. Dobro.",
+        "name": "Sequência de Testes",
+        "text": "Como um custo adicional para jogar Sequência de Testes, gaste uma ação.\n<b>Investigue.</b> Um por vez, investigue seu local e cada local conectado uma vez em ordem crescente de véu, até que você falhe em uma investigação ou investigue com sucesso cada local elegível."
     },
     {
-        "code":"10048",
-        "traits":"Introspec\u00e7\u00e3o. Dobro.",
-        "name":"Investiga\u00e7\u00e3o Minuciosa",
-        "text":"Como um custo adicional para jogar Investiga\u00e7\u00e3o Minuciosa, gaste uma a\u00e7\u00e3o.\nOs investigadores em seu local compram um total de 5 cartas em conjunto <i>(voc\u00ea decide quantas cartas cada investigador compra)</i>.",
-        "flavor":"Muitas vezes, a verdade est\u00e1 escondida bem \u00e0 vista."
+        "code": "10048",
+        "traits": "Introspecção. Dobro.",
+        "name": "Investigação Minuciosa",
+        "text": "Como um custo adicional para jogar Investigação Minuciosa, gaste uma ação.\nOs investigadores em seu local compram um total de 5 cartas em conjunto <i>(você decide quantas cartas cada investigador compra)</i>.",
+        "flavor": "Muitas vezes, a verdade está escondida bem à vista."
     },
     {
-        "code":"10049",
-        "traits":"Gambito. Improvisado.",
-        "name":"Fa\u00e7a Bom Uso do Manual",
-        "text":"<b>Lute.</b> Escolha um ativo de [[Tomo]] que voc\u00ea controla. Voc\u00ea recebe +X [combat] neste ataque, onde X \u00e9 o custo impresso desse ativo. Se voc\u00ea tiver sucesso, voc\u00ea pode evadir o inimigo atacado automaticamente ou, ap\u00f3s o ataque terminar, voc\u00ea pode resolver uma habilidade [action] ou [fast] no ativo escolhido <i>(ignorando seu custo [action], se houver)</i>.",
-        "flavor":"\"Garota, voc\u00ea... voc\u00ea levou isso muito mais ao p\u00e9 da letra do que eu esperava.\""
+        "code": "10049",
+        "traits": "Gambito. Improvisado.",
+        "name": "Faça Bom Uso do Manual",
+        "text": "<b>Lute.</b> Escolha um ativo de [[Tomo]] que você controla. Você recebe +X [combat] neste ataque, onde X é o custo impresso desse ativo. Se você tiver sucesso, você pode evadir o inimigo atacado automaticamente ou, após o ataque terminar, você pode resolver uma habilidade [action] ou [fast] no ativo escolhido <i>(ignorando seu custo [action], se houver)</i>.",
+        "flavor": "\"Garota, você... você levou isso muito mais ao pé da letra do que eu esperava.\""
     },
     {
-        "code":"10050",
-        "traits":"Gambito. Ci\u00eancia.",
-        "name":"Metamorfosear",
-        "text":"<b>Evada.</b> Voc\u00ea pode usar [intellect] em vez de [agility] nesta tentativa de evas\u00e3o. Se voc\u00ea tiver sucesso e o inimigo for n\u00e3o-[[Elite]], anexe Metamorfosear a ele.\nO inimigo anexado ganha: \"Massivo. N\u00e3o pode se mover.\n[reaction] Ap\u00f3s voc\u00ea evadir este inimigo: Descubra 1 pista no local deste inimigo. (Limite de uma vez por rodada.)\"",
-        "flavor":"\"Eu disse para acabar 'com ele', n\u00e3o acabar 'como' ele!\""
+        "code": "10050",
+        "traits": "Gambito. Ciência.",
+        "name": "Metamorfosear",
+        "text": "<b>Evada.</b> Você pode usar [intellect] em vez de [agility] nesta tentativa de evasão. Se você tiver sucesso e o inimigo for não-[[Elite]], anexe Metamorfosear a ele.\nO inimigo anexado ganha: \"Massivo. Não pode se mover.\n[reaction] Após você evadir este inimigo: Descubra 1 pista no local deste inimigo. (Limite de uma vez por rodada.)\"",
+        "flavor": "\"Eu disse para acabar 'com ele', não acabar 'como' ele!\""
     },
     {
-        "code":"10051",
-        "traits":"Sorte.",
-        "name":"Bem-Financiado",
-        "text":"Enquanto voc\u00ea controlar um ativo de [[Ci\u00eancia]] ou de [[Ferramenta]], Bem-Financiado ganha [wild] (enquanto voc\u00ea controlar 3 ou mais ativos de [[Ci\u00eancia]] e/ou de [[Ferramenta]], em vez disso, Bem-Financiado ganha [wild] [wild]).",
-        "flavor":"Cada centavo dessa bolsa de pesquisa conta."
+        "code": "10051",
+        "traits": "Sorte.",
+        "name": "Bem-Financiado",
+        "text": "Enquanto você controlar um ativo de [[Ciência]] ou de [[Ferramenta]], Bem-Financiado ganha [wild] (enquanto você controlar 3 ou mais ativos de [[Ciência]] e/ou de [[Ferramenta]], em vez disso, Bem-Financiado ganha [wild] [wild]).",
+        "flavor": "Cada centavo dessa bolsa de pesquisa conta."
     },
     {
-        "code":"10052",
-        "traits":"Aliado. Acad\u00eamico. Amaldi\u00e7oado.",
-        "name":"Gabriel Carillo",
-        "subname":"Confidente de Confian\u00e7a",
-        "text":"Voc\u00ea recebe +1 [intellect].\n[reaction] No in\u00edcio do seu turno, adicione 1 ficha [curse] \u00e0 bolsa de caos: Compre 1 carta.",
-        "flavor":"\"\u00c9 mais f\u00e1cil ajudar voc\u00ea do que ensinar geometria aos meus alunos.\""
+        "code": "10052",
+        "traits": "Aliado. Acadêmico. Amaldiçoado.",
+        "name": "Gabriel Carillo",
+        "subname": "Confidente de Confiança",
+        "text": "Você recebe +1 [intellect].\n[reaction] No início do seu turno, adicione 1 ficha [curse] à bolsa de caos: Compre 1 carta.",
+        "flavor": "\"É mais fácil ajudar você do que ensinar geometria aos meus alunos.\""
     },
     {
-        "code":"10053",
-        "traits":"Talento. Ci\u00eancia.",
-        "name":"M\u00e3os Firmes",
-        "text":"Limite de 1 por investigador.\n[reaction] Quando voc\u00ea for bem-sucedido em um teste de per\u00edcia, esgote M\u00e3os Firmes: Voc\u00ea tem sucesso por 1 a mais ou 1 a menos. Se voc\u00ea teve sucesso por exatamente 2, cure 1 de horror.",
-        "flavor":"Um corte pode ser a diferen\u00e7a entre a vida e a morte."
+        "code": "10053",
+        "traits": "Talento. Ciência.",
+        "name": "Mãos Firmes",
+        "text": "Limite de 1 por investigador.\n[reaction] Quando você for bem-sucedido em um teste de perícia, esgote Mãos Firmes: Você tem sucesso por 1 a mais ou 1 a menos. Se você teve sucesso por exatamente 2, cure 1 de horror.",
+        "flavor": "Um corte pode ser a diferença entre a vida e a morte."
     },
     {
-        "code":"10054",
-        "traits":"Introspec\u00e7\u00e3o. Aprimoramento.",
-        "name":"Ajuste Preciso",
-        "text":"Anexe a um ativo de [[Ferramenta]] ou de [[Ci\u00eancia]] que voc\u00ea controla. Limite de 1 por ativo.\n[reaction] Ap\u00f3s o ativo anexado ser esgotado, esgote Ajuste Preciso: Prepare o ativo anexado.",
-        "flavor":"\"Garanto que n\u00e3o h\u00e1 nada a temer!\""
+        "code": "10054",
+        "traits": "Introspecção. Aprimoramento.",
+        "name": "Ajuste Preciso",
+        "text": "Anexe a um ativo de [[Ferramenta]] ou de [[Ciência]] que você controla. Limite de 1 por ativo.\n[reaction] Após o ativo anexado ser esgotado, esgote Ajuste Preciso: Prepare o ativo anexado.",
+        "flavor": "\"Garanto que não há nada a temer!\""
     },
     {
-        "code":"10055",
-        "traits":"Treinado. Amaldi\u00e7oado.",
-        "name":"M\u00e9todo Esot\u00e9rico",
-        "text":"Ap\u00f3s este teste de per\u00edcia terminar, adicione 1 ficha [curse] \u00e0 bolsa de caos para cada ponto que o investigador que realizou o teste teve sucesso ou falhou.",
-        "flavor":"Segundo os boatos, a \u00faltima professora de frenologia permaneceu no cargo por um per\u00edodo muito mais longo do que o normal."
+        "code": "10055",
+        "traits": "Treinado. Amaldiçoado.",
+        "name": "Método Esotérico",
+        "text": "Após este teste de perícia terminar, adicione 1 ficha [curse] à bolsa de caos para cada ponto que o investigador que realizou o teste teve sucesso ou falhou.",
+        "flavor": "Segundo os boatos, a última professora de frenologia permaneceu no cargo por um período muito mais longo do que o normal."
     },
     {
-        "code":"10056",
-        "traits":"Item. Rel\u00edquia. Amaldi\u00e7oado.",
-        "name":"\u00d3culos Prism\u00e1ticos",
-        "subname":"Lentes para o Outro Mundo",
-        "text":"[action] Adicione 1 ficha [curse] \u00e0 bolsa de caos: <b>Investigue.</b> Voc\u00ea recebe +2 de valor de per\u00edcia nesta investiga\u00e7\u00e3o. Se uma ficha [curse] for revelada durante esta investiga\u00e7\u00e3o, voc\u00ea pode esgotar \u00d3culos Prism\u00e1ticos para descobrir 1 pista adicional em seu local."
+        "code": "10056",
+        "traits": "Item. Relíquia. Amaldiçoado.",
+        "name": "Óculos Prismáticos",
+        "subname": "Lentes para o Outro Mundo",
+        "text": "[action] Adicione 1 ficha [curse] à bolsa de caos: <b>Investigue.</b> Você recebe +2 de valor de perícia nesta investigação. Se uma ficha [curse] for revelada durante esta investigação, você pode esgotar Óculos Prismáticos para descobrir 1 pista adicional em seu local."
     },
     {
-        "code":"10057",
-        "traits":"Introspec\u00e7\u00e3o. Truque.",
-        "name":"Confundir",
-        "text":"<b>Negociata.</b> Escolha um inimigo em seu local. Teste [intellect] (X), onde X \u00e9 o valor de evas\u00e3o do inimigo escolhido. Se voc\u00ea tiver sucesso, descubra 2 pistas em seu local. Ent\u00e3o, se o inimigo escolhido for n\u00e3o-[[Elite]], evada-o automaticamente. Ele n\u00e3o \u00e9 preparado durante a pr\u00f3xima fase de manuten\u00e7\u00e3o.",
-        "flavor":"\"Isso nunca vai funcionar, Herbert.\""
+        "code": "10057",
+        "traits": "Introspecção. Truque.",
+        "name": "Confundir",
+        "text": "<b>Negociata.</b> Escolha um inimigo em seu local. Teste [intellect] (X), onde X é o valor de evasão do inimigo escolhido. Se você tiver sucesso, descubra 2 pistas em seu local. Então, se o inimigo escolhido for não-[[Elite]], evada-o automaticamente. Ele não é preparado durante a próxima fase de manutenção.",
+        "flavor": "\"Isso nunca vai funcionar, Herbert.\""
     },
     {
-        "code":"10058",
-        "traits":"Item. Ferramenta. Ci\u00eancia.",
-        "name":"Microsc\u00f3pio",
-        "text":"[reaction] Ap\u00f3s um inimigo em seu local ser evadido ou derrotado com sucesso: Coloque 1 recurso em Microsc\u00f3pio, como evid\u00eancia.\n[action][action]: <b>Investigue.</b> Voc\u00ea recebe +2 [intellect] nesta investiga\u00e7\u00e3o para cada evid\u00eancia em Microsc\u00f3pio (m\u00e1x. de +6 [intellect]). Se voc\u00ea tiver sucesso, voc\u00ea pode gastar at\u00e9 3 evid\u00eancias para descobrir essa mesma quantidade de pistas adicionais em seu local."
+        "code": "10058",
+        "traits": "Item. Ferramenta. Ciência.",
+        "name": "Microscópio",
+        "text": "[reaction] Após um inimigo em seu local ser evadido ou derrotado com sucesso: Coloque 1 recurso em Microscópio, como evidência.\n[action][action]: <b>Investigue.</b> Você recebe +2 [intellect] nesta investigação para cada evidência em Microscópio (máx. de +6 [intellect]). Se você tiver sucesso, você pode gastar até 3 evidências para descobrir essa mesma quantidade de pistas adicionais em seu local.",
+        "errata_date": "2024-06-07"
     },
     {
-        "code":"10059",
-        "traits":"Criatura. Ci\u00eancia.",
-        "name":"Miconideo Voraz",
-        "subname":"Variante Senciente",
-        "text":"Pesquisado. Limite de 1 por baralho.\n[fast]: Procure Crescimento Misterioso em suas cartas vinculadas e adicione-a \u00e0 sua m\u00e3o. (Limite de uma vez por rodada.)\n[reaction] Quando um investigador comprar uma carta de trai\u00e7\u00e3o n\u00e3o fraqueza, se o v\u00e9u do local dele for menor ou igual ao crescimento de Micon\u00eddeo Voraz: Cancele os efeitos da trai\u00e7\u00e3o e descarte a carta. Remova todo o crescimento de Micon\u00eddeo Voraz."
+        "code": "10059",
+        "traits": "Criatura. Ciência.",
+        "name": "Miconideo Voraz",
+        "subname": "Variante Senciente",
+        "text": "Pesquisado. Limite de 1 por baralho.\n[fast]: Procure Crescimento Misterioso em suas cartas vinculadas e adicione-a à sua mão. (Limite de uma vez por rodada.)\n[reaction] Quando um investigador comprar uma carta de traição não fraqueza, se o véu do local dele for menor ou igual ao crescimento de Miconídeo Voraz: Cancele os efeitos da traição e descarte a carta. Remova todo o crescimento de Miconídeo Voraz."
     },
     {
-        "code":"10060",
-        "traits":"Monstro. Ci\u00eancia.",
-        "name":"Micon\u00eddeo Voraz",
-        "subname":"Variante Carn\u00edvora",
-        "text":"Pesquisado. Limite de 1 por baralho.\n[fast]: Procure Crescimento Misterioso em suas cartas vinculadas e adicione-a \u00e0 sua m\u00e3o. (Limite de uma vez por rodada.)\n[fast] Escolha um inimigo n\u00e3o-[[Elite]] em seu local com vida restante menor ou igual \u00e0 quantidade de crescimento em Micon\u00eddeo Voraz: Derrote esse inimigo. Remova todo o crescimento de Micon\u00eddeo Voraz."
+        "code": "10060",
+        "traits": "Monstro. Ciência.",
+        "name": "Miconídeo Voraz",
+        "subname": "Variante Carnívora",
+        "text": "Pesquisado. Limite de 1 por baralho.\n[fast]: Procure Crescimento Misterioso em suas cartas vinculadas e adicione-a à sua mão. (Limite de uma vez por rodada.)\n[fast] Escolha um inimigo não-[[Elite]] em seu local com vida restante menor ou igual à quantidade de crescimento em Miconídeo Voraz: Derrote esse inimigo. Remova todo o crescimento de Miconídeo Voraz."
     },
     {
-        "code":"10061",
-        "traits":"Flora. Ci\u00eancia.",
-        "name":"Micon\u00eddeo Voraz",
-        "subname":"Variante Protetora",
-        "text":"Pesquisado. Limite de 1 por baralho.\n[fast]: Procure Crescimento Misterioso em suas cartas vinculadas e adicione-a \u00e0 sua m\u00e3o. (Limite de uma vez por rodada.)\n[fast] Remova todo o crescimento de Micon\u00eddeo Voraz: Cure essa quantidade de dano/horror de Micon\u00eddeo Voraz ou mova essa quantidade de dano/horror dos investigadores ou de ativos de [[Aliado]] em seu local para Micon\u00eddeo Voraz."
+        "code": "10061",
+        "traits": "Flora. Ciência.",
+        "name": "Miconídeo Voraz",
+        "subname": "Variante Protetora",
+        "text": "Pesquisado. Limite de 1 por baralho.\n[fast]: Procure Crescimento Misterioso em suas cartas vinculadas e adicione-a à sua mão. (Limite de uma vez por rodada.)\n[fast] Remova todo o crescimento de Miconídeo Voraz: Cure essa quantidade de dano/horror de Miconídeo Voraz ou mova essa quantidade de dano/horror dos investigadores ou de ativos de [[Aliado]] em seu local para Miconídeo Voraz."
     },
     {
-        "code":"10062",
-        "traits":"Aliado. Criminoso. Socialite.",
-        "name":"Bianca \"Die Katz",
-        "subname":"Cantando sua Can\u00e7\u00e3o",
-        "text":"Limite de 1 por baralho. Usa (10 recursos).\n[action] Esgote Bianca \"Die Katz\": <b>Negociata.</b> Mova X recursos de Bianca \"Die Katz\" para a sua reserva de recursos. X n\u00e3o pode ser superior a 5. Teste [agility] (X). Se voc\u00ea falhar, lembre-se de que \"voc\u00ea deve X recursos a Bianca.\" Ent\u00e3o, procure o inimigo Bianca \"Die Katz\" em suas cartas vinculadas e fa\u00e7a-o surgir em seu local. Remova esta carta do jogo."
+        "code": "10062",
+        "traits": "Aliado. Criminoso. Socialite.",
+        "name": "Bianca \"Die Katz",
+        "subname": "Cantando sua Canção",
+        "text": "Limite de 1 por baralho. Usa (10 recursos).\n[action] Esgote Bianca \"Die Katz\": <b>Negociata.</b> Mova X recursos de Bianca \"Die Katz\" para a sua reserva de recursos. X não pode ser superior a 5. Teste [agility] (X). Se você falhar, lembre-se de que \"você deve X recursos a Bianca.\" Então, procure o inimigo Bianca \"Die Katz\" em suas cartas vinculadas e faça-o surgir em seu local. Remova esta carta do jogo."
     },
     {
-        "code":"10063",
-        "traits":"Humanoide. Criminoso. Socialite.",
-        "name":"Bianca \"Die Katz",
-        "text":"Vinculado (Bianca \"Die Katz\"). Ca\u00e7ador.\n<b>Presa</b> - Apenas o portador.\n[action] Se \"voc\u00ea deve X recursos a Bianca,\" gaste X recursos: <b>Negociata.</b> Adicione Bianca \"Die Katz\" ao painel de vit\u00f3rias.\n<b>For\u00e7ado</b> - Quando Bianca \"Die Katz\" sair de jogo (exceto devido \u00e0 habilidade acima): Embaralhe-a em seu baralho."
+        "code": "10063",
+        "traits": "Humanoide. Criminoso. Socialite.",
+        "name": "Bianca \"Die Katz",
+        "text": "Vinculado (Bianca \"Die Katz\"). Caçador.\n<b>Presa</b> - Apenas o portador.\n[action] Se \"você deve X recursos a Bianca,\" gaste X recursos: <b>Negociata.</b> Adicione Bianca \"Die Katz\" ao painel de vitórias.\n<b>Forçado</b> - Quando Bianca \"Die Katz\" sair de jogo (exceto devido à habilidade acima): Embaralhe-a em seu baralho."
     },
     {
-        "code":"10064",
-        "traits":"Item. Tomo. Il\u00edcito.",
-        "name":"Arquivo de Chantagem",
-        "text":"[action] Escolha um inimigo n\u00e3o-[[Elite]] em seu local: <b>Negociata.</b> Teste [willpower] (X), onde X \u00e9 o valor de vida impresso desse inimigo. Se voc\u00ea tiver sucesso, esse inimigo desengaja de cada investigador e ganha arredio at\u00e9 o final da rodada."
+        "code": "10064",
+        "traits": "Item. Tomo. Ilícito.",
+        "name": "Arquivo de Chantagem",
+        "text": "[action] Escolha um inimigo não-[[Elite]] em seu local: <b>Negociata.</b> Teste [willpower] (X), onde X é o valor de vida impresso desse inimigo. Se você tiver sucesso, esse inimigo desengaja de cada investigador e ganha arredio até o final da rodada."
     },
     {
-        "code":"10065",
-        "traits":"Item. Arma. Arma de Fogo. Il\u00edcito.",
-        "name":"British Bull Dog",
-        "text":"Usa (3 muni\u00e7\u00f5es).\n[action] Gaste 1 muni\u00e7\u00e3o: <b>Lute.</b> Voc\u00ea pode usar [agility] em vez de [combat] neste ataque. Este ataque causa +1 de dano.\n[reaction] Ap\u00f3s voc\u00ea falhar em um teste de per\u00edcia enquanto estiver negociando com um inimigo: Coloque British Bull Dog em jogo vindo da sua m\u00e3o."
+        "code": "10065",
+        "traits": "Item. Arma. Arma de Fogo. Ilícito.",
+        "name": "British Bull Dog",
+        "text": "Usa (3 munições).\n[action] Gaste 1 munição: <b>Lute.</b> Você pode usar [agility] em vez de [combat] neste ataque. Este ataque causa +1 de dano.\n[reaction] Após você falhar em um teste de perícia enquanto estiver negociando com um inimigo: Coloque British Bull Dog em jogo vindo da sua mão."
     },
     {
-        "code":"10066",
-        "traits":"Item. Il\u00edcito.",
-        "name":"Credenciais Falsas",
-        "text":"[action] Escolha um inimigo em seu local e esgote Credenciais Falsas: <b>Negociata.</b> Teste [intellect] (1). Este teste recebe +1 de dificuldade para cada suspeita em Credenciais Falsas. Se voc\u00ea tiver sucesso, descubra 1 pista em seu local e coloque 1 recurso em Credenciais Falsas, como suspeita. Se voc\u00ea falhar, voc\u00ea deve descartar Credenciais Falsas ou o inimigo escolhido ataca voc\u00ea."
+        "code": "10066",
+        "traits": "Item. Ilícito.",
+        "name": "Credenciais Falsas",
+        "text": "[action] Escolha um inimigo em seu local e esgote Credenciais Falsas: <b>Negociata.</b> Teste [intellect] (1). Este teste recebe +1 de dificuldade para cada suspeita em Credenciais Falsas. Se você tiver sucesso, descubra 1 pista em seu local e coloque 1 recurso em Credenciais Falsas, como suspeita. Se você falhar, você deve descartar Credenciais Falsas ou o inimigo escolhido ataca você."
     },
     {
-        "code":"10067",
-        "traits":"Item. Talism\u00e3. M\u00e1scara.",
-        "name":"M\u00e1scara de Raposa",
-        "subname":"A Trapaceira S\u00e1bia",
-        "text":"Limite de 1 [[M\u00e1scara]] por investigador.\nUsa (2 oferendas). Reabaste\u00e7a 1 dessas oferendas ap\u00f3s voc\u00ea se mover para fora de um local com um inimigo.\n[fast] Gaste 1 oferenda: Voc\u00ea recebe +2 [intellect] ou +2 [agility] nesse teste de per\u00edcia. (Limite de uma vez por teste.)"
+        "code": "10067",
+        "traits": "Item. Talismã. Máscara.",
+        "name": "Máscara de Raposa",
+        "subname": "A Trapaceira Sábia",
+        "text": "Limite de 1 [[Máscara]] por investigador.\nUsa (2 oferendas). Reabasteça 1 dessas oferendas após você se mover para fora de um local com um inimigo.\n[fast] Gaste 1 oferenda: Você recebe +2 [intellect] ou +2 [agility] nesse teste de perícia. (Limite de uma vez por teste.)"
     },
     {
-        "code":"10068",
-        "traits":"Item. Talism\u00e3. Amaldi\u00e7oado.",
-        "name":"Talism\u00e3 Scrimshaw",
-        "subname":"De Litorais Distantes",
-        "text":"[action] Adicione 1-3 fichas [curse] \u00e0 bolsa de caos e esgote Talism\u00e3 Scrimshaw: Ganhe 1 recurso. Para cada ficha adicionada, ganhe 1 recurso adicional.",
-        "flavor":"\"Que a f\u00e9 expulse os fatos; que a imagina\u00e7\u00e3o expulse a mem\u00f3ria; olho para as profundezas e acredito.\" - Herman Melville, <u>Moby-Dick</u>"
+        "code": "10068",
+        "traits": "Item. Talismã. Amaldiçoado.",
+        "name": "Talismã Scrimshaw",
+        "subname": "De Litorais Distantes",
+        "text": "[action] Adicione 1-3 fichas [curse] à bolsa de caos e esgote Talismã Scrimshaw: Ganhe 1 recurso. Para cada ficha adicionada, ganhe 1 recurso adicional.",
+        "flavor": "\"Que a fé expulse os fatos; que a imaginação expulse a memória; olho para as profundezas e acredito.\" - Herman Melville, <u>Moby-Dick</u>"
     },
     {
-        "code":"10069",
-        "traits":"Gambito. Dobro. Il\u00edcito.",
-        "name":"Roubo ao Banco",
-        "text":"Como um custo adicional para jogar Roubo ao Banco, gaste uma a\u00e7\u00e3o.\nOs investigadores em seu local ganham um total de 8 recursos, distribu\u00eddos como voc\u00ea desejar.",
-        "flavor":"\"Sem nomes, Skids.\"\n\"Foi mal, Finn.\""
+        "code": "10069",
+        "traits": "Gambito. Dobro. Ilícito.",
+        "name": "Roubo ao Banco",
+        "text": "Como um custo adicional para jogar Roubo ao Banco, gaste uma ação.\nOs investigadores em seu local ganham um total de 8 recursos, distribuídos como você desejar.",
+        "flavor": "\"Sem nomes, Skids.\"\n\"Foi mal, Finn.\""
     },
     {
-        "code":"10070",
-        "traits":"T\u00e1tica. Truque.",
-        "name":"Rendi\u00e7\u00e3o Falsa",
-        "text":"<b>Negociata.</b> Escolha um inimigo em seu local e jogue um ativo de [[Arma]] da sua m\u00e3o, reduzindo seu custo em 1. Voc\u00ea pode ent\u00e3o realizar uma a\u00e7\u00e3o de lutar com essa arma contra o inimigo escolhido, usando [agility] em vez da per\u00edcia indicada.",
-        "flavor":"\"Voc\u00ea teria sido um \u00f3timo cowboy.\""
+        "code": "10070",
+        "traits": "Tática. Truque.",
+        "name": "Rendição Falsa",
+        "text": "<b>Negociata.</b> Escolha um inimigo em seu local e jogue um ativo de [[Arma]] da sua mão, reduzindo seu custo em 1. Você pode então realizar uma ação de lutar com essa arma contra o inimigo escolhido, usando [agility] em vez da perícia indicada.",
+        "flavor": "\"Você teria sido um ótimo cowboy.\""
     },
     {
-        "code":"10071",
-        "traits":"Truque. Il\u00edcito.",
-        "name":"Surrupiar",
-        "text":"<b>Negociata.</b> Escolha um inimigo em seu local e teste [agility] (0). Para cada ponto que voc\u00ea tiver sucesso, ganhe 1 recurso (at\u00e9 um m\u00e1ximo de 6). Se voc\u00ea falhar, esse inimigo ataca voc\u00ea.",
-        "flavor":"\"Olha! Um pato!\"\n\"N\u00e3o vejo pato nenhum.\"\n\"Eu sim.\""
+        "code": "10071",
+        "traits": "Truque. Ilícito.",
+        "name": "Surrupiar",
+        "text": "<b>Negociata.</b> Escolha um inimigo em seu local e teste [agility] (0). Para cada ponto que você tiver sucesso, ganhe 1 recurso (até um máximo de 6). Se você falhar, esse inimigo ataca você.",
+        "flavor": "\"Olha! Um pato!\"\n\"Não vejo pato nenhum.\"\n\"Eu sim.\""
     },
     {
-        "code":"10072",
-        "traits":"Gambito. Truque.",
-        "name":"\"Eu te Pago de Volta!\"",
-        "text":"Veloz. Jogue apenas durante o seu turno.\nEscolha outro investigador em seu local. Mova todos os recursos da reserva de recursos desse investigador para sua reserva de recursos. No final da rodada, mova todos os recursos da sua reserva de recursos para a reserva de recursos desse investigador."
+        "code": "10072",
+        "traits": "Gambito. Truque.",
+        "name": "\"Eu te Pago de Volta!\"",
+        "text": "Veloz. Jogue apenas durante o seu turno.\nEscolha outro investigador em seu local. Mova todos os recursos da reserva de recursos desse investigador para sua reserva de recursos. No final da rodada, mova todos os recursos da sua reserva de recursos para a reserva de recursos desse investigador."
     },
     {
-        "code":"10073",
-        "traits":"Truque. Gambito.",
-        "name":"Jogar Lenha na Fogueira",
-        "text":"<b>Negociata.</b> Escolha um inimigo em seu local e teste [intellect] (X), onde X \u00e9 o valor combinado de dano e de horror do inimigo escolhido. Se voc\u00ea tiver sucesso, cause 2 de dano a cada inimigo em seu local. Se voc\u00ea tiver sucesso por 2 ou mais, ap\u00f3s este efeito ser resolvido, voc\u00ea pode desengajar de cada inimigo e se mover para um local conectado.",
-        "flavor":"\"Ele <u>disse</u> mesmo algo sobre seu cabelo...\""
+        "code": "10073",
+        "traits": "Truque. Gambito.",
+        "name": "Jogar Lenha na Fogueira",
+        "text": "<b>Negociata.</b> Escolha um inimigo em seu local e teste [intellect] (X), onde X é o valor combinado de dano e de horror do inimigo escolhido. Se você tiver sucesso, cause 2 de dano a cada inimigo em seu local. Se você tiver sucesso por 2 ou mais, após este efeito ser resolvido, você pode desengajar de cada inimigo e se mover para um local conectado.",
+        "flavor": "\"Ele <u>disse</u> mesmo algo sobre seu cabelo...\""
     },
     {
-        "code":"10074",
-        "traits":"Truque.",
-        "name":"Sedutora",
-        "text":"<b>Negociata.</b> Escolha um inimigo em seu local e teste qualquer per\u00edcia (3). Se voc\u00ea tiver sucesso e tiver testado...\n- ...[willpower], remova 1 perdi\u00e7\u00e3o desse inimigo.\n- ...[intellect], descubra 1 pista em seu local.\n- ...[agility], evada automaticamente esse inimigo. Se ele for n\u00e3o-[[Elite]], mova-o para um local conectado.\n- ...[combat], cause 2 de dano a esse inimigo."
+        "code": "10074",
+        "traits": "Truque.",
+        "name": "Sedutora",
+        "text": "<b>Negociata.</b> Escolha um inimigo em seu local e teste qualquer perícia (3). Se você tiver sucesso e tiver testado...\n- ...[willpower], remova 1 perdição desse inimigo.\n- ...[intellect], descubra 1 pista em seu local.\n- ...[agility], evada automaticamente esse inimigo. Se ele for não-[[Elite]], mova-o para um local conectado.\n- ...[combat], cause 2 de dano a esse inimigo."
     },
     {
-        "code":"10075",
-        "traits":"Sorte. Amaldi\u00e7oado.",
-        "name":"Sorte Diab\u00f3lica",
-        "text":"Quando voc\u00ea revelar uma ficha [curse] durante um teste de per\u00edcia que voc\u00ea est\u00e1 realizando, voc\u00ea pode comprometer Sorte Diab\u00f3lica nesse teste de per\u00edcia a partir de sua m\u00e3o. Se o fizer, Sorte Diab\u00f3lica ganha [wild][wild][wild].",
-        "flavor":"\"Shoggoths. Por que shoggoths?\""
+        "code": "10075",
+        "traits": "Sorte. Amaldiçoado.",
+        "name": "Sorte Diabólica",
+        "text": "Quando você revelar uma ficha [curse] durante um teste de perícia que você está realizando, você pode comprometer Sorte Diabólica nesse teste de perícia a partir de sua mão. Se o fizer, Sorte Diabólica ganha [wild][wild][wild].",
+        "flavor": "\"Shoggoths. Por que shoggoths?\""
     },
     {
-        "code":"10076",
-        "traits":"Treinado. Truque.",
-        "name":"Ligeira",
-        "text":"Se esse teste de per\u00edcia for bem-sucedido durante uma tentativa de evas\u00e3o, voc\u00ea pode evadir automaticamente outro inimigo em seu local.",
-        "flavor":"\"Nunca corri de nada parecido com aquele dem\u00f4nio de hoje, por\u00e9m. Espero nunca mais precisar faz\u00ea-lo.\"\n-<i>Rita Young, Investigadores de Arkham Horror</i>"
+        "code": "10076",
+        "traits": "Treinado. Truque.",
+        "name": "Ligeira",
+        "text": "Se esse teste de perícia for bem-sucedido durante uma tentativa de evasão, você pode evadir automaticamente outro inimigo em seu local.",
+        "flavor": "\"Nunca corri de nada parecido com aquele demônio de hoje, porém. Espero nunca mais precisar fazê-lo.\"\n-<i>Rita Young, Investigadores de Arkham Horror</i>"
     },
     {
-        "code":"10077",
-        "traits":"Item. Arma. Arma de Fogo. Il\u00edcito.",
-        "name":"British Bull Dog",
-        "text":"Usa (3 muni\u00e7\u00f5es).\n[action] Gaste 1 muni\u00e7\u00e3o: <b>Lute.</b> Voc\u00ea pode usar [agility] em vez de [combat] neste ataque e recebe +2 de valor de per\u00edcia. Este ataque causa +1 de dano. Ignore a palavra-chave arredio neste ataque.\n[reaction] Ap\u00f3s voc\u00ea falhar em um teste de per\u00edcia enquanto estiver negociando com um inimigo: Coloque British Bull Dog em jogo vindo da sua m\u00e3o."
+        "code": "10077",
+        "traits": "Item. Arma. Arma de Fogo. Ilícito.",
+        "name": "British Bull Dog",
+        "text": "Usa (3 munições).\n[action] Gaste 1 munição: <b>Lute.</b> Você pode usar [agility] em vez de [combat] neste ataque e recebe +2 de valor de perícia. Este ataque causa +1 de dano. Ignore a palavra-chave arredio neste ataque.\n[reaction] Após você falhar em um teste de perícia enquanto estiver negociando com um inimigo: Coloque British Bull Dog em jogo vindo da sua mão."
     },
     {
-        "code":"10078",
-        "traits":"Favor. Truque.",
-        "name":"Delator",
-        "text":"Veloz. Jogue ap\u00f3s voc\u00ea ter sucesso em um teste de per\u00edcia enquanto estiver negociando.\nDescubra um total de 2 pistas entre seu local e locais conectados.",
-        "flavor":"\"Eu n\u00e3o deveria lhe contar isso, mas voc\u00ea parece confi\u00e1vel...\""
+        "code": "10078",
+        "traits": "Favor. Truque.",
+        "name": "Delator",
+        "text": "Veloz. Jogue após você ter sucesso em um teste de perícia enquanto estiver negociando.\nDescubra um total de 2 pistas entre seu local e locais conectados.",
+        "flavor": "\"Eu não deveria lhe contar isso, mas você parece confiável...\""
     },
     {
-        "code":"10079",
-        "traits":"Talento. Truque.",
-        "name":"Encantadora",
-        "text":"Permanente. Excepcional.\n[reaction] Antes de voc\u00ea comprar a sua m\u00e3o inicial: Procure at\u00e9 3 cartas de [[Truque]] diferentes em seu baralho e anexe-as a Encantadora viradas para baixo. Embaralhe seu baralho.\n[reaction] Quando voc\u00ea engajar com um inimigo, esgote Encantadora: Compre 1 carta anexada ou procure uma c\u00f3pia de uma carta anexada nas 9 cartas do topo do seu baralho, compre-a e embaralhe seu baralho."
+        "code": "10079",
+        "traits": "Talento. Truque.",
+        "name": "Encantadora",
+        "text": "Permanente. Excepcional.\n[reaction] Antes de você comprar a sua mão inicial: Procure até 3 cartas de [[Truque]] diferentes em seu baralho e anexe-as a Encantadora viradas para baixo. Embaralhe seu baralho.\n[reaction] Quando você engajar com um inimigo, esgote Encantadora: Compre 1 carta anexada ou procure uma cópia de uma carta anexada nas 9 cartas do topo do seu baralho, compre-a e embaralhe seu baralho."
     },
     {
-        "code":"10080",
-        "traits":"Favor. Dobro. Il\u00edcito.",
-        "name":"Neg\u00f3cios Escusos",
-        "text":"Como um custo adicional para jogar Neg\u00f3cios Escusos, gaste uma a\u00e7\u00e3o.\nProcure um ativo [[Il\u00edcito]] em seu baralho e jogue-o, pagando seu custo. Ent\u00e3o, voc\u00ea pode resolver uma habilidade [action] ou [fast] nesse ativo, ignorando todos os custos <i>(incluindo o custo [action], se houver)</i>. Jogar esta carta n\u00e3o provoca ataques de oportunidade."
+        "code": "10080",
+        "traits": "Favor. Dobro. Ilícito.",
+        "name": "Negócios Escusos",
+        "text": "Como um custo adicional para jogar Negócios Escusos, gaste uma ação.\nProcure um ativo [[Ilícito]] em seu baralho e jogue-o, pagando seu custo. Então, você pode resolver uma habilidade [action] ou [fast] nesse ativo, ignorando todos os custos <i>(incluindo o custo [action], se houver)</i>. Jogar esta carta não provoca ataques de oportunidade."
     },
     {
-        "code":"10081",
-        "traits":"Truque.",
-        "name":"Sedutora",
-        "text":"<b>Negociata.</b> Escolha um inimigo em seu local e qualquer quantidade de per\u00edcias. Uma por vez, em qualquer ordem, teste cada per\u00edcia escolhida (2). Para cada teste bem-sucedido, se tiver sido...\n- ...[willpower], remova 1 perdi\u00e7\u00e3o desse inimigo.\n- ...[intellect], descubra 1 pista no local desse inimigo.\n- ...[agility], evada automaticamente esse inimigo. Mova-o para um local conectado se ele for n\u00e3o-[[Elite]].\n- ...[combat], cause 2 de dano a esse inimigo."
+        "code": "10081",
+        "traits": "Truque.",
+        "name": "Sedutora",
+        "text": "<b>Negociata.</b> Escolha um inimigo em seu local e qualquer quantidade de perícias. Uma por vez, em qualquer ordem, teste cada perícia escolhida (2). Para cada teste bem-sucedido, se tiver sido...\n- ...[willpower], remova 1 perdição desse inimigo.\n- ...[intellect], descubra 1 pista no local desse inimigo.\n- ...[agility], evada automaticamente esse inimigo. Mova-o para um local conectado se ele for não-[[Elite]].\n- ...[combat], cause 2 de dano a esse inimigo."
     },
     {
-        "code":"10082",
-        "traits":"Item. Il\u00edcito.",
-        "name":"Credenciais Falsas",
-        "text":"[action] Escolha um inimigo em seu local: <b>Negociata.</b> Teste [intellect] (0). Este teste recebe +1 de dificuldade para cada suspeita em Credenciais Falsas. Se voc\u00ea tiver sucesso, descubra 1 pista em seu local ou em um local conectado. Se voc\u00ea n\u00e3o teve sucesso por 2 ou mais, coloque 1 recurso em Credenciais Falsas, como suspeita. Se voc\u00ea falhar, devolva Credenciais Falsas para sua m\u00e3o."
+        "code": "10082",
+        "traits": "Item. Ilícito.",
+        "name": "Credenciais Falsas",
+        "text": "[action] Escolha um inimigo em seu local: <b>Negociata.</b> Teste [intellect] (0). Este teste recebe +1 de dificuldade para cada suspeita em Credenciais Falsas. Se você tiver sucesso, descubra 1 pista em seu local ou em um local conectado. Se você não teve sucesso por 2 ou mais, coloque 1 recurso em Credenciais Falsas, como suspeita. Se você falhar, devolva Credenciais Falsas para sua mão."
     },
     {
-        "code":"10083",
-        "traits":"Truque. Gambito.",
-        "name":"Jogar Lenha na Fogueira",
-        "text":"<b>Negociata.</b> Escolha um inimigo em seu local e teste [intellect] (X), onde X \u00e9 o valor combinado de dano/horror do inimigo escolhido. Se voc\u00ea tiver sucesso, cause X de dano a cada inimigo em seu local. Ap\u00f3s este efeito ser resolvido, voc\u00ea pode desengajar de cada inimigo e se mover para um local conectado.",
-        "flavor":"\"...e fiquei sabendo que ele xingou voc\u00ea de idiota tamb\u00e9m!\""
+        "code": "10083",
+        "traits": "Truque. Gambito.",
+        "name": "Jogar Lenha na Fogueira",
+        "text": "<b>Negociata.</b> Escolha um inimigo em seu local e teste [intellect] (X), onde X é o valor combinado de dano/horror do inimigo escolhido. Se você tiver sucesso, cause X de dano a cada inimigo em seu local. Após este efeito ser resolvido, você pode desengajar de cada inimigo e se mover para um local conectado.",
+        "flavor": "\"...e fiquei sabendo que ele xingou você de idiota também!\""
     },
     {
-        "code":"10084",
-        "traits":"Item. Talism\u00e3. M\u00e1scara.",
-        "name":"M\u00e1scara de Gato",
-        "subname":"O Intrometido Caprichoso",
-        "text":"Limite de 1 [[M\u00e1scara]] por investigador.\nUsa (2 oferendas). Reabaste\u00e7a 2 dessas oferendas ap\u00f3s uma perdi\u00e7\u00e3o ser colocada em uma carta sem perdi\u00e7\u00e3o.\n[fast] Gaste 1 oferenda: Voc\u00ea recebe +2 [willpower] ou +2 [combat] nesse teste de per\u00edcia. (Limite de uma vez por teste.)"
+        "code": "10084",
+        "traits": "Item. Talismã. Máscara.",
+        "name": "Máscara de Gato",
+        "subname": "O Intrometido Caprichoso",
+        "text": "Limite de 1 [[Máscara]] por investigador.\nUsa (2 oferendas). Reabasteça 2 dessas oferendas após uma perdição ser colocada em uma carta sem perdição.\n[fast] Gaste 1 oferenda: Você recebe +2 [willpower] ou +2 [combat] nesse teste de perícia. (Limite de uma vez por teste.)"
     },
     {
-        "code":"10085",
-        "traits":"Item. Rel\u00edquia. Oculto. Amaldi\u00e7oado.",
-        "name":"Bast\u00e3o de Carnamagos",
-        "subname":"Cetro do Vidente Louco",
-        "text":"Limite de 1 por baralho.\n[fast] Escolha um inimigo n\u00e3o-[[Elite]] em qualquer local e esgote Bast\u00e3o de Carnamagos: Revele 5 fichas de caos aleat\u00f3rias da bolsa de caos. Se uma ficha [curse] for revelada, procure um evento de [[Putrefa\u00e7\u00e3o]] aleat\u00f3rio em suas cartas vinculadas e anexe-o a esse inimigo."
+        "code": "10085",
+        "traits": "Item. Relíquia. Oculto. Amaldiçoado.",
+        "name": "Bastão de Carnamagos",
+        "subname": "Cetro do Vidente Louco",
+        "text": "Limite de 1 por baralho.\n[fast] Escolha um inimigo não-[[Elite]] em qualquer local e esgote Bastão de Carnamagos: Revele 5 fichas de caos aleatórias da bolsa de caos. Se uma ficha [curse] for revelada, procure um evento de [[Putrefação]] aleatório em suas cartas vinculadas e anexe-o a esse inimigo."
     },
     {
-        "code":"10086",
-        "traits":"Magia. Putrefa\u00e7\u00e3o. Amaldi\u00e7oado.",
-        "name":"Putrefa\u00e7\u00e3o Abissal",
-        "text":"Vinculado (Bast\u00e3o de Carnamagos).\nO inimigo anexado n\u00e3o pode atacar.\n<b>For\u00e7ado</b> - Quando o inimigo anexado sair de jogo: Separe Putrefa\u00e7\u00e3o Abissal, fora de jogo."
+        "code": "10086",
+        "traits": "Magia. Putrefação. Amaldiçoado.",
+        "name": "Putrefação Abissal",
+        "text": "Vinculado (Bastão de Carnamagos).\nO inimigo anexado não pode atacar.\n<b>Forçado</b> - Quando o inimigo anexado sair de jogo: Separe Putrefação Abissal, fora de jogo."
     },
     {
-        "code":"10087",
-        "traits":"Magia. Putrefa\u00e7\u00e3o. Amaldi\u00e7oado.",
-        "name":"Putrefa\u00e7\u00e3o de Ambar",
-        "text":"Vinculado (Bast\u00e3o de Carnamagos).\n<b>For\u00e7ado</b> - Quando o inimigo anexado for derrotado: Ganhe uma quantidade de recursos igual ao valor de vida impresso desse inimigo (at\u00e9 um m\u00e1ximo de 5).\n<b>For\u00e7ado</b> - Quando o inimigo anexado sair de jogo: Separe Putrefa\u00e7\u00e3o de Ambar, fora de jogo."
+        "code": "10087",
+        "traits": "Magia. Putrefação. Amaldiçoado.",
+        "name": "Putrefação de Ambar",
+        "text": "Vinculado (Bastão de Carnamagos).\n<b>Forçado</b> - Quando o inimigo anexado for derrotado: Ganhe uma quantidade de recursos igual ao valor de vida impresso desse inimigo (até um máximo de 5).\n<b>Forçado</b> - Quando o inimigo anexado sair de jogo: Separe Putrefação de Ambar, fora de jogo."
     },
     {
-        "code":"10088",
-        "traits":"Magia. Putrefa\u00e7\u00e3o. Amaldi\u00e7oado.",
-        "name":"Putrefa\u00e7\u00e3o Putrescente",
-        "text":"Vinculado (Bast\u00e3o de Carnamagos).\nO inimigo anexado recebe -1 de luta e -1 de evas\u00e3o.\n<b>For\u00e7ado</b> - Quando o inimigo anexado sair de jogo: Separe Putrefa\u00e7\u00e3o Putrescente, fora de jogo."
+        "code": "10088",
+        "traits": "Magia. Putrefação. Amaldiçoado.",
+        "name": "Putrefação Putrescente",
+        "text": "Vinculado (Bastão de Carnamagos).\nO inimigo anexado recebe -1 de luta e -1 de evasão.\n<b>Forçado</b> - Quando o inimigo anexado sair de jogo: Separe Putrefação Putrescente, fora de jogo."
     },
     {
-        "code":"10089",
-        "traits":"Magia. Putrefa\u00e7\u00e3o. Amaldi\u00e7oado.",
-        "name":"Putrefa\u00e7\u00e3o Escarlate",
-        "text":"Vinculado (Bast\u00e3o de Carnamagos).\n<b>For\u00e7ado</b> - No final da rodada: O inimigo anexado sofre 1 de dano.\n<b>For\u00e7ado</b> - Quando o inimigo anexado sair de jogo: Separe Putrefa\u00e7\u00e3o Escarlate, fora de jogo."
+        "code": "10089",
+        "traits": "Magia. Putrefação. Amaldiçoado.",
+        "name": "Putrefação Escarlate",
+        "text": "Vinculado (Bastão de Carnamagos).\n<b>Forçado</b> - No final da rodada: O inimigo anexado sofre 1 de dano.\n<b>Forçado</b> - Quando o inimigo anexado sair de jogo: Separe Putrefação Escarlate, fora de jogo."
     },
     {
-        "code":"10090",
-        "traits":"Magia. Putrefa\u00e7\u00e3o. Amaldi\u00e7oado.",
-        "name":"Putrefa\u00e7\u00e3o Virescente",
-        "text":"Vinculado (Bast\u00e3o de Carnamagos).\nO inimigo anexado n\u00e3o pode se mover.\n<b>For\u00e7ado</b> - Quando o inimigo anexado sair de jogo: Separe Putrefa\u00e7\u00e3o Virescente, fora de jogo."
+        "code": "10090",
+        "traits": "Magia. Putrefação. Amaldiçoado.",
+        "name": "Putrefação Virescente",
+        "text": "Vinculado (Bastão de Carnamagos).\nO inimigo anexado não pode se mover.\n<b>Forçado</b> - Quando o inimigo anexado sair de jogo: Separe Putrefação Virescente, fora de jogo."
     },
     {
-        "code":"10091",
-        "traits":"Talento. Ritual.",
-        "name":"Falar com os Mortos",
-        "text":"Usa (6 oferendas).\n[action] Gaste qualquer quantidade de oferendas: <b>Negociata.</b> Escolha um evento de [[Magia]] ou de [[Ritual]] em sua pilha de descarte e revele uma quantidade de fichas da bolsa de caos igual \u00e0 quantidade de oferendas gastas. Se pelo menos 1 ficha [skull] ou [curse] for revelada, devolva o evento escolhido para sua m\u00e3o."
+        "code": "10091",
+        "traits": "Talento. Ritual.",
+        "name": "Falar com os Mortos",
+        "text": "Usa (6 oferendas).\n[action] Gaste qualquer quantidade de oferendas: <b>Negociata.</b> Escolha um evento de [[Magia]] ou de [[Ritual]] em sua pilha de descarte e revele uma quantidade de fichas da bolsa de caos igual à quantidade de oferendas gastas. Se pelo menos 1 ficha [skull] ou [curse] for revelada, devolva o evento escolhido para sua mão."
     },
     {
-        "code":"10092",
-        "traits":"Item. Arma. Corpo a Corpo. Amaldi\u00e7oado.",
-        "name":"Athame Perverso",
-        "subname":"L\u00e2mina Amaldi\u00e7oada",
-        "text":"[action] Adicione 1-3 fichas [curse] \u00e0 bolsa de caos: <b>Lute.</b> Voc\u00ea recebe +2 [combat] neste ataque para cada ficha [curse] adicionada como parte do custo desta a\u00e7\u00e3o. Se este ataque derrotar um inimigo, reabaste\u00e7a 1 carga ou oferenda em um ativo que voc\u00ea controla."
+        "code": "10092",
+        "traits": "Item. Arma. Corpo a Corpo. Amaldiçoado.",
+        "name": "Athame Perverso",
+        "subname": "Lâmina Amaldiçoada",
+        "text": "[action] Adicione 1-3 fichas [curse] à bolsa de caos: <b>Lute.</b> Você recebe +2 [combat] neste ataque para cada ficha [curse] adicionada como parte do custo desta ação. Se este ataque derrotar um inimigo, reabasteça 1 carga ou oferenda em um ativo que você controla."
     },
     {
-        "code":"10093",
-        "traits":"Aug\u00fario. Dobro.",
-        "name":"Hino Antediluviano",
-        "text":"Como um custo adicional para jogar Hino Antediluviano, gaste uma a\u00e7\u00e3o.\nRevele as 5 cartas do topo do baralho de encontros. Para cada carta revelada, voc\u00ea pode adicionar 1 ficha [curse] \u00e0 bolsa de caos para colocar essa carta no fundo do baralho de encontros. Devolva as cartas restantes para o topo do baralho de encontros, em qualquer ordem."
+        "code": "10093",
+        "traits": "Augúrio. Dobro.",
+        "name": "Hino Antediluviano",
+        "text": "Como um custo adicional para jogar Hino Antediluviano, gaste uma ação.\nRevele as 5 cartas do topo do baralho de encontros. Para cada carta revelada, você pode adicionar 1 ficha [curse] à bolsa de caos para colocar essa carta no fundo do baralho de encontros. Devolva as cartas restantes para o topo do baralho de encontros, em qualquer ordem."
     },
     {
-        "code":"10094",
-        "traits":"Magia.",
-        "name":"Drenar Ess\u00eancia",
-        "text":"<b>Negociata.</b> Escolha um inimigo em seu local e teste [willpower] (X), onde X \u00e9 o valor de luta do inimigo escolhido. Se voc\u00ea tiver sucesso, mova 1 de dano do seu investigador para o inimigo escolhido (at\u00e9 2 de dano em vez disso se o inimigo escolhido for n\u00e3o-[[Elite]]).",
-        "flavor":"O que era seu \u00e9 agora meu."
+        "code": "10094",
+        "traits": "Magia.",
+        "name": "Drenar Essência",
+        "text": "<b>Negociata.</b> Escolha um inimigo em seu local e teste [willpower] (X), onde X é o valor de luta do inimigo escolhido. Se você tiver sucesso, mova 1 de dano do seu investigador para o inimigo escolhido (até 2 de dano em vez disso se o inimigo escolhido for não-[[Elite]]).",
+        "flavor": "O que era seu é agora meu."
     },
     {
-        "code":"10095",
-        "traits":"Inato. Amaldi\u00e7oado.",
-        "name":"Maldito",
-        "text":"Quando voc\u00ea comprometer Maldito em um teste de per\u00edcia, adicione at\u00e9 3 fichas [curse] \u00e0 bolsa de caos. Durante esse teste de per\u00edcia, trate como 0 o modificador de cada ficha [curse] revelada.",
-        "flavor":"Nem todos que vagam est\u00e3o perdidos."
+        "code": "10095",
+        "traits": "Inato. Amaldiçoado.",
+        "name": "Maldito",
+        "text": "Quando você comprometer Maldito em um teste de perícia, adicione até 3 fichas [curse] à bolsa de caos. Durante esse teste de perícia, trate como 0 o modificador de cada ficha [curse] revelada.",
+        "flavor": "Nem todos que vagam estão perdidos."
     },
     {
-        "code":"10096",
-        "traits":"Treinado.",
-        "name":"Influ\u00eancia Hipnotizante",
-        "text":"Enquanto esta carta estiver comprometida em um teste de per\u00edcia, o investigador realizando o teste pode ignorar todas as palavras-chave ou os efeitos de locais que seriam ativados durante esse teste.",
-        "flavor":"A mente em devaneio \u00e9 t\u00e3o profunda quanto qualquer oceano."
+        "code": "10096",
+        "traits": "Treinado.",
+        "name": "Influência Hipnotizante",
+        "text": "Enquanto esta carta estiver comprometida em um teste de perícia, o investigador realizando o teste pode ignorar todas as palavras-chave ou os efeitos de locais que seriam ativados durante esse teste.",
+        "flavor": "A mente em devaneio é tão profunda quanto qualquer oceano."
     },
     {
-        "code":"10097",
-        "traits":"Aliado. Bruxa.",
-        "name":"Olive McBride",
-        "subname":"J\u00e1 Tentou de Tudo Uma Vez",
-        "text":"[reaction] Quando voc\u00ea for revelar uma ficha de caos, esgote Olive McBride: Revele 4 fichas de caos em vez de 1. Escolha 2 dessas fichas para resolver e ignore o restante.",
-        "flavor":"Voc\u00ea precisa colocar um pouco de voc\u00ea em cada magia. \u00c0s vezes, literalmente."
+        "code": "10097",
+        "traits": "Aliado. Bruxa.",
+        "name": "Olive McBride",
+        "subname": "Já Tentou de Tudo Uma Vez",
+        "text": "[reaction] Quando você for revelar uma ficha de caos, esgote Olive McBride: Revele 4 fichas de caos em vez de 1. Escolha 2 dessas fichas para resolver e ignore o restante.",
+        "flavor": "Você precisa colocar um pouco de você em cada magia. Às vezes, literalmente."
     },
     {
-        "code":"10098",
-        "traits":"Item. Rel\u00edquia. Oculto. Amaldi\u00e7oado.",
-        "name":"Bast\u00e3o de Carnamagos",
-        "subname":"Cetro do Vidente Louco",
-        "text":"[fast] Escolha um inimigo n\u00e3o-[[Elite]] em qualquer local e esgote Bast\u00e3o de Carnamagos: Revele 5 fichas de caos aleat\u00f3rias da bolsa de caos. Para cada ficha [curse] revelada, voc\u00ea pode procurar um evento de [[Putrefa\u00e7\u00e3o]] em suas cartas vinculadas e anex\u00e1-lo a esse inimigo."
+        "code": "10098",
+        "traits": "Item. Relíquia. Oculto. Amaldiçoado.",
+        "name": "Bastão de Carnamagos",
+        "subname": "Cetro do Vidente Louco",
+        "text": "[fast] Escolha um inimigo não-[[Elite]] em qualquer local e esgote Bastão de Carnamagos: Revele 5 fichas de caos aleatórias da bolsa de caos. Para cada ficha [curse] revelada, você pode procurar um evento de [[Putrefação]] em suas cartas vinculadas e anexá-lo a esse inimigo."
     },
     {
-        "code":"10099",
-        "traits":"Ritual. Amaldi\u00e7oado.",
-        "name":"Convocar o Al\u00e9m",
-        "text":"Como um custo adicional para jogar Convocar o Al\u00e9m, adicione 3 fichas [curse] \u00e0 bolsa de caos.\nEscolha um ativo que voc\u00ea controla com \"usa (cargas)\" ou \"usa (segredos)\". Reabaste\u00e7a todas as cargas ou segredos desse ativo. Ent\u00e3o, voc\u00ea pode resolver uma habilidade [action] ou [fast] nesse ativo sem pagar seu custo [action], se houver."
+        "code": "10099",
+        "traits": "Ritual. Amaldiçoado.",
+        "name": "Convocar o Além",
+        "text": "Como um custo adicional para jogar Convocar o Além, adicione 3 fichas [curse] à bolsa de caos.\nEscolha um ativo que você controla com \"usa (cargas)\" ou \"usa (segredos)\". Reabasteça todas as cargas ou segredos desse ativo. Então, você pode resolver uma habilidade [action] ou [fast] nesse ativo sem pagar seu custo [action], se houver."
     },
     {
-        "code":"10100",
-        "traits":"Magia.",
-        "name":"Forma Et\u00e9rea",
-        "text":"<b>Evada.</b> Adicione seu valor de [willpower] ao seu valor de per\u00edcia nesta tentativa de evas\u00e3o. Se voc\u00ea tiver sucesso, desengaje de cada outro inimigo engajado com voc\u00ea e, pelo restante da rodada, voc\u00ea est\u00e1 et\u00e9reo (os inimigos n\u00e3o podem engajar com voc\u00ea ou ficar engajados com voc\u00ea, e voc\u00ea n\u00e3o pode atacar ou causar dano aos inimigos). Se um s\u00edmbolo foi revelado durante esta tentativa de evas\u00e3o, devolva Forma Et\u00e9rea para sua m\u00e3o no final de seu turno."
+        "code": "10100",
+        "traits": "Magia.",
+        "name": "Forma Etérea",
+        "text": "<b>Evada.</b> Adicione seu valor de [willpower] ao seu valor de perícia nesta tentativa de evasão. Se você tiver sucesso, desengaje de cada outro inimigo engajado com você e, pelo restante da rodada, você está etéreo (os inimigos não podem engajar com você ou ficar engajados com você, e você não pode atacar ou causar dano aos inimigos). Se um símbolo foi revelado durante esta tentativa de evasão, devolva Forma Etérea para sua mão no final de seu turno."
     },
     {
-        "code":"10101",
-        "traits":"Magia.",
-        "name":"Ler os Sinais",
-        "text":"<b>Investigue.</b> Adicione seu valor de [willpower] ao seu valor de per\u00edcia nesta investiga\u00e7\u00e3o. Voc\u00ea pode ignorar qualquer efeito ou palavra-chave em seu local que seria ativada durante esta investiga\u00e7\u00e3o. Se voc\u00ea tiver sucesso, descubra 1 pista adicional nesse local. Se um s\u00edmbolo foi revelado durante esta investiga\u00e7\u00e3o, devolva Ler os Sinais para sua m\u00e3o no final de seu turno."
+        "code": "10101",
+        "traits": "Magia.",
+        "name": "Ler os Sinais",
+        "text": "<b>Investigue.</b> Adicione seu valor de [willpower] ao seu valor de perícia nesta investigação. Você pode ignorar qualquer efeito ou palavra-chave em seu local que seria ativada durante esta investigação. Se você tiver sucesso, descubra 1 pista adicional nesse local. Se um símbolo foi revelado durante esta investigação, devolva Ler os Sinais para sua mão no final de seu turno."
     },
     {
-        "code":"10102",
-        "traits":"Magia.",
-        "name":"L\u00e2mina Espectral",
-        "text":"<b>Lute.</b> Adicione seu valor de [willpower] ao seu valor de per\u00edcia neste ataque. Imediatamente antes deste ataque, voc\u00ea pode engajar com o inimigo atacado. Este ataque causa +1 de dano (+2 de dano em vez disso se o inimigo for n\u00e3o-[[Elite]]). Se um s\u00edmbolo foi revelado durante este ataque, devolva L\u00e2mina Espectral para sua m\u00e3o no final de seu turno."
+        "code": "10102",
+        "traits": "Magia.",
+        "name": "Lâmina Espectral",
+        "text": "<b>Lute.</b> Adicione seu valor de [willpower] ao seu valor de perícia neste ataque. Imediatamente antes deste ataque, você pode engajar com o inimigo atacado. Este ataque causa +1 de dano (+2 de dano em vez disso se o inimigo for não-[[Elite]]). Se um símbolo foi revelado durante este ataque, devolva Lâmina Espectral para sua mão no final de seu turno."
     },
     {
-        "code":"10103",
-        "traits":"Esp\u00edrito. Dobro.",
-        "name":"Tecedura Et\u00e9rea",
-        "text":"Como um custo adicional para jogar Tecedura Et\u00e9rea, gaste uma a\u00e7\u00e3o.\nRevele at\u00e9 3 eventos de [[Magia]] diferentes da sua m\u00e3o. Um por vez, jogue cada evento revelado, reduzindo seu custo em 1. Enquanto estiver resolvendo cada um desses eventos, voc\u00ea recebe +2 de valor de per\u00edcia."
+        "code": "10103",
+        "traits": "Espírito. Dobro.",
+        "name": "Tecedura Etérea",
+        "text": "Como um custo adicional para jogar Tecedura Etérea, gaste uma ação.\nRevele até 3 eventos de [[Magia]] diferentes da sua mão. Um por vez, jogue cada evento revelado, reduzindo seu custo em 1. Enquanto estiver resolvendo cada um desses eventos, você recebe +2 de valor de perícia."
     },
     {
-        "code":"10104",
-        "traits":"Item. Tomo. Aben\u00e7oado. Amaldi\u00e7oado.",
-        "name":"A Chave de Solomon",
-        "subname":"Segredos do Desconhecido",
-        "text":"[fast] Se houver mais fichas [bless] do que [curse] na bolsa de caos, remova 1 ficha [bless] da bolsa de caos e esgote A Chave de Solomon: Cure at\u00e9 2 de dano e/ou horror de um investigador ou ativo de [[Aliado]] em seu local.\n[fast] Se houver mais fichas [curse] do que [bless] na bolsa de caos, remova 1 ficha [curse] da bolsa de caos e esgote A Chave de Solomon: Ganhe 2 recursos."
+        "code": "10104",
+        "traits": "Item. Tomo. Abençoado. Amaldiçoado.",
+        "name": "A Chave de Solomon",
+        "subname": "Segredos do Desconhecido",
+        "text": "[fast] Se houver mais fichas [bless] do que [curse] na bolsa de caos, remova 1 ficha [bless] da bolsa de caos e esgote A Chave de Solomon: Cure até 2 de dano e/ou horror de um investigador ou ativo de [[Aliado]] em seu local.\n[fast] Se houver mais fichas [curse] do que [bless] na bolsa de caos, remova 1 ficha [curse] da bolsa de caos e esgote A Chave de Solomon: Ganhe 2 recursos."
     },
     {
-        "code":"10105",
-        "traits":"Magia. Pacto. Aben\u00e7oado. Amaldi\u00e7oado.",
-        "name":"Selo dos Ancestrais",
-        "text":"Veloz. Jogue ap\u00f3s um teste de per\u00edcia em seu local terminar, no qual pelo menos 2 fichas [curse] ou 2 fichas [bless] foram reveladas.\nSe 2 fichas [curse] foram reveladas, procure 1 c\u00f3pia de Servo de Bronze em suas cartas vinculadas e coloque-a em jogo. Se 2 fichas [bless] foram reveladas, procure Guardi\u00e3o da Chave em suas cartas vinculadas e coloque-o em jogo. Se 2 fichas [curse] e 2 fichas [bless] foram reveladas, fa\u00e7a ambos. Remova Selo dos Ancestrais do jogo."
+        "code": "10105",
+        "traits": "Magia. Pacto. Abençoado. Amaldiçoado.",
+        "name": "Selo dos Ancestrais",
+        "text": "Veloz. Jogue após um teste de perícia em seu local terminar, no qual pelo menos 2 fichas [curse] ou 2 fichas [bless] foram reveladas.\nSe 2 fichas [curse] foram reveladas, procure 1 cópia de Servo de Bronze em suas cartas vinculadas e coloque-a em jogo. Se 2 fichas [bless] foram reveladas, procure Guardião da Chave em suas cartas vinculadas e coloque-o em jogo. Se 2 fichas [curse] e 2 fichas [bless] foram reveladas, faça ambos. Remova Selo dos Ancestrais do jogo."
     },
     {
-        "code":"10106",
-        "traits":"Invoca\u00e7\u00e3o.",
-        "name":"Guardi\u00e3o da Chave",
-        "subname":"Prote\u00e7\u00e3o Celestial",
-        "text":"Vinculado (Selo dos Ancestrais).\n[reaction] Quando uma ficha [bless] for revelada durante um teste de per\u00edcia em seu local: Cause 1 de horror a Guardi\u00e3o da Chave e descubra 1 pista em seu local ou em um local conectado.\n<b>For\u00e7ado</b> - Quando Guardi\u00e3o da Chave for sair de jogo: Separe-o, fora de jogo."
+        "code": "10106",
+        "traits": "Invocação.",
+        "name": "Guardião da Chave",
+        "subname": "Proteção Celestial",
+        "text": "Vinculado (Selo dos Ancestrais).\n[reaction] Quando uma ficha [bless] for revelada durante um teste de perícia em seu local: Cause 1 de horror a Guardião da Chave e descubra 1 pista em seu local ou em um local conectado.\n<b>Forçado</b> - Quando Guardião da Chave for sair de jogo: Separe-o, fora de jogo."
     },
     {
-        "code":"10107",
-        "traits":"Invoca\u00e7\u00e3o.",
-        "name":"Servo de Bronze",
-        "subname":"Vassalo Demon\u00edaco",
-        "text":"Vinculado (Selo dos Ancestrais).\n[reaction] Quando uma ficha [curse] for revelada durante um teste de per\u00edcia em seu local: Cause 1 de dano a Servo de Bronze e 2 de dano a um inimigo em seu local ou em um local conectado.\n<b>For\u00e7ado</b> - Quando Servo de Bronze for sair de jogo: Separe-o, fora de jogo."
+        "code": "10107",
+        "traits": "Invocação.",
+        "name": "Servo de Bronze",
+        "subname": "Vassalo Demoníaco",
+        "text": "Vinculado (Selo dos Ancestrais).\n[reaction] Quando uma ficha [curse] for revelada durante um teste de perícia em seu local: Cause 1 de dano a Servo de Bronze e 2 de dano a um inimigo em seu local ou em um local conectado.\n<b>Forçado</b> - Quando Servo de Bronze for sair de jogo: Separe-o, fora de jogo."
     },
     {
-        "code":"10108",
-        "traits":"Item. Ferramenta.",
-        "name":"Caixa de F\u00f3sforos",
-        "text":"Usa (3 suprimentos). Se Caixa de F\u00f3sforos n\u00e3o tiver suprimentos, descarte esta carta.\n[fast] Durante o turno de qualquer investigador, esgote Caixa de F\u00f3sforos e gaste 1 suprimento: Seu local recebe -1 de v\u00e9u at\u00e9 o final deste turno."
+        "code": "10108",
+        "traits": "Item. Ferramenta.",
+        "name": "Caixa de Fósforos",
+        "text": "Usa (3 suprimentos). Se Caixa de Fósforos não tiver suprimentos, descarte esta carta.\n[fast] Durante o turno de qualquer investigador, esgote Caixa de Fósforos e gaste 1 suprimento: Seu local recebe -1 de véu até o final deste turno."
     },
     {
-        "code":"10109",
-        "traits":"Item. Suprimento.",
-        "name":"Carregamento de Peles",
-        "text":"Enquanto Carregamento de Peles estiver na sua m\u00e3o, seu tamanho de m\u00e3o m\u00e1ximo \u00e9 reduzido em 3.\n[reaction] Quando o jogo terminar ou voc\u00ea renunciar, se Carregamento de Peles estiver na sua m\u00e3o: Reduza em 1 o custo de experi\u00eancia da pr\u00f3xima nova carta que voc\u00ea adquirir antes do pr\u00f3ximo cen\u00e1rio."
+        "code": "10109",
+        "traits": "Item. Suprimento.",
+        "name": "Carregamento de Peles",
+        "text": "Enquanto Carregamento de Peles estiver na sua mão, seu tamanho de mão máximo é reduzido em 3.\n[reaction] Quando o jogo terminar ou você renunciar, se Carregamento de Peles estiver na sua mão: Reduza em 1 o custo de experiência da próxima nova carta que você adquirir antes do próximo cenário."
     },
     {
-        "code":"10110",
-        "traits":"Item. Ferramenta. Arma. Corpo a Corpo.",
-        "name":"Forquilha",
-        "text":"[action]: <b>Lute.</b> Voc\u00ea recebe +1 [combat] e causa +2 de dano neste ataque. Se este ataque for bem-sucedido, perca o controle de Forquilha e anexe-a ao seu local. Seu local ganha:\n\"[action]: Assuma o controle de Forquilha. Qualquer investigador no local de Forquilha pode ativar esta habilidade.\""
+        "code": "10110",
+        "traits": "Item. Ferramenta. Arma. Corpo a Corpo.",
+        "name": "Forquilha",
+        "text": "[action]: <b>Lute.</b> Você recebe +1 [combat] e causa +2 de dano neste ataque. Se este ataque for bem-sucedido, perca o controle de Forquilha e anexe-a ao seu local. Seu local ganha:\n\"[action]: Assuma o controle de Forquilha. Qualquer investigador no local de Forquilha pode ativar esta habilidade.\"",
+        "errata_date": "2025-07-11"
     },
     {
-        "code":"10111",
-        "traits":"Item. Talism\u00e3. M\u00e1scara.",
-        "name":"M\u00e1scara de Pardal",
-        "subname":"CO Companheiro do Andarilho",
-        "text":"Limite de 1 [[M\u00e1scara]] por investigador.\nUsa (2 oferendas). Reabaste\u00e7a 1 dessas oferendas ap\u00f3s voc\u00ea sofrer 1 ou mais de dano e/ou horror.\n[fast] Gaste 1 oferenda: Voc\u00ea recebe +2 [willpower] ou +2 [agility] nesse teste de per\u00edcia. (Limite de uma vez por teste.)"
+        "code": "10111",
+        "traits": "Item. Talismã. Máscara.",
+        "name": "Máscara de Pardal",
+        "subname": "CO Companheiro do Andarilho",
+        "text": "Limite de 1 [[Máscara]] por investigador.\nUsa (2 oferendas). Reabasteça 1 dessas oferendas após você sofrer 1 ou mais de dano e/ou horror.\n[fast] Gaste 1 oferenda: Você recebe +2 [willpower] ou +2 [agility] nesse teste de perícia. (Limite de uma vez por teste.)"
     },
     {
-        "code":"10112",
-        "traits":"Truque. Dobro.",
-        "name":"Distra\u00e7\u00e3o Elaborada",
-        "text":"Como um custo adicional para jogar Distra\u00e7\u00e3o Elaborada, gaste uma a\u00e7\u00e3o. Jogar Distra\u00e7\u00e3o Elaborada n\u00e3o provoca ataques de oportunidade.\nPara cada inimigo em seu local e em cada local conectado <i>(escolha um)</i>:\n- Evada automaticamente esse inimigo se ele for n\u00e3o-[[Elite]].\n- Cause 1 de dano a esse inimigo."
+        "code": "10112",
+        "traits": "Truque. Dobro.",
+        "name": "Distração Elaborada",
+        "text": "Como um custo adicional para jogar Distração Elaborada, gaste uma ação. Jogar Distração Elaborada não provoca ataques de oportunidade.\nPara cada inimigo em seu local e em cada local conectado <i>(escolha um)</i>:\n- Evada automaticamente esse inimigo se ele for não-[[Elite]].\n- Cause 1 de dano a esse inimigo."
     },
     {
-        "code":"10113",
-        "traits":"T\u00e1tica. Improvisado.",
-        "name":"Chegar ao Limite",
-        "text":"Escolha um ativo de [[Arma]] ou de [[Ferramenta]] em sua pilha de descarte. Resolva uma habilidade [action] nesse ativo, ignorando todos os custos <i>(incluindo o custo [action])</i>. Ap\u00f3s esse efeito ser resolvido, embaralhe o ativo escolhido em seu baralho. Jogar esta carta n\u00e3o provoca ataques de oportunidade."
+        "code": "10113",
+        "traits": "Tática. Improvisado.",
+        "name": "Chegar ao Limite",
+        "text": "Escolha um ativo de [[Arma]] ou de [[Ferramenta]] em sua pilha de descarte. Resolva uma habilidade [action] nesse ativo, ignorando todos os custos <i>(incluindo o custo [action])</i>. Após esse efeito ser resolvido, embaralhe o ativo escolhido em seu baralho. Jogar esta carta não provoca ataques de oportunidade."
     },
     {
-        "code":"10114",
-        "traits":"T\u00e1tica. Truque.",
-        "name":"Ganhar Tempo",
-        "text":"<b>Negociata.</b> Escolha um inimigo em seu local. Teste [willpower] (X), onde X \u00e9 o valor de luta ou de evas\u00e3o do inimigo escolhido, o que for menor. Se voc\u00ea tiver sucesso, esgote o inimigo escolhido <i>(mas n\u00e3o desengaje dele)</i>. Se ele for n\u00e3o-[[Elite]], ele n\u00e3o \u00e9 preparado durante a pr\u00f3xima fase de manuten\u00e7\u00e3o. Se voc\u00ea falhar, devolva Ganhar Tempo para sua m\u00e3o."
+        "code": "10114",
+        "traits": "Tática. Truque.",
+        "name": "Ganhar Tempo",
+        "text": "<b>Negociata.</b> Escolha um inimigo em seu local. Teste [willpower] (X), onde X é o valor de luta ou de evasão do inimigo escolhido, o que for menor. Se você tiver sucesso, esgote o inimigo escolhido <i>(mas não desengaje dele)</i>. Se ele for não-[[Elite]], ele não é preparado durante a próxima fase de manutenção. Se você falhar, devolva Ganhar Tempo para sua mão."
     },
     {
-        "code":"10115",
-        "traits":"Esp\u00edrito. Dobro.",
-        "name":"No Lugar Errado, na Hora Certa",
-        "text":"Como um custo adicional para jogar No Lugar Errado, na Hora Certa, gaste uma a\u00e7\u00e3o.\nMova at\u00e9 5 de dano e/ou horror de seu investigador para ativos controlados por investigadores em seu local. Para cada ativo derrotado por este efeito, compre 1 carta. Remova No Lugar Errado, na Hora Certa do jogo."
+        "code": "10115",
+        "traits": "Espírito. Dobro.",
+        "name": "No Lugar Errado, na Hora Certa",
+        "text": "Como um custo adicional para jogar No Lugar Errado, na Hora Certa, gaste uma ação.\nMova até 5 de dano e/ou horror de seu investigador para ativos controlados por investigadores em seu local. Para cada ativo derrotado por este efeito, compre 1 carta. Remova No Lugar Errado, na Hora Certa do jogo."
     },
     {
-        "code":"10116",
-        "traits":"Treinado.",
-        "name":"Acerto Improv\u00e1vel",
-        "text":"Voc\u00ea pode comprometer Acerto Improv\u00e1vel em um teste de luta ou de evas\u00e3o contra um inimigo em seu local ou em um local conectado.\nSe esse teste for bem-sucedido, cause 1 de dano a esse inimigo."
+        "code": "10116",
+        "traits": "Treinado.",
+        "name": "Acerto Improvável",
+        "text": "Você pode comprometer Acerto Improvável em um teste de luta ou de evasão contra um inimigo em seu local ou em um local conectado.\nSe esse teste for bem-sucedido, cause 1 de dano a esse inimigo."
     },
     {
-        "code":"10117",
-        "traits":"Item. Ferramenta. Arma. \u00c0 Dist\u00e2ncia.",
-        "name":"Machadinha",
-        "text":"[action]: <b>Lute.</b> Adicione sua [agility] ao seu valor de per\u00edcia neste ataque. Este ataque causa +1 de dano. Se este ataque derrotar um inimigo, descarte Machadinha. Caso contr\u00e1rio, perca o controle de Machadinha e anexe-a ao inimigo atacado. O inimigo anexado ganha:\n\"[reaction] Quando o inimigo anexado for derrotado: Assuma o controle de Machadinha. Qualquer investigador no local de Machadinha pode ativar esta habilidade.\""
+        "code": "10117",
+        "traits": "Item. Ferramenta. Arma. À Distância.",
+        "name": "Machadinha",
+        "text": "[action]: <b>Lute.</b> Adicione sua [agility] ao seu valor de perícia neste ataque. Este ataque causa +1 de dano. Se este ataque derrotar um inimigo, descarte Machadinha. Caso contrário, perca o controle de Machadinha e anexe-a ao inimigo atacado. O inimigo anexado ganha:\n\"[reaction] Quando o inimigo anexado for derrotado: Assuma o controle de Machadinha. Qualquer investigador no local de Machadinha pode ativar esta habilidade.\""
     },
     {
-        "code":"10118",
-        "traits":"Inato.",
-        "name":"Persist\u00eancia",
-        "text":"Voc\u00ea pode comprometer Persist\u00eancia em um teste de per\u00edcia da sua pilha de descarte. Se o fizer, embaralhe a carta em seu baralho ap\u00f3s esse teste terminar.",
-        "flavor":"\"Qualquer um que n\u00e3o fosse um fazendeiro estoico teria desmaiado ou ficado louco...\" - H.P. Lovecraft, <u>A Cor que Caiu do Espa\u00e7o</u>"
+        "code": "10118",
+        "traits": "Inato.",
+        "name": "Persistência",
+        "text": "Você pode comprometer Persistência em um teste de perícia da sua pilha de descarte. Se o fizer, embaralhe a carta em seu baralho após esse teste terminar.",
+        "flavor": "\"Qualquer um que não fosse um fazendeiro estoico teria desmaiado ou ficado louco...\" - H.P. Lovecraft, <u>A Cor que Caiu do Espaço</u>"
     },
     {
-        "code":"10119",
-        "traits":"Aliado. Criatura. Amaldi\u00e7oado.",
-        "name":"\"Diabo\"",
-        "subname":"Amigo ou Inimigo?",
-        "text":"<b>For\u00e7ado</b> - Quando seu turno come\u00e7ar: Mova 1 de dano de seu investigador para \"Diabo\".\n<b>For\u00e7ado</b> - Quando \"Diabo\" for derrotado: Cause 2 de dano a cada inimigo e investigador em seu local.",
-        "flavor":"Guiarei as tuas a\u00e7\u00f5es."
+        "code": "10119",
+        "traits": "Aliado. Criatura. Amaldiçoado.",
+        "name": "\"Diabo\"",
+        "subname": "Amigo ou Inimigo?",
+        "text": "<b>Forçado</b> - Quando seu turno começar: Mova 1 de dano de seu investigador para \"Diabo\".\n<b>Forçado</b> - Quando \"Diabo\" for derrotado: Cause 2 de dano a cada inimigo e investigador em seu local.",
+        "flavor": "Guiarei as tuas ações."
     },
     {
-        "code":"10120",
-        "traits":"Item. Arma. Corpo a Corpo.",
-        "name":"Machado de Bombeiro",
-        "text":"Veloz.\n[action]: <b>Lute.</b> Se voc\u00ea n\u00e3o tiver recursos em sua reserva de recursos, este ataque causa +1 de dano.\n[fast] Durante um ataque usando Machado de Bombeiro, gaste 1 recurso: Voc\u00ea recebe +2 [combat] nesse teste de per\u00edcia. (Limite de tr\u00eas vezes por ataque.)"
+        "code": "10120",
+        "traits": "Item. Arma. Corpo a Corpo.",
+        "name": "Machado de Bombeiro",
+        "text": "Veloz.\n[action]: <b>Lute.</b> Se você não tiver recursos em sua reserva de recursos, este ataque causa +1 de dano.\n[fast] Durante um ataque usando Machado de Bombeiro, gaste 1 recurso: Você recebe +2 [combat] nesse teste de perícia. (Limite de três vezes por ataque.)"
     },
     {
-        "code":"10121",
-        "traits":"Item. Vestu\u00e1rio.",
-        "name":"Casaco de Ca\u00e7ador",
-        "text":"[fast] Esgote Casaco de Ca\u00e7ador: Escolha 1 carta n\u00e3o fraqueza na sua m\u00e3o e anexe-a virada para baixo a Casaco de Ca\u00e7ador (m\u00e1x. de 3 cartas anexadas). Ent\u00e3o, ganhe 1 recurso para cada carta anexada.\n[reaction] Quando Casaco de Ca\u00e7ador for derrotado: Compre cada carta anexada."
+        "code": "10121",
+        "traits": "Item. Vestuário.",
+        "name": "Casaco de Caçador",
+        "text": "[fast] Esgote Casaco de Caçador: Escolha 1 carta não fraqueza na sua mão e anexe-a virada para baixo a Casaco de Caçador (máx. de 3 cartas anexadas). Então, ganhe 1 recurso para cada carta anexada.\n[reaction] Quando Casaco de Caçador for derrotado: Compre cada carta anexada."
     },
     {
-        "code":"10122",
-        "traits":"Item. Ferramenta.",
-        "name":"B\u00fassola do Marinheiro",
-        "text":"[action] Esgote B\u00fassola do Marinheiro: <b>Investigue.</b> Se voc\u00ea falhar, prepare B\u00fassola do Marinheiro. Se voc\u00ea tiver sucesso e n\u00e3o houver nenhum recurso em sua reserva de recursos, descubra 1 pista adicional em seu local.\n[fast] Durante uma investiga\u00e7\u00e3o usando B\u00fassola do Marinheiro, gaste 1 recurso: Voc\u00ea recebe +1 [intellect] nesse teste de per\u00edcia. (Limite de tr\u00eas vezes por investiga\u00e7\u00e3o.)"
+        "code": "10122",
+        "traits": "Item. Ferramenta.",
+        "name": "Bússola do Marinheiro",
+        "text": "[action] Esgote Bússola do Marinheiro: <b>Investigue.</b> Se você falhar, prepare Bússola do Marinheiro. Se você tiver sucesso e não houver nenhum recurso em sua reserva de recursos, descubra 1 pista adicional em seu local.\n[fast] Durante uma investigação usando Bússola do Marinheiro, gaste 1 recurso: Você recebe +1 [intellect] nesse teste de perícia. (Limite de três vezes por investigação.)"
     },
     {
-        "code":"10123",
-        "traits":"Talento. Ci\u00eancia.",
-        "name":"T\u00e9cnica de Sobreviv\u00eancia",
-        "text":"[fast] Escolha uma carta que voc\u00ea possui que esteja anexada a seu local e esgote T\u00e9cnica de Sobreviv\u00eancia: Adicione essa carta \u00e0 sua m\u00e3o.\n[fast] Durante um teste de per\u00edcia em um local ou em uma trai\u00e7\u00e3o anexada a seu local, esgote T\u00e9cnica de Sobreviv\u00eancia: Voc\u00ea recebe +2 de valor de per\u00edcia nesse teste."
+        "code": "10123",
+        "traits": "Talento. Ciência.",
+        "name": "Técnica de Sobrevivência",
+        "text": "[fast] Escolha uma carta que você possui que esteja anexada a seu local e esgote Técnica de Sobrevivência: Adicione essa carta à sua mão.\n[fast] Durante um teste de perícia em um local ou em uma traição anexada a seu local, esgote Técnica de Sobrevivência: Você recebe +2 de valor de perícia nesse teste."
     },
     {
-        "code":"10124",
-        "traits":"Sorte. Aben\u00e7oado.",
-        "name":"Manter a F\u00e9",
-        "text":"Veloz. Jogue durante qualquer janela [fast].\nAdicione 4 fichas [bless] \u00e0 bolsa de caos.",
-        "flavor":"Aqueles que t\u00eam f\u00e9 n\u00e3o precisam temer a escurid\u00e3o."
+        "code": "10124",
+        "traits": "Sorte. Abençoado.",
+        "name": "Manter a Fé",
+        "text": "Veloz. Jogue durante qualquer janela [fast].\nAdicione 4 fichas [bless] à bolsa de caos.",
+        "flavor": "Aqueles que têm fé não precisam temer a escuridão."
     },
     {
-        "code":"10125",
-        "traits":"Inato. Aben\u00e7oado.",
-        "name":"Providencial",
-        "text":"Se esse teste de per\u00edcia for bem-sucedido, adicione 1 ficha [bless] \u00e0 bolsa de caos para cada dano ou horror sobre voc\u00ea (o que for menor).",
-        "flavor":"A coragem \u00e9 a sua melhor defesa contra os horrores \u00e0 espreita."
+        "code": "10125",
+        "traits": "Inato. Abençoado.",
+        "name": "Providencial",
+        "text": "Se esse teste de perícia for bem-sucedido, adicione 1 ficha [bless] à bolsa de caos para cada dano ou horror sobre você (o que for menor).",
+        "flavor": "A coragem é a sua melhor defesa contra os horrores à espreita."
     },
     {
-        "code":"10126",
-        "traits":"Item. Talism\u00e3. Aben\u00e7oado.",
-        "name":"S\u00edmbolo de F\u00e9",
-        "text":"[reaction] Ap\u00f3s um teste de per\u00edcia terminar, no qual 1 ou mais fichas [curse] ou [auto_fail] foram reveladas, esgote S\u00edmbolo de F\u00e9: Adicione essa quantidade de fichas [bless] \u00e0 bolsa de caos. Se esse teste de per\u00edcia falhou, ap\u00f3s resolver todos os efeitos do teste malsucedido, o investigador que realizou o teste pode tentar esse teste novamente. (M\u00e1x. de uma vez por teste.)"
+        "code": "10126",
+        "traits": "Item. Talismã. Abençoado.",
+        "name": "Símbolo de Fé",
+        "text": "[reaction] Após um teste de perícia terminar, no qual 1 ou mais fichas [curse] ou [auto_fail] foram reveladas, esgote Símbolo de Fé: Adicione essa quantidade de fichas [bless] à bolsa de caos. Se esse teste de perícia falhou, após resolver todos os efeitos do teste malsucedido, o investigador que realizou o teste pode tentar esse teste novamente. (Máx. de uma vez por teste.)"
     },
     {
-        "code":"10127",
-        "traits":"Condi\u00e7\u00e3o.",
-        "name":"Azar\u00e3o",
-        "text":"Permanente. Limite de 1 por baralho.\nDurante a fase de manuten\u00e7\u00e3o, voc\u00ea pode escolher n\u00e3o ganhar recursos.\nEnquanto voc\u00ea n\u00e3o tiver recursos em sua reserva de recursos, voc\u00ea recebe +1 [willpower], +1 [intellect], +1 [combat] e +1 [agility]."
+        "code": "10127",
+        "traits": "Condição.",
+        "name": "Azarão",
+        "text": "Permanente. Limite de 1 por baralho.\nDurante a fase de manutenção, você pode escolher não ganhar recursos.\nEnquanto você não tiver recursos em sua reserva de recursos, você recebe +1 [willpower], +1 [intellect], +1 [combat] e +1 [agility]."
     },
     {
-        "code":"10128",
-        "traits":"Ritual.",
-        "name":"L\u00edngua Sobrenatural",
-        "text":"Usa (4 cargas).\nVoc\u00ea pode jogar eventos com \"negociata\" da sua pilha de descarte como se estivessem na sua m\u00e3o. Como um custo adicional para jogar um evento desta forma, gaste 1 carga de L\u00edngua Sobrenatural. Ap\u00f3s esse evento ser resolvido, remova-o do jogo."
+        "code": "10128",
+        "traits": "Ritual.",
+        "name": "Língua Sobrenatural",
+        "text": "Usa (4 cargas).\nVocê pode jogar eventos com \"negociata\" da sua pilha de descarte como se estivessem na sua mão. Como um custo adicional para jogar um evento desta forma, gaste 1 carga de Língua Sobrenatural. Após esse evento ser resolvido, remova-o do jogo."
     },
     {
-        "code":"10129",
-        "traits":"Dobro.",
-        "name":"Esperar o Momento Certo",
-        "text":"Como um custo adicional para jogar Esperar o Momento Certo, gaste uma a\u00e7\u00e3o.\nDurante o seu pr\u00f3ximo turno, voc\u00ea pode realizar duas a\u00e7\u00f5es adicionais.",
-        "flavor":"J\u00e1 \u00e9 meia-noite, e voc\u00ea come\u00e7a a se perguntar se n\u00e3o foi tudo uma arma\u00e7\u00e3o."
+        "code": "10129",
+        "traits": "Dobro.",
+        "name": "Esperar o Momento Certo",
+        "text": "Como um custo adicional para jogar Esperar o Momento Certo, gaste uma ação.\nDurante o seu próximo turno, você pode realizar duas ações adicionais.",
+        "flavor": "Já é meia-noite, e você começa a se perguntar se não foi tudo uma armação."
     },
     {
-        "code":"10130",
-        "traits":"Treinado. Sorte.",
-        "name":"Bem-vestida",
-        "text":"Enquanto Bem-vestida estiver comprometida em um teste de per\u00edcia durante uma a\u00e7\u00e3o de negociata, ela ganha [wild] [wild] [wild].",
-        "flavor":"As roupas elegantes j\u00e1 passam a mensagem."
+        "code": "10130",
+        "traits": "Treinado. Sorte.",
+        "name": "Bem-vestida",
+        "text": "Enquanto Bem-vestida estiver comprometida em um teste de perícia durante uma ação de negociata, ela ganha [wild] [wild] [wild].",
+        "flavor": "As roupas elegantes já passam a mensagem."
     },
     {
-        "code":"10131",
-        "traits":"Ritual. Aben\u00e7oado.",
-        "name":"Estrela do Alvorecer",
-        "text":"Veloz. Jogue ap\u00f3s revelar fichas de caos durante um teste de per\u00edcia em seu local.\nIgnore os modificadores de cada ficha [curse] revelada durante esse teste. Para cada ficha [curse] ignorada, cause 1 de dano a um inimigo em seu local.",
-        "flavor":"Somente o esp\u00edrito mais forte \u00e9 capaz de transpor a escurid\u00e3o."
+        "code": "10131",
+        "traits": "Ritual. Abençoado.",
+        "name": "Estrela do Alvorecer",
+        "text": "Veloz. Jogue após revelar fichas de caos durante um teste de perícia em seu local.\nIgnore os modificadores de cada ficha [curse] revelada durante esse teste. Para cada ficha [curse] ignorada, cause 1 de dano a um inimigo em seu local.",
+        "flavor": "Somente o espírito mais forte é capaz de transpor a escuridão."
     },
     {
-        "code":"10132",
-        "traits":"D\u00e1diva. Pacto.",
-        "name":"Relic\u00e1rio do Oculto",
-        "subname":"Fonte Duvidosa",
-        "text":"Permanente. Limite de 1 por baralho.\nVoc\u00ea tem 1 espa\u00e7o de m\u00e3o, acess\u00f3rio ou arcano adicional, que pode ser usado apenas para um ativo [[Aben\u00e7oado]] ou [[Amaldi\u00e7oado]].",
-        "flavor":"\"O pre\u00e7o \u00e9 \u00ednfimo perto do que voc\u00ea ganhar\u00e1.\""
+        "code": "10132",
+        "traits": "Dádiva. Pacto.",
+        "name": "Relicário do Oculto",
+        "subname": "Fonte Duvidosa",
+        "text": "Permanente. Limite de 1 por baralho.\nVocê tem 1 espaço de mão, acessório ou arcano adicional, que pode ser usado apenas para um ativo [[Abençoado]] ou [[Amaldiçoado]].",
+        "flavor": "\"O preço é ínfimo perto do que você ganhará.\""
     },
     {
-        "code":"10133",
-        "traits":"Item. Talism\u00e3. M\u00e1scara.",
-        "name":"Tiara Quebrada",
-        "subname":"Coroa da Luz Evanescente",
-        "text":"Limite de 1 por baralho. Limite de 1 [[M\u00e1scara]] por investigador.\n[reaction] Ap\u00f3s um teste de per\u00edcia em seu local terminar, no qual tanto uma ficha [bless] como uma ficha [curse] foram reveladas: Coloque 1 recurso nesta carta, como uma oferenda. Ent\u00e3o, se houver 3 oferendas nesta carta, procure Tiara do Crep\u00fasculo em suas cartas vinculadas e troque-a por esta carta, movendo todas as oferendas desta carta para Tiara do Crep\u00fasculo."
+        "code": "10133",
+        "traits": "Item. Talismã. Máscara.",
+        "name": "Tiara Quebrada",
+        "subname": "Coroa da Luz Evanescente",
+        "text": "Limite de 1 por baralho. Limite de 1 [[Máscara]] por investigador.\n[reaction] Após um teste de perícia em seu local terminar, no qual tanto uma ficha [bless] como uma ficha [curse] foram reveladas: Coloque 1 recurso nesta carta, como uma oferenda. Então, se houver 3 oferendas nesta carta, procure Tiara do Crepúsculo em suas cartas vinculadas e troque-a por esta carta, movendo todas as oferendas desta carta para Tiara do Crepúsculo."
     },
     {
-        "code":"10134",
-        "traits":"Item. Talism\u00e3. M\u00e1scara. Aben\u00e7oado.",
-        "name":"Tiara do Crep\u00fasculo",
-        "subname":"Coroa da Luz Evanescente",
-        "text":"Vinculado (Tiara Quebrada). Limite de 1 [[M\u00e1scara]] por investigador.\n[reaction] Quando voc\u00ea revelar uma ficha [bless] ou [curse] durante um teste de per\u00edcia, gaste 1 oferenda e esgote esta carta: Trate a ficha revelada como uma ficha [elder_sign] em vez disso, devolvendo-a para a bolsa de caos. Ent\u00e3o, se n\u00e3o houver oferendas nesta carta, procure Tiara Quebrada em suas cartas vinculadas e troque-a por esta carta."
+        "code": "10134",
+        "traits": "Item. Talismã. Máscara. Abençoado.",
+        "name": "Tiara do Crepúsculo",
+        "subname": "Coroa da Luz Evanescente",
+        "text": "Vinculado (Tiara Quebrada). Limite de 1 [[Máscara]] por investigador.\n[reaction] Quando você revelar uma ficha [bless] ou [curse] durante um teste de perícia, gaste 1 oferenda e esgote esta carta: Trate a ficha revelada como uma ficha [elder_sign] em vez disso, devolvendo-a para a bolsa de caos. Então, se não houver oferendas nesta carta, procure Tiara Quebrada em suas cartas vinculadas e troque-a por esta carta."
     },
     {
-        "code":"10135",
-        "traits":"Ferimento.",
-        "name":"M\u00e3o Mutilada",
-        "text":"<b>Revela\u00e7\u00e3o</b> - Voc\u00ea deve colocar M\u00e3o Mutilada em jogo, em sua \u00e1rea de amea\u00e7as, ou sofrer 1 de dano e embaralhar esta carta em seu baralho. Ela n\u00e3o pode sair de jogo, exceto por meio da habilidade [action][action] abaixo.\nVoc\u00ea recebe -1 de vida.\n[action][action]: Descarte M\u00e3o Mutilada."
+        "code": "10135",
+        "traits": "Ferimento.",
+        "name": "Mão Mutilada",
+        "text": "<b>Revelação</b> - Você deve colocar Mão Mutilada em jogo, em sua área de ameaças, ou sofrer 1 de dano e embaralhar esta carta em seu baralho. Ela não pode sair de jogo, exceto por meio da habilidade [action][action] abaixo.\nVocê recebe -1 de vida.\n[action][action]: Descarte Mão Mutilada."
     },
     {
-        "code":"10136",
-        "traits":"Ferimento.",
-        "name":"Ferimento nas Costas",
-        "text":"<b>Revela\u00e7\u00e3o</b> - Voc\u00ea deve colocar Ferimento nas Costas em jogo, em sua \u00e1rea de amea\u00e7as, ou sofrer 1 de dano e embaralhar esta carta em seu baralho. Ela n\u00e3o pode sair de jogo, exceto por meio da habilidade [action][action] abaixo.\nVoc\u00ea recebe -1 de vida.\n[action][action]: Descarte Ferimento nas Costas."
+        "code": "10136",
+        "traits": "Ferimento.",
+        "name": "Ferimento nas Costas",
+        "text": "<b>Revelação</b> - Você deve colocar Ferimento nas Costas em jogo, em sua área de ameaças, ou sofrer 1 de dano e embaralhar esta carta em seu baralho. Ela não pode sair de jogo, exceto por meio da habilidade [action][action] abaixo.\nVocê recebe -1 de vida.\n[action][action]: Descarte Ferimento nas Costas."
     },
     {
-        "code":"10137",
-        "traits":"Item. Rel\u00edquia.",
-        "name":"A Mariposa de Prata",
-        "text":"<b>Revela\u00e7\u00e3o</b> - Voc\u00ea deve colocar A Mariposa de Prata em jogo, em sua \u00e1rea de amea\u00e7as, ou sofrer 1 de horror e embaralhar esta carta em seu baralho. Ela n\u00e3o pode sair de jogo, exceto por meio da habilidade [action][action] abaixo.\nVoc\u00ea recebe -1 de sanidade.\n[action][action]: Descarte A Mariposa de Prata."
+        "code": "10137",
+        "traits": "Item. Relíquia.",
+        "name": "A Mariposa de Prata",
+        "text": "<b>Revelação</b> - Você deve colocar A Mariposa de Prata em jogo, em sua área de ameaças, ou sofrer 1 de horror e embaralhar esta carta em seu baralho. Ela não pode sair de jogo, exceto por meio da habilidade [action][action] abaixo.\nVocê recebe -1 de sanidade.\n[action][action]: Descarte A Mariposa de Prata."
     },
     {
-        "code":"10138",
-        "traits":"Pacto.",
-        "name":"Juramento de Drzytelech",
-        "text":"<b>Revela\u00e7\u00e3o</b> - Voc\u00ea deve colocar Juramento de Drzytelech em jogo, em sua \u00e1rea de amea\u00e7as, ou sofrer 1 de horror e embaralhar esta carta em seu baralho. Ela n\u00e3o pode sair de jogo, exceto por meio da habilidade [action][action] abaixo.\nVoc\u00ea recebe -1 de sanidade.\n[action][action]: Descarte Juramento de Drzytelech."
+        "code": "10138",
+        "traits": "Pacto.",
+        "name": "Juramento de Drzytelech",
+        "text": "<b>Revelação</b> - Você deve colocar Juramento de Drzytelech em jogo, em sua área de ameaças, ou sofrer 1 de horror e embaralhar esta carta em seu baralho. Ela não pode sair de jogo, exceto por meio da habilidade [action][action] abaixo.\nVocê recebe -1 de sanidade.\n[action][action]: Descarte Juramento de Drzytelech."
     }
 ]
