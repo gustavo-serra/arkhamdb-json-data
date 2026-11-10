@@ -1,189 +1,195 @@
 [
-        {
-                "code": "03240",
-                "name": "The Pallid Mask",
-                "text": "Easy / Standard\n[skull]: -X. X is the number of locations away from the starting location you are (max 5).\n[cultist]: -2. If this token is revealed during an attack, and this skill test is successful, this attack deals 1 less damage.\n[tablet]: -2. If there is a ready [[Ghoul]] or [[Geist]] enemy at your location, it attacks you (if there is more than one, choose one).\n[elder_thing]: -3. If you fail, search the encounter deck and discard pile for a [[Ghoul]] or [[Geist]] enemy and draw it.",
-                "back_text": "Hard / Expert\n[skull]: -X. X is the number of locations away from the starting location you are.\n[cultist]: -3. If this token is revealed during an attack and this skill test is successful, this attack deals no damage.\n[tablet]: -3. If there is a [[Ghoul]] or [[Geist]] enemy at your location, it readies and attacks you (if there is more than one, choose one).\n[elder_thing]: -4. If you fail, search the encounter deck and discard pile for a [[Ghoul]] or [[Geist]] enemy and draw it."
-        },
-        {
-                "code": "03241",
-                "flavor": "The dank, chill air of the catacombs penetrates your clothes and causes you to shiver. Everywhere you look, the remains of the dead greet you - a grim reminder of your own mortality.",
-                "name": "Empire of the Dead",
-                "text": "Each location is connected to each location adjacent to it."
-        },
-        {
-                "code": "03241b",
-                "name": "Specter of Death",
-                "subname": "A Force From Beyond",
-                "text": "<b>Spawn</b> - The starting location.\nHunter. Retaliate.\nWhile Specter of Death is exhausted, it takes 1 less damage from each attack made against it.\n<b>Forced</b> - After you fail a skill test while attempting to evade Specter of Death: It attacks you.",
-                "traits": "Monster. Geist. Elite."
-        },
-        {
-                "code": "03242",
-                "flavor": "All around you, the eyes of skulls glow with an otherworldly hue. A ghostly voice echoes throughout the labyrinthine catacombs. You sense a threatening presence looming around you. It is just outside of your vision, past the dim fog that permeates through the catacombs, around every corner…",
-                "name": "Empire of the Undead",
-                "text": "Each location is connected to each location adjacent to it.",
-                "back_name": "Join Them In Death",
-                "back_flavor": "The ghostly presence that menaces you grows with each minute you spend exploring these dreadful catacombs. You walk faster, glancing behind you nervously every few steps. Why does it hound you? What is its purpose? It tugs and pulls on the periphery of your senses. You turn a sharp corner and its shapeless umbral form stares back at you. You spin and flee, passing through a narrow stone corridor you do not recognize. At every intersection, every corner, its shadowy arms reach for you, its many faces contorted in agony. You cannot escape. Resigned to your fate, you drop to your knees in hopelessness and stare down at the cold stone floor. You feel the presence approaching you and cannot bear to look up. Everything goes black.",
-                "back_text": "Each investigator is defeated and suffers 1 physical trauma."
-        },
-        {
-                "code": "03243",
-                "flavor": "At the end of the long tunnel next to you, the Stranger steps through the darkness, his pale mask glinting in the candlelight. \"Wait!\" you call out. He glances your way before vanishing into the shadows. Once more, you are forced to track him down to find answers…",
-                "name": "Through the Catacombs",
-                "text": "<b>Objective</b> - Find The Man in the Pallid Mask. He is somewhere in the Catacombs. (Do not advance until you are instructed.)",
-                "back_name": "The Stranger's Shadow",
-                "back_flavor": "Rows of skulls chatter their teeth endlessly as you pass through a narrow stone archway, into a round chamber illuminated by firelight. In the center of the tomb stands the Stranger, peering into the blaze. Across the wall, shadows dance and twist with the flickering of the flame. The Stranger turns to face you, and his own shadow spreads across the wall. Where his shadow's arms should be, tentacle shapes emerge, enveloping the walls in darkness. He lifts his hands toward the wall, as if trying to show you something.",
-                "back_text": "Spawn the set-aside The Man in the Pallid Mask weakness in the Tomb of Shadows <i>(instead of its normal spawn location)</i>.\nCheck the Campaign Log. If Ishimaru Haruko is not listed under \"VIPs Slain,\" search the collection for Ishimaru Haruko <i>(Just Skin and Bones)</i> and spawn her at the starting location."
-        },
-        {
-                "code": "03244",
-                "flavor": "The shadows cast along the bone walls shift into the shapes of several figures, acting out a macabre parody of <u>The King in Yellow</u>.",
-                "name": "The Path is Barred",
-                "text": "<b>Objective</b> - <i>\"Tell us how to stop the path from opening!\"</i> If The Man in the Pallid Mask is defeated, advance.\n<b>Objective</b> - <i>\"What is he trying to show us?\"</i> Investigators in the Tomb of Shadows may spend the requisite number of clues, as a group, to advance.",
-                "back_name": "Behind the Mask",
-                "back_text": "<b>If The Man in the Pallid Mask was defeated:</b>\n<blockquote>The Stranger drops to one knee, visibly wounded. Your knuckles whiten with anger, and you shout, \"We know about Carcosa and Hastur. Now tell us how to stop this madness!\" The Stranger digs his fingers into the cold stone floor, and the catacombs shake…</blockquote>\nMark two <b>Conviction</b> in your Campaign Log.\nRemove The Man in the Pallid Mask from the game.\nAdvance to Act 3a - The Way Out.\n<hr><b>If you spent clues to advance:</b>\n<blockquote>Recognizing that the Stranger poses no immediate danger to you, you study your surroundings and the strange shadows twist and distort once more, revealing a strange diagram…</blockquote>\nMark two <b>Doubt</b> in your Campaign Log.\nRemove The Man in the Pallid Mask from the game.\nAdvance to Act 3a - Leading the Way."
-        },
-        {
-                "code": "03245",
-                "flavor": "Bones rattle to the floor, dislodged by the shaking and crumbling of the caverns around you. The Stranger grabs a skull from within the flames in the center of the chamber and flees.",
-                "name": "The Way Out",
-                "text": "<b>Forced</b> - At the end of the round, if The Gate to Hell is in play: Discard the location that is farthest from The Gate to Hell. Move each investigator and enemy that was at that location to a connecting location and deal 2 damage to each of them.\n<b>Objective</b> - If each undefeated investigator is at The Gate to Hell, advance.",
-                "back_name": "The Catacombs Collapse",
-                "back_flavor": "The catacombs rumble and collapse behind you as you make your escape. You are able to follow the Stranger's shadow, tracing his steps to find your way through the labyrinthine passages. You cross the threshold of the catacombs entrance, a wave of rubble and bone chips following in your wake. The deafening noise of falling debris crashes behind you, and you turn to find the entrance blocked by a newly-formed wall of bone and rock. Just as you are ready to depart, a partially-charred skull bearing a strange diagram rolls to a stop at your feet. There is no sign of the Stranger anywhere.",
-                "back_text": "<b>(→R1)</b>"
-        },
-        {
-                "code": "03246",
-                "flavor": "The shadows along the walls of the tomb begin to coalesce. Strange runic symbols twist into the image of a building with a tall tower, its spire reaching up toward the ceiling. Then the Stranger beckons for you to follow, and disappears through the stone archway behind you.",
-                "name": "Leading the Way",
-                "text": "Ignore the <b>Forced</b> ability on Blocked Passage.\n<b>Objective</b> - If each undefeated investigator is at Blocked Passage, advance.",
-                "back_name": "The Secret Exit",
-                "back_flavor": "Following the Stranger's lead, you take a circuitous route through the underground passageways. Finally you are confronted by a dead end - a tunnel blocked by an impossibly thick wall of collapsed bone and rubble. The Stranger stands nearby, holding the partially-charred skull he pulled from the fire in the Tomb of Shadows. \"What now?\" you ask, confused. He holds the skull aloft, and the floor begins to collapse into a pit of dark emptiness below. Bones and rubble from the wall fall into the pit, and it grows larger with each moment. The Stranger bows, then falls backwards into the pit before you can grab him. \"Wait!\" you call out, but it is too late. With the pit growing and threatening to swallow the catacombs entirely, you have no choice but to follow him.",
-                "back_text": "<b>(→R2)</b>"
-        },
-        {
-                "code": "03247",
-                "flavor": "ARRETE!\nC'EST ICI L'EMPIRE DE LA MORT",
-                "name": "The Gate to Hell",
-                "text": "<b>Forced</b> - When The Gate to Hell is revealed: Put the top 2 Catacombs in the Catacombs deck into play above and below The Gate to Hell.",
-                "back_name": "Catacombs",
-                "back_flavor": "Skulls and bones decorate the walls of this wide hallway in a macabre fashion.",
-                "back_text": "As an additional cost for you to enter Catacombs, investigators at your location must spend 1 [per_investigator] clues, as a group."
-        },
-        {
-                "code": "03248",
-                "name": "Stone Archways",
-                "text": "Ignore the text on unrevealed locations adjacent to Stone Archways.\n<b>Forced</b> - When Stone Archways is revealed: Put the topmost Catacombs in the Catacombs deck into play to the right of Stone Archways.",
-                "back_name": "Catacombs",
-                "back_flavor": "Skulls and bones decorate the walls of this wide hallway in a macabre fashion.",
-                "back_text": "As an additional cost for you to enter Catacombs, investigators at your location must spend 1 [per_investigator] clues, as a group."
-        },
-        {
-                "code": "03249",
-                "name": "Crypt of the Sepulchral Lamp",
-                "text": "Crypt of the Sepulchral Lamp is investigated using [willpower] instead of the skill indicated by the investigation attempt.\n<b>Forced</b> - When Crypt of the Sepulchral Lamp is revealed: Put the top 2 Catacombs in the Catacombs deck into play above and to the right of Crypt of the Sepulchral Lamp.",
-                "back_name": "Catacombs",
-                "back_flavor": "Skulls and bones decorate the walls of this wide hallway in a macabre fashion.",
-                "back_text": "As an additional cost for you to enter Catacombs, investigators at your location must spend 1 [per_investigator] clues, as a group."
-        },
-        {
-                "code": "03250",
-                "name": "Bone-Filled Caverns",
-                "text": "While you are investigating Bone-Filled Cavern, you have 1 fewer hand slot.\n<b>Forced</b> - When Bone-Filled Cavern is revealed: Put the top 2 Catacombs in the Catacombs deck into play below and to the right of Bone-Filled Cavern.",
-                "back_name": "Catacombs",
-                "back_flavor": "Skulls and bones decorate the walls of this wide hallway in a macabre fashion.",
-                "back_text": "As an additional cost for you to enter Catacombs, investigators at your location must spend 1 [per_investigator] clues, as a group."
-        },
-        {
-                "code": "03251",
-                "name": "Well of Souls",
-                "text": "<b>Forced</b> - After you end your turn at Well of Souls: You must either take 1 direct horror or discard 2 random cards from your hand.\n<b>Forced</b> - When Well of Souls is revealed: Put the topmost Catacombs in the Catacombs deck into play above, below, or to the right of Well of Souls.",
-                "back_name": "Catacombs",
-                "back_flavor": "Skulls and bones decorate the walls of this wide hallway in a macabre fashion.",
-                "back_text": "As an additional cost for you to enter Catacombs, investigators at your location must spend 1 [per_investigator] clues, as a group."
-        },
-        {
-                "code": "03252",
-                "name": "Candlelit Tunnels",
-                "text": "[action]: Test [intellect] (3) to read an ancient sign. If you succeed, look at the revealed side of any Catacombs location in play. (Group limit once per game.)\n<b>Forced</b> - When Candlelit Tunnels is revealed: Put the top 2 Catacombs in the Catacombs deck into play to the left and right of Candlelit Tunnels.",
-                "back_name": "Catacombs",
-                "back_flavor": "Skulls and bones decorate the walls of this wide hallway in a macabre fashion.",
-                "back_text": "As an additional cost for you to enter Catacombs, investigators at your location must spend 1 [per_investigator] clues, as a group.",
-                "errata_date": "2018-06-01"
-        },
-        {
-                "code": "03253",
-                "flavor": "A pillar of bones dominates the center of this circular chamber. Several dark passages lead in multiple directions.",
-                "name": "Labyrinth of Bones",
-                "text": "<b>Forced</b> - When Labyrinth of Bones is revealed: Put the top 3 Catacombs in the Catacombs deck into play above, below, and to the right of Labyrinth of Bones.",
-                "back_name": "Catacombs",
-                "back_flavor": "Skulls and bones decorate the walls of this wide hallway in a macabre fashion.",
-                "back_text": "As an additional cost for you to enter Catacombs, investigators at your location must spend 1 [per_investigator] clues, as a group."
-        },
-        {
-                "code": "03254",
-                "name": "Narrow Shaft",
-                "text": "<b>Forced</b> - When you would move from Narrow Shaft to an unrevealed location: Test [agility] (3). If you fail, take 1 damage and cancel the effects of the move.\n<b>Forced</b> - When Narrow Shaft is revealed: Put the topmost Catacombs in the Catacombs deck into play above or to the right of Narrow Shaft.",
-                "back_name": "Catacombs",
-                "back_flavor": "Skulls and bones decorate the walls of this wide hallway in a macabre fashion.",
-                "back_text": "As an additional cost for you to enter Catacombs, investigators at your location must spend 1 [per_investigator] clues, as a group."
-        },
-        {
-                "code": "03255",
-                "name": "Shivering Pools",
-                "text": "<b>Forced</b> - After you end your turn at Shivering Pools: You must either take 1 direct damage or lose 5 resources.\n<b>Forced</b> - When Shivering Pools is revealed: Put the topmost Catacombs in the Catacombs deck into play below or to the right of Shivering Pools.",
-                "back_name": "Catacombs",
-                "back_flavor": "Skulls and bones decorate the walls of this wide hallway in a macabre fashion.",
-                "back_text": "As an additional cost for you to enter Catacombs, investigators at your location must spend 1 [per_investigator] clues, as a group."
-        },
-        {
-                "code": "03256",
-                "flavor": "A stack of human remains blocks the candlelit corridor. This gives new meaning to the phrase \"dead end.\"",
-                "name": "Blocked Passage",
-                "text": "<b>Forced</b> - When you reveal Blocked Passage: Take 2 damage. You cannot leave Blocked Passage this round.",
-                "back_name": "Catacombs",
-                "back_flavor": "Skulls and bones decorate the walls of this wide hallway in a macabre fashion.",
-                "back_text": "As an additional cost for you to enter Catacombs, investigators at your location must spend 1 [per_investigator] clues, as a group."
-        },
-        {
-                "code": "03257",
-                "name": "Tomb of Shadows",
-                "text": "<b>Forced</b> - When Tomb of Shadows is revealed: Advance to act 1b.\nWhile The Man in the Pallid Mask is at the Tomb of Shadows, he gets +1 [per_investigator] health and cannot be defeated by his [action] ability.",
-                "back_name": "Catacombs",
-                "back_flavor": "Skulls and bones decorate the walls of this wide hallway in a macabre fashion.",
-                "back_text": "As an additional cost for you to enter Catacombs, investigators at your location must spend 1 [per_investigator] clues, as a group."
-        },
-        {
-                "code": "03258",
-                "flavor": "\"Aren’t these catacombs absolutely fascinating?\"",
-                "name": "Catacombs Docent",
-                "text": "<b>Spawn</b> - Nearest unrevealed location.\n[action]: <b>Parley.</b> Test [intellect] (4) to interpret the guide's ravings. If you succeed, look at the revealed side of any Catacombs location in play. (Group limit once per game.)",
-                "traits": "Humanoid. Possessed.",
-                "errata_date": "2022-08-26"
-        },
-        {
-                "code": "03259",
-                "name": "Corpse Dweller",
-                "text": "<b>Spawn</b> - Discard a [[Humanoid]] enemy at any location and spawn Corpse Dweller at that location (if there are no [[Humanoid]] enemies in play, discard Corpse Dweller and it gains surge instead).\nHunter. Retaliate.",
-                "traits": "Monster."
-        },
-        {
-                "code": "03260",
-                "name": "Eyes in the Walls",
-                "text": "<b>Revelation</b> - Test [willpower] (3). For each point you fail by, take 1 horror. When assigning horror from this effect, it must be divided as evenly as possible among eligible cards.",
-                "traits": "Terror."
-        },
-        {
-                "code": "03261",
-                "name": "The Shadow Behind You",
-                "text": "<b>Revelation</b> - Put The Shadow Behind You into play in your threat area. Limit 1 per investigator.\n[action]: You look behind you.\n<b>Forced</b> - At the end of your turn, if you did not perform the above [action] ability: You must either discard all of your resources or discard all cards in your hand. Then, discard The Shadow Behind You.",
-                "traits": "Terror."
-        },
-        {
-                "code": "03262",
-                "name": "The Pit Below",
-                "text": "<b>Revelation</b> - Attach to your location if there is no copy of The Pit Below attached (if there is, discard The Pit Below and it gains surge instead).\nAttached location gets +1 shroud.\n<b>Forced</b> - At the end of the round: Each investigator at attached location takes 3 damage. Discard The Pit Below.",
-                "traits": "Hazard."
-        }
+    {
+        "code": "03240",
+        "name": "A Máscara Pálida",
+        "text": "FÁCIL / MÉDIO\n[skull]: -X. X é a quantidade de locais de distância que você está em relação ao local inicial (máx. de 5).\n[cultist]: -2. Se esta ficha for revelada durante um ataque e esse teste de perícia for bem-sucedido, o ataque causa 1 de dano a menos.\n[tablet]: -2. Se houver um inimigo <b>Carniçal</b> ou <b>Geist</b> em seu local, ele ataca você (se houver mais de um, escolha um).\n[elder_thing]: -3. Se você falhar, procure um inimigo <b>Carniçal</b> ou <b>Geist</b> no baralho de encontros e na pilha de descarte e compre-o.",
+        "back_text": "DIFÍCIL / EXPERIENTE\n[skull]: -X. X é a quantidade de locais de distância que você está em relação ao local inicial.\n[cultist]: -3. Se esta ficha for revelada durante um ataque e esse teste de perícia for bem-sucedido, o ataque não causa dano.\n[tablet]: -3. Se houver um inimigo <b>Carniçal</b> ou <b>Geist</b> em seu local, ele é preparado e ataca você (se houver mais de um, escolha um).\n[elder_thing]: -4. Se você falhar, procure um inimigo <b>Carniçal</b> ou <b>Geist</b> no baralho de encontros e na pilha de descarte e compre-o."
+    },
+    {
+        "code": "03241",
+        "flavor": "O ar úmido e frio das catacombs penetra em suas roupas e faz com que vocês estremeçam. Para onde quer que vocês olhem, os restos mortais dos falecidos os saúdam — um sinistro lembrete de sua própria mortalidade.",
+        "name": "Império dos Mortos",
+        "text": "Cada local está conectado a cada local adjacente a ele.",
+        "subname": "Agenda 1a",
+        "back_traits": "Monstro. Geist. Elite.",
+        "back_text": "<b>Surgir</b> – O local inicial.\nCaçador. Retaliação.\nEnquanto Espectro da Morte estiver esgotado, ele sofre 1 de dano a menos de cada ataque realizado contra ele.\n<b>Forçado</b> – Após você falhar em um teste de perícia enquanto estiver tentando evadir Espectro da Morte: Ele ataca você.\n\nVitória 2.",
+        "back_flavor": "Uma Força do Além"
+    },
+    {
+        "code": "03241b",
+        "name": "Espectro da Morte",
+        "subname": "Uma Força do Além",
+        "text": "<b>Surgir</b> - O local inicial.\nCaçador. Retaliação.\nEnquanto Espectro da Morte estiver esgotado, ele sofre 1 de dano a menos de cada ataque realizado contra ele.\n<b>Forçado</b> - Após você falhar em um teste de perícia enquanto estiver tentando evadir Espectro da Morte: Ele ataca você.",
+        "traits": "Monstro. Geist. Elite."
+    },
+    {
+        "code": "03242",
+        "flavor": "Ao redor de vocês, os olhos dos crânios brilham com uma tonalidade sobrenatural. Uma voz fantasmagórica emana através das catacumbas labirínticas. Vocês sentem uma presença ameaçadora pairando ao redor. Logo no limiar da visão, além da névoa fraca que permeia as catacumbas, dobrando cada canto...",
+        "name": "Império dos Desmortos",
+        "text": "Cada local está conectado a cada local adjacente a ele.",
+        "back_name": "Unindo-se aos Mortos",
+        "back_flavor": "A presença fantasmagórica que ameaça vocês cresce a cada instante que vocês passam explorando essas catacumbas pavorosas. Vocês andam mais rápido, olhando para trás nervosamente a cada passo. Por que essa coisa está caçando vocês? Qual é o propósito dela? Ela fica transitando pela periferia de seus sentidos. Vocês dobram uma esquina fechada e a silhueta umbrática amorfa lhes encara de volta. Vocês viram de costas e fogem, passando através de um corredor de pedras estreito que não reconhecem. A cada interseção, a cada canto, os braços sombrios tentam capturá-los, suas muitas faces contorcidas em agonia. Vocês não conseguem escapar. Resignados ao seu destino, vocês caem de joelhos, sem esperança, e encaram as pedras frias do chão. Vocês sentem a presença se aproximando e não conseguem olhar para cima.\nA escuridão se fecha sobre vocês.",
+        "back_text": "Cada investigador é derrotado e sofre 1 trauma físico."
+    },
+    {
+        "code": "03243",
+        "flavor": "No final do longo túnel próximo a vocês, o Estranho anda pelas trevas, com sua máscara pálida reluzindo à luz de velas. \"Espera!\" vocês gritam. Ele dá uma olhada em sua direção antes de desaparecer nas sombras. Mais uma vez vocês são forçados a encontrá-lo para conseguir respostas...",
+        "name": "Através das Catacombs",
+        "text": "<b>Objetivo</b> - Encontre O Homem da Máscara Pálida. Ele está em algum lugar das Catacombs. (Não avance até ser instruído a fazê-lo).",
+        "back_name": "A Sombra do Estranho",
+        "back_flavor": "Fileiras de crânios batem os dentes sem parar enquanto vocês passam por uma estreita arcada de pedra, entrando em uma câmara iluminada por chamas. Ao centro da tumba está o Estranho, encarando o fogaréu. Ao longo da parede, sombras dançam e se contorcem ao tremeluzir do fogo. O Estranho se vira para encará-lo, e a sombra dele se espalha pela parede. Onde os braços de sua sombra deveriam ser, formas tentaculares emergem, envolvendo a parede em trevas. Ele ergue as mãos em direção à parede, como se estivesse tentando mostrar alguma coisa.",
+        "back_text": "Faça surgir a fraqueza O Homem da Máscara Pálida, que foi previamente separada, na Tumba das Sombras <i>(em vez do local onde normalmente surgiria)</i>.\n\nVerifique o Registro da Campanha. Se Ishimaru Haruko não estiver listada na seção \"VIPs Mortos\", procure Ishimaru Haruko <i>(Só Pele e Ossos)</i> na coleção e faça-a surgir no local inicial.",
+        "subname": "Ato 1a"
+    },
+    {
+        "code": "03244",
+        "flavor": "A sombra lançada na parede de ossos toma a forma de diferentes silhuetas, como se fosse uma paródia macabra de O Rei de Amarelo.",
+        "name": "O Caminho Está Barrado",
+        "text": "<b>Objetivo</b> - <i>\"Diga-nos como impedir a abertura do Caminho!\"</i> Se O Homem da Máscara Pálida for derrotado, avance.\n<b>Objetivo</b> - <i>\"O que ele está tentando nos mostrar?\"</i> Investigadores na Tumba das sombras podem gastar a quantidade necessária de pistas, em grupo, para avançar.",
+        "back_name": "Por Trás da Máscara",
+        "back_text": "<b>Se O Homem da Máscara Pálida foi derrotado:</b>\n<blockquote>O Estranho cai sobre um joelho, visivelmente ferido. Os nós dos seus dedos ficam pálidos de raiva, e você grita, \"Sabemos sobre Carcosa e Hastur. Agora diga-nos como impedir esta loucura!\" O estranho enterra os dedos no chão de pedras frias e as catacumbas começam a estremecer...</blockquote>\nMarque duas <b>Convicções</b> no Registro da Campanha.\nRemova O Homem da Máscara Pálida do jogo.\nAvance para o Ato 3a - A Saída.\n<hr><b>Se você gastou pistas para avançar:</b>\n<blockquote>Percebendo que o Estranho não é um perigo imediato, vocês estudam os arredores e as estranhas sombras na parede. Ele pega algo das chamas, e as sombras se distorcem mais uma vez, revelando um estranho diagrama...</blockquote>\nMarque duas <b>Dúvidas</b> no Registro da Campanha.\nRemova O Homem da Máscara Pálida do jogo.\nAvance para o Ato 3a - Mostrando o Caminho."
+    },
+    {
+        "code": "03245",
+        "flavor": "Ossos chacoalham no chão, desalojados pelo estremecer e ruir das cavernas à sua volta. O Estranho pega um crânio dentro das chamas no centro da câmara e foge.",
+        "name": "A Saída",
+        "text": "<b>Forçado</b> - No final da rodada, se O Portal para o Inferno estiver em jogo: Descarte o local mais distante de O Portal para o Inferno. Mova cada investigador e cada inimigo que estava nesse local para um local conectado e cause 2 dano a cada um deles.\n<b>Objetivo</b> - Se cada investigador não derrotado estiver em O Portal para o Inferno, avance.",
+        "back_name": "As Catacumbas Desabam",
+        "back_flavor": "As catacumbas estremecem e desabam atrás de vocês enquanto vocês tentam fugir. Vocês conseguem seguir a sombra do Estranho, rastreando os passos dele para encontrar o caminho através das passagens labirínticas. Vocês cruzam o limiar da entrada das catacumbas, e uma onda de detritos e ossos desaba logo atrás de vocês. O barulho dos destrocços caindo é ensurdecedor, e vocês se viram, descobrindo que a entrada foi bloqueada por uma parede recém-formada de ossos e rochas. Assim que vocês estão perto de partir, um crânio parcialmente incinerado e apresentando um estranho diagrama rola até os seus pés.\nNão há sinal do Estranho em lugar algum.",
+        "back_text": "<b>(→R1)</b>"
+    },
+    {
+        "code": "03246",
+        "flavor": "As sombras ao longo das paredes da tumba começam a se agrupar. Estranhos símbolos rúnicos se distorcem e formam a imagem de um prédio com uma torre alta. Seu pináculo ergue-se em direção ao teto. Então o Estranho acena para que o sigam e desaparece através da arcada de pedra atrás de vocês.",
+        "name": "Mostrando o Caminho",
+        "text": "Ignore a habilidade <b>Forçada</b> de Passagem Bloqueada.\n<b>Objetivo</b> - Se cada investigador não derrotado estiver na Passagem Bloqueada, avance.",
+        "back_name": "A Saída Secreta",
+        "back_flavor": "Seguindo o Estranho, vocês fazem uma rota convoluta através das passagens subterrâneas. Por fim, são confrontados por um beco sem saída — um túnel bloqueado por uma parede impossivelmente grossa de ossos e detritos desabados. O Estranho fica por perto, segurando o crânio parcialmente carbonizado que ele pegou das chamas da Tumba das Sombras. \"O que fazemos agora?\", vocês perguntam, confusos. Ele ergue o crânio e o chão começa a ruir, formando um fosso de escuridão abaixo. Ossos e detritos caem da parede, dentro do fosso, e ele fica maior a cada instante. O Estranho faz uma reverência e então cai para trás no fosso antes que vocês consigam agarrá-lo. \"Espere!\", vocês gritam, mas é tarde demais. Com o fosso crescendo e ameaçando engolir as catacumbas inteiramente, vocês não têm escolha além de segui-lo.",
+        "back_text": "<b>(→R2)</b>",
+        "subname": "Ato 3a"
+    },
+    {
+        "code": "03247",
+        "flavor": "ARRÊTE!\nC'EST ICI L'EMPIRE DE LA MORT",
+        "name": "O Portal para o Inferno",
+        "text": "<b>Forçado</b> – Quando O Portal para o Inferno for revelado: Coloque em jogo as 2 Catacumbas do topo do baralho de Catacumbas, acima e abaixo de O Portal para o Inferno.",
+        "back_name": "Catacumbas",
+        "back_flavor": "Crânios e ossos decoram as paredes desse grande corredor de um jeito macabro.",
+        "back_text": "Como custo adicional para entrar nas Catacumbas, os investigadores no seu local devem gastar 1 [per_investigator] pistas, em grupo."
+    },
+    {
+        "code": "03248",
+        "name": "Arcadas de Pedra",
+        "text": "Ignore o texto de locais não revelados adjacentes a Arcadas de Pedra.\n<b>Forçado</b> – Quando Arcadas de Pedra forem reveladas: Coloque em jogo a Catacumba do topo do baralho de Catacumbas, à direita de Arcadas de Pedra.",
+        "back_name": "Catacumbas",
+        "back_flavor": "Crânios e ossos decoram as paredes desse grande corredor de um jeito macabro.",
+        "back_text": "Como custo adicional para entrar nas Catacumbas, os investigadores no seu local devem gastar 1 [per_investigator] pistas, em grupo."
+    },
+    {
+        "code": "03249",
+        "name": "Cripta da Lamparina Sepulcral",
+        "text": "Cripta da Lamparina Sepulcral é investigada usando [willpower] em vez da perícia indicada pela tentativa de investigação.\n<b>Forçado</b> — Quando Cripta da Lamparina Sepulcral for revelada: Coloque em jogo as 2 Catacombs do topo do baralho de Catacombs, acima e à direita de Cripta da Lamparina Sepulcral.",
+        "back_name": "Catacombs",
+        "back_flavor": "Crânios e ossos decoram as paredes desse grande corredor de um jeito macabro.",
+        "back_text": "Como custo adicional para entrar nas Catacombs, os investigadores no seu local devem gastar 1 [per_investigator] pistas, em grupo."
+    },
+    {
+        "code": "03250",
+        "name": "Caverna Cheia de Ossos",
+        "text": "Enquanto você estiver investigando Caverna Cheia de Ossos, você tem 1 espaço de mão a menos.\n<b>Forçado</b> - Quando Caverna Cheia de Ossos for revelada: Coloque em jogo as 2 Catacumbas do topo do baralho de Catacumbas, abaixo e à direita de Caverna Cheia de Ossos.",
+        "back_name": "Catacumbas",
+        "back_flavor": "Crânios e ossos decoram as paredes desse grande corredor de um jeito macabro.",
+        "back_text": "Como custo adicional para entrar nas Catacumbas, os investigadores no seu local devem gastar 1 [per_investigator] pistas, em grupo."
+    },
+    {
+        "code": "03251",
+        "name": "Poço das Almas",
+        "text": "<b>Forçado</b> – Após você terminar seu turno em Poço das Almas: Você deve sofrer 1 de horror direto ou descartar 2 cartas aleatórias da sua mão.\n<b>Forçado</b> – Quando Poço das Almas for revelado: Coloque em jogo a Catacumba do topo do baralho de Catacumbas, acima, abaixo ou à direita de Poço das Almas.",
+        "back_name": "Catacumbas",
+        "back_flavor": "Crânios e ossos decoram as paredes desse grande corredor de um jeito macabro.",
+        "back_text": "Como custo adicional para entrar nas Catacumbas, os investigadores no seu local devem gastar 1 [per_investigator] pistas, em grupo."
+    },
+    {
+        "code": "03252",
+        "name": "Túneis Iluminados por Velas",
+        "text": "[action]: Teste [intellect] (3) para ler uma placa antiga. Se você tiver sucesso, olhe o lado revelado de qualquer local Catacumbas em jogo. (Limite de grupo de uma vez por jogo.)\n<b>Forçado</b> - Quando Túneis Iluminados por Velas forem revelados: Coloque em jogo as 2 Catacumbas do topo do baralho de Catacumbas, à esquerda e à direita de Túneis Iluminados por Velas.",
+        "back_name": "Catacumbas",
+        "back_flavor": "Crânios e ossos decoram as paredes desse grande corredor de um jeito macabro.",
+        "back_text": "Como custo adicional para entrar nas Catacumbas, os investigadores no seu local devem gastar 1 [per_investigator] pistas, em grupo.",
+        "errata_date": "2018-06-01"
+    },
+    {
+        "code": "03253",
+        "flavor": "Um pilar de ossos domina o centro desta câmara circular.\nVárias passagens sombrias levam para diversas direções.",
+        "name": "Labirinto de Ossos",
+        "text": "<b>Forçado</b> - Quando Labirinto de Ossos for revelado: Coloque em jogo as 3 Catacombs do topo do baralho de Catacumbas, acima, abaixo e à direita de Labirinto de Ossos.",
+        "back_name": "Catacombs",
+        "back_flavor": "Crânios e ossos decoram as paredes desse grande corredor de um jeito macabro.",
+        "back_text": "Como custo adicional para entrar nas Catacombs, os investigadores no seu local devem gastar 1 [per_investigator] pistas, em grupo."
+    },
+    {
+        "code": "03254",
+        "name": "Fosso Estreito",
+        "text": "<b>Forçado</b> – Quando você for se mover de Fosso Estreito para um local não revelado: Teste [agility] (3). Se você falhar, sofra 1 de dano e cancele os efeitos do movimento.\n<b>Forçado</b> – Quando Fosso Estreito for revelado: Coloque em jogo a Catacumba do topo do baralho de Catacumbas acima ou à direita de Fosso Estreito.",
+        "back_name": "Catacumbas",
+        "back_flavor": "Crânios e ossos decoram as paredes desse grande corredor de um jeito macabro.",
+        "back_text": "Como custo adicional para entrar nas Catacumbas, os investigadores no seu local devem gastar 1 [per_investigator] pistas, em grupo."
+    },
+    {
+        "code": "03255",
+        "name": "Poças Gélidas",
+        "text": "<b>Forçado</b> - Após você terminar seu turno em Poças Gélidas: Você deve sofrer 1 de dano direto ou perder 5 recursos.\n<b>Forçado</b> - Quando Poças Gélidas forem reveladas: Coloque em jogo a Catacumba do topo do baralho de Catacumbas, abaixo ou à direita de Poças Gélidas.",
+        "back_name": "Catacumbas",
+        "back_flavor": "Crânios e ossos decoram as paredes desse grande corredor de um jeito macabro.",
+        "back_text": "Como custo adicional para entrar nas Catacumbas, os investigadores no seu local devem gastar 1 [per_investigator] pistas, em grupo."
+    },
+    {
+        "code": "03256",
+        "flavor": "Uma pilha de restos mortais humanos bloqueia o corredor iluminado por velas. Isso dá todo um novo significado para a frase \"fim da linha.\"",
+        "name": "Passagem Bloqueada",
+        "text": "<b>Forçado</b> - Quando você revelar Passagem Bloqueada: Sofra 2 de dano. Você não pode sair de Passagem Bloqueada nesta rodada.",
+        "back_name": "Catacumbas",
+        "back_flavor": "Crânios e ossos decoram as paredes desse grande corredor de um jeito macabro.",
+        "back_text": "Como custo adicional para entrar nas Catacumbas, os investigadores no seu local devem gastar 1 [per_investigator] pistas, em grupo."
+    },
+    {
+        "code": "03257",
+        "name": "Tumba das Sombras",
+        "text": "<b>Forçado</b> — Quando Tumba das Sombras for revelada: Avance para o ato 1b.\nEnquanto O Homem da Máscara Pálida estiver na Tumba das Sombras, ele recebe +1 [per_investigator] de vida e não pode ser derrotado pela habilidade [action] dele.",
+        "back_name": "Catacumbas",
+        "back_flavor": "Crânios e ossos decoram as paredes desse grande corredor de um jeito macabro.",
+        "back_text": "Como custo adicional para entrar nas Catacumbas, os investigadores no seu local devem gastar 1 [per_investigator] pistas, em grupo."
+    },
+    {
+        "code": "03258",
+        "flavor": "\"Essas catacumbas não são absolutamente fascinantes?\"",
+        "name": "Docente das Catacumbas",
+        "text": "<b>Surgir</b> - Local não revelado mais próximo.\n[action]: <b>Negociata.</b> Teste [intellect] (4) para interpretar as loucuras proferidas pelo guia. Se você tiver sucesso, olhe o lado revelado de qualquer local Catacumbas em jogo. (Limite de grupo de uma vez por jogo.)",
+        "traits": "Humanoide. Possuído.",
+        "errata_date": "2022-08-26"
+    },
+    {
+        "code": "03259",
+        "name": "Habitante de Cadáver",
+        "text": "<b>Surgir</b> – Descarte um inimigo <b>Humanoide</b> em qualquer local e faça surgir Habitante de Cadáver nesse local (se não houver inimigos <b>Humanoides</b> em jogo, descarte Habitante de Cadáver e ele ganha ímpeto em vez disso).\nCaçador. Retaliação.",
+        "traits": "Monstro."
+    },
+    {
+        "code": "03260",
+        "name": "Olhos nas Paredes",
+        "text": "<b>Revelação</b> - Teste [willpower] (3). Para cada ponto que você falhar, sofra 1 de horror. Ao atribuir o horror deste efeito, ele deve ser dividido o mais igualmente possível entre as cartas elegíveis.",
+        "traits": "Terror."
+    },
+    {
+        "code": "03261",
+        "name": "A Sombra Atrás de Você",
+        "text": "<b>Revelação</b> – Coloque A Sombra Atrás de Você em jogo em sua área de ameaças. Limite de 1 por investigador.\n[action]: Você olha para trás de você.\n<b>Forçado</b> – No final do turno, se você não tiver usado a habilidade [action] acima: Você deve descartar todos os seus recursos ou descartar todas as cartas da sua mão. Então descarte A Sombra Atrás de Você",
+        "traits": "Terror."
+    },
+    {
+        "code": "03262",
+        "name": "O Fosso Abaixo",
+        "text": "<b>Revelação</b> – Anexe ao seu local se já não houver uma cópia de O Fosso Abaixo anexada a ele (se houver, descarte O Fosso Abaixo e ele ganha ímpeto em vez disso).\nO local anexado recebe +1 de véu.\n<b>Forçado</b> – No final da rodada: Cada investigador no local anexado sofre 3 de dano. Descarte O Fosso Abaixo.",
+        "traits": "Risco."
+    }
 ]

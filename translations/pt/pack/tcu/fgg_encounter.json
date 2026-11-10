@@ -1,26 +1,26 @@
 [
     {
         "code": "05197",
-        "name": "For the Greater Good",
-        "text": "Easy / Standard\n[skull]: -X. X is the highest number of doom on a [[Cultist]] enemy in play.\n[cultist]: -2. Reveal another token.\n[tablet]: -3. If you fail, place 1 doom on the nearest [[Cultist]] enemy.\n[elder_thing]: -3. If you fail, move 1 doom from the nearest [[Cultist]] enemy to the current agenda.",
-        "back_text": "Hard / Expert\n[skull]: -X. X is the total number of doom among [[Cultist]] enemies in play.\n[cultist]: -2. Reveal another token.\n[tablet]: -3. If you fail, place 1 doom on each [[Cultist]] enemy in play. If there are no [[Cultist]] enemies in play, reveal another token.\n[elder_thing]: -3. If you fail, move all doom from the [[Cultist]] enemy with the most doom on it to the current agenda. If no [[Cultist]] enemies in play have doom on them, reveal another token."
+        "name": "Pelo Bem Maior",
+        "text": "FÁCIL / MÉDIO\n[skull]: -X. X é o maior número de perdições sobre um inimigo <b>Cultista</b> em jogo.\n[cultist]: -2. Revele outra ficha.\n[tablet]: -3. Se você falhar, coloque 1 perdição sobre o inimigo <b>Cultista</b> mais próximo.\n[elder_thing]: -3. Se você falhar, mova 1 perdição do inimigo <b>Cultista</b> mais próximo para a agenda atual.",
+        "back_text": "DIFÍCIL / EXPERIENTE\n[skull]: -X. X é o número total de perdições entre os inimigos <b>Cultistas</b> em jogo.\n[cultist]: -2. Revele outra ficha.\n[tablet]: -3. Se você falhar, coloque 1 perdição sobre cada inimigo <b>Cultista</b> em jogo. Se não houver inimigos <b>Cultistas</b> em jogo, revele outra ficha.\n[elder_thing]: -3. Se você falhar, mova todas as perdições do inimigo <b>Cultista</b> com mais perdições sobre ele para a agenda atual. Se nenhum inimigo <b>Cultista</b> em jogo tiver perdições sobre ele, revele outra ficha."
     },
     {
         "code": "05198",
-        "flavor": "ADAPT YOUR BELIEFS AND BE OPEN TO NEW TRUTHS.\nYOU ARE EXPECTED TO CONFORM.\nDO NOT STRAY FROM THE PATH.",
-        "name": "THE HIEROPHANT · V",
-        "text": "<b>Forced</b> - When you defeat a [[Silver Twilight]] enemy: You leave behind some evidence of the scuffle. Move 1 doom from each enemy at that location to the current agenda.",
-        "back_name": "Meeting of Minds",
-        "back_flavor": "As you explore the building, you almost wander into a heated debate between several members of the Lodge in a nearby hallway. Seeing an opportunity to learn more, you hide and eavesdrop on the conversation. \"Mr. Sanford's orders are to complete the geist-trap at any cost,\" one of them says firmly. \"If that means we must put lives in danger, so be it. The good of the many outweigh the good of the few; you know this.\"\nAnother member, a woman, pounds her fist on the wall.\"No! Our first resort cannot be to spill blood. There must be another way.\"\n\"There is no time,\" the other responds, and there is a murmur of agreement among the rest. \"It is clear you do not have the will to proceed. Take her away. We will make her see for herself the sacrifices that must be made for the greater good.\"\n\"No! You can't do this!\" the woman yells. You wince as her screams echo down the corridor. What are they planning to do?",
-        "back_text": "Discard the top 5 cards of the encounter deck. In player order, each investigator must draw a [[Cultist]] enemy discarded in this way."
+        "flavor": "ADAPTE SUAS CRENÇAS E ESTEJA ABERTO A NOVAS VERDADES.\nESPERA-SE QUE VOCÊ SE ADEQUE.\nNÃO SE DESVE DO CAMINHO.",
+        "name": "O HIEROFANTE · V",
+        "text": "<b>Forçado</b> - Quando você derrotar um inimigo <b>Crepúsculo Prateado</b>: Você deixa para trás algumas evidências da briga. Mova 1 perdição de cada inimigo nesse local para a agenda atual.",
+        "back_name": "Um Encontro de Mentes",
+        "back_flavor": "Ao explorar o local, você quase dá de cara com uma discussão acalorada entre vários membros da Loja em um corredor próximo. Vendo uma oportunidade de descobrir mais, você se esconde e fica escutando a conversa. \"As ordens do Sr. Sanford são para completar a armadilha para geists a qualquer custo,\" diz um deles com firmeza. \"Se isso significa que precisamos colocar nossas vidas em risco, que seja. O bem de muitos é mais importante do que o bem de poucos, você sabe disso.\"\nOutro membro, uma mulher, bate na parede. \"Não! Nossa primeira opção não pode ser o derramamento de sangue. Deve ter algum outro jeito.\"\n\"Não há tempo,\" responde o primeiro, e os demais murmuram em concordância. \"Está bastante claro que você não tem o que é preciso para seguir em frente. Levem-na embora. Que ela veja em primeira mão os sacrifícios que precisam ser feitos para o bem maior.\"\n\"Não! Vocês não podem fazer isso!\", grita a mulher. Você estremece enquanto o grito dela ecoa pelo corredor. O que eles estão planejando fazer?",
+        "back_text": "Descarte as 5 cartas do topo do baralho de encontros. Na ordem dos jogadores, cada investigador deve comprar um inimigo <b>Cultista</b> descartado desta maneira."
     },
     {
         "code": "05199",
-        "flavor": "The Lodge will resort to drastic measures in order to achieve their goals. If you don’t act quickly, blood will surely be shed.",
-        "name": "Ends and Means",
-        "text": "Each [[Silver Twilight]] enemy in a [[Sanctum]] location loses aloof.\n<b>Forced</b> - When you defeat a [[Silver Twilight]] enemy: You leave behind some evidence of the scuffle. Move 1 doom from each enemy at that location to the current agenda.",
-        "back_name": "The Greater Good",
-        "back_text": "<b>Revelation</b> - Replace the act and agenda decks with The Greater Good. Spawn the set-aside Summoned Beast at the Puzzle Box's location (or any [[Sanctum]] location if the Puzzle Box is not in play) and remove the Puzzle Box from the game."
+        "flavor": "A Loja recorrerá a medidas drásticas para atingir os objetivos dela. Se você não agir rápido, sangue será derramado.",
+        "name": "Fins e Meios",
+        "text": "Cada inimigo <b>Crepúsculo Prateado</b> em um local <b>Sanctum</b> perde arredio.\n<b>Forçado</b> - Quando você derrotar um inimigo <b>Crepúsculo Prateado</b>: Você deixa para trás algumas evidências da briga. Mova 1 perdição de cada inimigo nesse local para a agenda atual.",
+        "back_name": "O Bem Maior",
+        "back_text": "<b>Revelação</b> - Substitua os baralhos de atos e de agendas por O Bem Maior. Faça surgir o inimigo Fera Invocada previamente separado no local da Caixa de Quebra-Cabeças (ou qualquer local <b>Sanctum</b>, se a Caixa de Quebra-Cabeças não estiver em jogo) e remova a Caixa de Quebra-Cabeças do jogo."
     },
     {
         "code": "05200",
@@ -32,47 +32,50 @@
     },
     {
         "code": "05201",
-        "flavor": "The Lodge is up to something - you’re sure of it. You’re not sure exactly what their plans entail, but your suspicions have proven correct so far. You have decided to sneak into the Lodge’s manor in French Hill to learn what they are plotting.",
-        "name": "Infiltrating the Lodge",
-        "text": "[reaction] After you evade an enemy: Remove all doom from it.",
-        "back_name": "The Indoctrination",
-        "back_flavor": "At first, your investigation yields few answers. There is indeed a meeting of some sort happening at the manor tonight, though you're not sure why. Finally, you catch a break. On a nearby table, a written summons explains the reason for tonight's gathering:\n\"Our timetable has moved forward. We must complete the trap by midnight tonight. The device we found will aid us in binding the revenant, so it is imperative that we find a way to open it before the ceremony begins. We have no time to waste with prudence or cowardice. Report to Nathan Wick in the sanctum at once.\"\nYou are left with more questions than answers.",
-        "back_text": "If the Inner Sanctum is not in play, put it into play.\nSpawn the set-aside Nathan Wick enemy in the Inner Sanctum, <i>(Master of Indoctrination)</i> side faceup. Attach the set-aside Puzzle Box story asset to him.\nFor the remainder of the game, the current act gains \"[reaction] After you evade an enemy: Remove all doom from it.\" Place this card next to the act deck as a reminder, then advance to act 2a."
+        "flavor": "A Loja está armando algo — você tem certeza disso. Você não sabe exatamente qual é o plano deles, mas suas suspeitas se mostraram corretas até então. Você decidiu se infiltrar na mansão da Loja em French Hill para descobrir o que eles estão tramando.",
+        "name": "Infiltrando-se na Loja",
+        "text": "[reaction] Após você evadir um inimigo: Remova todas as perdições dele.",
+        "back_name": "A Doutrinação",
+        "back_flavor": "“Nossa janela de tempo mudou. Precisamos completar a armadilha esta noite à meia-noite. O dispositivo que encontramos nos ajudará a aprisionar o retornado, portanto é imperativo que descubramos uma forma de abri-lo antes do início da cerimônia. Não podemos desperdiçar tempo com prudência ou covardia. Reporte-se a Nathan Wick, na biblioteca, de imediato.”\n\nVocê fica com mais perguntas do que respostas.",
+        "back_text": "Se o Sanctum Interno não estiver em jogo, coloque-o em jogo.\nFaça surgir o inimigo Nathan Wick previamente separado no Sanctum Interno, com o lado (Mestre da Doutrinação) virado para cima. Anexe a ele o ativo de história Caixa de Quebra-Cabeças previamente separado.\nPelo restante do jogo, o ato atual ganha: \"[reaction] Após você evadir um inimigo: Remova todas as perdições dele.\" Coloque esta carta próxima ao baralho de atos como um lembrete, então avance para o ato 2a."
     },
     {
         "code": "05202",
-        "flavor": "Whatever the Lodge is planning, it involves a \"device\" they will do anything to open. It seems a Lodge member by the name of Nathan Wick holds the device at the moment. One way or another, you have to get your hands on it.",
-        "name": "Obtaining the Device",
-        "text": "<b>Objective</b> - If Nathan Wick is added to the victory display by any means, choose an investigator to take control of the attached Puzzle Box, and advance.",
-        "back_name": "The Puzzle Box",
-        "back_text": "<b>If you advanced by defeating Nathan Wick:</b>\n<blockquote><i>You quickly pry the device from Nathan's hands and flee before you are noticed.</i></blockquote><hr><b>If you advanced by evading Nathan Wick:</b>\n<blockquote><i>You wait until Nathan is not looking, then sweep in and steal the device from the table next to him. You are long gone by the time he realizes it is missing.</i></blockquote><hr><b>If you advanced by parleying with Nathan Wick:</b>\n<blockquote><i>\"All right, listen,\" Nathan explains quietly. \"Truth is, there probably is a safer way for us to open the device. This building holds many secrets; more than you could possible know. But time is running thin, and Mr. Sanford wants it open by midnight. If you can open it before then, great. If not, well... If I were you, I wouldn't be around it when we try to force it open.\" He hands you the device and walks away, leaving you in silence.</i></blockquote>"
+        "flavor": "O que quer que a Loja esteja planejando, envolve um \"dispositivo\" que eles farão de tudo para abrir. Parece que no momento o membro da Loja chamado Nathan Wick está com o dispositivo. De uma forma ou de outra, você precisa se apoderar dessa coisa.",
+        "name": "Obtendo o Dispositivo",
+        "text": "<b>Objetivo</b> - Se Nathan Wick for adicionado ao painel de vitórias por quaisquer meios, escolha um investigador para assumir o controle do ativo Caixa de Quebra-Cabeças anexado a ele, e avance.",
+        "back_name": "A Caixa de Quebra-Cabeças",
+        "back_text": "<b>Se você avançou por ter derrotado Nathan Wick:</b>\nVocê rapidamente arranca o dispositivo das mãos de Nathan e foge antes de ser notado.\n<hr>\n<b>Se você avançou por ter evadido Nathan Wick:</b>\nVocê espera até que Nathan não esteja olhando, então se apressa e rouba o dispositivo que está na mesa ao lado dele. Você já estará longe quando ele perceber o que aconteceu.\n<hr>\n<b>Se você avançou por ter negociado com Nathan Wick:</b>\n\"Certo, preste atenção\", explica Nathan calmamente. \"A verdade é que provavelmente tem uma forma mais segura de abrir o dispositivo. Esta mansão esconde muitos segredos, mais do que você poderia imaginar. Mas o tempo está acabando, e o Sr. Sanford quer abri-lo à meia-noite. Se você conseguir abrir antes, ótimo. Se não, bem... Se eu fosse você, eu não estaria por perto quando tentarmos abrir isso à base da força.\" Ele entrega o dispositivo e vai embora, deixando você em silêncio.",
+        "subname": "Ato 2a"
     },
     {
         "code": "05203",
-        "flavor": "The \"device\" is nothing more than a locked puzzle box, just about large enough to hold a pair of shoes. The diagram on its surface depicts a broken pattern which can be manipulated to no apparent end, and there does not appear to be a keyhole of any kind.",
-        "name": "The Four Keys",
-        "text": "<b>Objective</b> - If investigators at the same location control the Puzzle Box, the [skull] key, the [cultist] key, the [tablet] key, and the [elder_thing] key, advance.",
-        "back_name": "Opening the Box",
+        "flavor": "O \"dispositivo\" não é nada além de uma caixa de quebra-cabeças trancada, do tamanho de uma caixa de sapatos. O diagrama na superfície dela apresenta um padrão segmentado que pode ser manipulado para alguma finalidade pouco aparente, e não parece haver nenhum tipo de fechadura.",
+        "name": "As Quatro Chaves",
+        "text": "<b>Objetivo</b> - Se os investigadores no mesmo local controlarem a Caixa de Quebra-Cabeças, a chave [skull], a chave [cultist], a chave [tablet] e a chave [elder_thing], avance.",
+        "back_name": "Abrindo a Caixa",
         "back_flavor": "Though the box itself seems to fight you at every turn, with all four key components in your possession, you finally manage to piece together how to open the contraption. First, you twist and contort the box's many mechanical devices until the image on its lid lines up perfectly with the diagram in your possession ([tablet]). Next, you chant the Latin incantation inscribed on the small wooden plaque you found ([cultist]). It takes a few tries to get it right, but eventually you hear a click as the surface of the wooden container shifts and changes. A round indentation has appeared on the side of the box, matching the size of your mysterious block onyx coin ([elder_thing]). As soon as you place the coin inside, another wooden panel opens on the other side, revealing a keyhole. Finally, you insert the key of bone ([skull]) into the keyhole and turn it. The lid begins to open, and suddenly the entirety of the room is engulfed in a rush of air as all light, color, sound, and matter is sucked into the box.",
-        "back_text": "Check Campaign Log.\n- <i>If the investigators are members of the Lodge,</i> <b>(→R1)</b>.\n- Otherwise, <b>(→R2)</b>."
+        "back_text": "Embora a própria caixa pareça combater os seus esforços, com todas as quatro chaves em sua posse, você finalmente consegue entender como abrir o dispositivo. Primeiro você torce e gira os muitos componentes mecânicos, até que a imagem na tampa esteja idêntica ao diagrama que descobriu ([tablet]). Em seguida, você entoa um encantamento em latim inscrito em uma pequena plaqueta de madeira que encontrou ([cultist]). Você faz algumas tentativas de acertar, mas eventualmente ouve um estalo conforme a superfície do recipiente de madeira começa a se alterar: Uma reentrância redonda apareceu na lateral da caixa, correspondendo ao tamanho da sua misteriosa moeda de ônix negra ([elder_thing]). Assim que você coloca a moeda, outro painel de madeira se abre no lado oposto, revelando uma fechadura. Finalmente, você insere a chave de osso ([skull]) na fechadura e abre a caixa. A tampa começa a se abrir, e subitamente o recinto inteiro é engolido por uma ventania conforme todas as luzes, cores, sons e matéria são sugados para dentro da caixa.\n\nVerifique o Registro da Campanha.\n- Se os investigadores forem membros da Loja, (→R1).\n- Caso contrário, (→R2)."
     },
     {
         "code": "05204",
-        "flavor": "The headquarters of the Silver Twilight Lodge is a gorgeous Victorian mansion in French Hill, overlooking most of the city. Light flickers beyond its prominent stained-glass door.",
-        "name": "Lodge Gates",
-        "subname": "We’ve Been Expecting You",
-        "text": "Enemies cannot spawn at the Lodge Gates.\n[action]: <b>Resign.</b> On second thought, maybe coming here was a bad idea.",
-        "traits": "Lodge.",
-        "back_flavor": "As you approach the gates of the Lodge’s manor in French Hill, you are surprised to see several automobiles parked nearby, in the street. Light shines in several of the windows of the manor. Is there a gathering of some sort here tonight?"
+        "flavor": "A sede da Loja do Crepúsculo Prateado é uma belíssima mansão vitoriana em French Hill, com vista para boa parte da cidade. Luzes piscam além de sua proeminente porta de vitral.",
+        "name": "Portões da Loja",
+        "subname": "Estávamos à Sua Espera",
+        "text": "Os inimigos não podem surgir nos Portões da Loja.\n[action]: <b>Renuncie.</b> Pensando bem, talvez vir aqui tenha sido uma péssima ideia.",
+        "traits": "Loja.",
+        "back_flavor": "Ao se aproximar dos portões da mansão da Loja em French Hill, você se surpreende ao ver vários automóveis estacionados na rua. Diversas janelas do local estão com a luz acesa. Estaria havendo algum tipo de reunião esta noite?",
+        "back_traits": "Loja."
     },
     {
         "code": "05205",
-        "flavor": "The headquarters of the Silver Twilight Lodge is a gorgeous Victorian mansion in French Hill, overlooking most of the city. Light flickers beyond its prominent stained-glass door.",
-        "name": "Lodge Gates",
-        "subname": "Members Only",
-        "text": "Enemies cannot spawn at the Lodge Gates.\n[action]: <b>Resign.</b> On second thought, maybe coming here was a bad idea.",
-        "traits": "Lodge.",
-        "back_flavor": "As you approach the gates of the Lodge’s manor in French Hill, you are surprised to see several automobiles parked nearby, in the street. Light shines in several of the windows of the manor. Is there a gathering of some sort here tonight?"
+        "flavor": "A sede da Loja do Crepúsculo Prateado é uma belíssima mansão vitoriana em French Hill, com vista para boa parte da cidade. Luzes piscam além de sua proeminente porta de vitral.",
+        "name": "Portões da Loja",
+        "subname": "Somente para Membros",
+        "text": "Os inimigos não podem surgir nos Portões da Loja.\n[action]: <b>Renuncie.</b> Pensando bem, talvez vir aqui tenha sido uma péssima ideia.",
+        "traits": "Loja.",
+        "back_flavor": "Ao se aproximar dos portões da mansão da Loja em French Hill, você se surpreende ao ver vários automóveis estacionados na rua. Diversas janelas do local estão com a luz acesa. Estaria havendo algum tipo de reunião esta noite?",
+        "back_traits": "Loja."
     },
     {
         "code": "05206",
@@ -85,21 +88,22 @@
     },
     {
         "code": "05207",
-        "flavor": "The interior of the mansion is clean and well-kept, as you would expect from Arkham's most prestigious social club. Plaques, pictures, and other trinkets adorn the wooden walls, hinting at the Lodge's long and storied history.",
-        "name": "Lobby",
-        "subname": "Members Only",
-        "text": "<b>Forced</b> - After the Lobby is revealed: Place 1 random set-aside key on it.",
-        "traits": "Lodge.",
-        "back_flavor": "The front entrance to the Lodge’s manor is guarded by two men in trenchcoats. Perhaps there is another way into the building..."
+        "flavor": "O interior da mansão está limpo e bem conservado, como você esperaria do clube social mais prestigiado de Arkham. Placas, retratos e outros adereços adornam as paredes de madeira, indicando a longa e movimentada história da Loja.",
+        "name": "Saguão",
+        "subname": "Somente para Membros",
+        "text": "<b>Forçado</b> - Após o Saguão ser revelado: Coloque nele 1 chave aleatória previamente separada.",
+        "traits": "Loja.",
+        "back_flavor": "A entrada principal da mansão da Loja é guardada por dois homens de sobretudo. Talvez haja alguma outra forma de entrar no local..."
     },
     {
         "code": "05208",
-        "flavor": "The cellar of the Lodge contains only a large wine rack and several unmarked barrels. A heavy steel door bars your passage deeper into the basement. You almost don't want to know what lies beyond it. Almost.",
-        "name": "Lodge Cellar",
-        "subname": "We’ve Been Expecting You",
-        "text": "<b>Forced</b> - After the Lodge Cellar is revealed: Place 1 random set-aside key on it.",
-        "traits": "Lodge.",
-        "back_flavor": "Several locked windows along the basement level of the manor reveal the dark cellar within."
+        "flavor": "A adega da Loja contém apenas uma grande prateleira de vinhos e vários barris sem identificação. Uma pesada porta de aço impede que você avance pelo porão. Você quase não quer saber o que há além dela. Quase.",
+        "name": "Adega da Loja",
+        "subname": "Estávamos à Sua Espera",
+        "text": "<b>Forçado</b> - Após a Adega da Loja ser revelada: Coloque nela 1 chave aleatória previamente separada.",
+        "traits": "Loja.",
+        "back_flavor": "Diversas janelas trancadas ao longo do nível do porão da mansão revelam uma adega escura.",
+        "back_traits": "Loja."
     },
     {
         "code": "05209",
@@ -112,146 +116,151 @@
     },
     {
         "code": "05210",
-        "flavor": "As you enter the warm lounge, you spot an elegantly dressed man reading by the fire. To your surprise, he pays you almost no heed whatsoever.",
+        "flavor": "Ao entrar no agradável lounge, você nota um homem elegante lendo próximo à lareira. Para sua surpresa, ele mal presta atenção em você.",
         "name": "Lounge",
-        "text": "<b>Forced</b> - After the Lounge is revealed: Put the set-aside Vault and Library locations into play. Put the set-aside August Lindquist asset into play in the Lounge. Place 1 random set-aside key on him.",
-        "traits": "Lodge.",
-        "back_flavor": "As you approach the staircase leading to the second floor of the mansion, you smell burning candle wax. It is quiet enough that you can hear the gentle crinkling of a page being turned."
+        "text": "<b>Forçado</b> - Após o Lounge ser revelado: Coloque em jogo os locais Cofre e Biblioteca previamente separados. Coloque em jogo no Lounge o ativo August Lindquist previamente separado. Coloque em August Lindquist 1 chave aleatória previamente separada.",
+        "traits": "Loja.",
+        "back_flavor": "Ao se aproximar da escadaria que leva para o segundo andar da mansão, você sente o cheiro de cera de vela queimando. Está tão quieto que você consegue ouvir o gentil farfalhar de páginas sendo viradas."
     },
     {
         "code": "05211",
-        "flavor": "This simple unadorned room contains many shelves and filing cabinets, where important documents and records pertaining to the Lodge are kept. A small combination safe hides in a corner of the room. You wonder what secrets you could uncover here if you had more time.",
-        "name": "Vault",
-        "text": "<b>Forced</b> - After the Vault is revealed: Place 1 random set-aside key on it.",
-        "traits": "Lodge.",
-        "back_flavor": "A heavy wooden door with an iron-barred window appears to lead into a small vault. It is sealed shut from prying eyes.",
-        "back_text": "The door to the Vault is locked. You cannot enter the Vault unless you control the [elder_thing] key."
+        "flavor": "Este recinto simples e sem adornos contém muitas prateleiras e armários de arquivo, onde são mantidos documentos e registros importantes relacionados à Loja. Um pequeno cofre de combinação está escondido no canto da sala.\nVocê se pergunta que segredos poderia descobrir se tivesse mais tempo.",
+        "name": "Cofre",
+        "text": "<b>Forçado</b> - Após o Cofre ser revelado:\nColoque nele 1 chave aleatória previamente separada.",
+        "traits": "Loja.",
+        "back_flavor": "Uma pesada porta de madeira com uma janela com barras de ferro parece levar para um pequeno cofre. O recinto está fechado e protegido contra olhares curiosos.",
+        "back_text": "A porta para o Cofre está trancada. Você não pode entrar no Cofre, a menos que controle a chave [elder_thing].",
+        "back_traits": "Loja."
     },
     {
         "code": "05212",
-        "flavor": "Even the Lodge's library is arranged to showcase the organization's wealth and power. There are hundreds of books among the room's tall, cramped shelves.",
-        "name": "Library",
-        "text": "While you are investigating the Library, if you control the [tablet] key, the Library gets -3 shroud.",
-        "traits": "Lodge.",
-        "back_flavor": "A narrow, windowless hallway slopes upward from the lounge, leading you to a tall, wooden door."
+        "flavor": "Até mesmo a biblioteca da Loja foi organizada de forma a apresentar o poder e a riqueza da organização. Há centenas de livros guardados nas estantes altas e abarrotadas do recinto.",
+        "name": "Biblioteca",
+        "text": "Enquanto você estiver investigando a Biblioteca, se você controlar a chave [tablet], a Biblioteca recebe -3 de véu.",
+        "traits": "Loja.",
+        "back_flavor": "Um corredor estreito e sem janelas sobe a partir do lounge, levando você a uma porta alta de madeira.",
+        "back_traits": "Loja."
     },
     {
         "code": "05213",
-        "flavor": "Beyond the steel door, torchlit stone halls lead deeper underground. Compared to the polished wood upstairs, this area feels grimy and unclean. What the hell is this place?",
-        "name": "Lodge Catacombs",
-        "text": "<b>Forced</b> - When Lodge Catacombs is revealed: Put the set-aside Inner Sanctum and each of the set-aside Sanctum Doorway locations into play.",
-        "traits": "Lodge. Sanctum.",
-        "back_flavor": "A windowless steel door blocks your way into paths unknown. You get the feeling this basement is much larger than it appears.",
-        "back_text": "The door to the catacombs is locked. You cannot enter the Lodge Catacombs unless you control at least 1 ([skull]/[cultist]/[tablet]/[elder_thing]) key."
+        "flavor": "Além da porta de aço, corredores de pedra iluminados por tochas levam para cada vez mais fundo. Comparada à madeira polida do restante da mansão, esta área parece bastante suja. \nQue diabos de lugar é este?",
+        "name": "Catacumbas da Loja",
+        "text": "<b>Forçado</b> - Quando as Catacumbas da Loja forem reveladas: Coloque em jogo o local Sanctum Interno e cada um dos locais Porta do Sanctum previamente separados.",
+        "traits": "Loja. Sanctum.",
+        "back_flavor": "Uma porta de aço sem janelas bloqueia seu caminho em direção ao desconhecido. Você tem a impressão de que o porão é muito maior do que parece.",
+        "back_text": "A porta para das catacumbas está trancada. Você não pode entrar nas Catacumbas da Loja, a menos que controle pelo menos 1 chave ([skull]/[cultist]/[tablet]/[elder_thing]).",
+        "back_traits": "Loja. Sanctum."
     },
     {
         "code": "05214",
-        "flavor": "At the center of this room lies an ornately carved stone altar. Blood drains from the altar through a series of channels in the mosaic stone floor.",
-        "name": "Ceremony Room",
-        "text": "<b>Forced</b> - When the round ends: Each investigator and each [[Ally]] asset in the Ceremony Room takes 1 direct horror. Cancel this effect if an investigator in the Ceremony Room controls the [skull] key.",
-        "traits": "Lodge. Sanctum.",
-        "back_name": "Sanctum Doorway",
-        "back_flavor": "Beyond a stone archway lies an unmarked iron door, mocking you with untold secrets and hidden truths."
+        "flavor": "No centro desta sala está um altar ornamentado que foi entalhado na pedra. Sangue escorre do altar através de uma série de canais, indo para o mosaico no chão de pedra.",
+        "name": "Sala Cerimonial",
+        "text": "<b>Forçado</b> - Quando a rodada terminar: Cada investigador e cada ativo de <i>Aliado</i> na Sala Cerimonial sofre 1 de horror direto. Cancele este efeito se um investigador na Sala Cerimonial controlar a chave [skull].",
+        "traits": "Loja. Sanctum.",
+        "back_name": "Porta do Sanctum",
+        "back_flavor": "Além de um arco de pedra está uma porta de ferro sem identificação, zombando de você com segredos inauditos e verdades ocultas.",
+        "back_traits": "Loja. Sanctum."
     },
     {
         "code": "05215",
-        "name": "Holding Cells",
-        "text": "<b>Forced</b> - After Holding Cells is revealed: Search the encounter deck and discard pile for a [[Cultist]] enemy and spawn it in the Holding Cells. Shuffle the encounter deck.",
-        "traits": "Lodge. Sanctum.",
-        "back_name": "Sanctum Doorway",
-        "back_flavor": "Beyond a stone archway lies an unmarked iron door, mocking you with untold secrets and hidden truths."
+        "name": "Celas",
+        "text": "<b>Forçado</b> - Após as Celas serem reveladas: Procure no baralho e na pilha de descarte de encontros um inimigo <i>Cultista</i> e faça-o surgir nas Celas. Embaralhe o baralho de encontros.",
+        "traits": "Loja. Sanctum.",
+        "back_name": "Porta do Sanctum",
+        "back_flavor": "Além de um arco de pedra está uma porta de ferro sem identificação, zombando de você com segredos inauditos e verdades ocultas.",
+        "back_traits": "Loja. Sanctum."
     },
     {
         "code": "05216",
-        "flavor": "At the far end of this room, a podium stands atop a wooden platform. Several rows of plush seats face the stage. You've never heard of a meeting room like this within the Lodge; this must be a place for only the most dedicated and trusted members.",
-        "name": "Inner Sanctum",
-        "text": "<b>Forced</b> - After the Inner Sanctum is revealed: Place 1 random set-aside key on it.",
-        "traits": "Lodge. Sanctum.",
-        "back_flavor": "At the end of the catacombs lies a set of iron doors adorned with the symbol of the Silver Twilight Lodge - three arrows pointed upwards. Unsurprisingly, the doors are locked tight.",
-        "back_text": "The door to the Inner Sanctum is locked. You cannot enter the Inner Sanctum unless you control the [cultist] key."
+        "flavor": "No canto mais afastado desta sala, há um púlpito em cima de uma plataforma de madeira. Diversas fileiras de assentos acolchoados estão voltadas para ele. Você nunca ouviu falar sobre uma sala de reuniões assim na Loja, este deve ser um lugar conhecido apenas pelos membros mais dedicados e confiáveis.",
+        "name": "Sanctum Interno",
+        "text": "<b>Forçado</b> - Após o Sanctum Interno ser revelado: Coloque nele 1 chave aleatória previamente separada.",
+        "traits": "Loja. Sanctum.",
+        "back_flavor": "No final das catacumbas há um conjunto de portas de ferro adornadas com o símbolo da Loja do Crepúsculo Prateado — três flechas apontando para cima. Obviamente, elas estão bem trancadas.",
+        "back_text": "A porta para o Sanctum Interno está trancada. Você não pode entrar no Sanctum Interno, a menos que controle a chave [cultist]."
     },
     {
         "code": "05217",
         "name": "Nathan Wick",
-        "subname": "Master of Initiation",
-        "text": "Retaliate.\n[action]: <b>Parley.</b> Test [willpower] (3) to persuade Nathan to let you find another option. If you succeed, place 1 resource on Nathan Wick. Then, if there are 1 [per_investigator] resources on him, add him to the victory display. If you fail, Nathan Wick attacks you.",
-        "traits": "Humanoid. Cultist. Silver Twilight. Elite."
+        "subname": "Mestre da Iniciação",
+        "text": "Retaliação.\n[action]: <b>Negociata.</b> Teste [willpower] (3) para persuadir Nathan a deixar que você descubra outra opção. Se você tiver sucesso, coloque 1 recurso em Nathan Wick. Então, se houver 1 [per_investigator] recursos nele, adicione-o ao painel de vitórias. Se você falhar, Nathan Wick ataca você.",
+        "traits": "Humanoide. Cultista. Crepúsculo Prateado. Elite."
     },
     {
         "code": "05217b",
         "name": "Nathan Wick",
-        "subname": "Master of Indoctrination",
-        "text": "Alert.\n<b>Forced</b> - After you evade Nathan Wick by 3 or more: You steal the puzzle box. Add Nathan Wick to the victory display.",
-        "traits": "Humanoid. Cultist. Silver Twilight. Elite."
+        "subname": "Mestre da Doutrinação",
+        "text": "Alerta.\n<b>Forçado</b> - Após você evadir Nathan Wick por 3 ou mais: Você rouba a caixa de quebra-cabeças. Adicione Nathan Wick ao painel de vitórias.",
+        "traits": "Humanoide. Cultista. Crepúsculo Prateado. Elite."
     },
     {
         "code": "05218",
-        "name": "Lodge Jailor",
-        "text": "<b>Spawn</b> - Any [[Sanctum]] location.\nAloof.\n<b>Forced</b> - After Lodge Jailor enters play: Place 2 doom and 1 random set-aside key on it.\n[action]: <b>Parley.</b> Test [intellect] (3). If you succeed, either remove 1 doom from Lodge Jailor, or take control of its key.",
-        "traits": "Humanoid. Cultist. Silver Twilight."
+        "name": "Carcereiro da Loja",
+        "text": "<b>Surgir</b> – Qualquer local <i>Sanctum</i>.\nArredio.\n<b>Forçado</b> – Após Carcereiro da Loja entrar em jogo: Coloque sobre ele 2 perdições e 1 chave aleatória previamente separada.\n[action]: <b>Negociata.</b> Teste [intellect] (3). Se você tiver sucesso, remova 1 perdição de Carcereiro da Loja, ou assuma o controle da chave dele.",
+        "traits": "Humanoide. Cultista. Crepúsculo Prateado."
     },
     {
         "code": "05219",
-        "name": "Cell Keeper",
-        "text": "<b>Spawn</b> - Any [[Sanctum]] location.\nAlert.\n<b>Forced</b> - After Cell Keeper enters play: Place 2 doom and 1 random set-aside key on it.\n<b>Forced</b> - When you evade Cell Keeper by 2 or more: Take control of its key.",
-        "traits": "Humanoid. Cultist. Silver Twilight."
+        "name": "Guarda das Celas",
+        "text": "Surgir - Qualquer local <i>Sanctum</i>.\nAlerta.\n<b>Forçado</b> - Após Guarda das Celas entrar em jogo: Coloque sobre ele 2 perdições e 1 chave aleatória previamente separada.\n<b>Forçado</b> - Quando você evadir Guarda das Celas por 2 ou mais: Assuma o controle da chave dele.",
+        "traits": "Humanoide. Cultista. Crepúsculo Prateado."
     },
     {
         "code": "05220",
-        "name": "Summoned Beast",
-        "subname": "Guardian of the Trap",
-        "text": "Retaliate. Hunter.\nSummoned Beast gets +1 fight, +1 evade, +1 damage, and +1 horror for every 2 doom in play.\n<b>Forced</b> - At the start of the enemy phase: Summoned Beast defeats each [[Humanoid]] enemy at its location. Move all doom from each of those enemies to Summoned Beast.\n<b>Objective</b> - If the Summoned Beast is defeated, <b>(→R3)</b>.",
-        "traits": "Monster. Silver Twilight. Elite."
+        "name": "Fera Invocada",
+        "subname": "Guardião da Armadilha",
+        "text": "Retaliação. Caçador.\nFera Invocada recebe +1 de luta, +1 de evasão, +1 de dano e +1 de horror para cada 2 perdições em jogo.\n<b>Forced</b> - No início da fase dos inimigos: Fera Invocada derrota cada inimigo <i>Humanóide</i> no local dela. Mova toda as perdições de cada um desses inimigos para Fera Invocada.\n<b>Objetivo</b> - Se este inimigo for derrotado, (→ R3).",
+        "traits": "Monstro. Crepúsculo Prateado. Elite."
     },
     {
         "code": "05221",
-        "name": "Knight of the Inner Circle",
-        "text": "<b>Spawn</b> - Any location connected to yours.\n<b>Prey</b> - Most ([skull]/[cultist]/[tablet]/[elder_thing]) keys controlled.\nAlert. Aloof. Hunter.\n<b>Forced</b> - After you enter Knight of the Inner Circle's location (or vice-versa): Test [agility] (4). If you fail, Knight of the Inner Circle engages you.",
-        "traits": "Humanoid. Cultist. Silver Twilight."
+        "name": "Cavaleiro do Círculo Interno",
+        "text": "<b>Surgir</b> - Qualquer local conectado ao seu.\n<b>Presa</b> - Mais chaves ([skull]/[cultist]/[tablet]/[elder_thing]) controladas.\nAlerta. Arredio. Caçador.\n<b>Forçado</b> - Após você entrar no local de Cavaleiro do Círculo Interno (ou vice-versa): Teste [agility] (4). Se você falhar, Cavaleiro do Círculo Interno engaja com você.",
+        "traits": "Humanoide. Cultista. Crepúsculo Prateado."
     },
     {
         "code": "05222",
-        "name": "Knight of the Outer Void",
-        "text": "<b>Spawn</b> - Any location connected to yours.\nAloof. Peril. Retaliate.\n<b>Revelation</b> - After Knight of the Outer Void spawns, place either 1 or 2 doom on it.\n[action]: <b>Parley.</b> Test [willpower] or [intellect] (4). If you succeed, take control of 1 doom on Knight of the Outer Void, and flip it to its clue side. If you fail, Knight of the Outer Void attacks you.",
-        "traits": "Humanoid. Cultist. Silver Twilight."
+        "name": "Cavaleiro do Vazio Externo",
+        "text": "<b>Surgir</b> — Qualquer local conectado ao seu.\nArredio. Perigo. Retaliação.\n<b>Revelação</b> — Após Cavaleiro do Vazio Externo surgir, coloque 1 ou 2 perdições sobre ele.\n[action]: <b>Negociata.</b> Teste [willpower] ou [intellect] (4). Se você tiver sucesso, assuma o controle de 1 perdição sobre Cavaleiro do Vazio Externo e vire-a para o lado de pista. Se você falhar, Cavaleiro do Vazio Externo ataca você.",
+        "traits": "Humanoide. Cultista. Crepúsculo Prateado."
     },
     {
         "code": "05223",
-        "name": "Call to Order",
-        "text": "<b>Revelation</b> - Find the 2 topmost [[Cultist]] enemies in the encounter discard pile and spawn them in the empty location with the most remaining clues. If no [[Cultist]] enemies are spawned by this effect, Call to Order gains surge.",
-        "traits": "Scheme."
+        "name": "Chamado à Ordem",
+        "text": "<b>Revelação</b> – Encontre os 2 inimigos <i>Cultistas</i> mais acima da pilha de descarte de encontros e faça-os surgir no local vazio com mais pistas restantes. Se nenhum inimigo <i>Cultista</i> surgir por este efeito, Chamado à Ordem ganha ímpeto.",
+        "traits": "Esquema."
     },
     {
         "code": "05224",
-        "name": "Expulsion",
-        "text": "<b>Revelation</b> - If there are no [[Cultist]] enemies in play, Expulsion gains surge. Otherwise, the nearest [[Cultist]] enemy readies, moves (one location at a time) until it reaches your location, engages you, and makes an immediate attack. Then, place each ([skull]/[cultist]/[tablet]/[elder_thing]) key you control on that enemy.",
-        "traits": "Scheme."
+        "name": "Expulsão",
+        "text": "<b>Revelação</b> – Se não houver inimigos <i>Cultistas</i> em jogo, Expulsão ganha ímpeto. Caso contrário, o inimigo <i>Cultista</i> mais próximo é preparado, se move (um local de cada vez) até chegar ao seu local, engaja com você e ataca imediatamente. Então, coloque cada chave ([skull]/[cultist]/[tablet]/[elder_thing]) que você controla nesse inimigo.",
+        "traits": "Esquema."
     },
     {
         "code": "05225",
-        "name": "Beneath the Lodge",
-        "text": "If you control at least 1 ([skull]/[cultist]/[tablet]/[elder_thing]) key, Beneath the Lodge gains peril and its skill test gets +1 difficulty.\n<b>Revelation</b> - Test [intellect] (3). For each point you fail by, you must either lose 1 clue or take 1 horror.",
-        "traits": "Scheme."
+        "name": "Abaixo da Loja",
+        "text": "Se você controlar pelo menos 1 chave ([skull]/[cultist]/[tablet]/[elder_thing]), Abaixo da Loja ganha perigo e o teste de perícia dela recebe +1 de dificuldade.\n<b>Revelação</b> - Teste [intellect] (3). Para cada ponto que você falhar, você deve perder 1 pista ou sofrer 1 de horror.",
+        "traits": "Esquema."
     },
     {
         "code": "05226",
-        "name": "Mark of the Order",
-        "text": "Surge.\n<b>Revelation</b> - Check which investigator controls each key. The investigator with...\n- ...the [skull] key takes 1 damage.\n- ...the [cultist] key takes 1 horror.\n- ...the [tablet] key discards 2 random cards from hand.\n- ...the [elder_thing] key loses 3 resources.",
-        "traits": "Scheme."
+        "name": "A Marca da Ordem",
+        "text": "Ímpeto.\n<b>Revelação</b> - Verifique qual investigador controla cada chave. O investigador com...\n- ...a chave [skull] sofre 1 de dano.\n- ...a chave [cultist] sofre 1 de horror.\n- ...a chave [tablet] descarta 2 cartas aleatórias da mão.\n- ...a chave [elder_thing] perde 3 recursos.",
+        "traits": "Esquema."
     },
     {
         "code": "05227",
-        "flavor": "\"I don’t really care what you’re doing here. But perhaps we can make an arrangement…\"",
+        "flavor": "\"Eu realmente não me importo com o que você está fazendo aqui. Mas talvez possamos fazer um acordo...\"",
         "name": "August Lindquist",
-        "subname": "Elegant and Elusive",
-        "text": "[action] Investigators at August Lindquist's location spend 2 [per_investigator] clues, as a group: <b>Parley.</b> Each investigator who spent at least 1 clue must either take 1 damage or 1 horror. Remove August Lindquist from the game and take control of his key.",
-        "traits": "Cultist. Silver Twilight."
+        "subname": "Elegante e Elusivo",
+        "text": "[action] Os investigadores no local de August Lindquist gastam 2 [per_investigator] pistas, em grupo: <b>Negociata.</b> Cada investigador que gastou pelo menos 1 pista deve sofrer 1 de dano ou 1 de horror. Remova August Lindquist do jogo e assuma o controle da chave dele.",
+        "traits": "Cultista. Crepúsculo Prateado."
     },
     {
         "code": "05228",
-        "name": "Puzzle Box",
-        "subname": "Mysterious Device",
-        "text": "<b>Forced</b> - When you are defeated: Give control of the Puzzle Box to another investigator.\n[action]: Unlight a brazier at your location, exhaust The Spectral Watcher, or deal 5 damage to The Spectral Watcher if it is exhausted. This action does not provoke attacks of opportunity from The Spectral Watcher. (Group limit once per game.)",
-        "traits": "Item. Relic."
+        "name": "A Caixa de Quebra-Cabeças",
+        "subname": "Dispositivo Misterioso",
+        "text": "<b>Forçado</b> - Quando você for derrotado: Dê o controle de Caixa de Quebra-Cabeças para outro investigador.\n[action]: Apague um braseiro em seu local, esgote O Observador Espectral, ou cause 5 de dano a O Observador Espectral se ele estiver esgotado. Esta ação não provoca ataques de oportunidade de O Observador Espectral. (Limite de grupo de uma vez por jogo).",
+        "traits": "Item. Relíquia."
     }
 ]

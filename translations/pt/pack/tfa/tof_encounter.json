@@ -1,348 +1,376 @@
 [
-        {
-                "code": "04113",
-                "name": "Threads of Fate",
-                "text": "Easy / Standard\n[skull] : -X. X is the highest number of doom on a [[cultist]] enemy.\n[cultist]: -2. If you do not succeed by at least 1, take 1 damage.\n[tablet]: -2. If you do not succeed by at least 1, place 1 doom on the nearest [[cultist]] enemy.\n[elder_thing]: -2. If you fail, lose 1 of your clues.",
-                "back_text": "Hard / Expert\n[skull] : -X. X is the total number of doom in play.\n[cultist]: -2. If you do not succeed by at least 2, take 1 direct damage.\n[tablet]: -2. If you do not succeed by at least 2, place 1 doom on each [[cultist]] enemy.\n[elder_thing]: -3. If you fail, lose 1 of your clues."
-        },
-        {
-                "code": "04114",
-                "flavor": "You have three tasks before you and a limited amount of time before the trail goes cold. Where do you search first?",
-                "name": "Three Fates",
-                "text": "[action]: <b>Resign.</b> You don't want to risk taking too long, so you head to safety with the information you've gathered.",
-                "back_name": "At The Sun's Peak",
-                "back_flavor": "The town is bustling as noon comes and goes. University students travel from class to class, businesspeople take breaks from their busy office lives, and in Easttown, Velma's Diner is abuzz with the lunch rush. Despite this veil of normality, the curtain has been lifted. You see this town for what it really is: an endless mire of secrets.",
-                "back_text": "Shuffle the encounter discard pile into the encounter deck.\nIf there are only 2 act decks in play, place 1 doom on agenda 2a as it is revealed."
-        },
-        {
-                "code": "04115",
-                "flavor": "This conspiracy runs much deeper than you had imagined. The more time you spend investigating these mysteries, the more you come to realize they are linked to one another. At the center of these secrets is an enigmatic organization, manipulating events behind the scenes...",
-                "name": "Behind the Curtain",
-                "text": "[action]: <b>Resign.</b> You don't want to risk taking too long, so you head to safety with the information you've gathered.",
-                "back_name": "The Sun Sets",
-                "back_flavor": "The streets begin to empty as evening approaches. When the office buildings shut their doors, the clubs open theirs, in places both public and hidden from view. In downtown Arkham, the Ward Theatre is well lit and filled to capacity. The surrounding streets, however, are eerily quiet. Only soft footsteps from nearby alleyways hint at any sign of life, and a cold wind whistles through the air. The workday might have ended, but your work is far from over. The figures walking down the street start to fill you with a sense of dread instead of comfort.",
-                "back_text": "Shuffle the encounter discard pile into the encounter deck.\nIf there are only 2 act decks in play, place 1 doom on agenda 3a as it is revealed.\nIf there is only 1 act deck in play, place 2 doom on agenda 3a as it is revealed."
-        },
-        {
-                "code": "04116",
-                "flavor": "Who can you trust in this city of lies? Arkham may be safe from the perils of the jungle, but you are far from safe here. Each passing stranger in the dark of night could be a kidnapper, a thief, or a killer. Each glance they send your way could be the last thing you ever see.",
-                "name": "Hidden Entanglements",
-                "text": "[action]: <b>Resign.</b> You don't want to risk taking too long, so you head to safety with the information you've gathered.",
-                "back_name": "Night Passes",
-                "back_flavor": "Midnight arrives, but your work is not done. You wander the streets of Arkham for hours, frustrated as the trails you have pursued grow cold over time. When the sun rises, fatigue has wreaked havoc on your body and mind.",
-                "back_text": "Each surviving investigator is defeated and suffers 1 mental trauma."
-        },
-        {
-                "code": "04117a",
-                "flavor": "The Eztli relic was last seen in its display case in the Eztli exhibit at the Miskatonic Museum. Ichtaca fears that the relic could be used for terrible purposes if left in the wrong hands. You must recover it!",
-                "name": "The Relic Is Missing!",
-                "text": "<b>Objective</b> - Only investigators in Miskatonic University can spend the requisite number of clues, as a group, to advance."
-        },
-        {
-                "code": "04117b",
-                "name": "Eztli Exhibit",
-                "text": "<b>Revelation</b> - Put the Eztli Exhibit into play.\n<b>Forced</b> - After you reveal a [skull], [cultist], [tablet], [elder_thing], or [auto_fail] symbol while investigating the Eztli Exhibit: Take 1 horror.",
-                "traits": "Miskatonic. Exhibit."
-        },
-        {
-                "code": "04118a",
-                "flavor": "Harlan has custody of the relic, but he believes he is being followed. The last time you heard from him, he was in his office at the university.",
-                "name": "Harlan Is in Danger!",
-                "text": "<b>Objective</b> - Only investigators in Miskatonic University can spend the requisite number of clues, as a group, to advance."
-        },
-        {
-                "code": "04118b",
-                "flavor": "When you find him, Harlan is babbling incoherently and won't respond to anything you say.",
-                "name": "Harlan Earnstone",
-                "subname": "Historical Theorist",
-                "text": "<b>Revelation</b> - Put Harlan Earnstone into play in Easttown.\n[action] Discard the top 3 cards of your deck: <b>Parley.</b> You try to snap Earnstone out of his daze. Test [willpower] (4). If you succeed, place 1 clue on him <i>(from the token pool)</i>.",
-                "traits": "Bystander. Miskatonic."
-        },
-        {
-                "code": "04119",
-                "flavor": "One of the museum security guards, a man named Drew Walker, recognizes you from your prior work with Alejandro and Dr. Horowitz. \"Look, I ain’t supposed to be letting anybody into the exhibit... But the coppers don’t know from nothing when it comes to this hokum.\" He steps aside and lets you pass. \"If anybody asks, you slipped in while I was using the john, all right? Don’t take any wooden nickels.\"",
-                "name": "At the Exhibit",
-                "text": "<b>Objective</b> - Only investigators in the Eztli Exhibit can spend the requisite number of clues, as a group, to advance.",
-                "back_name": "The Relic's Location",
-                "back_flavor": "You search the exhibit where the relic was to be on display, looking for signs of where it may have been taken. Though you find no concrete evidence, on the ground near the exhibit entrance, you do notice several recent scuff marks made by men's shoes. You ask Drew who was last to see the exhibit after Alejandro left. \"Some suits. Government types,\" he replies. \"They had clearing to see the exhibit from Mr. Walsted, the curator.\" It's far from proof of the relic's location, but it's a lead - hopefully one that will point you in the right direction.",
-                "back_text": "Put the set-aside Town Hall location into play. If it was already in play, add add 1 [per_investigator] clues to it. Attach the set-aside Relic of Ages to the Town Hall.\nIf there are 2 or fewer act decks in play, add an additional 1 [per_investigator] clues to the Town Hall.\nAdvance to Act 3a - \"Find the Relic.\""
-        },
-        {
-                "code": "04120",
-                "flavor": "One of the museum security guards, a man named Drew Walker, recognizes you from your prior work with Alejandro and Dr. Horowitz. \"Look, I ain’t supposed to be letting anybody into the exhibit... But the coppers don’t know from nothing when it comes to this hokum.\" He steps aside and lets you pass. \"If anybody asks, you slipped in while I was using the john, all right? Don’t take any wooden nickels.\"",
-                "name": "At the Exhibit",
-                "text": "<b>Objective</b> - Only investigators in the Eztli Exhibit can spend the requisite number of clues, as a group, to advance.",
-                "back_name": "The Brotherhood's Plot",
-                "back_flavor": "You search the exhibit where the relic was to be on display, looking for signs of where it may have been taken. As you search, you notice a shadow crawling along the wall. It quickly flits out of sight, and heavy footsteps echo through the halls beyond the gallery. Could it be that the culprit is still here?\nYou give chase, but the hooded figure has a lead on you and quickly escapes from the museum. At least now you have a trail to follow - and you won't stop until the relic is yours again.",
-                "back_text": "Search the encounter deck, discard pile, and victory display for a Brotherhood Cultist and spawn it in the location farthest from all investigators. Heal all damage from each Brotherhood Cultist in play.\nAttach the set-aside Relic of Ages to the Brotherhood Cultist farthest from all investigators.\nIf there are 2 or fewer act decks in play, add 1 doom to the Brotherhood Cultist with the attached Relic of Ages.\nAdvance to Act 3a - \"Recover the Relic.\""
-        },
-        {
-                "code": "04121",
-                "flavor": "There is no sign of Harlan in his office, but one of the assistants in the administration building informs you that he took the day off and went to his home in Easttown.",
-                "name": "Harlan's Curse",
-                "text": "<b>Objective</b> - If there are 1 [per_investigator] clues on Harlan Earnstone: You must remove them and immediately advance.",
-                "back_name": "Safekeeping",
-                "back_flavor": "Harlan finally snaps out of his daze, returning to his normal self. He tells you that he was accosted by several figures in brown robes, who asked him where he'd hidden the relic. They used some kind of hypnotism to pry the knowledge from him by force. He had no choice but to tell them the truth - that he'd brought the relic to the Curiositie Shoppe and gave it to one of his associates. If you make haste, perhaps you can reach the relic before the brown-robed figures do!",
-                "back_text": "Attach the set-aside Relic of Ages to the Curiositie Shoppe.\nIf there are 2 or fewer act decks in play, search the encounter deck for 1 Acolyte (2 Acolytes instead if there are 3 or 4 investigators in the game). Spawn each searched-for Acolyte in the Curiositie Shoppe.\nAdvance to Act 3a - \"Find the Relic.\""
-        },
-        {
-                "code": "04122",
-                "flavor": "There is no sign of Harlan in his office, but one of the assistants in the administration building informs you that he took the day off and went to his home in Easttown.",
-                "name": "Harlan's Curse",
-                "text": "<b>Objective</b> - If there are 1 [per_investigator] clues on Harlan Earnstone: You must remove them and immediately advance."
-        },
-        {
-                "code": "04122b",
-                "flavor": "Afflicted by a strange curse, Harlan suddenly attacks!",
-                "name": "Harlan Earnstone",
-                "subname": "Crazed by the Curse",
-                "text": "<b>Revelation</b> - Switch this card with the [[Bystander]] version of Harlan Earnstone, removing that version from the game. Attach the set-aside Relic of Ages to Harlan Earnstone. Advance to Act 3a - \"Recover the Relic.\"\n<b>Forced</b> - After you successfully evade Harlan Earnstone by 3 or more: Add him to the victory display.",
-                "traits": "Humanoid. Cursed. Elite."
-        },
-        {
-                "code": "04123",
-                "flavor": "You believe you have discovered the relic’s whereabouts. Now, you must scour this place from bottom to top in order to find it.",
-                "name": "Find the Relic",
-                "text": "While Relic of Ages is attached to a location, that location gets +2 shroud.\n<b>Objective</b> - If Relic of Ages is attached to a location with no remaining clues, advance.",
-                "back_name": "The Relic Is Found",
-                "back_text": "<b>If the Relic of Ages is attached to the Town Hall:</b>\n<blockquote><i>After an hour of searching Arkham's Town Hall, you notice a faint blue glow emanating from underneath the door to the city planner's office. You break into the office without being noticed. The relic is lying on his desk, along with a map of the city that is covered in strange markings and iconography. Why is it here?</i></blockquote>\nThe investigator nearest to the Town Hall takes control of the Relic of Ages. Remove the remainder of the \"a/b\" act deck from the game. If another act card is in play, continue playing. Otherwise, proceed to <b>(→R1)</b>.\n<hr><b>If the Relic of Ages is attached to the Curiositie Shoppe:\n</b><blockquote><i>Sure enough, the relic is tucked away in a corner of the shop's storage room, hidden from sight.</i></blockquote>\nThe investigator nearest to the Curiositie Shoppe takes control of the Relic of Ages. Remove the remainder of the \"a/b\" act deck from the game. If another act card is in play, continue playing. Otherwise, proceed to <b>(→R1)</b>."
-        },
-        {
-                "code": "04124",
-                "flavor": "You’ve discovered who is carrying the relic. Now, you must secure it from them, whatever the cost!",
-                "name": "Recover the Relic",
-                "text": "While Relic of Ages is attached to an enemy, that enemy gets +2 [per_investigator] health.\n<b>Objective</b> - If the enemy the Relic of Ages is attached to leaves play, advance.",
-                "back_name": "The Relic is Recovered",
-                "back_text": "<b>If the Relic of Ages was attached to a Brotherhood Cultist:</b>\n<blockquote><i>As the robed figure collapses, the relic falls out of his cloak, clattering to the ground and rolling to a stop nearby. It is pulsing with an odd glow, as though aware it is being searched for.</i></blockquote>\nThe investigator nearest to the Brotherhood Cultist's location takes control of the Relic of Ages. Remove the remainder of the \"a/b\" act deck from the game. If another act card is in play, continue playing. Otherwise, proceed to <b>(→R1)</b>.\n<hr><b>If the Relic of Ages was attached to Harlan Earnstone:</b>\n<blockquote><i>Harlan snaps out of his daze and collapses, holding his head in pain. \"What was I - ?\" His eyes widen as he realizes what he has done, and he pulls the relic out of his coat, offering it to you. \"T-take it!\" He says. \"You can keep it safer than I can.\"</i></blockquote>\nThe investigator nearest to Harlan Earnstone's location takes control of the Relic of Ages. Remove the remainder of the \"a/b\" act deck from the game. If another act card is in play, continue playing. Otherwise, proceed to <b>(→R1)</b>."
-        },
-        {
-                "code": "04125a",
-                "flavor": "You’ve decided to search for Alejandro on your own, believing you will have a better shot at finding him without involving the police. His hotel is in Easttown, so you begin your search there.",
-                "name": "Search for Alejandro",
-                "text": "<b>Objective</b> - Only investigators in Easttown can spend the requisite number of clues, as a group, to advance."
-        },
-        {
-                "code": "04125b",
-                "flavor": "Henry sits at the counter, sipping at a cup of black coffee.",
-                "name": "Henry Deveau",
-                "subname": "Friend of Alejandro",
-                "text": "<b>Revelation</b> - Put Henry Deveau into play in Velma's Diner.\n[action] Choose and discard a card from your hand: <b>Parley.</b> You discuss Alejandro's whereabouts. Test [intellect] (3). If you succeed, place 1 clue on this card <i>(from the token pool)</i>.",
-                "traits": "Bystander."
-        },
-        {
-                "code": "04126a",
-                "flavor": "Suspecting foul play, you’ve decided to go to the police to enlist their help in searching for Alejandro.",
-                "name": "Missing Persons",
-                "text": "<b>Objective</b> - Only investigators in Easttown can spend the requisite number of clues, as a group, to advance."
-        },
-        {
-                "code": "04126b",
-                "name": "Arkham Police Station",
-                "text": "<b>Revelation</b> - Put the Arkham Police Station into play.\nEasttown is connected to Arkham Police Station.\n[action]: Search the top 6 cards of your deck for a [[weapon]] card and add it to your hand. Shuffle your deck.",
-                "traits": "Arkham."
-        },
-        {
-                "code": "04127",
-                "flavor": "The police station might be open to the public in theory, but getting your story heard by the proper authorities requires a bit more finesse than you imagined.",
-                "name": "At the Station",
-                "text": "<b>Objective</b> - Only investigators in the Arkham Police Station can spend the requisite number of clues, as a group, to advance.",
-                "back_name": "In Shadowed Talons",
-                "back_flavor": "None of the police officers have seen Alejandro, and they don't seem interested in helping you find him. \"It's only been a couple days. He'll turn up,\" they say. They give excuses, trying to avoid filling out a report. Finally, just as you are about to leave in frustration, a homeless man being held for disorderly conduct grabs your elbow. \"I saw 'im!\" he drawls. \"The man you describe, I saw 'im in the sky, carried in its clutches...\" He describes a faceless winged creature while the officers nearby chuckle and roll their eyes. The man is clearly drunk... but could it be he's telling the truth?",
-                "back_text": "Search the encounter deck, discard pile, and victory display for a Hunting Nightgaunt and spawn it in the location farthest from all investigators. Heal all damage from each Hunting Nightgaunt in play.\nAttach the set-aside Alejandro Vela to the Hunting Nightgaunt farthest from all investigators.\nAdvance to Act 3c - \"Alejandro's Plight.\"",
-                "errata_date": "2025-07-11"
-        },
-        {
-                "code": "04128a",
-                "flavor": "The police station might be open to the public in theory, but getting your story heard by the proper authorities requires a bit more finesse than you imagined.",
-                "name": "At the Station",
-                "text": "<b>Objective</b> - Only investigators in the Arkham Police Station can spend the requisite number of clues, as a group, to advance."
-        },
-        {
-                "code": "04128b",
-                "flavor": "One of the police officers claims to have seen Alejandro down by the train tracks, flanked by several robed figures...",
-                "name": "Train Tracks",
-                "text": "<b>Revelation</b> - Put Train Tracks into play. Attach the set-aside Alejandro Vela to Train Tracks. Advance to Act 3c - \"Alejandro's Prison.\"\nNorthside is connected to Train Tracks.\n[action] Spend 1 clue: Draw 4 cards. (Limit once per game.)",
-                "traits": "Arkham."
-        },
-        {
-                "code": "04129",
-                "flavor": "You can’t get into Alejandro’s hotel room, so you decide to question several of the occupants in the neighboring rooms. One of them informs you that Alejandro has been meeting often with an acquaintance of his, a government official named Henry Deveau. They tend to meet nightly at Velma’s Diner. Perhaps you should pay Henry a visit?",
-                "name": "Friends in High Places",
-                "text": "<b>Objective</b> - If there are 1 [per_investigator] clues on Henry Deveau: You must remove them and immediately advance.",
-                "back_name": "Henry's Information",
-                "back_flavor": "Henry looks about anxiously, then leans forward and speaks in a hushed tone. \"All right, listen. I work downtown, as assistant to the city planner. He's a bit of a funny bird. Quiet type, big ideas, likes to hole up in his office for hours at a time.\" He rubs his hands together nervously. \"Don't know why he and Alejandro would ever be in the same room without my knowing - but last time I saw Alejandro, that's right where he was: walking down the hall with my boss, flanked by a couple of intimidating fellas in black suits.\" He gets up and puts on his coat, leaving two quarters on the table. \"You didn't hear this from me,\" he insists before departing.",
-                "back_text": "Put the set-aside Town Hall location into play, if it is not already in play.\nAttach the set-aside Alejandro Vela to the Town Hall.\nAdvance to Act 3c - \"Alejandro's Prison.\""
-        },
-        {
-                "code": "04130a",
-                "flavor": "You can’t get into Alejandro’s hotel room, so you decide to question several of the occupants in the neighboring rooms. One of them informs you that Alejandro has been meeting often with an acquaintance of his, a government official named Henry Deveau. They tend to meet nightly at Velma’s Diner. Perhaps you should pay Henry a visit?",
-                "name": "Friends in High Places",
-                "text": "<b>Objective</b> - If there are 1 [per_investigator] clues on Henry Deveau: You must remove them and immediately advance."
-        },
-        {
-                "code": "04130b",
-                "flavor": "Henry claims to know where Alejandro is and leads you out of the diner. As you follow him down a nearby alley, he pulls out a knife and attacks you!",
-                "name": "Henry Deveau",
-                "subname": "Alejandro's Kidnapper",
-                "text": "<b>Revelation</b> - Switch this card with the [[Bystander]] version of Henry Deveau, removing that version from the game. Attach the set-aside Alejandro Vela to Henry Deveau. Advance to Act 3c - \"Alejandro's Plight.\"\nRetaliate.",
-                "traits": "Humanoid. Conspirator. Elite."
-        },
-        {
-                "code": "04131",
-                "flavor": "You believe that Alejandro is held captive somewhere in this location. You must rescue him!",
-                "name": "Alejandro's Prison",
-                "text": "While Alejandro Vela is attached to a location, that location gets +2 shroud.\n<b>Objective</b> - If Alejandro Vela is attached to a location with no remaining clues, advance.",
-                "back_name": "Alejandro Is Found",
-                "back_text": "<b>If Alejandro Vela is attached to the Train Tracks:</b>\n<blockquote><i>After searching up and down for nearly an hour, you hear a voice coming from one of the storage cars. Sealed inside is Alejandro, murmuring to himself. \"Thank goodness!\" he exclaims as you enter. \"I was just trying to figure out why they brought me here...\"</i></blockquote>\nThe investigator nearest to the Train Tracks takes control of Alejandro Vela. Remove the remainder of the \"c/d\" act deck from the game. If another act card is in play, continue playing. Otherwise, proceed to <b>(→R1)</b>.\n<hr><b>If Alejandro Vela is attached to the Town Hall:</b>\n<blockquote><i>You manage to slip into the basement of the town hall without being spotted. You find Alejandro in one of the basement offices. He isn't restrained, but he is overjoyed to see you. \"Thank goodness! They brought me here by force. Though I don't know why...\"</i></blockquote>\nThe investigator nearest to the Town Hall takes control of Alejandro Vela. Remove the remainder of the \"c/d\" act deck from the game. If another act card is in play, continue playing. Otherwise, proceed to <b>(→R1)</b>."
-        },
-        {
-                "code": "04132",
-                "flavor": "You believe you have discovered the identity of Alejandro’s kidnapper. Now you must fight to rescue your companion!",
-                "name": "Alejandro's Plight",
-                "text": "While Alejandro Vela is attached to an enemy, that enemy gets +2 [per_investigator] health.\n<b>Objective</b> - If the enemy Alejandro Vela is attached to leaves play, advance.",
-                "back_name": "Alejandro Is Rescued",
-                "back_text": "<b>If Alejandro Vela was attached to a Hunting Nightgaunt:</b>\n<blockquote><i>Alejandro collapses to the ground along with the winged creature's body. He coughs and rises to his feet, shaking. \"Th-that beast! It had me in its clutches...Who knows where it was taking me?\"</i></blockquote>\nThe investigator nearest to the Hunting Nightgaunt takes control of Alejandro Vela. Remove the remainder of the \"c/d\" act deck from the game. If another act card is in play, continue playing. Otherwise, proceed to <b>(→R1)</b>.\n<b><hr>If Alejandro Vela was attached to Henry Deveau:</b>\n<blockquote><i>Henry collapses to the ground, exhausted and bloodied. \"Wait! I... I'll tell you where to find Alejandro!\" He gives you an address in Rivertown, and you follow his directions. Inside the abandoned office building is Alejandro, not restrained but overjoyed to see you. \"Thank goodness! You have to get me out of here!\"</i></blockquote>\nThe investigator nearest to Henry Deveau takes control of Alejandro Vela. Remove the remainder of the \"c/d\" act deck from the game. If another act card is in play, continue playing. Otherwise, proceed to <b>(→R1)</b>."
-        },
-        {
-                "code": "04133a",
-                "flavor": "Ichtaca told you not to follow her, though you can’t help but wonder what she is up to. You decide to pursue her as she heads down toward the riverside…",
-                "name": "Trial of the Huntress",
-                "text": "<b>Objective</b> - Only investigators in Rivertown can spend the requisite number of clues, as a group, to advance."
-        },
-        {
-                "code": "04133b",
-                "name": "Black Cave",
-                "text": "<b>Revelation</b> - Put Black Cave into play.\n<b>Forced</b> - At the end of your turn, if you are in the Black Cave: You must either take 1 horror or choose and discard 2 cards from your hand.",
-                "traits": "Cave."
-        },
-        {
-                "code": "04134a",
-                "flavor": "Ichtaca tells you that she saw several Eztli artifacts on sale in the strange shop near the northwestern edge of the city. She wants to head in that direction to investigate further.",
-                "name": "The Guardian's Inquiry",
-                "text": "<b>Objective</b> - Only investigators in Northside can spend the requisite number of clues, as a group, to advance."
-        },
-        {
-                "code": "04134b",
-                "flavor": "\"Exquisite, aren't they?\"",
-                "name": "Maria DeSilva",
-                "subname": "Wealthy Patron",
-                "text": "<b>Revelation</b> - Put Maria DeSilva into play in the Curiositie Shoppe.\n[action] Spend 1 resource: <b>Parley.</b> You chat with Maria about the artifacts on sale. Test [intellect] (3). If you succeed, place 1 clue on her <i>(from the token pool)</i>.",
-                "traits": "Bystander."
-        },
-        {
-                "code": "04135",
-                "flavor": "You watched Ichtaca enter this abandoned cave on her own. What is she doing in such a strange place?",
-                "name": "The Cave of Darkness",
-                "text": "<b>Objective</b> - Only investigators in the Black Cave can spend the requisite number of clues, as a group, to advance. There must be no clues remaining on the Black Cave in order to advance this act.",
-                "back_name": "Embroiled in Battle",
-                "back_flavor": "As you search for your companion, a piercing cry echoes throughout the cave, spurring you onward. Deep within the cave, you find Ichtaca in the midst of a battle with several robed figures. She fires an arrow from her bow, striking one of the figures in its chest, then ducks behind an outcropping of rock as she sees you enter. A wave of eldritch energy strikes the place she had been standing moments prior, charring the ground. \"What are you doing here?\" she yells angrily.",
-                "back_text": "Shuffle the encounter discard pile into the encounter deck. Discard cards from the top of the encounter deck until a [[Cultist]] enemy is discarded (2 [[Cultist]] enemies instead if there are 2 or fewer act decks remaining).\nSpawn those enemies in Black Cave <i>(instead of their normal spawn location)</i>. Until the end of the scenario, remember that those enemies are \"Ichtaca's prey.\"\nAdvance to Act 3e - \"The Brotherhood Is Revealed.\""
-        },
-        {
-                "code": "04136",
-                "flavor": "You watched Ichtaca enter this abandoned cave on her own. What is she doing in such a strange place?",
-                "name": "The Cave of Darkness",
-                "text": "<b>Objective</b> - Only investigators in the Black Cave can spend the requisite number of clues, as a group, to advance. There must be no clues remaining on the Black Cave in order to advance this act.",
-                "back_name": "Tunnels in the Dark",
-                "back_flavor": "You track Ichtaca throughout the cave, echoing her movements closely while remaining hidden. She traverses the cavern with the expertise of a natural explorer, discovering paths you hadn't noticed at first. To your surprise, the dark tunnels ramp upwards, taking you closer to the surface. You hear Ichtaca open and close something metallic up ahead. When you catch up, you find a heavy iron grate above you leading into the basement of a building north of the cave's entrance.",
-                "back_text": "Put the set-aside Town Hall location into play, if it is not already in play. Remember that the Town Hall is \"Ichtaca's destination.\" For the remainder of the game, Black Cave and Town Hall are connected to one another.\nOne at a time, in player order, each investigator discards the top card of the encounter deck. Each investigator who discards a treachery card must draw that card.\nAdvance to Act 3e - \"Strange Occurrences.\""
-        },
-        {
-                "code": "04137a",
-                "flavor": "Inside the shop, an middle-aged woman wearing the height of fashion inspects the Eztli relics on display with admiration. How did those relics get here? And what does this woman know about all of this?",
-                "name": "Strange Relics",
-                "text": "<b>Objective</b> - If there are 1 [per_investigator] clues on Maria DeSilva: You must remove them and immediately advance."
-        },
-        {
-                "code": "04137b",
-                "flavor": "\"You don't understand what you are meddling in!\"",
-                "name": "Maria DeSilva",
-                "subname": "Knows More Than She Lets On",
-                "text": "<b>Revelation</b> - Switch this card with the [[Bystander]] version of Maria DeSilva, removing that version from the game. Remember that she is \"Ichtaca's prey.\" Advance to Act 3e - \"The Brotherhood is Revealed.\"\nRetaliate.",
-                "traits": "Humanoid. Conspirator. Elite."
-        },
-        {
-                "code": "04138",
-                "flavor": "Inside the shop, an middle-aged woman wearing the height of fashion inspects the Eztli relics on display with admiration. How did those relics get here? And what does this woman know about all of this?",
-                "name": "Strange Relics",
-                "text": "<b>Objective</b> - If there are 1 [per_investigator] clues on Maria DeSilva: You must remove them and immediately advance.",
-                "back_name": "Maria's Information",
-                "back_flavor": "Maria takes a puff from her cigarette before responding to your questions. She tells you that she overheard some well-to-do patrons putting down several outrageously pricey bids on the Eztli artifacts. \"I don't even know where these artifacts came from, but those people seemed to know <u>exactly</u> what they were looking for,\" she claims. Perhaps if you follow this trail of money, you'll uncover more about this mysterious group that operates in Arkham's shadows…",
-                "back_text": "Remember that both Downtown and Rivertown are \"Ichtaca's destinations.\"\nOne at a time, in player order, each investigator discards the top card of the encounter deck. Each investigator who discards a treachery card must draw that card.\nAdvance to Act 3e - \"Strange Occurrences.\""
-        },
-        {
-                "code": "04139",
-                "flavor": "Ichtaca has found the target of her investigation. The trail of the mysterious cult leads here. A thorough search of the area may reveal more...",
-                "name": "Strange Occurrences",
-                "text": "While you are at any of \"Ichtaca's destinations,\" the first treachery you draw from the encounter deck each round gains surge.\n<b>Objective</b> - If there are no clues remaining on each of \"Ichtaca's destinations,\" advance.",
-                "back_name": "Uncovering the Conspiracy",
-                "back_text": "<b>If \"Ichtaca's destination\" was the Town Hall:</b>\n<blockquote><i>For some reason, the tunnels connect to a hidden passage in the basement of Arkham's town hall. You find Ichtaca in a dark room, browsing through several maps of the city. \"What are you doing here?\" she asks accusingly. \"No matter. You're here now. Help me read these documents and figure out what is going on here.\"</i></blockquote>\nThe investigator nearest to the Town Hall takes control of the set-aside Ichtaca <i>(The Forgotten Guardian)</i>. Remove the remainder of the \"e/f\" act deck from the game. If another act card is in play, continue playing. Otherwise, proceed to <b>(→R1)</b>.\n<hr><b>If \"Ichtaca's destinations\" were Downtown and Rivertown:</b>\n<blockquote><i>Using information from the bank, you track the bidders to a warehouse in Rivertown. Inside, you find a bounty of information about the Eztli relics and Alejandro's expedition.</i></blockquote>\nThe investigator nearest to Rivertown takes control of the set-aside Ichtaca <i>(The Forgotten Guardian)</i>. Remove the remainder of the \"e/f\" act deck from the game. If another act card is in play, continue playing. Otherwise, proceed to <b>(→R1)</b>."
-        },
-        {
-                "code": "04140",
-                "flavor": "Ichtaca has found target of her hunt. The mysterious cult has been revealed - but what is their ultimate purpose?",
-                "name": "The Brotherhood Is Revealed",
-                "text": "\"Ichtaca's prey\" each get +1 fight, +1 [per_investigator] health, and +1 evade while at a location with no clues on it.\n<b>Objective</b> - If each of \"Ichtaca's prey\" is no longer in play, advance.",
-                "back_name": "Close Call",
-                "back_text": "<b>If \"Ichtaca's prey\" were 1 or more [[cultist]] enemies:</b>\n<blockquote><i>The final robed figure drops to the ground, and you breathe a sigh of relief. Ichtaca recovers her arrows and searches the bodies for clues. \"Why did you follow me?\" she asks accusingly. \"No matter. What's done is done. Now to uncover what these cretins knew.\"</i></blockquote>\nThe investigator nearest to the Black Cave takes control of the set-aside Ichtaca <i>(The Forgotten Guardian)</i>. Remove the remainder of the \"e/f\" act deck from the game. If another act card is in play, continue playing. Otherwise, proceed to <b>(→R1)</b>.\n<hr><b>If \"Ichtaca's prey\" was Maria DeSilva:</b>\n<blockquote><i>You interrogate Maria while the angry Eztli warrior looms over her. \"Who do you work for? What is your purpose?\" Maria purses her lips tightly, then looks away, into the distance. \"I'll tell you what you need to know. I'll tell you about the Brotherhood.\"</i></blockquote>\nThe investigator nearest to Maria DeSilva takes control of the set-aside Ichtaca <i>(The Forgotten Guardian)</i>. Remove the remainder of the \"e/f\" act deck from the game. If another act card is in play, continue playing. Otherwise, proceed to <b>(→R1)</b>."
-        },
-        {
-                "code": "04141",
-                "flavor": "A bit of warmth in an otherwise dreary town.",
-                "name": "Velma's Diner",
-                "text": "Easttown is connected to Velma's Diner.\n[action][action][action]: You kill some time at the diner and listen to the conversations of the patrons around you. Gain 2 clues from the token pool. (Limit once per game.)",
-                "traits": "Arkham.",
-                "back_flavor": "Velma’s is a staple of Easttown - the perfect place to find a bite to eat, a strong cup of joe, or some interesting gossip.",
-                "back_text": "Easttown is connected to Velma's Diner."
-        },
-        {
-                "code": "04142",
-                "flavor": "A brass bell clangs as you push open the front door. Inside, the shop is dusty and disorganized. Inspecting the unusual wares on display causes the hair on your arms to stand on end.",
-                "name": "Curiositie Shoppe",
-                "text": "Northside is connected to Curiositie Shoppe.\nWhile you are in the Curiositie Shoppe, reduce the cost of each [[relic]] asset you play by 2.",
-                "traits": "Arkham.",
-                "back_flavor": "Owned by Oliver Thomas, the self-styled \"Curiositie Shoppe\" in Northside is an unusual store. On display in the front window is a collection of odd trinkets: a brass coal scuttle, a perambulator, an antique globe, and a model sailing ship, to name just a few.",
-                "back_text": "Northside is connected to Curiositie Shoppe."
-        },
-        {
-                "code": "04143",
-                "name": "Town Hall",
-                "text": "Downtown is connected to Town Hall.\n<b>Forced</b> - After you enter Town Hall, if you have 4 or more cards in your hand: Choose and discard cards from your hand until you have 3 cards in your hand.",
-                "traits": "Arkham.",
-                "back_flavor": "Arkham’s town hall is a quiet, unassuming building near Independence Square. A small clock tower protrudes from the sloped rooftop, the numbers faded from years of disrepair.",
-                "back_text": "Downtown is connected to Town Hall."
-        },
-        {
-                "code": "04144",
-                "name": "The Secret Must Be Kept",
-                "text": "Peril.\n<b>Revelation</b> - Test [willpower] (3). If you fail, take 1 damage and 1 horror. For each act deck the investigators have completed, this skill test gets +1 difficulty and deals +1 damage and +1 horror if it is failed.",
-                "traits": "Scheme."
-        },
-        {
-                "code": "04145",
-                "name": "Nobody's Home",
-                "text": "<b>Revelation</b> - Attach to your location. If there are no clues on your location, Nobody's Home gains surge.\nYou must spend 1 additional action to investigate attached location.\n<b>Forced</b> - If there are no clues on attached location: Discard Nobody's Home.",
-                "traits": "Mystery."
-        },
-        {
-                "code": "04146",
-                "name": "Conspiracy of Blood",
-                "text": "<b>Revelation</b> - Attach Conspiracy of Blood to the current agenda.\nAttached agenda gets -1 doom threshold.\nEach [[cultist]] enemy gains: \"[action] <b>Parley.</b> Test [willpower] (4). If you succeed, discard 1 copy of Conspiracy of Blood from play. If you fail, place 1 doom on this enemy.\"",
-                "traits": "Hex."
-        },
-        {
-                "code": "04147",
-                "name": "Ichtaca",
-                "subname": "The Forgotten Guardian",
-                "text": "You get +1 [combat] (+2 [combat] instead while attacking an enemy with <b>Victory X</b>).\nYou get +1 [agility] (+2 [agility] instead while attempting to evade an enemy with <b>Vengeance X</b>).\n[reaction] After you add an enemy to the victory display, exhaust Ichtaca: You and Ichtaca each heal 1 horror.",
-                "traits": "Ally. Eztli. Wayfarer.",
-                "slot": "Ally"
-        },
-        {
-                "code": "04148",
-                "flavor": "Sunday, July 12th, 1925\n…What have we done?",
-                "name": "Expedition Journal",
-                "text": "You may take an additional action during your turn, which can only be used to explore.",
-                "traits": "Item. Tome."
-        }
+    {
+        "code": "04113",
+        "name": "Threads of Fate",
+        "text": "Easy / Standard\n[skull] : -X. X is the highest number of doom on a [[cultist]] enemy.\n[cultist]: -2. If you do not succeed by at least 1, take 1 damage.\n[tablet]: -2. If you do not succeed by at least 1, place 1 doom on the nearest [[cultist]] enemy.\n[elder_thing]: -2. If you fail, lose 1 of your clues.",
+        "back_text": "Hard / Expert\n[skull] : -X. X is the total number of doom in play.\n[cultist]: -2. If you do not succeed by at least 2, take 1 direct damage.\n[tablet]: -2. If you do not succeed by at least 2, place 1 doom on each [[cultist]] enemy.\n[elder_thing]: -3. If you fail, lose 1 of your clues."
+    },
+    {
+        "code": "04114",
+        "flavor": "Você tem três tarefas diante de si e uma quantidade limitada de tempo antes que a trilha esfrie. Onde você procura primeiro?",
+        "name": "Três Destinos",
+        "text": "[action]: <b>Renuncie.</b> Você não quer arriscar demorar demais, então volta para a segurança com a informação que reuniu.",
+        "back_name": "Com o Sol a Pino",
+        "back_flavor": "A cidade está movimentada, e o meio-dia passa sem esmaecer a agitação. Universitários andam de uma sala de aula para outra, executivos fazem pausas em suas rotinas atarefadas no escritório e em Easttown, o Restaurante da Velma está animado com o movimento do almoço. Apesar deste véu de normalidade, a cortina foi levantada. Você vê esta cidade como ela realmente é: um poço sem fim de segredos.",
+        "back_text": "Embaralhe a pilha de descarte de encontros no baralho de encontros.\nSe houver apenas 2 baralhos de atos em jogo, coloque 1 perdição na agenda 2a quando ela for revelada."
+    },
+    {
+        "code": "04115",
+        "flavor": "Esta conspiração está muito mais entranhada do que você imaginava. Quanto mais tempo passa investigando esses mistérios, mais você percebe que eles estão ligados entre si. No centro de todos esses segredos está uma enigmática organização, manipulando os eventos por debaixo dos panos...",
+        "name": "Por Trás da Cortina",
+        "text": "[action]: <b>Renuncie.</b> Você não quer arriscar demorar demais, então volta para a segurança com a informação que reuniu.",
+        "back_name": "O Sol Se Põe",
+        "back_flavor": "As ruas começam a se esvaziar conforme a noite se aproxima. Quando os prédios comerciais fecham as portas, as casas noturnas abrem, tanto em lugares públicos quanto escondidos. No centro de Arkham, o Teatro Ward está bem iluminado e lotado. As ruas em volta, no entanto, estão estranhamente quietas. Apenas passos suaves vindo de becos próximos insinuam algum sinal de vida e um vento frio assovia pelo ar. O horário comercial pode ter terminado, mas seu trabalho está longe de terminar. As figuras andando pelas ruas começam a trazer uma sensação de apreensão em vez de conforto.",
+        "back_text": "Embaralhe a pilha de descarte de encontros no baralho de encontros.\nSe houver apenas 2 baralhos de atos em jogo, coloque 1 perdição na agenda 3a quando ela for revelada.\nSe houver apenas 1 baralho de atos em jogo, coloque 2 perdições na agenda 3a quando ela for revelada."
+    },
+    {
+        "code": "04116",
+        "flavor": "Em quem você pode confiar nesta cidade de mentiras? Arkham pode estar segura dos perigos da selva, mas você está longe de estar seguro aqui. Cada estranho que passa por você na escuridão da noite pode ser um sequestrador, um ladrão ou um assassino. Cada olhar que eles lhe lançam pode ser a última coisa que verá.",
+        "name": "Emaranhamentos Ocultos",
+        "text": "[action]: <b>Renuncie.</b> Você não quer arriscar demorar demais, então volta para a segurança com a informação que reuniu.",
+        "back_name": "A Noite Passa",
+        "back_flavor": "Midnight arrives, but your work is not done. You wander the streets of Arkham for hours, frustrated as the trails you have pursued grow cold over time. When the sun rises, fatigue has wreaked havoc on your body and mind.",
+        "back_text": "A meia-noite chega, mas seu trabalho não foi concluído. Você vaga pelas ruas de Arkham por horas, frustrado conforme as trilhas que você perseguia esfriam ao longo do tempo. Quando o sol nasce, a fadiga arruinou seu corpo e sua mente.\n\nCada investigador sobrevivente é derrotado e sofre 1 trauma mental."
+    },
+    {
+        "code": "04117a",
+        "flavor": "A relíquia de Eztli foi vista pela última vez em sua redoma na exposição de Eztli no Museu Miskatonic. Ichtaca teme que a relíquia possa ser usada para propósitos terríveis se cair nas mãos erradas. Você precisa recuperá-la!",
+        "name": "A Relíquia Desapareceu!",
+        "text": "<b>Objetivo</b> - Apenas os investigadores na Universidade de Miskatonic podem gastar o número necessário de pistas, em grupo, para avançar.",
+        "back_text": "<b>Revelação</b> - Coloque Exposição de Eztli em jogo.\n<b>Forçado</b> - Após você revelar um símbolo [skull], [cultist], [tablet], [elder_thing] ou [auto_fail] ao investigar Exposição de Eztli: Sofra 1 de horror."
+    },
+    {
+        "code": "04117b",
+        "name": "Exposição de Eztli",
+        "text": "<b>Revelação</b> – Coloque Exposição de Eztli em jogo.\n<b>Forçado</b> – Após você revelar um símbolo [skull], [cultist], [tablet], [elder_thing], ou [auto_fail] ao investigar Exposição de Eztli: Sofra 1 de horror.",
+        "traits": "Miskatonic. Exposição."
+    },
+    {
+        "code": "04118a",
+        "flavor": "A relíquia está sob os cuidados de Harlan, mas ele crê que está sendo seguido. Ele foi visto pela última vez em seu escritório na universidade.",
+        "name": "Harlan Está em Perigo!",
+        "text": "<b>Objetivo</b> - Apenas os investigadores na Universidade de Miskatonic podem gastar o número necessário de pistas, em grupo, para avançar.",
+        "back_traits": "Espectador. Miskatonic.",
+        "back_text": "<b>Revelação</b> – Coloque Harlan Earnstone em jogo em Easttown.\n[action] Descarte as 3 cartas do topo do seu baralho: <b>Negociata</b>. Você tenta tirar Earnstone de seu transe. Teste [intellect] (4). Se você tiver sucesso, coloque 1 pista nele (da reserva de fichas).",
+        "back_flavor": "Quando você o encontra, Harlan está balbuciando incoerentemente e não responde a nada do que você diz."
+    },
+    {
+        "code": "04118b",
+        "flavor": "Quando você o encontra, Harlan está balbuciando incoerentemente e não responde a nada do que você diz.",
+        "name": "Harlan Earnstone",
+        "subname": "Historiador Teórico",
+        "text": "<b>Revelação</b> – Coloque Harlan Earnstone em jogo em Easttown.\n[action] Descarte as 3 cartas do topo do seu baralho: <b>Negociata.</b> Você tenta tirar Earnstone de seu transe. Teste [willpower] (4). Se você tiver sucesso, coloque 1 pista nele <i>(da reserva de fichas)</i>.",
+        "traits": "Espectador. Miskatonic."
+    },
+    {
+        "code": "04119",
+        "flavor": "Um dos seguranças do museu, chamado Drew Walker, reconhece você de seu trabalho anterior com Alejandro e com o Dr. Horowitz. \"Olha, eu não deveria deixar ninguém entrar na exposição... mas os policiais não entendem nada desses disparates.\" Ele se afasta e deixa você passar. \"Se alguém perguntar, você entrou enquanto eu estava no banheiro, tudo bem? Se cuide.\"",
+        "name": "Na Exposição",
+        "text": "<b>Objetivo</b> - Apenas os investigadores na Exposição de Eztli podem gastar o número necessário de pistas, em grupo, para avançar.",
+        "back_name": "A Localização da Relíquia",
+        "back_flavor": "Você procura pela exposição onde a relíquia estaria exposta, procurando sinais de para onde ela pode ter sido levada. Embora não encontre provas concretas, no chão perto da entrada da exposição você nota várias marcas recentes feitas por sapatos masculinos. Você pergunta a Drew quem foi o último a visitar o lugar depois que Alejandro foi embora. \"Uns engravatados. Gente do governo\", ele responde. \"O Sr. Walsted, o curador, autorizou que vissem a exposição.\" Isso está longe de ser prova da localização da relíquia, mas é uma pista — que, com sorte, irá apontar a direção certa.",
+        "back_text": "Coloque em jogo o local separado Prefeitura. Se ele já estiver em jogo, coloque 1 [per_investigator] pistas nele. Anexe o ativo separado Relíquia das Eras à Prefeitura.\nSe houver 2 ou menos baralhos de atos em jogo, coloque 1 [per_investigator] pistas adicionais em Prefeitura.\nAvance para o Ato 3a — \"Encontre a Relíquia\"."
+    },
+    {
+        "code": "04120",
+        "flavor": "Um dos seguranças do museu, chamado Drew Walker, reconhece você de seu trabalho anterior com Alejandro e com o Dr. Horowitz. \"Olha, eu não deveria deixar ninguém entrar na exposição... mas os policiais não entendem nada desses disparates.\" Ele se afasta e deixa você passar. \"Se alguém perguntar, você entrou enquanto eu estava no banheiro, tudo bem? Se cuide.\"",
+        "name": "Na Exposição",
+        "text": "<b>Objetivo</b> - Apenas os investigadores na Exposição de Eztli podem gastar o número necessário de pistas, em grupo, para avançar.",
+        "back_name": "A Trama da Irmandade",
+        "back_flavor": "Você procura pela exposição onde a relíquia estaria exposta, procurando sinais de para onde ela pode ter sido levada. Enquanto procura, você nota uma sombra passar pela parede. Ela logo sai de vista e passos pesados ecoam pelos corredores além da galeria. Será que o culpado ainda está aqui?\nVocê a persegue, mas a figura encapuzada tem a vantagem e logo escapa do museu. Pelo menos agora você tem uma trilha a seguir - e não vai parar enquanto a relíquia não for sua novamente.",
+        "back_text": "Procure no baralho de encontros, na pilha de descarte e no painel de vitórias um Cultista da Irmandade e faça-o surgir no local mais longe de todos os investigadores. Cure todo o dano de cada Cultista da Irmandade em jogo.\nAnexe o ativo separado Relíquia das Eras ao Cultista da Irmandade mais longe de todos os investigadores.\nSe houver 2 ou menos baralhos de atos em jogo, adicione 1 perdição ao Cultista da Irmandade com a Relíquia das Eras anexada.\nAvance para o Ato 3a - \"Recupere a Relíquia.\""
+    },
+    {
+        "code": "04121",
+        "flavor": "Não há sinal de Harlan em seu escritório, mas um dos assistentes no prédio administrativo o informa de que ele tirou o dia de folga e foi para casa em Easttown.",
+        "name": "A Maldição de Harlan",
+        "text": "<b>Objetivo</b> - Se houver 1 [per_investigator] pistas em Harlan Earnstone: Você deve removê-las e avançar imediatamente.",
+        "back_name": "Guardada em Segurança",
+        "back_flavor": "Harlan finalmente acorda de seu transe, voltando ao normal. Ele diz a você que foi acossado por vários indivíduos usando mantos marrons, que perguntaram a ele onde havia escondido a relíquia. Eles usaram algum tipo de hipnose para tirar o conhecimento dele à força. Harlan não teve escolha além de contar a verdade — que havia trazido a relíquia para a Loja de Curiosidades e a deu a um de seus sócios. Se você se apressar, talvez consiga chegar à relíquia antes das figuras de mantos marrons!",
+        "back_text": "Anexe o ativo separado Relicário das Eras à Loja de Curiosidades.\nSe houver 2 ou menos baralhos de atos em jogo, procure no baralho de encontros 1 Acólito (2 Acólitos em vez disso, se houver 3 ou 4 investigadores no jogo). Faça surgir na Loja de Curiosidades cada Acólito que você procurou.\nAvance para o Ato 3a — \"Encontre a Relíquia.\""
+    },
+    {
+        "code": "04122",
+        "flavor": "Não há sinal de Harlan em seu escritório, mas um dos assistentes no prédio administrativo o informa de que ele tirou o dia de folga e foi para casa em Easttown.",
+        "name": "A Maldição de Harlan",
+        "text": "<b>Objetivo</b> - Se houver 1 [per_investigator] pistas em Harlan Earnstone: Você deve removê-las e avançar imediatamente.",
+        "back_traits": "Humanoide. Amaldiçoado. Elite.",
+        "back_text": "<b>Revelação</b> - Coloque esta carta no lugar da versão de ativo de <i>Espectador</i> de Harlan Earnstone, removendo aquela versão do jogo. Anexe o ativo separado Relíquia das Eras a Harlan Earnstone. Avance para o Ato 3a—\"Recupere a Relíquia\".\n\n<b>Forçado</b> - Após você evadir Harlan Earnstone com sucesso por 3 ou mais: Adicione-o ao painel de vitórias.",
+        "back_flavor": "Afetado por uma estranha maldição, Harlan subitamente ataca!"
+    },
+    {
+        "code": "04122b",
+        "flavor": "Afetado por uma estranha maldição, Harlan subitamente ataca!",
+        "name": "Harlan Earnstone",
+        "subname": "Enlouquecido pela Maldição",
+        "text": "<b>Revelação</b> - Coloque esta carta no lugar da versão de ativo de <i>Espectador</i> de Harlan Earnstone, removendo aquela versão do jogo. Anexe o ativo separado Relíquia das Eras a Harlan Earnstone. Avance para o Ato 3a—\"Recupere a Relíquia\".\n<b>Forçado</b> - Após você evadir Harlan Earnstone com sucesso por 3 ou mais: Adicione-o ao painel de vitórias.",
+        "traits": "Humanoide. Amaldiçoado. Elite."
+    },
+    {
+        "code": "04123",
+        "flavor": "Você acredita ter descoberto o paradeiro da relíquia. Agora precisa revirar este lugar de cima a baixo para encontrá-la.",
+        "name": "Encontre a Relíquia",
+        "text": "Enquanto a Relíquia das Eras estiver anexada a um local, esse local recebe +2 de véu.\n<b>Objetivo</b> - Se a Relíquia das Eras estiver anexada a um local sem nenhuma pista restante, avance.",
+        "back_name": "A Relíquia É Encontrada",
+        "back_text": "<b>Se a Relíquia das Eras estiver anexada à Prefeitura:</b>\n<blockquote>Depois de uma hora procurando na Prefeitura de Arkham, você nota um fraco brilho azul emanando por baixo da porta do escritório do planejador urbano. Você arromba a porta sem ser notado. A relíquia está na mesa dele, junto com um mapa da cidade coberto de estranhas marcas e iconografia. Por que a relíquia estava ali?</blockquote>\nO investigador mais próximo da Prefeitura assume o controle da Relíquia das Eras. Remova do jogo o restante do baralho de atos \"a/b\". Se houver outra carta de ato em jogo, continue jogando. Caso contrário, prossiga para <b>(→R1)</b>.\n<hr><b>Se a Relíquia das Eras estiver anexada à Loja de Curiosidades:</b>\n<blockquote>De fato a relíquia estava acondicionada em um canto do estoque da loja, escondida.</blockquote>\nO investigador mais próximo da Loja de Curiosidades assume o controle da Relíquia das Eras. Remova do jogo o restante do baralho de atos \"a/b\". Se houver outra carta de ato em jogo, continue jogando. Caso contrário, prossiga para <b>(→R1)</b>."
+    },
+    {
+        "code": "04124",
+        "flavor": "Você descobriu quem está carregando a relíquia. Agora precisa obtê-la a qualquer custo!",
+        "name": "Recupere a Relíquia",
+        "text": "Enquanto a Relíquia das Eras estiver anexada a um inimigo, esse inimigo ganha +2 [per_investigator] de vida.\n<b>Objetivo</b> - Se o inimigo ao qual a Relíquia das Eras está anexada sair de jogo, avance.",
+        "back_name": "A Relíquia É Recuperada",
+        "back_text": "<b>Se a Relíquia das Eras estava anexada a um Cultista da Irmandade:</b>\n<blockquote>Enquanto a figura encapuzada perde as forças, a relíquia cai de seu manto, caindo no chão e rolando até parar próxima a ele. Ela pulsa com um estranho brilho, como se soubesse que está sendo procurada.</blockquote>\nO investigador mais próximo do Cultista da Irmandade assume o controle da Relíquia das Eras. Remova do jogo o restante do baralho de atos \"a/b\". Se houver outra carta de ato em jogo, continue jogando. Caso contrário, prossiga para <b>(→R1)</b>.\n<hr>\n<b>Se a Relíquia das Eras estiver anexada a Harlan Earnstone:</b>\n<blockquote>Harlan acorda de seu transe e perde as forças, segurando a cabeça dolorida. \"O que eu estava—?\" Ele arregala os olhos quando se dá conta do que fez e puxa a relíquia de seu casaco, oferecendo-a a você. \"Fique com ela!\", ele diz. \"Você pode mantê-la a salvo melhor que eu.\"</blockquote>\nO investigador mais próximo de Harlan Earnstone assume o controle da Relíquia das Eras. Remova do jogo o restante do baralho de atos \"a/b\". Se houver outra carta de ato em jogo, continue jogando. Caso contrário, prossiga para <b>(→R1)</b>."
+    },
+    {
+        "code": "04125a",
+        "flavor": "Você decidiu procurar Alejandro sozinho, acreditando que tem mais chances de encontrá-lo se não envolver a polícia. O hotel dele fica em Easttown, de modo que você começa sua busca por lá.",
+        "name": "Busca por Alejandro",
+        "text": "<b>Objetivo</b> - Apenas os investigadores em Easttown podem gastar o número necessário de pistas, em grupo, para avançar.",
+        "back_traits": "Amigo de Alejandro.",
+        "back_text": "<b>Espectador.</b>\n<b>Revelação</b> - Coloque Henry Deveau em jogo no Restaurante da Velma.\n[action] Escolha e descarte uma carta da sua mão: <b>Negociata.</b> Vocês discutem o paradeiro de Alejandro. Teste [intellect] (3). Se você tiver sucesso, coloque 1 pista nesta carta (da reserva de fichas).",
+        "back_flavor": "Henry está sentado no balcão, bebendo uma xícara de café preto."
+    },
+    {
+        "code": "04125b",
+        "flavor": "Henry está sentado no balcão, bebendo uma xícara de café preto.",
+        "name": "Henry Deveau",
+        "subname": "Amigo de Alejandro",
+        "text": "<b>Revelação</b> - Coloque Henry Deveau em jogo no Restaurante da Velma.\n[action] Escolha e descarte uma carta da sua mão: <b>Negociata.</b> Vocês discutem o paradeiro de Alejandro. Teste [intellect] (3). Se você tiver sucesso, coloque 1 pista nesta carta <i>(da reserva de fichas)</i>.",
+        "traits": "Espectador."
+    },
+    {
+        "code": "04126a",
+        "flavor": "Suspeitando de algum jogo sujo, você decidiu ir à polícia para pedir a ajuda deles na busca por Alejandro.",
+        "name": "Desaparecimentos",
+        "text": "<b>Objetivo</b> - Apenas os investigadores em Easttown podem gastar o número necessário de pistas, em grupo, para avançar.",
+        "subname": "Ato 1c",
+        "back_traits": "Local. Arkham.",
+        "back_text": "<b>Revelação</b> - Coloque a Delegacia de Arkham em jogo.\nEasttown está conectada à Delegacia de Arkham.\n[action]: Procure nas 6 cartas do topo do seu baralho uma carta de <i>Arma</i> e adicione-a à sua mão. Embaralhe o seu baralho."
+    },
+    {
+        "code": "04126b",
+        "name": "Delegacia de Arkham",
+        "text": "<b>Revelação</b> - Coloque a Delegacia de Arkham em jogo.\nEasttown está conectada à Delegacia de Arkham.\n[action]: Procure nas 6 cartas do topo do seu baralho uma carta de <i>Arma</i> e adicione-a à sua mão. Embaralhe o seu baralho.",
+        "traits": "Arkham."
+    },
+    {
+        "code": "04127",
+        "flavor": "A delegacia pode estar aberta ao público em teoria, mas fazer com que sua história seja ouvida pelas autoridades certas exige um pouco mais de finesse que você imaginava.",
+        "name": "Na Delegacia",
+        "text": "<b>Objetivo</b> - Apenas os investigadores na Delegacia de Arkham podem gastar o número necessário de pistas, em grupo, para avançar.",
+        "back_name": "Em Garras Sombrias",
+        "back_flavor": "Nenhum dos policiais viu Alejandro e eles não parecem interessados em ajudar você a encontrá-lo. \"Só faz alguns dias. Ele vai aparecer\", eles dizem. Eles dão desculpas, tentando evitar registrar uma ocorrência. Finalmente, quando você está quase indo embora frustrado, um homem em situação de rua detido por perturbar a paz segura seu cotovelo. \"Eu vi ele!\", ele fala arrastado. \"O homem que você descreveu, eu vi ele no céu, carregado nas garras dela...\" Ele descreve uma criatura alada sem rosto enquanto os policiais à volta riem e reviram os olhos. O homem claramente está bêbado... mas será que ele estava dizendo a verdade?",
+        "back_text": "Procure no baralho de encontros, na pilha de descarte e no painel de vitórias um Noctétrico Caçador e faça-o surgir no local mais longe de todos os investigadores. Cure todo o dano de cada Noctétrico Caçador em jogo.\nAnexe o ativo separado Alejandro Vela ao Noctétrico Caçador mais longe de todos os investigadores.\nAvance para o Ato 3c — \"Alejandro em Perigo\".",
+        "errata_date": "2025-07-11"
+    },
+    {
+        "code": "04128a",
+        "flavor": "A delegacia pode estar aberta ao público em teoria, mas fazer com que sua história seja ouvida pelas autoridades certas exige um pouco mais de finesse que você imaginava.",
+        "name": "Na Delegacia",
+        "text": "<b>Objetivo</b> - Apenas os investigadores na Delegacia de Arkham podem gastar o número necessário de pistas, em grupo, para avançar.",
+        "subname": "Ato 2c",
+        "back_traits": "Local. Arkham.",
+        "back_text": "<b>Revelação</b> - Coloque Linha do Trem em jogo. Anexe o ativo separado Alejandro Vela à Linha do Trem. Avance para o Ato 3c—\"A Prisão de Alejandro\".\nNorthside está conectada à Linha do Trem.\n[action] Gaste 1 pista: Compre 4 cartas. (Limite de uma vez por jogo.)",
+        "back_flavor": "Um dos policiais alega ter visto Alejandro perto da linha do trem, em meio a várias figuras usando mantos..."
+    },
+    {
+        "code": "04128b",
+        "flavor": "Um dos policiais alega ter visto Alejandro perto da linha do trem, em meio a várias figuras usando mantos...",
+        "name": "Linha do Trem",
+        "text": "<b>Revelação</b> - Coloque Linha do Trem em jogo. Anexe o ativo separado Alejandro Vela à Linha do Trem. Avance para o Ato 3c—\"A Prisão de Alejandro\".\nNorthside está conectada à Linha do Trem.\n[action] Gaste 1 pista: Compre 4 cartas. (Limite de uma vez por jogo.)",
+        "traits": "Arkham."
+    },
+    {
+        "code": "04129",
+        "flavor": "Você não consegue entrar no quarto de hotel de Alejandro, então decide perguntar aos hóspedes dos quartos próximos. Um deles informa você de que Alejandro tem se encontrado com um antigo conhecido, um oficial do governo chamado Henry Deveau. Costumam se encontrar toda noite no restaurante da Velma. Talvez você devesse fazer uma visita a Henry?",
+        "name": "Amigos nas Altas Rodas",
+        "text": "<b>Objetivo</b> - Se houver 1 [per_investigator] pistas em Henry Deveau: Você deve removê-las e avançar imediatamente.",
+        "back_name": "A Informação de Henry",
+        "back_flavor": "Henry olha em volta apreensivo, depois se inclina e fala em voz baixa. \"Certo, escute. Eu trabalho em Downtown, como assessor do planejador urbano. Ele é um pouco esquisito. Quieto, com grandes ideias, gosta de se enfurnar no escritório dele por horas e horas.\" Ele esfrega as mãos nervoso. \"Não sei por que ele e Alejandro teriam se encontrado sem eu saber — mas, da última vez que vi Alejandro, era lá que ele estava: andando pelo corredor com meu chefe, ladeados por um par de sujeitos ameaçadores de terno preto.\" Ele se levanta e veste seu casaco, deixando duas moedas na mesa. \"Não fui eu quem te disse isso\", ele insiste antes de partir.",
+        "back_text": "Coloque o local separado Prefeitura em jogo, se ele já não estiver em jogo.\nAnexe o ativo separado Alejandro Vela à Prefeitura.\nAvance para o Ato 3c — \"A Prisão de Alejandro\"."
+    },
+    {
+        "code": "04130a",
+        "flavor": "Você não consegue entrar no quarto de hotel de Alejandro, então decide perguntar aos hóspedes dos quartos próximos. Um deles informa você de que Alejandro tem se encontrado com um antigo conhecido, um oficial do governo chamado Henry Deveau. Costumam se encontrar toda noite no Restaurante da Velma. Talvez você devesse fazer uma visita a Henry?",
+        "name": "Amigos nas Altas Rodas",
+        "text": "<b>Objetivo</b> - Se houver 1 [per_investigator] pistas em Henry Deveau: Você deve removê-las e avançar imediatamente.",
+        "back_traits": "Humanoide. Conspirador. Elite.",
+        "back_text": "<b>Revelação</b> - Coloque esta carta no lugar da versão de ativo de <i>Espectador</i> de Henry Deveau, removendo aquela versão do jogo. Anexe o ativo separado Alejandro Vela a Henry Deveau. Avance para o Ato 3c — “Alejandro em Perigo”.\n<b>Retaliação</b>.",
+        "back_flavor": "Henry afirma saber onde Alejandro está e o leva para fora do restaurante. Quando você o segue por um beco próximo, ele saca uma faca e o ataca!"
+    },
+    {
+        "code": "04130b",
+        "flavor": "Henry afirma saber onde Alejandro está e o leva para fora do restaurante. Quando você o segue por um beco próximo, ele saca uma faca e o ataca!",
+        "name": "Henry Deveau",
+        "subname": "O Sequestrador de Alejandro",
+        "text": "<b>Revelação</b> - Coloque esta carta no lugar da versão de ativo de <i>Espectador</i> de Henry Deveau, removendo aquela versão do jogo. Anexe o ativo separado Alejandro Vela a Henry Deveau. Avance para o Ato 3c — \"Alejandro em Perigo\".\nRetaliação.",
+        "traits": "Humanoide. Conspirador. Elite."
+    },
+    {
+        "code": "04131",
+        "flavor": "Você acredita que Alejandro esteja sendo mantido preso em algum lugar por aqui. Você precisa resgatá-lo!",
+        "name": "A Prisão de Alejandro",
+        "text": "Enquanto Alejandro Vela estiver anexado a um local, esse local ganha +2 de véu.\n<b>Objetivo</b> - Se Alejandro Vela estiver anexado a um local sem nenhuma pista restante, avance.",
+        "back_name": "Alejandro É Encontrado",
+        "back_text": "<b>Se Alejandro Vela estiver anexado à Linha do Trem:</b>\n<blockquote>Após procurar por toda parte durante quase uma hora, você ouve uma voz vinda de um vagão de carga. Alejandro está preso lá dentro, murmurando para si mesmo. \"Graças a Deus!\", ele exclama quando você entra. \"Estava tentando entender por que eles me trouxeram aqui...\"</blockquote>\nO investigador mais próximo da Linha do Trem assume o controle de Alejandro Vela. Remova do jogo o restante do baralho de atos \"c/d\". Se houver outra carta de ato em jogo, continue jogando. Caso contrário, prossiga para <b>(→R1)</b>.\n<hr><b>Se Alejandro Vela estiver anexado à Prefeitura:</b>\n<blockquote>Você consegue se infiltrar no porão da prefeitura sem ser visto. Você encontra Alejandro em um dos escritórios no porão. Ele não está imobilizado, mas se alegra em vê-lo. \"Graças a Deus! Eles me trouxeram aqui à força. Mas não sei o motivo...\"</blockquote>\nO investigador mais próximo da Prefeitura assume o controle de Alejandro Vela. Remova do jogo o restante do baralho de atos \"c/d\". Se houver outra carta de ato em jogo, continue jogando. Caso contrário, prossiga para <b>(→R1)</b>."
+    },
+    {
+        "code": "04132",
+        "flavor": "Você acredita ter descoberto a identidade do sequestrador de Alejandro. Agora precisará lutar para resgatar seu companheiro!",
+        "name": "Alejandro em Perigo",
+        "text": "Enquanto Alejandro Vela estiver anexado a um inimigo, esse inimigo ganha +2 [per_investigator] de vida.\n<b>Objetivo</b> - Se o inimigo ao qual Alejandro Vela está anexado sair de jogo, avance.",
+        "back_name": "Alejandro É Resgatado",
+        "back_text": "<b>Se Alejandro Vela estava anexado a um Noctétrico Caçador:</b>\n<blockquote><i>Alejandro cai no chão junto ao corpo da criatura alada. Ele tosse e se levanta, tremendo. \"A-aquela fera! Ela me pegou com suas garras... para onde será que ela estava me levando?\"</i></blockquote>\nO investigador mais próximo do Noctétrico Caçador assume o controle de Alejandro Vela. Remova do jogo o restante do baralho de atos \"c/d\". Se houver outra carta de ato em jogo, continue jogando. Caso contrário, prossiga para <b>(→R1)</b>.\n<hr>\n<b>Se Alejandro Vela estava anexado a Henry Deveau:</b>\n<blockquote><i>Henry cai no chão, exausto e sangrando. \"Espere! Eu... eu digo a você onde encontrar Alejandro!\" Ele lhe entrega um endereço em Rivertown e você segue as direções. Dentro do prédio empresarial abandonado está Alejandro, não imobilizado e está alegre em ver você. \"Graças a Deus! Você precisa me tirar daqui!\"</i></blockquote>\nO investigador mais próximo de Henry Deveau assume o controle de Alejandro Vela. Remova do jogo o restante do baralho de atos \"c/d\". Se houver outra carta de ato em jogo, continue jogando. Caso contrário, prossiga para <b>(→R1)</b>."
+    },
+    {
+        "code": "04133a",
+        "flavor": "Ichtaca lhe disse para não segui-la, mas você não consegue deixar de pensar no que ela estará planejando. Você decide persegui-la quando ela vai em direção à margem do rio...",
+        "name": "A Prova da Caçadora",
+        "text": "<b>Objetivo</b> - Apenas os investigadores em Rivertown podem gastar o número necessário de pistas, em grupo, para avançar.",
+        "back_traits": "Caverna.",
+        "back_text": "<b>Revelação</b> - Coloque Caverna Negra em jogo.\n<b>Forçado</b> - Ao final do seu turno, se você estiver na Caverna Negra: Você deve sofrer 1 de horror ou escolher e descartar 2 cartas da sua mão."
+    },
+    {
+        "code": "04133b",
+        "name": "Caverna Negra",
+        "text": "<b>Revelação</b> - Coloque Caverna Negra em jogo.\n<b>Forçado</b> - Ao final do seu turno, se você estiver na Caverna Negra: Você deve sofrer 1 de horror ou escolher e descartar 2 cartas da sua mão.",
+        "traits": "Caverna."
+    },
+    {
+        "code": "04134a",
+        "flavor": "Ichtaca lhe diz que viu vários artefatos de Eztli à venda na estranha loja perto do limite norte da cidade. Ela quer ir naquela direção para investigar mais.",
+        "name": "A Investigação da Guardiã",
+        "text": "<b>Objetivo</b> - Apenas os investigadores em Northside podem gastar o número necessário de pistas, em grupo, para avançar.",
+        "back_traits": "Mecenas Rica.",
+        "back_text": "<i>Espectador.</i>\n<b>Revelação</b> - Coloque Maria DeSilva em jogo na Loja de Curiosidades.\n[action] Gaste 1 recurso: <b>Negociata.</b> Você conversa com Maria sobre os artefatos à venda. Teste [intellect] (3). Se você tiver sucesso, coloque 1 pista nela (da reserva de fichas).",
+        "back_flavor": "“Magníficos, não acha?”"
+    },
+    {
+        "code": "04134b",
+        "flavor": "\"Magníficos, não acha?\"",
+        "name": "Maria DeSilva",
+        "subname": "Mecenas Rica",
+        "text": "<b>Revelação</b> - Coloque Maria DeSilva em jogo na Loja de Curiosidades.\n[action] Gaste 1 recurso: <b>Negociata.</b> Você conversa com Maria sobre os artefatos à venda. Teste [intellect] (3). Se você tiver sucesso, coloque 1 pista nela <i>(da reserva de fichas)</i>.",
+        "traits": "Espectador."
+    },
+    {
+        "code": "04135",
+        "flavor": "Você viu Ichtaca entrar sozinha nesta caverna abandonada. O que ela está fazendo neste estranho lugar?",
+        "name": "A Caverna da Escuridão",
+        "text": "<b>Objetivo</b> - Apenas os investigadores na Caverna Negra podem gastar o número necessário de pistas, em grupo, para avançar. Não pode haver pistas restantes na Caverna Negra para avançar este ato.",
+        "back_name": "Envolvida na Batalha",
+        "back_flavor": "Enquanto você procura sua companheira, um grito estridente ecoa pela caverna, incitando-o a avançar. No fundo da caverna, você encontra Ichtaca no meio de uma batalha contra várias figuras usando mantos. Ela solta uma flecha de seu arco, atingindo uma delas no peito, depois se agacha atrás de um afloramento de pedra ao ver você entrar. Uma onda de energia arcana atinge o lugar onde ela estava momentos antes, chamuscando o chão. \"O que você está fazendo aqui?\", ela grita com raiva.",
+        "back_text": "Embaralhe a pilha de descarte de encontros no baralho de encontros. Descarte cartas do topo do baralho de encontros até que um inimigo <b>Cultista</b> seja descartado (2 inimigos <b>Cultistas</b>, em vez disso, se houver 2 ou menos baralhos de atos restantes).\nFaça surgir esses inimigos na Caverna Negra (em vez dos locais de surgimento normais deles). Até o fim deste cenário, lembre-se de que esses inimigos são a \"presa de Ichtaca\".\nAvance para o Ato 3e - \"A Irmandade é Revelada.\""
+    },
+    {
+        "code": "04136",
+        "flavor": "Você viu Ichtaca entrar sozinha nesta caverna abandonada. O que ela está fazendo neste estranho lugar?",
+        "name": "A Caverna da Escuridão",
+        "text": "<b>Objetivo</b> - Apenas os investigadores na Caverna Negra podem gastar o número necessário de pistas, em grupo, para avançar. Não pode haver pistas restantes na Caverna Negra para avançar este ato.",
+        "back_name": "Túneis na Escuridão",
+        "back_flavor": "Você segue Ichtaca pela caverna, ecoando de perto os movimentos dela enquanto se mantém oculto. Ela atravessa a caverna com a habilidade de uma exploradora nata, descobrindo caminhos que você não havia notado à primeira vista. Para sua surpresa, os túneis escuros se inclinam para cima, levando você mais próximo da superfície. Você ouve Ichtaca abrir e fechar algo metálico mais à frente. Quando chega aonde ela estava, vê uma pesada grade de metal acima de você, que leva para o porão de um prédio ao norte da entrada da caverna.",
+        "back_text": "Coloque o local separado Prefeitura em jogo, se ele já não estiver em jogo. Lembre-se de que a Prefeitura é o \"destino de Ichtaca\". Pelo restante do jogo, Caverna Negra e Prefeitura estão conectadas entre si.\nUm de cada vez, na ordem dos jogadores, cada investigador descarta a carta do topo do baralho de encontros. Cada investigador que descartar uma carta de traição deve comprá-la.\nAvance para o Ato 3e — \"Estranhas Ocorrências\"."
+    },
+    {
+        "code": "04137a",
+        "flavor": "Dentro da loja, uma mulher de meia-idade vestindo a mais alta moda examina admirada as relíquias de Eztli à mostra. Como essas relíquias vieram parar aqui? E o que essa mulher sabe sobre tudo isso?",
+        "name": "Estranhas Relíquias",
+        "text": "<b>Objetivo</b> - Se houver 1 [per_investigator] pistas em Maria DeSilva: Você deve removê-las e avançar imediatamente.",
+        "back_traits": "Humanoide. Conspirador. Elite.",
+        "back_text": "<b>Revelação</b> - Coloque esta carta no lugar da versão de ativo de <i>Espectador de Maria DeSilva</i>, removendo aquela versão do jogo. Lembre-se de que ela é a \"presa de Ichtaca\". Avance para o Ato 3e—\"A Irmandade é Revelada\".\nRetaliação.\n\"Você não entende com o que está se metendo!\"\nVitória 1."
+    },
+    {
+        "code": "04137b",
+        "flavor": "\"Você não entende com o que está se metendo!\"",
+        "name": "Maria DeSilva",
+        "subname": "Sabe Mais do que Parece",
+        "text": "<b>Revelação</b> - Coloque esta carta no lugar da versão de ativo de <i>Espectador</i> de Maria DeSilva, removendo aquela versão do jogo. Lembre-se de que ela é \"presa de Ichtaca\". Avance para o Ato 3e—\"A Irmandade é Revelada\".\nRetaliação.",
+        "traits": "Humanoide. Conspirador. Elite."
+    },
+    {
+        "code": "04138",
+        "flavor": "Dentro da loja, uma mulher de meia-idade vestindo a mais alta moda examina admirada as relíquias de Eztli à mostra. Como essas relíquias vieram parar aqui? E o que essa mulher sabe sobre tudo isso?",
+        "name": "Estranhas Relíquias",
+        "text": "<b>Objetivo</b> - Se houver 1 [per_investigator] pistas em Maria DeSilva: Você deve removê-las e avançar imediatamente.",
+        "back_name": "A Informação de Maria",
+        "back_flavor": "Maria traga seu cigarro antes de responder suas perguntas. Ela diz que ouviu alguns mecenas abastados dando lances exorbitantes pelos artefatos de Eztli. \"Eu nem sequer sei de onde vieram estes artefatos, mas essas pessoas pareciam saber exatamente o que estavam procurando\", ela afirma. Talvez, seguindo o rastro do dinheiro, você descubra mais sobre este grupo que age nas sombras de Arkham...",
+        "back_text": "Lembre-se de que tanto Downtown quanto Rivertown são \"destinos de Ichtaca.\"\nUm de cada vez, na ordem dos jogadores, cada investigador descarta a carta do topo do baralho de encontros. Cada investigador que descartar uma carta de traição deve comprá-la.\nAvance para o Ato 3e — \"Estranhas Ocorrências\"."
+    },
+    {
+        "code": "04139",
+        "flavor": "Ichtaca encontrou o alvo de sua investigação. A trilha dos misteriosos cultos leva até aqui. Uma busca criteriosa pela área pode revelar mais...",
+        "name": "Estranhas Ocorrências",
+        "text": "Enquanto você estiver em algum dos \"destinos de Ichtaca\", a primeira traição que você comprar do baralho de encontros em cada rodada ganha ímpeto.\n<b>Objetivo</b> - Se não houver pistas em nenhum dos \"destinos de Ichtaca\", avance.",
+        "back_name": "Descobrimos a Conspiração",
+        "back_text": "<b>Se o \"destino de Ichtaca\" era a Prefeitura:</b>\n<blockquote>Por algum motivo, os túneis se conectam a uma passagem secreta no porão da prefeitura de Arkham. Você encontra Ichtaca em uma sala escura, examinando vários mapas da cidade. \"O que está fazendo aqui?\", ela pergunta, acusando. \"Não importa. Você está aqui agora. Me ajude a ler estes documentos e entender o que está acontecendo aqui.\"</blockquote>\nO investigador mais próximo da Prefeitura assume o controle do ativo separado Ichtaca <i>(A Guardiã Esquecida)</i>. Remova do jogo o restante do baralho de atos \"e/f\". Se houver outra carta de ato em jogo, continue jogando. Caso contrário, prossiga para <b>(→R1)</b>.\n<hr>\n<b>Se os \"destinos de Ichtaca\" eram Downtown e Rivertown:</b>\n<blockquote>Usando informação do banco, você rastreia os compradores até um armazém em Rivertown. Lá dentro, você encontra muitos dados sobre as relíquias de Eztli e a expedição de Alejandro.</blockquote>\nO investigador mais próximo de Rivertown assume o controle do ativo separado Ichtaca <i>(A Guardiã Esquecida)</i>. Remova do jogo o restante do baralho de atos \"e/f\". Se houver outra carta de ato em jogo, continue jogando. Caso contrário, prossiga para <b>(→R1)</b>."
+    },
+    {
+        "code": "04140",
+        "flavor": "Ichtaca encontrou o alvo de sua caçada. O misterioso culto foi revelado — mas qual será seu propósito final?",
+        "name": "A Irmandade é Revelada",
+        "text": "Cada \"presa de Ichtaca\" ganha +1 de luta, +1 [per_investigator] de vida e +1 de evasão enquanto estiver em um local sem pistas.\n<b>Objetivo</b> - Se não restar nenhuma \"presa de Ichtaca\" em jogo, avance.",
+        "back_name": "Por Um Triz",
+        "back_text": "<b>Se a \"presa de Ichtaca\" era 1 ou mais inimigos Cultistas:</b>\n<blockquote>A última figura de manto cai no chão e você suspira aliviado. Ichtaca recupera suas flechas e procura pistas nos corpos. \"Por que me seguiu?\", ela pergunta, acusando. \"Não importa. O que passou, passou. Agora é descobrir o que estes cretinos sabiam.\"</blockquote>\nO investigador mais próximo da Caverna Negra assume o controle do ativo separado Ichtaca (A Guardiã Esquecida). Remova do jogo o restante do baralho de atos \"e/f\". Se houver outra carta de ato em jogo, continue jogando. Caso contrário, prossiga para (→R1).\n<hr><b>Se a \"presa de Ichtaca\" era Maria DeSilva:</b>\n<blockquote>Você interroga Maria enquanto a guerreira de Eztli se impõe furiosa sobre ela. \"Para quem você trabalha? Qual é seu propósito?\" Maria cerra os lábios com força e depois vira a cara, olhando para longe. \"Vou contar o que vocês precisam saber. Contarei sobre a Irmandade.\"</blockquote>\nO investigador mais próximo de Maria DeSilva assume o controle do ativo separado Ichtaca (A Guardiã Esquecida). Remova do jogo o restante do baralho de atos \"e/f\". Se houver outra carta de ato em jogo, continue jogando. Caso contrário, prossiga para (→R1)."
+    },
+    {
+        "code": "04141",
+        "flavor": "Um pouco de calor em uma cidade cinzenta.",
+        "name": "Restaurante da Velma",
+        "text": "Easttown está conectado ao Restaurante da Velma.\n[action][action][action]: Você passa algum tempo no restaurante, ouvindo as conversas dos clientes à sua volta. Ganhe 2 pistas da reserva de fichas. (Limite de uma vez por jogo.)",
+        "traits": "Arkham.",
+        "back_flavor": "O Restaurante da Velma é um lugar tradicional de Easttown — o lugar perfeito para encontrar algo para comer, um copo de café forte ou alguma fofoca interessante.",
+        "back_text": "Easttown está conectado ao Restaurante da Velma.",
+        "back_traits": "Arkham."
+    },
+    {
+        "code": "04142",
+        "flavor": "Um sino de bronze toca quando você empurra a porta da frente. Lá dentro, a loja é empoeirada e desorganizada. Ao inspecionar os estranhos itens, os pelos em seu braço se arrepiam.",
+        "name": "Loja de Curiosidades",
+        "text": "Northside está conectado à Loja de Curiosidades.\nEnquanto você estiver na Loja de Curiosidades, reduza em 2 o custo de cada ativo de <b>Relíquia</b> que você jogar.",
+        "traits": "Arkham.",
+        "back_flavor": "Pertencendo a Oliver Thomas, a chamada \"Loja de Curiosidades\" em Northside é uma loja incomum. Em exibição na vitrine da frente está uma coleção de estranhos badulaques: um balde para carvão feito de bronze, um carrinho de bebê, um globo antigo e uma miniatura de barco a vela, só para citar alguns.",
+        "back_text": "Northside está conectado à Loja de Curiosidades."
+    },
+    {
+        "code": "04143",
+        "name": "Prefeitura",
+        "text": "Downtown está conectado à Prefeitura.\n<b>Forçado</b> - Após você entrar na Prefeitura, se você tiver 4 ou mais cartas na mão: Escolha e descarte cartas da sua mão até você ter 3 cartas na mão.",
+        "traits": "Arkham.",
+        "back_flavor": "A prefeitura de Arkham é um prédio silencioso, discreto, próximo à Praça da Independência. Uma pequena torre de relógio se ergue do telhado inclinado, os números desgastados por anos de negligência.",
+        "back_text": "Downtown está conectado à Prefeitura."
+    },
+    {
+        "code": "04144",
+        "name": "O Segredo Deve Ser Guardado",
+        "text": "Perigo.\n<b>Revelação</b> – Teste [willpower] (3). Se você falhar, sofra 1 de dano e 1 de horror. Para cada baralho de atos que os investigadores completaram, este teste de perícia recebe +1 de dificuldade e causa +1 de dano e +1 de horror em caso de falha.",
+        "traits": "Esquema."
+    },
+    {
+        "code": "04145",
+        "name": "Ninguém em Casa",
+        "text": "<b>Revelação</b> - Anexe ao seu local. Se não houver pistas no seu local, Ninguém em Casa ganha ímpeto.\nVocê deve gastar 1 ação adicional para investigar o local anexado.\n<b>Forçado</b> - Se não houver pistas no local anexado: Descarte Ninguém em Casa.",
+        "traits": "Mistério."
+    },
+    {
+        "code": "04146",
+        "name": "Conspiração de Sangue",
+        "text": "<b>Revelação</b> - Anexe Conspiração de Sangue à agenda atual.\nA agenda anexada recebe -1 no limiar de perdição.\nCada inimigo <b>Cultista</b> ganha: \"[action]: <b>Negociata.</b> Teste [willpower] (4). Se você tiver sucesso, descarte 1 cópia de Conspiração de Sangue de jogo. Se você falhar, coloque 1 perdição neste inimigo.\"",
+        "traits": "Sortilégio."
+    },
+    {
+        "code": "04147",
+        "name": "Ichtaca",
+        "subname": "A Guardiã Esquecida",
+        "text": "Você recebe +1 [combat] (+2 [combat] em vez disso enquanto estiver atacando um inimigo com <b>Vitória X</b>).\nVocê recebe +1 [agility] (+2 [agility] em vez disso enquanto estiver tentando evadir um inimigo com <b>Vingança X</b>).\n[reaction] Após adicionar um inimigo ao painel de vitórias, esgote Ichtaca: Você e Ichtaca curam 1 de horror cada.",
+        "traits": "Aliado. Eztli. Viajante.",
+        "slot": "Ally"
+    },
+    {
+        "code": "04148",
+        "flavor": "Domingo, 12 de julho de 1925\n... O que nós fizemos?",
+        "name": "Diário da Expedição",
+        "text": "Você pode realizar uma ação adicional no seu turno, que só pode ser usada para explorar.",
+        "traits": "Item. Tomo."
+    }
 ]

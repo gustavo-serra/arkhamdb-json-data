@@ -1,172 +1,179 @@
 [
-        {
-                "code": "05325",
-                "name": "Before the Black Throne",
-                "text": "Easy / Standard\n[skull]: -X. X is half of the doom on Azathoth (rounded up), to a minimum of 2.\n[cultist]: Reveal another token. If you fail, search the encounter deck and discard pile for a [[Cultist]] enemy and draw it. Shuffle the encounter deck.\n[tablet]: -2. If you fail, Azathoth attacks you.\n[elder_thing]: -4. If your modified skill value for this test is 0, place 1 doom on Azathoth.",
-                "back_text": "Hard / Expert\n[skull]: -X. X is the amount of doom on Azathoth, to a minimum of 2.\n[cultist]: Reveal another token. If you fail, search the encounter deck and discard pile for a [[Cultist]] enemy and draw it. Shuffle the encounter deck.\n[tablet]: -3. If you fail, Azathoth attacks you.\n[elder_thing]: -6. If your modified skill value for this test is 0, place 1 doom on Azathoth."
-        },
-        {
-                "code": "05326",
-                "flavor": "ONE END IS ANOTHER BEGINNING.\nCHANGE IS THE ONLY CONSTANT.\nYOUR ULTIMATE FATE IS AT HAND.",
-                "name": "WHEEL OF FORTUNE · X",
-                "text": "Each location is connected to each location adjacent to it.\nDo not remove doom from enemies when this agenda advances.",
-                "back_name": "Rejoice, For the End is Near!",
-                "back_flavor": "Somehow, you're not the only human here. They are but mindless husks - almost entirely devoid of humanity, nothing but flesh, muscle, and bone, preserved for eternity in their single-minded passion, kneeling and chanting in foul worship: \"Azathoth! Azathoth! The end has come!\"",
-                "back_text": "Each [[Cultist]] enemy commits ritual suicide. Discard each [[Cultist]] enemy in play and move all doom from them to Azathoth.\nThe lead investigator must search the encounter deck and discard pile for a copy of Daemonic Piping and draw it.\n<hr><blockquote><i>Endless walkways and steps of black stone are the only routes which guide you to your destination. It is an impossible maze to navigate.</i></blockquote>\nCheck Campaign Log. If <i>Gilman's Journal</i> is listed under \"Mementos Discovered,\" you are able to find you way. Otherwise, you become hopelessly lost; each investigator must either move to the location to his or her left, or move the placement of his or her location once to the left (placing an empty space in the spot it previously occupied). A location cannot move more than once via this effect."
-        },
-        {
-                "code": "05327",
-                "flavor": "...the boundless daemon-sultan Azathoth, whose name no lips dare speak aloud, and who gnaws hungrily in inconceivable, unlighted chambers beyond time amidst the muffled, maddening beating of vile drums and the thin, monotonous whine of accursed flutes...\n- H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>",
-                "name": "It Awaits",
-                "text": "Each location is connected to each location adjacent to it.\nDo not remove doom from enemies when this agenda advances.",
-                "back_name": "Gnawing Hungrily",
-                "back_text": "Each [[Cultist]] enemy commits ritual suicide. Discard each [[Cultist]] enemy in play and move all doom from them to Azathoth.\nThe lead investigator must search the encounter deck and discard pile for a copy of Daemonic Piping and draw it.\n<hr><blockquote><i>In this oblivion outside time, nothing is as it should be. The mist dances and churns around you. Laughter mocks you from beyond, and out from the dark nebulae emerges a familiar wraith, a being which should be long dead.</i></blockquote>\nCheck Campaign Log. If <i>Worn Crucifix</i> is listed under \"Mementos Discovered,\" the wraith recognizes the crucifix you stole from Walter Gilman's room and backs away slowly, slinking into the darkness beyond.\nOtherwise, the wraith attacks you; each investigator must test [willpower] (4). Each investigator who fails takes 1 damage and 1 horror."
-        },
-        {
-                "code": "05328",
-                "flavor": "...that leering, tittering shantak coursed on impetuous and relentless, flapping its great slippery wings in malignant joy, and headed for those unhallowed pits whither no dreams reach... \n- H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>",
-                "name": "The Final Countdown",
-                "text": "Each location is connected to each location adjacent to it.\nDo not remove doom from enemies when this agenda advances. (<i>Beware - the scenario will not end when this agenda advances, but the doom of the world will be close at hand.</i>)",
-                "back_name": "Azathoth Stirs",
-                "back_text": "Each [[Cultist]] enemy commits ritual suicide. Discard each [[Cultist]] enemy in play and move all doom from them to Azathoth.\nThe lead investigator must search the encounter deck and discard pile for a copy of Daemonic Piping and draw it.\nThere is no longer an agenda deck, but the scenario is not over. Until the end of the scenario, doom that would be placed on the current agenda is instead placed on Azathoth, and all doom in play is considered to be on Azathoth.\n<hr><blockquote><i>You come across another circle of Azathoth's worshippers, led by a hooded, shapeless form which holds an ancient lantern high above its head. The lantern's dim grey light scarcely pierces the realm's darkness. Somehow, the phantom is familiar to you; some vague sense of kinship drives you onward.</i></blockquote>\nCheck Campaign Log. If <i>Corn Husk Doll</i> is listed under \"Mementos Discovered,\" the creature recognizes you, as well. It peers at you curiously, and the circle of prayer is silenced; remove 1 doom from Azathoth. Otherwise, the creature barely notices you, and the circle resumes its chanting."
-        },
-        {
-                "code": "05329",
-                "flavor": "From the horizonless breach in the gaping maw of the sky, you have traveled an impossible distance, and yet you are still many leagues from the nighted throne where Azathoth stirs.",
-                "name": "The Cosmos Beckons",
-                "text": "[action] Spend X clues: Draw the top X cards of the Cosmos. Choose one to put into play using its \"<b>Cosmos</b> -\" instructions, and move to it. Shuffle the rest back into the Cosmos.\n<b>Objective</b> - Only investigators at Hideous Palace may spend the requisite number of clues, as a group, to advance. (<i>Beware - any investigator who is not there will be killed.</i>)",
-                "back_name": "Palace of the Old Ones",
-                "back_flavor": "Your steed carries you through the entryway of the nightmarish palace, and you are surprised to find the halls inside to be as vast and cavernous as the empty space surrounding it. It is as though the doorway was but the threshold of another universe, as desolate and boundless as the last.",
-                "back_text": "Remove Cosmic Ingress from the game. Shuffle each empty space into its owner's deck and each location in play other than Hideous Palace into the Cosmos. Each investigator at those locations is left behind and is killed. Each enemy at those locations is shuffled into the top 5 cards of the encounter deck.\nTake the set-aside Court of the Great Old Ones and the top 2 cards of the Cosmos, and shuffle them so you cannot tell which is which. Then, put them into play along with empty space, as depicted in \"Location Placement for Act 2\" in the Campaign Guide.\nIn player order, each investigator draws the top card of the encounter deck.",
-                "errata_date": "2020-03-01"
-        },
-        {
-                "code": "05330",
-                "flavor": "Your bones shiver violently with the silent, still cold of this empty place. No light penetrates these black halls. No warmth reaches you, no breeze touches your skin. This must be what death feels like, you think morbidly.",
-                "name": "In Azathoth's Domain",
-                "text": "[action] Spend X clues: Draw the top X cards of the Cosmos. Choose one to put into play using its \"<b>Cosmos</b> -\" instructions, and move to it. Shuffle the rest back into the Cosmos.\n<b>Objective</b> - Only investigators at Court of the Great Old Ones may spend the requisite number of clues, as a group, to advance. (<i>Beware - any investigator who is not there will be killed.</i>)",
-                "back_name": "Nucleaus of the Universe",
-                "back_flavor": "The winged creature lands on a winding walkway of black stone, extending into a ceaseless horizon of pitched void. It takes some prodding and encouragement before your steed continues onward. Even the most dreadful of beasts are terrified of this place, it seems. Yet still, you can hear the mindless chanting of those who dwell closest to the daemon-sultan, the maddening whining of the pipers, the monotonous drum-beats which thrum endlessly in your mind...",
-                "back_text": "Remove Hideous Palace from the game. Shuffle each empty space into its owner's deck and each location in play other than Court of the Great Old Ones into the Cosmos. Each investigator at those locations is left behind and is killed. Each enemy at those locations is shuffled into the top 5 cards of the encounter deck.\nTake the set-aside The Black Throne and the top 3 cards of the Cosmos, and shuffle them so you cannot tell which is which. Then, put them into play along with empty space, as depicted in \"Location Placement for Act 3\" in the Campaign Guide.\nIn player order, each investigator draws the top card of the encounter deck.",
-                "errata_date": "2025-07-11"
-        },
-        {
-                "code": "05331",
-                "flavor": "You are close now. You can feel the churning and twisting of aeons in the emptiness around you. Here, in the nucleus of all things - the very center of chaos itself - your objective, and your ultimate fate, lie at hand.",
-                "name": "What Must Be Done",
-                "text": "[action] Spend X clues: Draw the top X cards of the Cosmos. Choose one to put into play using its \"<b>Cosmos</b> -\" instructions, and move to it. Shuffle the rest back into the Cosmos.\n<b>Objective</b> - If the lead investigator is at The Black Throne and there are no clues on it, advance.",
-                "back_name": "The End",
-                "back_flavor": "You stand on a precipice before the Black Throne and gaze up at the blind, voiceless monstronsity that is Azathoth. The mere sight of it causes your vision to blur and your body to shake uncontrollably. The monotonous piping is so loud now, it rattles your bones and nearly causes you to vomit from the force upon your insides. Blood drips from your eyes and your ears.\nShould Azathoth awaken, it will devour every world that ever was. You must act now, before it is too late.",
-                "back_text": "Check Campaign Log.\n- If at least two of the following are true, you may proceed to <b>(→R2)</b>: <i>You accepted your fate</i>, <i>Mesmirizing Flute</i> is listed under \"Mementos Discovered,\" and <i>Ritual Components</i> is listed under \"Mementos Discovered.\"\n- If at least two of the following are true, you may proceed to <b>(→R3)</b>: <i>You rejected your fate</i>, <i>Scrap of Torn Shadow</i> is listed under \"Mementos Discovered,\" and <i>Wisp of Spectral Mist</i> is listed under \"Mementos Discovered.\"\n- Otherwise, <b>(→R4)</b>."
-        },
-        {
-                "code": "05332",
-                "name": "Cosmic Ingress",
-                "text": "<b>Forced</b> - At the end of the round: Add clues to Cosmic Ingress until it has 3 clues on it.\nEach [[Void]] location gains: \"[action]: Shuffle this location into the Cosmos, moving each investigator and enemy that was at this location to Cosmic Ingress.\"",
-                "traits": "Otherworld.",
-                "back_flavor": "...that eldritch scaly monster bore its helpless rider; hurtling and shooting, cleaving the uttermost rim and spanning the outermost abysses; leaving behind the stars and the realms of matter, and darting meteor-like through stark formlessness toward those inconceivable, unlighted chambers beyond Time...\n- H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>"
-        },
-        {
-                "code": "05333",
-                "name": "Hideous Palace",
-                "text": "<b>Forced</b> - At the end of the round: Add clues to Hideous Palace until it has 4 clues on it.\nEach [[Void]] location gains: \"[action]: Shuffle this location into the Cosmos, moving each investigator and enemy that was at this location to Hideous Palace.\"",
-                "traits": "Otherworld.",
-                "back_name": "Cosmos",
-                "back_flavor": "The stars danced mockingly, almost shifting now and then to form pale signs of doom that one might wonder one had not seen and feared before; and ever the winds of aether howled of vague blackness and loneliness beyond the cosmos.\n- H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>"
-        },
-        {
-                "code": "05334",
-                "name": "Court of the Great Old Ones",
-                "text": "<b>Forced</b> - At the end of the round: Add clues to Court of the Great Old Ones until it has 6 clues on it.\nEach [[Void]] location gains: \"[action]: Shuffle this location into the Cosmos, moving each investigator and enemy that was at this location to Court of the Great Old Ones.\"",
-                "traits": "Otherworld.",
-                "back_name": "Cosmos",
-                "back_flavor": "The stars danced mockingly, almost shifting now and then to form pale signs of doom that one might wonder one had not seen and feared before; and ever the winds of aether howled of vague blackness and loneliness beyond the cosmos.\n- H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>"
-        },
-        {
-                "code": "05335",
-                "flavor": "...the ultimate nighted throne of the daemon Azathoth in the formless central void.\n- H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>",
-                "name": "The Black Throne",
-                "text": "The Black Throne gets +X shroud, where X is half of the doom on Azathoth (rounded up).\n<b>Haunted</b> - You must either place 1 doom on Azathoth, or Azathoth attacks you.",
-                "traits": "Otherworld.",
-                "back_name": "Cosmos",
-                "back_flavor": "The stars danced mockingly, almost shifting now and then to form pale signs of doom that one might wonder one had not seen and feared before; and ever the winds of aether howled of vague blackness and loneliness beyond the cosmos.\n- H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>"
-        },
-        {
-                "code": "05336",
-                "name": "Dancer's Mist",
-                "text": "<b>Cosmos</b> - You must either connect to the right, or lose 2 resources and connect to an adjacent location in a direction of your choice.\n[reaction] After you move to Dancer's Mist, remove 1 resource from the scenario reference card: Move to a connecting location.",
-                "traits": "Otherworld. Void.",
-                "back_name": "Cosmos",
-                "back_flavor": "The stars danced mockingly, almost shifting now and then to form pale signs of doom that one might wonder one had not seen and feared before; and ever the winds of aether howled of vague blackness and loneliness beyond the cosmos.\n- H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>"
-        },
-        {
-                "code": "05337",
-                "name": "Flight into Oblivion",
-                "text": "<b>Cosmos</b> - You must either connect above, or take 2 horror and connect to the topmost revealed location in a direction of your choice.\n[action] Remove 1 resource from the scenario reference card: Move the placement of Flight into Oblivion once upward, placing an empty space in the spot it previously occupied. (Group limit once per game.)",
-                "traits": "Otherworld. Void.",
-                "back_name": "Cosmos",
-                "back_flavor": "The stars danced mockingly, almost shifting now and then to form pale signs of doom that one might wonder one had not seen and feared before; and ever the winds of aether howled of vague blackness and loneliness beyond the cosmos.\n- H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>"
-        },
-        {
-                "code": "05338",
-                "name": "Infinity of Darkness",
-                "text": "<b>Cosmos</b> - You must either connect below, or take 2 damage and connect to the bottommost revealed location in a direction of your choice.\n[action] Remove 1 resource from the scenario reference card: Move the placement of Infinity of Darkness once downward, placing an empty space in the spot it previously occupied. (Group limit once per game.)",
-                "traits": "Otherworld. Void.",
-                "back_name": "Cosmos",
-                "back_flavor": "The stars danced mockingly, almost shifting now and then to form pale signs of doom that one might wonder one had not seen and feared before; and ever the winds of aether howled of vague blackness and loneliness beyond the cosmos.\n- H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>"
-        },
-        {
-                "code": "05339",
-                "name": "Cosmic Gate",
-                "text": "<b>Cosmos</b> - Connect to any revealed location, in a direction of your choice.\n<b>Forced</b> - After you enter Cosmic Gate: You must either spend 1 clue or take 1 horror.\n[action] Remove 1 resource from the scenario reference card: Move any number of investigators at Cosmic Gate to any other [[Void]] location.",
-                "traits": "Otherworld. Void.",
-                "back_name": "Cosmos",
-                "back_flavor": "The stars danced mockingly, almost shifting now and then to form pale signs of doom that one might wonder one had not seen and feared before; and ever the winds of aether howled of vague blackness and loneliness beyond the cosmos.\n- H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>"
-        },
-        {
-                "code": "05340",
-                "name": "Pathway into Void",
-                "text": "<b>Cosmos</b> - Connect in a direction of your choice.\n<b>Forced</b> - After you enter Pathway into Void: You must either discard 1 card from your hand or take 1 damage.\n[action] Remove 1 resource from the scenario reference card: Move Pathway into Void to any adjacent spot, placing an empty space in the spot it previously occupied. (Group limit once per round.)",
-                "traits": "Otherworld. Void.",
-                "back_name": "Cosmos",
-                "back_flavor": "The stars danced mockingly, almost shifting now and then to form pale signs of doom that one might wonder one had not seen and feared before; and ever the winds of aether howled of vague blackness and loneliness beyond the cosmos.\n- H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>"
-        },
-        {
-                "code": "05341",
-                "name": "Mindless Dancer",
-                "text": "<b>Spawn</b> - Farthest empty space.\nHunter.\nMindless Dancer can enter empty space as if it were a location.\n<b>Forced</b> - After Mindless Dancer moves to an empty space via its hunter keyword: Resolve its hunter keyword again. (Limit once per round.)",
-                "traits": "Monster."
-        },
-        {
-                "code": "05342",
-                "name": "Ultimate Chaos",
-                "text": "<b>Revelation</b> - Test [willpower] (4). If you fail, attach Ultimate Chaos to Azathoth. If you fail by 2 or more, take 1 damage and 1 horror. If you fail by 3 or more, Ultimate Chaos gains surge. Cannot be canceled.\nIf there are 3 copies of Ultimate Chaos attached to Azathoth, discard them and either place 1 doom on Azathoth, or Azathoth attacks each investigator in player order. Cannot be canceled.",
-                "traits": "Power."
-        },
-        {
-                "code": "05343",
-                "flavor": "There was the immemorial figure of the deputy or messenger of hidden and terrible powers...\n- H. P. Lovecraft, <u>The Dreams in the Witch House</u>",
-                "name": "Whispered Bargain",
-                "text": "Peril.\n<b>Revelation</b> - You must either (choose one): Place 1 doom on Azathoth, or Azathoth attacks you.",
-                "traits": "Pact."
-        },
-        {
-                "code": "05344",
-                "name": "The End is Nigh!",
-                "text": "<b>Revelation</b> - Test [willpower] (1). This test gets +X difficulty, where X is the current agenda number. If there is no agenda in play, X is 4. If you fail, move each doom on each [[Cultist]] enemy in play to Azathoth (or place 1 doom on Azathoth if there are no [[Cultist]] enemies in play).",
-                "traits": "Endtimes."
-        },
-        {
-                "code": "05345",
-                "name": "A World in Darkness",
-                "text": "<b>Revelation</b> - If there is no doom on Azathoth, A World in Darkness gains surge. Otherwise, for each doom on Azathoth, you must choose one:\n- Lose 1 resource.\n- Choose and discard 1 card from your hand.\n- Take 1 horror.\n- Take 1 damage.",
-                "traits": "Endtimes."
-        },
-        {
-                "code": "05346",
-                "name": "Azathoth",
-                "subname": "The Primal Chaos",
-                "text": "Azathoth is oblivious and omnipotent. It is immune to all player card effects and investigator actions, and cannot be defeated by any means.\n<b>Forced</b> - If there is 10 or more doom on Azathoth: The Blind Idiot God rises from its throne in the ultimate void of chaos and devours the universe. <b>(→R1)</b>",
-                "traits": "Ancient One. Elite."
-        }
+    {
+        "code": "05325",
+        "name": "Diante do Trono Negro",
+        "text": "FÁCIL / MÉDIO\n[skull]: -X. X é metade das perdições sobre Azathoth (arredondado para cima), até um mínimo de 2.\n[cultist]: Revele outra ficha. Se você falhar, procure no baralho e na pilha de descarte de encontros um inimigo <b>Cultista</b> e compre-o. Embaralhe o baralho de encontros.\n[tablet]: -2. Se você falhar, Azathoth ataca você.\n[elder_thing]: -4. Se o seu valor de perícia modificado para este teste for 0, coloque 1 perdição sobre Azathoth.",
+        "back_text": "DIFÍCIL / EXPERIENTE\n[skull]: -X. X é a quantidade de perdições sobre Azathoth, até um mínimo de 2.\n[cultist]: Revele outra ficha. Se você falhar, procure no baralho e na pilha de descarte de encontros um inimigo <b>Cultista</b> e compre-o. Embaralhe o baralho de encontros.\n[tablet]: -3. Se você falhar, Azathoth ataca você.\n[elder_thing]: -6. Se o seu valor de perícia modificado para este teste for 0, coloque 1 perdição sobre Azathoth."
+    },
+    {
+        "code": "05326",
+        "flavor": "UM FIM É UM OUTRO COMEÇO.\nA MUDANÇA É A ÚNICA CONSTANTE.\nSEU DESTINO FINAL COMEÇA AGORA.",
+        "name": "A RODA DA FORTUNA · X",
+        "text": "Cada local está conectado a cada local adjacente a ele.\nNão remova as perdições dos inimigos quando esta agenda avançar.",
+        "back_name": "Alegre-se, pois o Fim está Próximo!",
+        "back_flavor": "De alguma forma, você não é o único humano aqui. Eles são apenas cascas sem mente — quase que inteiramente desprovidos de humanidade, nada além de carne, músculo e ossos preservados pela eternidade em uma única paixão fervorosa, ajoelhar-se e entoar seu louvor nefasto: \"Azathoth! Azathoth! O fim chegou!\"",
+        "back_text": "Cada inimigo <b>Cultista</b> morre em um suicídio ritualístico. Descarte cada inimigo <b>Cultista</b> em jogo e mova todas as perdições deles para Azathoth.\nO investigador líder deve procurar no baralho e na pilha de descarte de encontros uma cópia de Flauteio Demoníaco e comprá-la.\n<hr>Corredores sem fim e degraus de pedra negra são as únicas rotas que guiam você até o seu destino. É um labirinto impossível de navegar.\nVerifique o Registro da Campanha. Se Diário de Gilman estiver listado em \"Lembranças Descobertas\", você consegue encontrar o caminho. Caso contrário, você fica irremediavelmente perdido; cada investigador deve se mover para o local à esquerda dele ou mover a posição do próprio local uma vez para a esquerda (colocando um espaço vazio no ponto em que ele ocupava). Um local não pode se mover mais de uma vez por este efeito."
+    },
+    {
+        "code": "05327",
+        "flavor": "...o vasto sultão demoníaco Azathoth, cujo nome lábio algum ousa proferir em voz alta, e que rói avidamente em câmaras inconcebíveis e escuras além do tempo, em meio ao abafado e enlouquecedor ressoar de vis tambores e do monótono lamento de flautas amaldiçoadas...\n- H. P. Lovecraft, À Procura de Kadath",
+        "name": "Ele Aguarda",
+        "text": "Cada local está conectado a cada local adjacente a ele.\nNão remova as perdições dos inimigos quando esta agenda avançar.",
+        "back_name": "Roendo Esfomeado",
+        "back_text": "Cada inimigo Cultista morre em um suicídio ritualístico. Descarte cada inimigo Cultista em jogo e mova todas as perdições deles para Azathoth.\nO investigador líder deve procurar no baralho e na pilha de descarte de encontros uma cópia de Fluteio Demoníaco e comprá-la.\n\nNo oblívio fora do tempo, nada é como deveria ser. A bruma dança e se agita ao seu redor. Gargalhadas zombam de você do além e, saindo da nébula negra, emerge uma aparição familiar, um ser que há muito deveria estar morto.\n\nVerifique o Registro da Campanha. Se Crucifixo Desgastado estiver listado em \"Lembranças Descobertas\", a aparição reconhece o crucifixo que você roubou do quarto de Walter Gilman e recua lentamente, esgueirando-se para além das trevas.\n\nCaso contrário, a aparição ataca você; cada investigador deve testar [willpower] (4). Cada investigador que falhar sofre 1 dano e 1 horror."
+    },
+    {
+        "code": "05328",
+        "flavor": "...aquele shantak de olhar malicioso seguia impetuoso e implacável, batendo suas grandes asas escorregadias com alegria maligna, rumando para os abismos profanos em que sonho algum consegue chegar...\n- H. P. Lovecraft, A Procura de Kadath",
+        "name": "A Contagem Final",
+        "text": "Cada local está conectado a cada local adjacente a ele.\nNão remova as perdições dos inimigos quando esta agenda avançar. (<b>Atenção</b> — o cenário não terminará quando esta agenda avançar, mas a ruína do mundo estará mais próxima)",
+        "back_name": "Azathoth Se Agita...",
+        "back_text": "Cada inimigo <b>Cultista</b> morre em um suicídio ritualístico. Descarte cada inimigo <b>Cultista</b> em jogo e mova todas as perdições deles para Azathoth.\nO investigador líder deve procurar no baralho e na pilha de descarte de encontros uma cópia de Flauteio Demoníaco e comprá-la.\nNão há mais um baralho de agendas, mas o cenário não terminou. Até o final do cenário, as perdições que seriam colocadas sobre a agenda atual são, em vez disso, colocadas sobre Azathoth, e considera-se que todas as perdições em jogo estão sobre Azathoth.\n<hr>Você se depara com mais um círculo de adoradores de Azathoth, liderados por uma silhueta amorfa e encapuzada que ergue uma lanterna bastante velha acima da cabeça. A fraca luz cinza da lanterna mal consegue perfurar este reino de escuridão. De alguma forma, o fantasma é familiar para você, e uma vaga sensação de irmandade lhe impele adiante.\nVerifique o Registro da Campanha. Se <i>Boneca de Palha</i> estiver listado em \"Lembranças Descobertas\", a criatura também reconhece você. Ela olha para você com curiosidade, e o círculo de orações é silenciado; remova 1 perdição de Azathoth. Caso contrário, a criatura mal nota sua presença, e o círculo volta a entoar seu canto."
+    },
+    {
+        "code": "05329",
+        "flavor": "Da fenda infinita na bocarra escancarada do céu, você viajou uma distância impossível, e ainda assim está a muitos quilômetros do trono sombrio onde Azathoth se agita.",
+        "name": "O Chamado do Cosmos",
+        "text": "[action] Gaste X pistas: Compre as X cartas do topo do Cosmos. Escolha uma para colocar em jogo, usando suas instruções de \"<b>Cosmos</b> -\" e mova-se para esse local. Embaralhe o restante de volta no Cosmos.\n<b>Objetivo</b> - Apenas os investigadores no Palácio Horrendo podem gastar o número necessário de pistas, em grupo, para avançar. (<i>Atenção — qualquer investigador que não estiver lá será morto.</i>)",
+        "back_name": "O Palácio dos Antigos",
+        "back_flavor": "Sua montaria o carrega através da entrada de um palácio saído de pesadelos, e você se surpreende ao descobrir que os salões dentro dele são tão vastos e cavernosos quanto o espaço vazio que o circunda. É como se a entrada fosse apenas o limiar de um outro universo, tão desolado e infinito quanto o anterior.",
+        "back_text": "Remova Ingressão Cósmica do jogo. Embaralhe cada espaço vazio no baralho de seu dono e cada local em jogo, que não seja Palácio Horrendo, no Cosmos. Cada investigador nesses locais é deixado para trás e morre. Cada inimigo nesses locais é embaralhado nas 5 cartas do topo do baralho de encontros.\nPegue a Corte dos Grandes Antigos previamente separada e as 2 cartas do topo do Cosmos e embaralhe-as para que ninguém saiba qual é qual. Então, coloque-as em jogo junto com os espaços vazios, conforme descrito em \"Posicionamento de Locais para Ato 2\" no Guia de Campanha.\nNa ordem dos jogadores, cada investigador compra a carta do topo do baralho de encontros.",
+        "errata_date": "2020-03-01"
+    },
+    {
+        "code": "05330",
+        "flavor": "Seus ossos tremem violentamente com o frio silencioso e estático deste lugar vazio. Nenhuma luz ilumina estes corredores negros. Nenhum calor o alcança, brisa alguma toca a sua pele. \"A morte deve ser assim\", você pensa morbidamente.",
+        "name": "No Domínio de Azathoth",
+        "text": "[action] Gaste X pistas: Compre as X cartas do topo do Cosmos. Escolha uma para colocar em jogo, usando suas instruções de \"<b>Cosmos</b> -\" e mova-se para esse local. Embaralhe o restante de volta no Cosmos.\n<b>Objetivo</b> - Apenas os investigadores na Corte dos Grandes Antigos podem gastar o número necessário de pistas, em grupo, para avançar. (<i>Atenção — qualquer investigador que não estiver lá será morto.</i>)",
+        "back_name": "Núcleo do Universo",
+        "back_flavor": "A criatura alada pousa em um passadiço sinuoso de pedra escura, que se estende para um horizonte eterno de vazio e trevas. Você precisa cutucar e encorajar a criatura antes que ela continue em frente. Até mesmo as mais pavorosas feras ficam aterrorizadas com este lugar, ao que parece. E, mesmo assim, você consegue ouvir o cântico irracional daqueles que vivem perto do sultão demoníaco, o lamento enlouquecedor das flautas, o monótono bater dos tambores, que ressoam eternos em sua mente...",
+        "back_text": "Remova Palácio Horrendo do jogo. Embaralhe cada espaço vazio no baralho de seu dono e cada local em jogo, que não seja Corte dos Grandes Antigos, no Cosmos. Cada investigador nesses locais é deixado para trás e morre. Cada inimigo nesses locais é embaralhado nas 5 cartas do topo do baralho de encontros.\nPege O Trono Negro previamente separado e as 3 cartas do topo de Cosmos e embaralhe-os para que ninguém saiba qual é qual. Então, coloque-os em jogo junto com os espaços vazios, conforme descrito em \"Posicionamento de Locais para o Ato 3\" no Guia de Campanha.\nNa ordem dos jogadores, cada investigador compra a carta do topo do baralho de encontros.",
+        "errata_date": "2025-07-11"
+    },
+    {
+        "code": "05331",
+        "flavor": "Você está próximo agora. Você pode sentir a agitação e a distorção dos éons no vazio ao seu redor. Aqui, no núcleo de todas as coisas — o próprio centro do caos —, o seu objetivo e o seu destino final estão a seu alcance.",
+        "name": "O Que Deve Ser Feito",
+        "text": "[action] Gaste X pistas: Compre as X cartas do topo do Cosmos. Escolha uma para colocar em jogo, usando suas instruções \"<b>Cosmos</b> -\" e mova-se para esse local. Embaralhe o restante de volta no Cosmos.\n<b>Objetivo</b> - Se o investigador líder estiver em O Trono Negro e não houver pistas nesse local, avance.",
+        "back_name": "O Fim",
+        "back_flavor": "Você está no precipício diante do Trono Negro e encara a monstruosidade cega e sem voz que é Azathoth. O mero vislumbre da entidade faz sua visão borrar e seu corpo tremer incontrolavelmente. O flautelo monótono é tão alto agora que faz seus ossos chacoalharem e você quase vomita devido à força sobre suas entranhas. Sangue escorre de seus olhos e orelhas.\nSe Azathoth algum dia despertar, devorará todos os mundos que já existiram. Você precisa agir agora, antes que seja tarde demais.",
+        "back_text": "Verifique o Registro da Campanha.\n- Se pelo menos dois dos itens a seguir forem verdadeiros, você pode avançar para <b>(→R2)</b>: <i>Você aceitou o seu destino</i>, <i>Flauta Hipnótica</i> está listado em \"Lembranças Descobertas,\" e <i>Componentes de Ritual</i> está listado em \"Lembranças Descobertas.\"\n- Se pelo menos dois dos itens a seguir forem verdadeiros, você pode avançar para <b>(→R3)</b>: <i>Você rejeitou o seu destino</i>, <i>Retalho de Sombra</i> está listado em \"Lembranças Descobertas,\" e <i>Vestígio de Bruma Espectral</i> está listado em \"Lembranças Descobertas.\"\n- Caso contrário, <b>(→R4)</b>."
+    },
+    {
+        "code": "05332",
+        "name": "Ingressão Cósmica",
+        "text": "<b>Forçado</b> - No final da rodada: Adicione pistas à Ingressão Cósmica até que este local tenha 3 pistas.\nCada local <i>Vazio</i> ganha: \"[action]: Embaralhe este local no Cosmos, movendo cada investigador e inimigo que estava neste local para Ingressão Cósmica.\"",
+        "traits": "Outro Mundo.",
+        "back_flavor": "...aquele monstro escamoso e quimérico carregava seu ginete desamparado, arremetendo-se e disparando, rasgando os limites exteriores e ultrapassando os abismos mais distantes, deixando para trás as estrelas e os reinos da matéria, dardejando como um meteoro através do vazio sem forma até aquelas inconcebíveis e escuras câmaras além do Tempo...\n- H. P. Lovecraft, À Procura de Kadath"
+    },
+    {
+        "code": "05333",
+        "name": "Palácio Horrendo",
+        "text": "<b>Forçado</b> - No final da rodada: Adicione pistas ao Palácio Horrendo até que este local tenha 4 pistas.\nCada local <i>Vazio</i> ganha: \"[action]: Embaralhe este local no Cosmos, movendo cada investigador e inimigo que estava neste local para Palácio Horrendo.\"",
+        "traits": "Outro Mundo.",
+        "back_name": "Cosmos",
+        "back_flavor": "As estrelas dançavam zombeteiras, quase movendo-se aqui e ali para formar pálidos sinais de perdição que o espectador poderia se perguntar se já não havia visto e temido anteriormente, e os eternos ventos do éter uivavam sobre o vago negrume e solidão de além do cosmos.\n- H. P. Lovecraft, À Procura de Kadath",
+        "back_traits": "Outro Mundo."
+    },
+    {
+        "code": "05334",
+        "name": "Corte dos Grandes Antigos",
+        "text": "<b>Forçado</b> - No final da rodada: Adicione pistas à Corte dos Grandes Antigos até que este local tenha 6 pistas.\nCada local <i>Vazio</i> ganha: \"[action]: Embaralhe este local no Cosmos, movendo cada investigador e inimigo que estava neste local para Corte dos Grandes Antigos.\"",
+        "traits": "Outro Mundo.",
+        "back_name": "Cosmos",
+        "back_flavor": "As estrelas dançavam zombeteiras, quase movendo-se aqui e ali para formar pálidos sinais de perdição que o espectador poderia se perguntar se já não havia visto e temido anteriormente, e os eternos ventos do éter uivavam sobre o vago negrume e solidão de além do cosmos.\n- H. P. Lovecraft, À Procura de Kadath"
+    },
+    {
+        "code": "05335",
+        "flavor": "...o definitivo trono sombrio do demônio\nAzathoth no vazio amorfo central.\n- H. P. Lovecraft, À Procura de Kadath",
+        "name": "O Trono Negro",
+        "text": "O Trono Negro recebe +X de véu, onde X é metade das perdições sobre Azathoth (arredondado para cima).\n<b>Assombrado</b> - Você deve colocar 1 perdição sobre Azathoth ou Azathoth ataca você.",
+        "traits": "Outro Mundo.",
+        "back_name": "Cosmos",
+        "back_flavor": "As estrelas dançavam zombeteiras, quase movendo-se aqui e ali para formar pálidos sinais de perdição que o espectador poderia se perguntar se já não havia visto e temido anteriormente, e os eternos ventos do éter uivavam sobre o vago negrume e solidão de além do cosmos.\n- H. P. Lovecraft, À Procura de Kadath",
+        "back_traits": "Outro Mundo."
+    },
+    {
+        "code": "05336",
+        "name": "As Brumas do Dançarino",
+        "text": "<b>Cosmos</b> - Você deve conectar à direita ou perder 2 recursos e conectar a um local adjacente em uma direção à sua escolha.\n[reaction] Após você se mover para As Brumas do Dançarino, remova 1 recurso da carta de referência de cenário: Mova-se para um local conectado.",
+        "traits": "Outro Mundo. Vazio.",
+        "back_name": "Cosmos",
+        "back_flavor": "As estrelas dançavam zombeteiras, quase movendo-se aqui e ali para formar pálidos sinais de perdição que o espectador poderia se perguntar se já não havia visto e temido anteriormente, e os eternos ventos do éter uivavam sobre o vago negrume e solidão de além do cosmos.\n- H. P. Lovecraft, À Procura de Kadath",
+        "back_traits": "Outro Mundo."
+    },
+    {
+        "code": "05337",
+        "name": "Escadaria para o Oblívio",
+        "text": "<b>Cosmos</b> – Você deve conectar acima ou sofrer 2 de horror e conectar ao local revelado mais acima em uma direção à sua escolha.\n[action] Remova 1 recurso da carta de referência de cenário: Mova o posicionamento de Escadaria para o Oblívio uma vez para cima, colocando um espaço vazio no ponto em que Escadaria para o Oblívio ocupava. (Limite de grupo de uma vez por jogo).",
+        "traits": "Outro Mundo. Vazio.",
+        "back_name": "Cosmos",
+        "back_flavor": "As estrelas dançavam zombeteiras, quase movendo-se aqui e ali para formar pálidos sinais de perdição que o espectador poderia se perguntar se já não havia visto e temido anteriormente, e os eternos ventos do éter uivavam sobre o vago negrume e solidão de além do cosmos.\n– H. P. Lovecraft, À Procura de Kadath",
+        "back_traits": "Outro Mundo."
+    },
+    {
+        "code": "05338",
+        "name": "Infinidade de Trevas",
+        "text": "<b>Cosmos</b> - Você deve conectar abaixo ou sofrer 2 de dano e conectar ao local revelado mais abaixo em uma direção à sua escolha.\n[action] Remova 1 recurso da carta de referência de cenário: Mova o posicionamento de Infinidade de Trevas uma vez para baixo, colocando um espaço vazio no ponto em que Infinidade de Trevas ocupava. (Limite de grupo de uma vez por jogo.)",
+        "traits": "Outro Mundo. Vazio.",
+        "back_name": "Cosmos",
+        "back_flavor": "As estrelas dançavam zombeteiras, quase movendo-se aqui e ali para formar pálidos sinais de perdição que o espectador poderia se perguntar se já não havia visto e temido anteriormente, e os eternos ventos do éter uivavam sobre o vago negrume e solidão de além do cosmos.\n- H. P. Lovecraft, À Procura de Kadath",
+        "back_traits": "Outro Mundo."
+    },
+    {
+        "code": "05339",
+        "name": "Portal Cósmico",
+        "text": "<b>Cosmos</b> - Conecte a qualquer local revelado, em uma direção à sua escolha.\n<b>Forçado</b> - Após você entrar no Portal Cósmico: Você deve gastar 1 pista ou sofrer 1 de horror.\n[action] Remova 1 recurso da carta de referência de cenário: Mova qualquer número de investigadores no Portal Cósmico para qualquer outro local <b>Vazio</b>.",
+        "traits": "Outro Mundo. Vazio.",
+        "back_name": "Cosmos",
+        "back_flavor": "As estrelas dançavam zombeteiras, quase movendo-se aqui e ali para formar pálidos sinais de perdição que o espectador poderia se perguntar se já não havia visto e temido anteriormente, e os eternos ventos do éter uivavam sobre o vago negrume e solidão de além do cosmos.\n- H. P. Lovecraft, À Procura de Kadath",
+        "back_traits": "Outro Mundo."
+    },
+    {
+        "code": "05340",
+        "name": "Caminho para o Vazio",
+        "text": "<b>Cosmos</b> - Conecte em uma direção à sua escolha.\n<b>Forced</b> - Após você entrar no Caminho para o Vazio: Você deve descartar 1 carta da sua mão ou sofrer 1 de dano.\n[action] Remova 1 recurso da carta de referência de cenário: Mova Caminho para o Vazio para qualquer ponto adjacente, colocando um espaço vazio no ponto em que Caminho para o Vazio ocupava. (Limite de grupo de uma vez por rodada.)",
+        "traits": "Outro Mundo. Vazio.",
+        "back_name": "Cosmos",
+        "back_flavor": "As estrelas dançavam zombeteiras, quase movendo-se aqui e ali para formar pálidos sinais de perdição que o espectador poderia se perguntar se já não havia visto e temido anteriormente, e os eternos ventos do éter uivavam sobre o vago negrume e solidão de além do cosmos.\n- H. P. Lovecraft, À Procura de Kadath",
+        "back_traits": "Outro Mundo."
+    },
+    {
+        "code": "05341",
+        "name": "Dançarino Sem Mente",
+        "text": "<b>Surgir</b> – Espaço vazio mais distante.\nCaçador.\nDançarino Sem Mente pode entrar em espaços vazios como se fossem locais.\n<b>Forçado</b> – Após Dançarino Sem Mente se mover para um espaço vazio através da palavra-chave caçador: Resolva a palavra-chave caçador dele novamente. (Limite de uma vez por rodada.)",
+        "traits": "Monstro."
+    },
+    {
+        "code": "05342",
+        "name": "Caos Definitivo",
+        "text": "<b>Revelação</b> - Teste [willpower] (4). Se você falhar, anexe Caos Definitivo a Azathoth. Se você falhar por 2 ou mais, sofra 1 de dano e 1 de horror. Se você falhar por 3 ou mais, Caos Definitivo ganha ímpeto. Não pode ser cancelado.\nSe houver 3 cópias de Caos Definitivo anexadas a Azathoth, descarte-as e escolha entre colocar 1 perdição sobre Azathoth ou Azathoth atacar cada investigador na ordem dos jogadores. Não pode ser cancelado.",
+        "traits": "Poder."
+    },
+    {
+        "code": "05343",
+        "flavor": "Ali estava a figura imemorial do representante ou mensageiro de terríveis poderes ocultos...\n– H. P. Lovecraft, Os Sonhos na Casa da Bruxa",
+        "name": "Barganha Sussurrada",
+        "text": "Perigo.\n<b>Revelação</b> – Você deve escolher um: Coloque 1 perdição sobre Azathoth, ou Azathoth ataca você.",
+        "traits": "Pacto."
+    },
+    {
+        "code": "05344",
+        "name": "O Fim Está Próximo",
+        "text": "<b>Revelação</b> - Teste [willpower] (1). Este teste recebe +X de dificuldade, onde X é o número da agenda atual. Se não houver agenda em jogo, X é 4.\nSe você falhar, mova cada perdição sobre cada inimigo <i>Cultista</i> em jogo para Azathoth (ou coloque 1 perdição sobre Azathoth, se não houver inimigos <i>Cultistas</i> em jogo).",
+        "traits": "Fim dos Tempos."
+    },
+    {
+        "code": "05345",
+        "name": "Um Mundo em Escuridão",
+        "text": "<b>Revelação</b> – Se não houver perdições sobre Azathoth, Um Mundo em Escuridão ganha ímpeto. Caso contrário, para cada perdição sobre Azathoth, você deve escolher um:\n[action] Perca 1 recurso.\n[action] Escolha e descarte 1 carta da sua mão.\n[action] Sofra 1 de horror.\n[action] Sofra 1 de dano.",
+        "traits": "Fim dos Tempos."
+    },
+    {
+        "code": "05346",
+        "name": "Azathoth",
+        "subname": "O Caos Primordial",
+        "text": "Azathoth é onipotente e absorto. Ele é imune a todos os efeitos das cartas dos jogadores e às ações dos investigadores; ele não pode ser derrotado por nenhum meio.\n<b>Forçado</b> - Se houver 10 ou mais perdições sobre Azathoth: O Deus Cego e Apático se ergue de seu trono no vazio definitivo do caos e devora o universo. (→R1)",
+        "traits": "Ancião. Elite."
+    }
 ]

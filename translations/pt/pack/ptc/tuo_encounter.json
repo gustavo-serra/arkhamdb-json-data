@@ -1,267 +1,275 @@
 [
-        {
-                "code": "03159",
-                "name": "The Unspeakable Oath",
-                "text": "Easy / Standard\n[skull]: -1. If you fail, randomly choose an enemy from among the set-aside [[Monster]] enemies and place it beneath the act deck without looking at it.\n[cultist]: -X. X is the amount of horror on you.\n[tablet]: -X. X is the base shroud value of your location.\n[elder_thing]: 0. Either randomly choose an enemy from among the set-aside [[Monster]] enemies and place it beneath the act deck without looking at it, or this test automatically fails instead.",
-                "back_text": "Hard / Expert\n[skull]: Reveal another token. If you fail, randomly choose an enemy from among the set-aside [[Monster]] enemies and place it beneath the act deck without looking at it. (Limit once per test.)\n[cultist]: -X. X is the amount of horror on you. If you fail, take 1 horror.\n[tablet]: -X. X is the base shroud value of your location. If you fail, take 1 horror.\n[elder_thing]: 0. Either randomly choose an enemy from among the set-aside [[Monster]] enemies and place it beneath the act deck without looking at it, or this test automatically fails instead."
-        },
-        {
-                "code": "03160",
-                "flavor": "The patient wing of the asylum is far quieter and lonelier than you had expected. The hall reeks of chemicals and body odor. As soon as you are escorted inside, the doors behind you are closed and locked tight.",
-                "name": "Locked Inside",
-                "back_name": "The Patients",
-                "back_flavor": "Speaking with the patients is proving more difficult than you had assumed. They eye you cautiously and refuse to answer any of your questions, backing away or fleeing if confronted. Either they're not used to guests, or something about you is causing them a considerable amount of distress. Some act like animals back into a corner, and you think at any moment they might strike.",
-                "back_text": "Shuffle the encounter discard pile and each of the set-aside [[Possessed]] enemies into the encounter deck.\nThe lead investigator must randomly choose an enemy from among the set-aside [[Monster]] enemies and place it beneath the act deck without looking at it.",
-                "errata_date": "2022-08-26"
-        },
-        {
-                "code": "03161",
-                "flavor": "The longer you spend in this hellish place, the more you want to leave. Already it has felt like days. You fear that if you are stuck here much longer, you will become like the patients: a husk of your former self, unruly, and dangerous.",
-                "name": "Torturous Descent",
-                "back_name": "The Yellow Sign",
-                "back_flavor": "In the back of your mind, a force beckons. \"Have you seen it?\" It calls to you. Glimpsing something in your peripheral vision, you turn, and find a familiar symbol peering back at you wherever you look. It is etched upon the doors. Drawn on the walls. Painted on the patients' canvases. You cannot escape it.",
-                "back_text": "The lead investigator must randomly choose an enemy from among the set-aside [[Monster]] enemies and shuffle it into the encounter deck without looking at it.\nCheck Campaign Log. If Constance Dumaine is not listed under \"VIPs Slain,\" search the collection for Constance Dumaine <i>(A Little Too Sociable)</i> and spawn her in the Garden."
-        },
-        {
-                "code": "03162",
-                "flavor": "Flee.\nFlee while you still can.",
-                "name": "His Domain",
-                "text": "<b>Forced</b> - When you would place an enemy beneath the act deck: Shuffle that enemy into the encounter deck, instead.",
-                "back_name": "Masks, Masks, Masks",
-                "back_flavor": "The walls close in. Your vision blurs. There is screeching in your ears. You are grabbed and cannot fight back. You call for help but nobody comes to your aid.\nYou look for a way to escape, but instead you see the pallid mask of the Stranger staring back at you. Around every corner, behind every door, staring at you through every window. That mask… That damned mask…\n\n\nOr… Perhaps it is you who wears the mask…?",
-                "back_text": "Each investigator who has not resigned is defeated. <i>(If any investigators resigned, those investigators may immediately advance to act 4b.)</i>"
-        },
-        {
-                "code": "03163",
-                "flavor": "Aside from the few patients giving you a wide berth, there aren’t any orderlies or doctors around to speak with. Looks like you’ll have to find Mr. Chesterfield on your own.",
-                "name": "Arkham Asylum",
-                "back_name": "Key to the Basement",
-                "back_flavor": "Turning a corner, you nearly bump into a nurse with light brown hair and sharp features. You tell her about the violent patients and the strange things you've seen, but she doesn't listen. When you inquire about Daniel, she informs you that he is a patient of Dr. Mintz and that he resides in the secured basement level. Unfortunately, she refuses to let you into that area of the asylum.",
-                "back_text": "The investigators must decide (choose one):\n- Any investigator tests [combat] (4) to intimidate her into giving you the keys. If successful, advance to act 2a. If failed, you must choose an option you have yet to choose.\n- Any investigator tests [agility] (4) to steal the keys from her. If successful, advance to act 2a. If failed, you must choose an option you have yet to choose.\n- Any investigator tests [intellect] (4) to persuade her to give you the keys. If successful, advance to act 2a. If failed, you must choose an option you have yet to choose.\n- You knock her over and grab the keys. Remember that \"you took the keys by force.\" Advance to act 2a."
-        },
-        {
-                "code": "03164",
-                "flavor": "Daniel is somewhere in the secured basement where the most dangerous patients are kept. Now that you have the key, you can explore this area of the asylum.",
-                "name": "\"The Really Bad Ones\" (v. I)",
-                "text": "Ignore the text on the unrevealed side of [[Arkham Asylum]] locations.\n<b>Objective</b> - Find the Patient Confinement location with Daniel Chesterfield. <i>(You will be instructed when to advance.)</i>",
-                "back_name": "Three Geese in a Flock",
-                "back_flavor": "When you enter his cell, you find Daniel huddled in a corner of the room, sobbing and rocking back and forth on the ground. \"No mask, no mask…\" he stammers over and over. You help him to his feet and try to console him, telling him that he is not crazy - that strange events have been occurring throughout town ever since <u>The King in Yellow</u> returned to Arkham. \"It's Nigel!\" he exclaims, gripping you tightly. \"Nigel made us speak his name… He made us speak the Oath, and now He lives inside us, controlling us, don't you understand?\" he rambles on. \"We spoke His name and the price was paid! Hastur! Hastur! O King!\"\nYou believe you might understand more about the situation if you can calm him down, but you'll have to get him out of this asylum if you are to accomplish that.",
-                "back_text": "Choose an investigator at Patient Confinement <i>(Daniel's Cell)</i>. Put the set-aside Daniel Chesterfield card (asset side faceup) into play under that investigator's control.\nShuffle the encounter discard pile and each enemy beneath the act deck into the encounter deck."
-        },
-        {
-                "code": "03165",
-                "flavor": "Daniel is somewhere in the secured basement where the most dangerous patients are kept. Now that you have the key, you can explore this area of the asylum.",
-                "name": "\"The Really Bad Ones\" (v. II)",
-                "text": "Ignore the text on the unrevealed side of [[Arkham Asylum]] locations.\n<b>Objective</b> - Find the Patient Confinement location with Daniel Chesterfield. <i>(You will be instructed when to advance.)</i>",
-                "back_name": "Daniel's Warning",
-                "back_flavor": "When you enter his cell, you find Daniel huddled in a corner of the room, sobbing and rocking back and forth on the ground. \"No mask, no mask…\" he stammers over and over. You help him to his feet and ask him what he remembers about <u>The King in Yellow</u>, but he interrupts you. \"Don't speak His name!\" he exclaims frantically, his eyes wide with a yellow glow. \"Nigel made us speak his name… He made us speak the Oath, and now He lives inside us, controlling us, don't you understand?\" he rambles on.\nThe man approaches wearing a crazed expression, and you take a wary step backward. \"We spoke His name and the price was paid! Hastur! Hastur! O King! - \" Then, suddenly, he transforms before your very eyes. His bones twist and snap. His body warps grotesquely. The symbol carved into his forehead burns bright, and a yellow glow emanates from within his body. He lunges to attack you.",
-                "back_text": "Spawn the set-aside Daniel Chesterfield (enemy side faceup) at Patient Confinement <i>(Daniel's Cell)</i>."
-        },
-        {
-                "code": "03166",
-                "flavor": "With or without Daniel, you have to get out of this place as soon as you can.",
-                "name": "Planning the Escape",
-                "text": "Ignore the text on the unrevealed side of [[Arkham Asylum]]locations.\n<b>Objective</b> - If investigators have performed 4 of the following, you must advance.\n- \"Know the guards' patrols.\"\n- \"Set a fire in the kitchen.\"\n- \"Incited a fight amongst the patients.\"\n- \"Released a dangerous patient.\"\n- \"Recalled the way out.\"\n- \"Distracted the guards.\"",
-                "back_name": "A Way Out",
-                "back_flavor": "An orderly's scream echoes across the hall. Within moments, an alarm rings loudly throughout the institution. Nurses and guards rush through the asylum in a desperate attempt to control the situation. You feel dazed, and your vision is spotty, as though you've been struck by something heavy. The walls blur together and twist. Creatures begin to emerge out of the crevices and corners that did not exist moments before.",
-                "back_text": "Shuffle the encounter discard pile and each enemy beneath the act deck into the encounter deck.\nIf at least 3 [[Monster]] enemies were shuffled into the encounter deck by this effect, the investigator with the lowest [willpower] discards cards from the top of the encounter deck until a [[Monster]] enemy is discarded and draws that enemy."
-        },
-        {
-                "code": "03167",
-                "flavor": "All hell has broken loose.",
-                "name": "No Asylum",
-                "text": "Ignore the text on the unrevealed side of <i>Arkham Asylum </i>locations.\nGarden gains: \"[action] If there is no ready enemy in the Garden: <b>Resign.</b> Finally, a way out!\"\n<b>Objective</b> - If each undefeated investigator has resigned, advance.",
-                "back_name": "Escape",
-                "back_text": "<b>If \"you took the keys by force,\" read the following:</b>\n<i>As you attempt to escape, you are spotted by the nurse you attacked earlier, leading a group of guards. \"There they are! Quickly, restrain them!\"</i>\n<b>(→R2)</b>\n\n<b>Otherwise, read the following:</b>\n<i>The guards are too busy controlling the situation and restraining the asylum's patients to notice your escape.</i>\n<b>(→R3)</b>"
-        },
-        {
-                "code": "03168",
-                "flavor": "As they walked through the meandering stone halls of the sanatorium, Carolyn began to feel uneasy. It seemed like it would be very easy to get lost.\n- Mallory O'Meara, The Investigators of Arkham Horror",
-                "name": "Asylum Halls",
-                "subname": "Western Patient Wing",
-                "text": "[reaction] After you defeat a [[Possessed]] enemy at this location: Draw 1 card.",
-                "traits": "Arkham Asylum.",
-                "back_flavor": "The pleasant atmosphere of the reception area disappeared as soon as Dr. Mintz shut the thick iron door behind them. The temperature dropped to a clammy chill, and a foul, sharp stench hung in the air.\n- Mallory O’Meara, The Investigators of Arkham Horror",
-                "errata_date": "2022-08-26"
-        },
-        {
-                "code": "03169",
-                "flavor": "As they walked through the meandering stone halls of the sanatorium, Carolyn began to feel uneasy. It seemed like it would be very easy to get lost.\n- Mallory O'Meara, The Investigators of Arkham Horror",
-                "name": "Asylum Halls",
-                "subname": "Western Patient Wing",
-                "text": "Each [[Possessed]] enemy at this location gets +1 horror value.",
-                "traits": "Arkham Asylum.",
-                "back_flavor": "The pleasant atmosphere of the reception area disappeared as soon as Dr. Mintz shut the thick iron door behind them. The temperature dropped to a clammy chill, and a foul, sharp stench hung in the air.\n- Mallory O’Meara, The Investigators of Arkham Horror",
-                "errata_date": "2022-08-26"
-        },
-        {
-                "code": "03170",
-                "flavor": "As they walked through the meandering stone halls of the sanatorium, Carolyn began to feel uneasy. It seemed like it would be very easy to get lost.\n- Mallory O'Meara, The Investigators of Arkham Horror",
-                "name": "Asylum Halls",
-                "subname": "Eastern Patient Wing",
-                "text": "[action] Take 1 horror: <b>Evade.</b> Automatically evade a [[Possessed]] enemy at this location.",
-                "traits": "Arkham Asylum.",
-                "back_flavor": "The pleasant atmosphere of the reception area disappeared as soon as Dr. Mintz shut the thick iron door behind them. The temperature dropped to a clammy chill, and a foul, sharp stench hung in the air.\n- Mallory O’Meara, The Investigators of Arkham Horror",
-                "errata_date": "2022-08-26"
-        },
-        {
-                "code": "03171",
-                "flavor": "As they walked through the meandering stone halls of the sanatorium, Carolyn began to feel uneasy. It seemed like it would be very easy to get lost.\n- Mallory O'Meara, The Investigators of Arkham Horror",
-                "name": "Asylum Halls",
-                "subname": "Eastern Patient Wing",
-                "text": "<b>Forced</b> - After you end your turn at this location: Take 1 horror and gain 2 resources.",
-                "traits": "Arkham Asylum.",
-                "back_flavor": "The pleasant atmosphere of the reception area disappeared as soon as Dr. Mintz shut the thick iron door behind them. The temperature dropped to a clammy chill, and a foul, sharp stench hung in the air.\n- Mallory O’Meara, The Investigators of Arkham Horror"
-        },
-        {
-                "code": "03172",
-                "flavor": "Dirty dishes fill the sinks and cover the countertops. An unidentifiable sludge boils on the stove.",
-                "name": "Kitchen",
-                "text": "[action] If there are no clues on the Kitchen: Test [willpower] (2). If you succeed, remember that you \"set a fire in the kitchen.\"",
-                "traits": "Arkham Asylum.",
-                "back_flavor": "The narrow door in the back of the mess hall is locked. The scent that strikes you from behind the door is foul and repugnant.",
-                "back_text": "The door leading into the Kitchen is locked. You cannot enter the Kitchen."
-        },
-        {
-                "code": "03173",
-                "flavor": "Rows of tables are covered in dirty dishes and stale food. You get the feeling they took \"mess\" too literally here.",
-                "name": "Mess Hall",
-                "text": "<b>Forced</b> - After you successfully investigate the Mess Hall: Choose and discard 1 card from your hand.",
-                "traits": "Arkham Asylum.",
-                "back_flavor": "A wide, open doorway leads into the asylum’s mess hall, where patients would have their meals. It’s quieter than you expected - there are no chairs scuffling, dishes clanking, or patients speaking with one another"
-        },
-        {
-                "code": "03174",
-                "flavor": "Our methods are proven.",
-                "name": "Infirmary",
-                "text": "[action]: Heal 1 damage and take 1 direct horror, or heal 1 horror and take 1 direct damage. (Limit once per round.)",
-                "traits": "Arkham Asylum.",
-                "back_flavor": "The scratched plaque on this wooden door reads: \"Infirmary.\" This must be where the doctors treat their patients."
-        },
-        {
-                "code": "03175",
-                "name": "Yard",
-                "text": "While you are investigating the Yard, it gets +1 shroud for each horror on you.\n[action] If there are no clues on Yard, take 1 damage: Remember that you \"incited a fight amongst the patients.\"",
-                "traits": "Arkham Asylum.",
-                "back_flavor": "The fresh air and the illusion of freedom makes the asylum’s courtyard a common gathering place for patients. Through the barred windows, dead tree branches sway in the wind. Gray, overcast skies trap the asylum in a dull limbo."
-        },
-        {
-                "code": "03176",
-                "flavor": "Two guards in white uniforms stand by the gate to the garden, keeping watch.",
-                "name": "Garden",
-                "text": "[action] If there are no clues on Garden: Test [agility] (2). If you succeed, remember that you \"distracted the guards.\"",
-                "traits": "Arkham Asylum.",
-                "back_flavor": "A lone statue stands sentinel over the garden. Cold wind causes dead leaves to roll gently across the garden path.",
-                "back_text": "The gate leading into the Garden is locked. You cannot enter the Garden."
-        },
-        {
-                "code": "03177",
-                "flavor": "A cramped stone staircase leads deep underground, to the basement level of the asylum. Cries and howls of anguish torment you from behind the hall's many iron doors. You can't imagine what it would be like to live your days in this place.",
-                "name": "Basement Hall",
-                "text": "<b>Forced</b> - After the Basement Hall is revealed: Put the 4 set-aside Patient Confinement locations into play.",
-                "traits": "Arkham Asylum.",
-                "back_flavor": "Dank air drifted out of some of the darker hallways. Carolyn asked, \"Do some of these passageways lead underground?\" Nurse Heather nodded. \"It’s a very old building, Doctor.\"\n- Mallory O’Meara, The Investigators of Arkham Horror",
-                "back_text": "The door leading into the Basement Hall is locked. You cannot enter the Basement Hall."
-        },
-        {
-                "code": "03178",
-                "flavor": "Daniel's windowless cell is hopelessly dank and grim. The walls are covered in erratic scribbling, which upon further inspection appears to be passages from <u>The King in Yellow</u>.",
-                "name": "Patient Confinement",
-                "subname": "Daniel's Cell",
-                "text": "<b>Forced</b> - After Patient Confinement is revealed: Advance to act 2b.",
-                "traits": "",
-                "back_flavor": "The heavy metal door is firmly shut and locked from the outside. The thin slit that would allow you to peer inside the cell is stuck.",
-                "back_text": "As an additional cost to enter Patient Confinement, you must spend 1 clue.",
-                "errata_date": "2017-12-27"
-        },
-        {
-                "code": "03179",
-                "name": "Patient Confinement",
-                "subname": "Occupied Cell",
-                "text": "[action]: Test [combat] (2) to release the patient here from his bonds. If you succeed, he howls like a wolf and tears off through the basement; remember that you \"released a dangerous patient.\"",
-                "traits": "",
-                "back_flavor": "The heavy metal door is firmly shut and locked from the outside. The thin slit that would allow you to peer inside the cell is stuck.",
-                "back_text": "As an additional cost to enter Patient Confinement, you must spend 1 clue.",
-                "errata_date": "2017-12-27"
-        },
-        {
-                "code": "03180",
-                "flavor": "A chill gloom envelops this windowless cell. Being locked in here for a day would be torturous, let alone for months.",
-                "name": "Patient Confinement",
-                "subname": "Dreary Cell",
-                "text": "[action]: Test [intellect] (2) to speak to the patient here. If you succeed, you are able to interpret her ravings; remember that you \"know the guards' patrols.\"",
-                "traits": "",
-                "back_flavor": "The heavy metal door is firmly shut and locked from the outside. The thin slit that would allow you to peer inside the cell is stuck.",
-                "back_text": "As an additional cost to enter Patient Confinement, you must spend 1 clue.",
-                "errata_date": "2017-12-27"
-        },
-        {
-                "code": "03181",
-                "name": "Patient Confinement",
-                "subname": "Familiar Cell",
-                "text": "[action]: Test [willpower] (X), where X is the amount of horror on you. If you succeed, you recognize the room; remember that you \"recalled the way out.\"",
-                "traits": "",
-                "back_flavor": "The heavy metal door is firmly shut and locked from the outside. The thin slit that would allow you to peer inside the cell is stuck.",
-                "back_text": "As an additional cost to enter Patient Confinement, you must spend 1 clue.",
-                "errata_date": "2017-12-27"
-        },
-        {
-                "code": "03182a",
-                "name": "Daniel Chesterfield",
-                "subname": "He’s Not Doing All Too Well",
-                "text": "[free] Exhaust Daniel Chesterfield: Give control of him to another investigator at your location.\n<b>Forced</b> - When you take horror, if at least 1 of that horror is not assigned to Daniel Chesterfield: Take 1 damage.\n<b>Forced</b> - If Daniel Chesterfield leaves play: Remove him from the game.",
-                "traits": "Ally. Possessed.",
-                "slot": "Ally",
-                "errata_date": "2022-08-26"
-        },
-        {
-                "code": "03182b",
-                "name": "Daniel Chesterfield",
-                "subname": "…Or At Least, What's Left of Him",
-                "text": "<b>Prey</b> - Highest [combat].\n[action] If you control Clasp of Black Onyx: <b>Parley.</b> You show Daniel the clasp, and he staggers backward, collapsing into a motionless husk. Add him to the victory display.",
-                "traits": "Humanoid. Possessed. Elite.",
-                "errata_date": "2022-08-26"
-        },
-        {
-                "code": "03183",
-                "name": "Asylum Gorger",
-                "text": "<b>Spawn</b> - Basement Halls.\nHunter.\nAsylum Gorger cannot make attacks of opportunity, and cannot attack during the same phase it moved from its hunter keyword.",
-                "traits": "Monster. Abomination."
-        },
-        {
-                "code": "03184",
-                "flavor": "Sometimes the most terrifying of foes is one’s own mind.",
-                "name": "Haunted Patient",
-                "text": "<b>Spawn</b> - Nearest Asylum Halls.\n<b>Prey</b> - Most remaining sanity.\n<b>Forced</b> - When you attack Haunted Patient: Take 1 horror.",
-                "traits": "Humanoid. Possessed.",
-                "errata_date": "2022-08-26"
-        },
-        {
-                "code": "03185",
-                "flavor": "\"What are you doing? I’m not crazy!\"",
-                "name": "Straitjacket",
-                "text": "<b>Revelation</b> - If there is no copy of Straitjacket in your threat area, put Straitjacket into play in your threat area as an asset that takes up a body slot and 2 hand slots. Return each asset in those slots to your hand. This card cannot leave play except by the ability below.\n[action][action]: Discard Straitjacket.",
-                "traits": "Item. Clothing."
-        },
-        {
-                "code": "03186",
-                "name": "Gift of Madness",
-                "subname": "Pity",
-                "text": "Peril. Hidden.\n<b>Revelation</b> - Secretly add Gift of Madness (Pity) to your hand.\nYou cannot attack [[Possessed]] enemies.\n[action]: Randomly choose 1 enemy from among the set-aside [[Monster]] enemies and place it beneath the act deck without looking at it. Discard Gift of Madness (Pity) from your hand.",
-                "traits": "Terror.",
-                "errata_date": "2022-08-26"
-        },
-        {
-                "code": "03187",
-                "name": "Gift of Madness",
-                "subname": "Misery",
-                "text": "Peril. Hidden.\n<b>Revelation</b> - Secretly add Gift of Madness (Misery) to your hand.\nYou cannot trigger [action] abilities on locations.\n[action]: Randomly choose 1 enemy from among the set-aside [[Monster]] enemies and place it beneath the act deck without looking at it. Discard Gift of Madness (Misery) from your hand.",
-                "traits": "Terror."
-        },
-        {
-                "code": "03188",
-                "name": "Walls Closing In",
-                "text": "<b>Revelation</b> - Test [willpower] (X), where X is the shroud value of your location. If you fail, you must either take 1 horror for each point you failed by, or randomly choose 1 enemy from among the set-aside [[Monster]] enemies and place it beneath the act deck without looking at it.",
-                "traits": "Terror."
-        }
+    {
+        "code": "03159",
+        "name": "O Juramento Indizível",
+        "text": "FÁCIL / MÉDIO\n[skull]: -1. Se você falhar, escolha aleatoriamente um inimigo entre os inimigos <b>Monstros</b> previamente separados e coloque-o embaixo do baralho de atos sem olhar para ele.\n[cultist]: -X. X é a quantidade de horror sobre você.\n[tablet]: -X. X é o valor base de véu do seu local.\n[elder_thing]: 0. Escolha aleatoriamente um inimigo entre os inimigos <b>Monstros</b> previamente separados e coloque-o embaixo do baralho de atos sem olhar para ele ou, em vez disso, este teste falha automaticamente.",
+        "back_text": "DIFÍCIL / EXPERIENTE\n[skull]: Revele outra ficha. Se você falhar, escolha aleatoriamente um inimigo entre os inimigos <b>Monstros</b> previamente separados e coloque-o embaixo do baralho de atos sem olhar para ele. (Limite de uma vez por teste.)\n[cultist]: -X. X é a quantidade de horror sobre você. Se você falhar, sofra 1 de horror.\n[tablet]: -X. X é o valor base de véu do seu local. Se você falhar, sofra 1 de horror.\n[elder_thing]: 0. Escolha aleatoriamente um inimigo entre os inimigos <b>Monstros</b> previamente separados e coloque-o embaixo do baralho de atos sem olhar para ele ou, em vez disso, este teste falha automaticamente."
+    },
+    {
+        "code": "03160",
+        "flavor": "The patient wing of the asylum is far quieter and lonelier than you had expected. The hall reeks of chemicals and body odor. As soon as you are escorted inside, the doors behind you are closed and locked tight.",
+        "name": "Locked Inside",
+        "back_name": "The Patients",
+        "back_flavor": "Speaking with the patients is proving more difficult than you had assumed. They eye you cautiously and refuse to answer any of your questions, backing away or fleeing if confronted. Either they're not used to guests, or something about you is causing them a considerable amount of distress. Some act like animals back into a corner, and you think at any moment they might strike.",
+        "back_text": "Shuffle the encounter discard pile and each of the set-aside [[Possessed]] enemies into the encounter deck.\nThe lead investigator must randomly choose an enemy from among the set-aside [[Monster]] enemies and place it beneath the act deck without looking at it.",
+        "errata_date": "2022-08-26"
+    },
+    {
+        "code": "03161",
+        "flavor": "The longer you spend in this hellish place, the more you want to leave. Already it has felt like days. You fear that if you are stuck here much longer, you will become like the patients: a husk of your former self, unruly, and dangerous.",
+        "name": "Torturous Descent",
+        "back_name": "The Yellow Sign",
+        "back_flavor": "In the back of your mind, a force beckons. \"Have you seen it?\" It calls to you. Glimpsing something in your peripheral vision, you turn, and find a familiar symbol peering back at you wherever you look. It is etched upon the doors. Drawn on the walls. Painted on the patients' canvases. You cannot escape it.",
+        "back_text": "The lead investigator must randomly choose an enemy from among the set-aside [[Monster]] enemies and shuffle it into the encounter deck without looking at it.\nCheck Campaign Log. If Constance Dumaine is not listed under \"VIPs Slain,\" search the collection for Constance Dumaine <i>(A Little Too Sociable)</i> and spawn her in the Garden."
+    },
+    {
+        "code": "03162",
+        "flavor": "Fujam.\nFujam enquanto podem.",
+        "name": "Os Domínios Dele",
+        "text": "<b>Forçado</b> - Quando você for colocar um inimigo embaixo do baralho de atos: Em vez disso, embaralhe esse inimigo no baralho de encontros.",
+        "back_name": "Máscaras, Máscaras, Máscaras",
+        "back_flavor": "As paredes se fecham sobre vocês. A visão fica borrada. Há gritos em seus ouvidos. Vocês são agarrados e não conseguem revidar. Vocês clamam por ajuda, mas ninguém vem ajudá-los.\nProcuram uma forma de escapar, mas, em vez de uma saída, descobrem a máscara pálida do Estranho os encarando de volta. Dobrando cada esquina, atrás de cada porta, encarando através de toda janela. Aquela máscara... Aquela máscara maldita...\nOu... talvez sejam vocês que estão usando a máscara...?",
+        "back_text": "Cada investigador que não renunciou é derrotado. <i>(Se algum investigador renunciou, os investigadores que renunciaram podem avançar imediatamente para o ato 4b.)</i>"
+    },
+    {
+        "code": "03163",
+        "flavor": "Aside from the few patients giving you a wide berth, there aren’t any orderlies or doctors around to speak with. Looks like you’ll have to find Mr. Chesterfield on your own.",
+        "name": "Arkham Asylum",
+        "back_name": "Key to the Basement",
+        "back_flavor": "Turning a corner, you nearly bump into a nurse with light brown hair and sharp features. You tell her about the violent patients and the strange things you've seen, but she doesn't listen. When you inquire about Daniel, she informs you that he is a patient of Dr. Mintz and that he resides in the secured basement level. Unfortunately, she refuses to let you into that area of the asylum.",
+        "back_text": "The investigators must decide (choose one):\n- Any investigator tests [combat] (4) to intimidate her into giving you the keys. If successful, advance to act 2a. If failed, you must choose an option you have yet to choose.\n- Any investigator tests [agility] (4) to steal the keys from her. If successful, advance to act 2a. If failed, you must choose an option you have yet to choose.\n- Any investigator tests [intellect] (4) to persuade her to give you the keys. If successful, advance to act 2a. If failed, you must choose an option you have yet to choose.\n- You knock her over and grab the keys. Remember that \"you took the keys by force.\" Advance to act 2a."
+    },
+    {
+        "code": "03164",
+        "flavor": "Daniel está em algum lugar do porão de segurança, onde os pacientes mais perigosos são mantidos. Agora que vocês têm a chave, podem explorar essa área do asilo.",
+        "name": "“Os Verdadeiros Vilões”",
+        "text": "Ignore o texto do lado não revelado de locais <b>Asilo Arkham</b>.\n<b>Objetivo</b> - Encontre o local Cela de Paciente com Daniel Chesterfield. <i>(Você será instruído sobre quando avançar.)</i>",
+        "back_name": "Três Patinhos Foram Passear",
+        "back_flavor": "Quando vocês entram na cela, encontram Daniel agachado em um canto do recinto, chorando e se mexendo para frente e para trás no chão. “Máscara não, máscara não...”, ele repete diversas vezes. Vocês o ajudam a se levantar e tentam consolá-lo, dizendo que ele não é louco — que eventos estranhos têm ocorrido na cidade desde que o Rei de Amarelo retornou para Arkham. “É o Nigel!” exclama ele, segurando um de vocês com força. “Nigel nos obrigou a falar o nome dele... Ele nos fez proferir o Juramento e agora Ele vive dentro de nós, controlando, vocês não entendem?” balbucia ele. “Proferimos o nome Ele e o preço foi pago! Hastur! Hastur! Ó, Rei!”\n\n Vocês acreditam que podem entender mais sobre a situação se conseguirem acalmá-lo, mas vão ter que tirá-lo do asilo para fazer isso.",
+        "back_text": "Escolha um investigador na Cela de Paciente <i>(Cela de Daniel)</i>. Coloque sobre o controle desse investigador a carta Daniel Chesterfield que foi previamente separada (com lado de ativo para cima).\nEmbaralhe a pilha de descarte de encontros e cada inimigo que está embaixo do baralho de atos no baralho de encontros.",
+        "subname": "(v. I)"
+    },
+    {
+        "code": "03165",
+        "flavor": "Daniel está em algum lugar do porão de segurança, onde os pacientes mais perigosos são mantidos. Agora que vocês têm a chave, podem explorar essa área do asilo.",
+        "name": "“Os Verdadeiros Vilões”",
+        "text": "Ignore o texto do lado não revelado de locais <b>Asilo Arkham</b>.\n<b>Objetivo</b> - Encontre o local Cela de Paciente com Daniel Chesterfield. <i>(Você será instruído sobre quando avançar.)</i>",
+        "back_name": "O Alerta de Daniel",
+        "back_flavor": "Quando vocês entram na cela, encontram Daniel agachado em um canto do recinto, chorando e se mexendo para frente e para trás no chão. \"Máscara não, máscara não...\", ele repete diversas vezes. Vocês o ajudam a se levantar e perguntam o que ele lembra sobre O Rei de Amarelo, mas Daniel os interrompe. \"Não falem o nome dele!\", exclama Daniel freneticamente, seus olhos arregalados com um brilho amarelo. \"Nigel nos obrigou a falar o nome dele... Ele nos fez proferir o juramento e agora Ele vive dentro de nós, nos controlando, vocês não entendem?\" balbucia ele.\nO homem se aproxima com uma expressão enlouquecida, e vocês dão um passo cauteloso para trás. \"Proferimos o nome Dele e o preço foi pago! Hastur! Hastur! Ó, Rei! —\" Então, ele subitamente se transforma bem diante de seus olhos. Os ossos dele se distorcem e quebram. O corpo inteiro se modifica de forma grotesca. O símbolo entalhado na testa de Daniel queima, incandescente, e um brilho amarelado emana de seu corpo. Ele se lança para atacá-los.",
+        "back_text": "Faça surgir na Cela de Paciente (Cela de Daniel) a carta Daniel Chesterfield (com lado inimigo para cima) que foi previamente separada.",
+        "subname": "(v. II)"
+    },
+    {
+        "code": "03166",
+        "flavor": "With or without Daniel, you have to get out of this place as soon as you can.",
+        "name": "Planejando a Fuga",
+        "text": "Com ou sem Daniel, vocês precisam sair desse lugar o mais rápido possível.\nIgnore o texto do lado não revelado de locais <b>Asilo Arkham</b>.\n<b>Objective</b> - Se os investigadores tiverem realizado 4 dos seguintes itens, avance.\n- \"Conheceram a rota de patrulha dos guardas.\"\n- \"Iniciaram um incêndio na cozinha.\"\n- \"Incitaram uma briga entre os pacientes.\"\n- \"Libertaram um paciente perigoso.\"\n- \"Se lembraram do caminho para a saída.\"\n- \"Distraíram os guardas.\"",
+        "back_name": "Uma Saída",
+        "back_flavor": "O grito de um enfermeiro ecoa pelo corredor. Alguns instantes depois, um alarme começa a ressoar pela instituição. Enfermeiros e guardas começam a correr pelo asilho, em uma tentativa desesperada de controlar a situação. Vocês se sentem atordoados, com a visão cheia de manchas, como se tivessem sido golpeados na cabeça. As paredes ficam borradas, se mexendo de forma estranha. Criaturas começam a emergir de cantos e rachaduras que não existiam momentos antes.",
+        "back_text": "Embaralhe a pilha de descarte de encontros e cada inimigo que está embaixo do baralho de atos no baralho de encontros.\nSe pelos menos 3 inimigos <b>Monstros</b> foram embaralhados no baralho de encontros por este efeito, o investigador com a menor [willpower] descarta cartas do topo do baralho de encontros até descartar um inimigo <b>Monstro</b> e então compra esse inimigo."
+    },
+    {
+        "code": "03167",
+        "flavor": "All hell has broken loose.",
+        "name": "Sem Asilo",
+        "text": "Começou um pandemônio.\nIgnore o texto do lado não revelado de locais <b>Asilo Arkham</b>.\nO jardim ganha: \"[action] Se não houver inimigos preparados no Jardim: <b>Resign.</b> Finalmente, uma saída!\"\n<b>Objetivo</b> - Se cada investigador não derrotado tiver renunciado, avance.",
+        "back_name": "Fuga",
+        "back_text": "Se \"vocês roubaram a chave à força\", leia o seguinte:\n<i>Conforme vocês tentam fugir, são avistados pela enfermeira que atacaram mais cedo, à frente de um grupo de guardas. \"Ali estão eles! Rápido, atrás deles!\"</i>\n<b>(→R2)</b>\n<hr>\n<b>Caso contrário, leia o seguinte:</b>\n<i>Os guardas estão ocupados demais controlando a situação e contendo os pacientes do asilo para notar a fuga de vocês.</i>\n<b>(→R3)</b>"
+    },
+    {
+        "code": "03168",
+        "flavor": "Enquanto eles andavam pelos sinuosos corredores de pedra do sanatório, Carolyn começou a ficar preocupada. Parecia muito fácil se perder por lá.\n- Mallory O'Meara, Os Investigadores de Arkham Horror",
+        "name": "Corredores do Asilo",
+        "subname": "Ala de Pacientes Oeste",
+        "text": "[reaction] Após você derrotar um inimigo <b>Possuído</b> neste local: Compre 1 carta.",
+        "traits": "Asilo Arkham.",
+        "back_flavor": "A agradável atmosfera da área de recepção desapareceu assim que o Dr. Mintz fechou a grossa porta de ferro atrás deles. A temperatura caiu para um frio úmido, e um fedor horrível pairava no ar.\n- Mallory O’Meara, Os Investigadores de Arkham Horror",
+        "back_traits": "Asilo Arkham.",
+        "errata_date": "2022-08-26"
+    },
+    {
+        "code": "03169",
+        "flavor": "Enquanto eles andavam pelos sinuosos corredores de pedra do sanatório, Carolyn começou a ficar preocupada. Parecia muito fácil se perder por lá.\n- Mallory O'Meara, Os Investigadores de Arkham Horror",
+        "name": "Corredores do Asilo",
+        "subname": "Ala de Pacientes Oeste",
+        "text": "Cada inimigo <b>Possuído</b> neste local recebe +1 de valor de horror.",
+        "traits": "Asilo Arkham.",
+        "back_flavor": "A agradável atmosfera da área de recepção desapareceu assim que o Dr. Mintz fechou a grossa porta de ferro atrás deles. A temperatura caiu para um frio úmido, e um fedor horrível pairava no ar.\n- Mallory O’Meara, Os Investigadores de Arkham Horror",
+        "back_traits": "Asilo Arkham.",
+        "errata_date": "2022-08-26"
+    },
+    {
+        "code": "03170",
+        "flavor": "Enquanto eles andavam pelos sinuosos corredores de pedra do sanatório, Carolyn começou a ficar preocupada. Parecia muito fácil se perder por lá.\n- Mallory O'Meara, Os Investigadores de Arkham Horror",
+        "name": "Corredores do Asilo",
+        "subname": "Ala de Pacientes Leste",
+        "text": "[action] Sofra 1 de horror: <b>Evada.</b> Evada automaticamente um inimigo <i>Possuído</i> neste local.",
+        "traits": "Asilo Arkham.",
+        "back_flavor": "A agradável atmosfera da área de recepção desapareceu assim que o Dr. Mintz fechou a grossa porta de ferro atrás deles. A temperatura caiu para um frio úmido, e um fedor horrível pairava no ar.\n- Mallory O’Meara, Os Investigadores de Arkham Horror",
+        "back_traits": "Asilo Arkham.",
+        "errata_date": "2022-08-26"
+    },
+    {
+        "code": "03171",
+        "flavor": "Enquanto eles andavam pelos sinuosos corredores de pedra do sanatório, Carolyn começou a ficar preocupada. Parecia muito fácil se perder por lá.\n– Mallory O'Meara, Os Investigadores de Arkham Horror",
+        "name": "Corredores do Asilo",
+        "subname": "Ala de Pacientes Leste",
+        "text": "<b>Forçado</b> – Após você terminar o seu turno neste local: Sofra 1 de horror e ganhe 2 recursos.",
+        "traits": "Asilo Arkham.",
+        "back_flavor": "A agradável atmosfera da área de recepção desapareceu assim que o Dr. Mintz fechou a grossa porta de ferro atrás deles. A temperatura caiu para um frio úmido, e um fedor horrível pairava no ar.\n– Mallory O’Meara, Os Investigadores de Arkham Horror",
+        "back_traits": "Asilo Arkham."
+    },
+    {
+        "code": "03172",
+        "flavor": "Pratos sujos lotam a pia e cobrem a bancada. Uma gororoba não identificável ferve no fogão.",
+        "name": "Cozinha",
+        "text": "[action] Se não houver pistas na Cozinha: Teste [willpower] (2). Se você tiver sucesso, lembre-se de que vocês “Iniciaram um incêndio na cozinha.”",
+        "traits": "Asilo Arkham.",
+        "back_flavor": "A porta estreia nos fundos do refeitório está trancada. O cheiro que vem de trás dela é horrível e repugnante.",
+        "back_text": "A porta que leva à Cozinha está trancada. Vocês não conseguem entrar na Cozinha.",
+        "back_traits": "Asilo Arkham."
+    },
+    {
+        "code": "03173",
+        "flavor": "Fileiras de mesas estão cobertas por pratos sujos e comida velha. Do jeito que está, o lugar precisaria ser completamente \"refeito\".",
+        "name": "Refeitório",
+        "text": "<b>Forçado</b> – Após você investigar com sucesso o Refeitório: Escolha e descarte 1 carta da sua mão.",
+        "traits": "Asilo Arkham.",
+        "back_flavor": "Uma porta larga e aberta leva ao refeitório do asilo, onde os pacientes fazem suas refeições. Está mais silencioso do que vocês esperavam — vocês não ouvem cadeiras mexendo, pratos estalando ou pacientes conversando.",
+        "back_traits": "Asilo Arkham."
+    },
+    {
+        "code": "03174",
+        "flavor": "Nossos métodos são comprovados.",
+        "name": "Enfermaria",
+        "text": "[action]: Cure 1 de dano e sofra 1 de horror direto, ou cure 1 de horror e sofra 1 de dano direto. (Limite de uma vez por rodada.)",
+        "traits": "Asilo Arkham.",
+        "back_flavor": "A placa arranhada na porta de madeira diz: \"Enfermaria.\" Deve ser onde os médicos tratam seus pacientes.",
+        "back_traits": "Asilo Arkham."
+    },
+    {
+        "code": "03175",
+        "name": "Pátio",
+        "text": "Enquanto você estiver investigando o Pátio, este local recebe +1 de véu para cada horror sobre você.\n[action] Se não houver pistas no Pátio, sofra 1 de dano: Lembre-se de que vocês \"Incitaram uma briga entre os pacientes.\"",
+        "traits": "Asilo Arkham.",
+        "back_flavor": "O ar fresco e a ilusão de liberdade fazem do pátio do asilo um local de encontro comum para os pacientes. Através das janelas barradas, ramos de árvores mortas balançam ao vento. O céu cinza aprisiona o asilo em um limbo tedioso e perpétuo.",
+        "back_traits": "Asilo Arkham."
+    },
+    {
+        "code": "03176",
+        "flavor": "Dois guardas em uniformes brancos estão ao portão do jardim, vigiando.",
+        "name": "Jardim",
+        "text": "[action] Se não houver pistas no Jardim: Teste [agility] (2).\nSe você tiver sucesso, lembre-se de que vocês \"distraíram os guardas.\"",
+        "traits": "Asilo Arkham.",
+        "back_flavor": "Uma estátua solitária se ergue de guarda sobre o jardim. O vento frio faz com que as folhas mortas rolem gentilmente pela trilha do lugar.",
+        "back_text": "O portão que leva para o Jardim está trancado. Vocês não conseguem entrar no Jardim.",
+        "back_traits": "Asilo Arkham."
+    },
+    {
+        "code": "03177",
+        "flavor": "Uma escadaria de pedra estreita leva para o subsolo, para o porão do asilo. Gritos e uivos de angústia atormentam vocês, vindos de trás das várias portas de ferro do corredor. Vocês não conseguem imaginar como seria viver os seus dias neste local.",
+        "name": "Corredores do Porão",
+        "text": "<b>Forçado</b> - Após Corredores do Porão ser revelado: Coloque em jogo os 4 locais Cela de Paciente que foram previamente separados.",
+        "traits": "Asilo Arkham.",
+        "back_flavor": "Ar úmido soprava por alguns dos corredores escuros. Carolyn perguntou, \"Algumas destas passagens levam ao subsolo?\" A enfermeira Heather assentiu. \"É um prédio bem antigo, Doutora.\"\n- Mallory O’Meara, Os Investigadores de Arkham Horror",
+        "back_text": "A porta que leva aos Corredores do Porão está trancada. Vocês não conseguem entrar nos Corredores do Porão.",
+        "back_traits": "Asilo Arkham."
+    },
+    {
+        "code": "03178",
+        "flavor": "A cela sem janelas de Daniel é desesperadamente úmida e sombria. As paredes estão cobertas por rabiscos erráticos, que, após uma inspeção mais aprofundada, parecem ser passagens de <i>O Rei de Amarelo</i>.",
+        "name": "Cela de Paciente",
+        "subname": "Cela de Daniel",
+        "text": "<b>Forçado</b> – Após a Cela de Paciente ser revelada: Avance para o ato 2b.",
+        "back_flavor": "A pesada porta de metal está bem fechada e trancada pelo lado de fora. A pequena portinhola que lhes permitiria dar uma olhada dentro da cela está emperrada.",
+        "back_text": "Como um custo adicional para entrar na Cela de Paciente, você deve gastar 1 pista.",
+        "errata_date": "2017-12-27"
+    },
+    {
+        "code": "03179",
+        "name": "Cela de Paciente",
+        "subname": "Cela Ocupada",
+        "text": "[action]: Teste [combat] (2) para livrar o paciente de suas amarras. Se você tiver sucesso, ele uiva como um lobo e sai destruindo tudo pelo porão; lembre-se de que vocês \"Libertaram um paciente perigoso.\"",
+        "back_flavor": "A pesada porta de metal está bem fechada e trancada pelo lado de fora. A pequena portinhola que lhes permitiria dar uma olhada dentro da cela está emperrada.",
+        "back_text": "Como um custo adicional para entrar na Cela de Paciente, você deve gastar 1 pista.",
+        "errata_date": "2017-12-27"
+    },
+    {
+        "code": "03180",
+        "flavor": "Uma escuridão fria envolve essa cela sem janelas. Ficar trancado aqui por um dia seria torturante, que dirá por meses.",
+        "name": "Cela de Paciente",
+        "subname": "Cela Melancólica",
+        "text": "[action]: Teste [intellect] (2) para falar com a paciente desta cela. Se você tiver sucesso, você consegue interpretar os delírios dela, lembre-se de que vocês \"Conheceram a rota de patrulha dos guardas.\"",
+        "back_flavor": "A pesada porta de metal está bem fechada e trancada pelo lado de fora. A pequena portinhola que lhes permitiria dar uma olhada dentro da cela está emperrada.",
+        "back_text": "Como um custo adicional para entrar na Cela de Paciente, você deve gastar 1 pista.",
+        "errata_date": "2017-12-27"
+    },
+    {
+        "code": "03181",
+        "name": "Cela de Paciente",
+        "subname": "Cela Familiar",
+        "text": "[action]: Teste [willpower] (X), onde X é a quantidade de horror sobre você. Se você tiver sucesso, você reconhece a sala. Lembre-se de que vocês \"Se lembraram do caminho para a saída.\"",
+        "back_flavor": "A pesada porta de metal está bem fechada e trancada pelo lado de fora. A pequena portinha que lhes permitiria dar uma olhada dentro da cela está emperrada.",
+        "back_text": "Como um custo adicional para entrar na Cela de Paciente, você deve gastar 1 pista.",
+        "errata_date": "2017-12-27"
+    },
+    {
+        "code": "03182a",
+        "name": "Daniel Chesterfield",
+        "subname": "Ele Não Está Muito Bem",
+        "text": "[fast] Esgote Daniel Chesterfield: Dê o controle dele a outro investigador em seu local.\n<b>Forçado</b> - Quando você sofrer horror, se pelo menos 1 desse horror não for atribuído a Daniel Chesterfield: Sofra 1 de dano.\n<b>Forçado</b> - Se Daniel Chesterfield sair de jogo: Remova Daniel Chesterfield do jogo.",
+        "traits": "Aliado. Possuído.",
+        "slot": "Ally",
+        "errata_date": "2022-08-26"
+    },
+    {
+        "code": "03182b",
+        "name": "Daniel Chesterfield",
+        "subname": "… Ou Pelo Menos o Que Restou Dele",
+        "text": "<b>Presa</b> – Maior [combat].\n[action] Se você controlar o Broche de Ônix Negra: <b>Negociata.</b> Você mostra o broche a Daniel, e ele cambaleia para trás, caindo ao chão inerte. Adicione-o ao painel de vitórias.",
+        "traits": "Humanoide. Possuído. Elite.",
+        "errata_date": "2022-08-26"
+    },
+    {
+        "code": "03183",
+        "name": "Devorador do Asilo",
+        "text": "<b>Surgir</b> - Corredores do Porão.\nCaçador.\nDevorador do Asilo não pode realizar ataques de oportunidade e não pode atacar durante a mesma fase em que se moveu devido à palavra-chave caçador.",
+        "traits": "Monstro. Abominação."
+    },
+    {
+        "code": "03184",
+        "flavor": "Ninguém está a salvo do Rei e de Sua dádiva indizível.",
+        "name": "Paciente Assombrado",
+        "text": "<b>Surgir</b> – Corredores do Asilo mais próximo.\n<b>Presa</b> – Maior sanidade restante.\n<b>Forçado</b> – Quando você atacar Paciente Assombrado: Sofra 1 de horror.",
+        "traits": "Humanoide. Possuído.",
+        "errata_date": "2022-08-26"
+    },
+    {
+        "code": "03185",
+        "flavor": "“O que você está fazendo? I não sou louco!”",
+        "name": "Camisa de Força",
+        "text": "<b>Revelação</b> – Se não houver nenhuma cópia de Camisa de Força em sua área de ameaças, coloque Camisa de Força em sua área de ameaças como um ativo que ocupa o espaço do corpo e 2 espaços de mão. Devolva cada ativo nesses espaços para a sua mão. Esta carta não pode sair de jogo, exceto pela habilidade abaixo.\n[action][action]: Descarte Camisa de Força.",
+        "traits": "Item. Roupa."
+    },
+    {
+        "code": "03186",
+        "name": "Dádiva da Loucura",
+        "subname": "(Pena)",
+        "text": "Perigo. Velado.\n<b>Revelação</b> – Secretamente coloque Dádiva da Loucura (Pena) na sua mão.\nVocê não pode atacar inimigos <i>Possuídos</i>.\n[action]: Escolha aleatoriamente 1 inimigo entre os inimigos <i>Monstros</i> que foram previamente separados e coloque-o embaixo do baralho de atos sem olhar para ele. Descarte Dádiva da Loucura (Pena) da sua mão.",
+        "traits": "Terror.",
+        "errata_date": "2022-08-26"
+    },
+    {
+        "code": "03187",
+        "name": "Dádiva da Loucura",
+        "subname": "Miséria",
+        "text": "Perigo. Velado.\n<b>Revelação</b> – Secretamente coloque Dádiva da Loucura (Miséria) na sua mão.\nVocê não pode ativar habilidades [action] em locais.\n[action]: Escolha aleatoriamente 1 inimigo entre os inimigos <i>Monstros</i> que foram previamente separados e coloque-o embaixo do baralho de atos sem olhar para ele. Descarte Dádiva da Loucura (Miséria) da sua mão.",
+        "traits": "Terror."
+    },
+    {
+        "code": "03188",
+        "name": "Paredes Sufocantes",
+        "text": "<b>Revelação</b> - Teste [willpower] (X), onde X é o valor de véu de seu local. Se você falhar, você deve sofrer 1 de horror para cada ponto que você falhar, ou escolher aleatoriamente 1 inimigo entre os inimigos <i>Monstros</i> previamente separados e colocá-lo embaixo do baralho de atos sem olhar para ele.",
+        "traits": "Terror."
+    }
 ]

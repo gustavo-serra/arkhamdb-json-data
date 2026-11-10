@@ -1,167 +1,170 @@
 [
     {
         "code": "02311",
-        "name": "Lost in Time and Space",
-        "text": "Easy / Standard\n[skull]: -1 for each [[Extradimensional]] location in play (max -5).\n[cultist]: Reveal another token. If you fail, after this skill test, discard cards from the top of the encounter deck until a location is discarded. Put that location into play and move there.\n[tablet]: -3. If Yog-Sothoth is in play, it attacks you after this skill test.\n[elder_thing]: -X. X is the shroud value of your location. If you fail and your location is [[Extradimensional]], discard it.",
-        "back_text": "Hard / Expert\n[skull]: -1 for each [[Extradimensional]] location in play.\n[cultist]: Reveal another token. After this skill test, discard cards from the top of the encounter deck until a location is discarded. Put that location into play and move there.\n[tablet]: -5. If Yog-Sothoth is in play, it attacks you after this skill test.\n[elder_thing]: -X. X is twice the shroud value of your location. If you fail and your location is [[Extradimensional]], discard it."
+        "name": "Perdidos no Tempo e no Espaço",
+        "text": "FÁCIL / MÉDIO\n[skull]: -1 para cada local <b>Extradimensional</b> em jogo (máximo de -5).\n[cultist]: Revele outra ficha. Se você falhar, após este teste de perícia, descarte cartas do topo do baralho de encontros até que um local seja descartado. Coloque em jogo o local descartado e mova-se para ele.\n[tablet]: -3. Se Yog-Sothoth estiver em jogo, ele ataca você após este teste de perícia.\n[elder_thing]: -X. X é o valor de véu do seu local. Se você falhar e o seu local for <b>Extradimensional</b>, descarte-o.",
+        "back_text": "DIFÍCIL / EXPERIENTE\n[skull]: -1 para cada local <b>Extradimensional</b> em jogo.\n[cultist]: Revele outra ficha. Após este teste de perícia, descarte cartas do topo do baralho de encontros até que um local seja descartado. Coloque em jogo o local descartado e mova-se para ele.\n[tablet]: -5. Se Yog-Sothoth estiver em jogo, ele ataca você após este teste de perícia.\n[elder_thing]: -X. X é o dobro do valor de véu do seu local. Se você falhar e o seu local for <b>Extradimensional</b>, descarte-o."
     },
     {
         "code": "02312",
-        "flavor": "Pathways of sound and color extend for an eternity in all directions, dotted with impossible architecture, and overgrown with alien wildlife. The lines between objects are jagged and shifting, and your skin feels as if it were inside out.",
-        "name": "All is One",
-        "text": "<b>Forced</b> - After you are moved to a location by an encounter card effect: Take 1 horror.",
-        "back_name": "Familiar Echoes",
-        "back_text": "Shuffle the encounter discard pile into the encounter deck. Then, discard cards from the top until a location is discarded. The lead investigator resolves that location's 'revelation' effect.\n<b>Check Campaign Log. If the investigators failed to save the students, read the following:</b>\n\"A huge canine creature, alien to your eyes and yet familiar, appears before you. The creature rushes forward, and you prepare to fend it off, but to your surprise it runs through you, towards a building that wasn't behind you moments before: Derby Hall from the Miskatonic University. The creature bursts through the building's front door and you hear screams of panic from inside, followed by the crunch of snapping bones and cries of pain.\"\nEach investigator takes 1 horror, regardless of their location."
+        "flavor": "Veredas de som e cores estendem-se pela eternidade em todas as direções, pontilhadas com arquitetura impossível, tomados por vida selvagem alienígena. As linhas entre os objetos estão entrecortadas e em constante mudança, e vocês sentem como se sua pele tivesse sido revirada ao avesso.",
+        "name": "Tudo é Um",
+        "text": "<b>Forçado</b> - Após você se mover para um local devido a um efeito de carta de encontros: Sofra 1 de horror.",
+        "back_name": "Ecos Familiares",
+        "back_text": "Embaralhe a pilha de descartes de encontros no baralho de encontros. Então, descarte todas as cartas do topo até que um local seja descartado. O investigador líder resolve o efeito de 'revelação' desse local.\n\n<b>Verifique o Registro da Campanha. Se os investigadores falharam em salvar os estudantes, leia o seguinte:</b>\n\n\"Uma imensa criatura canina, alienígena aos seus olhos e, ainda assim, familiar, surge diante de vocês. A criatura avança correndo e vocês preparam-se para se defender, mas para sua surpresa, a coisa passa por vocês em direção a um prédio que não estava lá instantes antes: o Derby Hall da Universidade Miskatonic. A criatura atravessa a porta dianteira do lugar e vocês ouvem gritos de pânico vindo de dentro, seguidos pelo mastigar de ossos sendo quebrados e gritos de dor.\"\n\nCada investigador sofre 1 de horror, independente do local onde estejam."
     },
     {
         "code": "02313",
-        "flavor": "As you cross this realm, you catch occasional glimpses of reality - scenes from old memories, more recent visions from the past few days, and sometimes even events that you do not remember ever happening…",
-        "name": "Past, Present and Future",
-        "text": "<b>Forced</b> - After you are moved to a location by an encounter card effect: Take 1 horror.",
-        "back_name": "The Price of Failure",
-        "back_text": "Shuffle the encounter discard pile into the encounter deck. Then, discard cards from the top until a location is discarded. The lead investigator resolves that location's 'revelation' effect.\n<b>Check Campaign Log. If at least one name is recorded under \"Sacrificed to Yog-Sothoth,\" read the following:</b>\n\"You hear a familiar voice calling out to you, and you enter an impossibly shaped building of cracked stone. \"No… don't!\" the voice cries. You rush toward the voice, down a set of steep, narrow stairs. Upon reaching the bottom, you find yourself in the hidden chamber from Dunwich. Bound by shackles, you see those you failed to save, bloodied and maimed. A creature with a man's face feeds from a corpse on the ground. The head of the corpse turns to face you, and a sharp pain stabs your heart.\"\nEach investigator tests [willpower] (X), where X is the number of names recorded under \"Sacrificed to Yog-Sothoth.\" For each point an investigator fails by, that investigator takes 1 damage."
+        "flavor": "Quando vocês cruzam esse reino, vislumbram lampejos ocasionais de realidade - cenas de memórias antigas, visões mais recentes dos dias anteriores e, às vezes, até mesmo de eventos que não lembram ter acontecido...",
+        "name": "Passado, Presente e Futuro",
+        "text": "<b>Forçado</b> - Após você se mover para um local devido a um efeito de carta de encontros: Sofra 1 de horror.",
+        "back_name": "O Preço do Fracasso",
+        "back_text": "Embaralhe a pilha de descartes de encontros no baralho de encontros. Então, descarte todas as cartas do topo até que um local seja descartado. O investigador líder resolve o efeito de 'revelação' desse local.\n\nVerifique o Registro da Campanha. Se pelo menos um nome estiver registrado em \"Sacrificado para Yog-Sothoth\", leia o seguinte:\n\n\"Vocês ouvem uma voz familiar chamando vocês, e então entram em um prédio de arquitetura impossível construído com pedras rachadas. \"Não... não faça isso!\" a voz grita. Vocês correm em direção à voz, descendo um conjunto de degraus estreitos e íngremes. Ao chegar ao fundo, vocês se encontram na câmara secreta de Dunwich. Presos por grilhões, vocês veem aqueles que falharam em salvar, ensanguentados e mutilados. Uma criatura com o rosto de homem se alimenta de um cadáver no chão. A cabeça do cadáver se vira para encará-los, e uma dor aguda os apunhala no coração.\"\n\nCada investigador testa [willpower] (X), com X sendo a quantidade de nomes registrados em \"Sacrificado para Yog-Sothoth\". Para cada ponto que um investigador falhar, esse investigador sofre 1 de dano."
     },
     {
         "code": "02314",
-        "flavor": "Throughout this warped dimension, no matter where you travel, there is a haunting shape in the distance. At first, it appears as a disc, like a black moon with many wriggling arms. But as time passes, you can tell it is growing larger and larger…",
-        "name": "Breaking Through",
-        "text": "<b>Forced</b> - After you are moved to a location by an encounter card effect: Take 1 horror.",
-        "back_name": "The Key and the Gate",
-        "back_text": "<b>Revelation</b> - Spawn the set-aside Yog-Sothoth enemy at The Edge of the Universe. If The Edge of the Universe is not in play, spawn it in Another Dimension, instead. Advance to agenda 4a."
+        "flavor": "Através dessa dimensão distorcida, não importa para onde vocês viajem, sempre há uma forma assombrosa à distância. De início, parece algo como um disco, como uma lua negra de muitos braços espasmódicos. Mas conforme o tempo passa, vocês percebem que está crescendo cada vez mais...",
+        "name": "Atravessando",
+        "text": "<b>Forçado</b> - Após você se mover para um local devido a um efeito de carta de encontros: Sofra 1 de horror.",
+        "back_name": "A Chave e o Portão",
+        "back_text": "<b>Revelação</b> - O inimigo Yog-Sothoth previamente separado surge em A Fronteira do Universo. Se A Fronteira do Universo não estiver em jogo, em vez disso o inimigo surge em Outra Dimensão. Avance para a agenda 4a."
     },
     {
         "code": "02315",
-        "flavor": "The shape in the distance smashes through the barriers of this dimension, its many arms reaching to envelop everything you see. Its body is like an ooze, covered in eyes and mouths. You feel insignificant, like a bug, next to the creature’s terrifying grandeur.",
-        "name": "The End of All Things",
-        "text": "<b>Forced</b> - After you are moved by an encounter card effect: Take 1 horror.\n<b>Forced</b> - If Yog-Sothoth is defeated, <b>(→R3)</b>.",
-        "back_name": "Yog-Sothoth Attacks!",
-        "back_flavor": "Seeking the rift from which you entered this dimension, the extradimensional horror lashes out, crushing entire realms within its grasp.",
-        "back_text": "In player order, Yog-Sothoth attacks each investigator in play, regardless of Yog-Sothoth's current location. Then, flip this agenda back to its \"a\" side."
+        "flavor": "A forma no horizonte destroça as barreiras dessa dimensão, os muitos braços da coisa se estendem para envolver tudo o que vocês conseguem ver. Seu corpo é como gosma, coberto de olhos e bocas. Vocês se sentem insignificantes, como um inseto, diante de uma criatura de aterrorizante grandeza.",
+        "name": "O Fim de Todas as Coisas",
+        "text": "<b>Forçado</b> - Após você se mover para um local devido a um efeito de carta de encontros: Sofra 1 de horror.\n<b>Forçado</b> - Se Yog-Sothoth for derrotado, (→R3).",
+        "back_name": "Yog-Sothoth Ataca!",
+        "back_flavor": "Procurando a fenda pela qual vocês entraram nessa dimensão, o horror extradimensional se debate, esmagando reinos inteiros ao seu alcance.",
+        "back_text": "Na ordem dos jogadores, Yog-Sothoth ataca cada investigador em jogo, a despeito do local atual de Yog-Sothoth. Então, vire esta agenda de volta para seu lado \"a\"."
     },
     {
         "code": "02316",
-        "flavor": "Somehow, you must find your way across this alien landscape in order to find the nexus that was described in Old Whateley’s tome.",
-        "name": "Out of this World",
-        "text": "[action]: Discard the top 3 cards of the encounter deck. Choose a location discarded by this effect and resolve its 'revelation' ability.",
-        "back_name": "The Nexus of Dimensions",
-        "back_flavor": "A light shimmers in the distance, and you head toward it to investigate. The wispy light drifts away from you, floating through the realm's strange gateways, ascending looping staircases, and crossing through barriers you dared not cross earlier. With little chance of finding the nexus on your own, you follow the light, hoping it is guiding you in the right direction.",
-        "back_text": "Put the set-aside The Edge of the Universe location into play."
+        "flavor": "De alguma forma, vocês precisam encontrar um caminho através desse horizonte alienígena para encontrar o nexo que foi descrito no tomo do Velho Whateley.",
+        "name": "Fora deste Mundo",
+        "text": "[action]: Descarte as 3 cartas do topo do baralho de encontros. Escolha um local descartado por este efeito e resolva sua habilidade de 'revelação'.",
+        "back_name": "O Nexo das Dimensões",
+        "back_flavor": "Uma luz brilha à distância, e vocês avançam para investigar. O fiapo luminoso se afasta, flutuando através desse reino de estranhos portais, galgando escadarias serpenteantes e cruzando barreiras que vocês não se atreveram a cruzar antes. Com poucas chances de encontrar o nexo sozinhos, vocês seguem a luz, torcendo para serem guiados para a direção certa.",
+        "back_text": "Coloque em jogo o local A Fronteira do Universo previamente separado."
     },
     {
         "code": "02317",
-        "flavor": "You continue to follow the wisp of light, though the treacherous landscape makes it a difficult quarry to chase.",
-        "name": "Into the Beyond",
-        "text": "[action]: Discard the top 3 cards of the encounter deck. Choose a location discarded by this effect and resolve its 'revelation' ability.\n<b>Objective</b> - If an investigator enters The Edge of the Universe, advance.",
-        "back_name": "The World's Edge",
-        "back_flavor": "You reach an impossibly dense pitch-black void, and realize that this place is where all of reality - all that is and all that ever will be - ends. In its center, you see a minuscule rift, suspended just out of reach. When you peer through the tear, you are surprised to see the peak of Sentinel Hill. Somehow, you've reached the other side of the rift. Now you must find a way to close it for good."
+        "flavor": "Vocês continuam a seguir o fiapo de luz, embora a paisagem traiçoeira torne difícil manter a perseguição.",
+        "name": "Rumo ao Além",
+        "text": "[action]: Descarte as 3 cartas do topo do baralho de encontros. Escolha um local descartado por este efeito e resolva sua habilidade de 'revelação'.\n<b>Objetivo</b> - Se um investigador entrar em A Fronteira do Universo, avance.",
+        "back_name": "A Fronteira do Mundo",
+        "back_flavor": "Vocês alcançam um vazio impossivelmente denso e escuro, percebendo que esse é o lugar onde toda a realidade — tudo o que foi e o que será — termina. Em seu centro, veem uma fenda minúscula, suspensa logo além do seu alcance. Quando perscrutam através dela, ficam surpresos ao ver o pico da Colina Sentinela. De alguma forma, vocês chegaram ao outro lado da fenda. Agora, precisam encontrar uma forma de fechá-la de uma vez por todas."
     },
     {
         "code": "02318",
-        "flavor": "The unearthly stones on the ground are inscribed with some sort of seal. Approaching them causes a voice to enter your mind, speaking in an alien tongue.",
-        "name": "Close the Rift",
-        "text": "[action]: Discard the top 3 cards of the encounter deck. Choose a location discarded by this effect and resolve its 'revelation' ability.\n<b>Objective</b> - Only investigators at The Edge of the Universe may spend the requisite number of clues, as a group, to advance.",
-        "back_name": "Mending the Tear",
-        "back_flavor": "You are utterly exhausted, with no idea as to what can be done to close the rift. It is too distant to touch, and nothing you do has any effect. There is nothing here to guide you apart from the unearthly words that are seeping into your mind. Just then, you hear a familiar voice within the echoing chorus, and feel yourself compelled to repeat it. \"Claude ostium…\" You whisper at first, the words on the tip of your tongue. You close your eyes to concentrate, and the echo grows louder. When it ends and you open your eyes, you face nothing but an inky abyss, and the tear has vanished.",
-        "back_text": "Remove the Edge of the Universe from the game.\nPut the set-aside Tear Through Time location into play."
+        "flavor": "As pedras alienígenas do chão estão inscritas com algum tipo de sigilo. Ao se aproximar delas, uma voz se insinua na mente de vocês, falando em alguma língua alienígena.",
+        "name": "Fechem a Fenda",
+        "text": "[action]: Descarte as 3 cartas do topo do baralho de encontros. Escolha um local descartado por este efeito e resolva sua habilidade de 'revelação'.\n<b>Objetivo</b> - Apenas investigadores em A Fronteira do Universo podem gastar a quantidade de pistas necessárias, em grupo, para avançar.",
+        "back_name": "Remendando a Fenda",
+        "back_flavor": "Vocês estão completamente exaustos, sem ideias do que poderia ser feito para fechar a fenda. Está distante demais para ser tocada, e tudo o que fazem não tem efeito algum. Não há nada para guiá-los além das palavras extraterrenas que singram por suas mentes. Nesse instante, vocês ouvem uma voz familiar dentro do coro ecoante e se sentem compelidos a repeti-la. \"Claude ostium...\" Primeiro vocês sussurram, com as palavras na ponta da língua. Vocês fecham os olhos e se concentram, e o eco vai ficando mais alto. Quando termina e vocês abrem os olhos, deparam nada além de um abismo de trevas, e a fenda desapareceu.",
+        "back_text": "Remova A Fronteira do Universo do jogo.\nColoque em jogo o local Fenda Através do Tempo previamente separado."
     },
     {
         "code": "02319",
-        "flavor": "With no clear way out of this dimension, you seek another path.",
-        "name": "Finding a New Way",
-        "text": "[action]: Discard the top 3 cards of the encounter deck. Choose a location discarded by this effect and resolve its 'revelation' ability.\n<b>Objective</b> - If each undefeated investigator has resigned, advance.",
-        "back_name": "Reality Beckons",
-        "back_flavor": "You discover a path that looks somewhat familiar and follow it. Even though your task is complete, you now understand that in closing the tear, you may never make it home. The fear of being lost here forever spurs you onward, through an archway leading into an overgrown corridor. A damp wooden door leads you out into a pocket of thin rain and dark sky. Cement turns to gravel, then marble, then steel, then grass. You cross impossibly long meadows and make your way through dense woods before fatigue finally sets in. Drained of all energy, you cannot go on any further. Your body gives out.",
-        "back_text": "<b>(→R1)</b>"
+        "flavor": "Sem nenhuma saída óbvia desta dimensão, vocês procuram outro caminho.",
+        "name": "Encontrando um Novo Caminho",
+        "text": "[action]: Descarte as 3 cartas do topo do baralho de encontros. Escolha um local descartado por este efeito e resolva sua habilidade de 'revelação'.\n<b>Objetivo</b> - Se cada investigador não derrotado tiver renunciado, avance.",
+        "back_name": "A Realidade os Alcança",
+        "back_flavor": "Vocês descobrem um caminho familiar e o seguem. Ainda que sua tarefa esteja completa, agora vocês percebem que, ao fechar a fenda, podem nunca retornar para casa. O receio de ficarem perdidos para sempre os impele adiante, através de um arco que leva a um corredor assolado por mato. Uma úmida porta de madeira os leva para um bolsão de chuva fraca e céu escuro. O cimento se torna cascalho, então mármore, depois aço e por fim grama. Vocês cruzam prados impossivelmente longos e abrem caminho através de densas matas antes da fadiga finalmente se instalar em seus corpos. Sem energias, vocês não conseguem mais seguir adiante. O corpo de vocês cede ao cansaço.",
+        "back_text": "(→R1)"
     },
     {
         "code": "02320",
-        "name": "Another Dimension",
-        "subname": "Unfettered by Reality",
-        "text": "<b>Forced</b> - When a location leaves play: Move each investigator and unengaged enemy at that location to Another Dimension. Cannot be canceled.",
-        "traits": "Otherworld.",
-        "back_flavor": "You gape in disbelief at the swirling colors and alien angles surrounding you. This is true madness. "
+        "name": "Outra Dimensão",
+        "subname": "Distante da Realidade",
+        "text": "<b>Forçado</b> - Quando um local sair do jogo: Mova cada investigador e inimigo não engajado que estiverem nesse local para Outra Dimensão. Não pode ser cancelado.",
+        "traits": "Outro Mundo.",
+        "back_flavor": "Vocês abrem a boca em descrença diante das cores espiralantes e ângulos alienígenas que os circundam. É uma verdadeira loucura.",
+        "back_traits": "Outro Mundo."
     },
     {
         "code": "02321",
-        "name": "The Edge of the Universe",
-        "text": "You must have at least 2 clues in order to move to The Edge of the Universe.\nInvestigators at The Edge of the Universe cannot draw cards during the upkeep phase.",
-        "traits": "Otherworld.",
-        "back_flavor": "Nothing could have possibly prepared you for this.\nIt is beautiful and terrible to behold.",
-        "back_text": "You must have at least 2 clues in order to move to The Edge of the Universe."
+        "name": "A Fronteira do Universo",
+        "text": "Você precisa ter pelo menos 2 pistas para entrar em A Fronteira do Universo.\nInvestigadores em A Fronteira do Universo não podem comprar cartas durante a fase de manutenção.",
+        "traits": "Outro Mundo.",
+        "back_flavor": "Nada poderia tê-los preparado para isso.\nÉ algo belo e terrível de se contemplar.",
+        "back_text": "Você precisa ter pelo menos 2 pistas para entrar em A Fronteira do Universo.",
+        "back_traits": "Outro Mundo."
     },
     {
         "code": "02322",
-        "name": "Tear Through Time",
-        "text": "[action] Spend 2 clues: <b>Resign.</b> You find a new path and hope that it leads back to safety.",
-        "traits": "Otherworld.",
-        "back_flavor": "What is, what was, what will never be…\nyou see it all, and it sees you."
+        "name": "Fenda Através do Tempo",
+        "text": "[action] Gaste 2 pistas: <b>Renuncie.</b> Vocês encontram um novo caminho e torcem para que ele os leve de volta à segurança.",
+        "traits": "Outro Mundo.",
+        "back_flavor": "O que é, o que foi, o que será...\nvocês veem tudo e tudo os vê.",
+        "back_traits": "Outro Mundo."
     },
     {
         "code": "02323",
         "name": "Yog-Sothoth",
-        "subname": "The Lurker Beyond the Threshold",
-        "text": "Massive. Hunter. Retaliate.\nYog-Sothoth gets +6 [per_investigator] health.\nYog-Sothoth cannot be evaded and cannot make attacks of opportunity.\n[reaction] When Yog-Sothoth attacks you: Instead of taking up to X horror, you may discard the top X cards from your deck. Then, if you have no cards in your deck, you are driven insane.",
-        "traits": "Ancient One. Elite."
+        "subname": "Aquilo que Espreita Além do Limiar",
+        "text": "<b>Massivo. Caçador. Retaliação.</b>\nYog-Sothoth recebe +6 [per_investigator] de vida.\nYog-Sothoth não pode ser evadido e não pode fazer ataques de oportunidade.\n[reaction] Quando Yog-Sothoth atacá-lo: Em vez de sofrer até X de horror, você pode descartar as X cartas do topo do seu baralho. Então, se você não tiver mais cartas no seu baralho, você enlouquece.",
+        "traits": "Ancião. Elite."
     },
     {
         "code": "02324",
-        "name": "Tear Through Space",
-        "text": "Surge.\n<b>Revelation</b> - Put Tear Through Space into play.\n<b>Forced</b> - At the end of the round: Either place 1 doom on Tear Through Space, or discard it.",
-        "traits": "Otherworld. Extradimensional."
+        "name": "Fenda Através do Espaço",
+        "text": "Ímpeto.\n<b>Revelação</b> – Coloque Fenda Através do Espaço em jogo.\n<b>Forçado</b> – No final da rodada: Coloque 1 perdição em Fenda Através do Espaço ou descarte-a.",
+        "traits": "Outro Mundo. Extradimensional."
     },
     {
         "code": "02325",
-        "name": "Prismatic Cascade",
-        "text": "<b>Revelation</b> - Put Prismatic Cascade into play and discard a random card from your hand.\n<b>Forced</b> - After the last clue on Prismatic Cascade is removed: Discard Prismatic Cascade.",
-        "traits": "Otherworld. Extradimensional."
+        "name": "Cascata Prismática",
+        "text": "<b>Revelação</b> – Coloque Cascata Prismática em jogo e descarte uma carta aleatória da sua mão.\n<b>Forçado</b> – Após a última pista em Cascata Prismática ser removida: Descarte Cascata Prismática.",
+        "traits": "Outro Mundo. Extradimensional."
     },
     {
         "code": "02326",
-        "name": "Endless Bridge",
-        "text": "<b>Revelation</b> - Put Endless Bridge into play and lose 2 resources.\n<b>Forced</b> - After an investigator leaves Endless Bridge: Either place 1 doom on Endless Bridge, or discard it.",
-        "traits": "Otherworld. Extradimensional."
+        "name": "Ponte Eterna",
+        "text": "<b>Revelação</b> - Coloque Ponte Eterna em jogo e perca 2 recursos.\n<b>Forçado</b> - Após um investigador deixar Ponte Eterna: Coloque 1 perdição em Ponte Eterna ou descarte-a.",
+        "traits": "Outro Mundo. Extradimensional."
     },
     {
         "code": "02327",
-        "name": "Steps of Y'hagharl",
-        "text": "<b>Revelation</b> - Put Steps of Y'hagharl into play. Then, draw the topmost [[Madness]] card in your discard pile.\n<b>Forced</b> - When you would leave Steps of Y'hagharl: Test [willpower] (2). If you fail, shuffle Steps of Y'hagharl into the encounter deck instead of moving to your original destination.",
-        "traits": "Otherworld. Extradimensional."
+        "name": "Escadarias de Y'hagharl",
+        "text": "<b>Revelação</b> – Coloque Escadarias de Y'hagharl em jogo. Então, compre a carta de <i>Loucura</i> mais acima de sua pilha de descarte.\n<b>Forçado</b> – Quando você for deixar Escadarias de Y'hagharl: Teste [willpower] (2). Se você falhar, embaralhe Escadarias de Y'hagharl no baralho de encontros em vez de se mover para seu destino original.",
+        "traits": "Outro Mundo. Extradimensional."
     },
     {
         "code": "02328",
-        "name": "Dimensional Doorway",
-        "text": "<b>Revelation</b> - Put Dimensional Doorway into play. Then, draw the topmost [[Hex]] card in the encounter discard pile.\n<b>Forced</b> - At the end of your turn, if you are at Dimensional Doorway: You must either spend 2 resources or shuffle Dimensional Doorway into the encounter deck.",
-        "traits": "Otherworld. Extradimensional."
+        "name": "Porta Dimensional",
+        "text": "<b>Revelação</b> – Coloque Porta Dimensional em jogo. Então, compre a carta de <i>Sortilégio</i> mais acima da pilha de descarte de encontros.\n<b>Forçado</b> – No final do seu turno, se você estiver em Porta Dimensional: Você precisa ou gastar 2 recursos ou embaralhar Porta Dimensional no baralho de encontros.",
+        "traits": "Outro Mundo. Extradimensional."
     },
     {
         "code": "02329",
-        "name": "Interstellar Traveler",
-        "text": "<b>Spawn</b> - Any [[Extradimensional]] location.\nHunter.\n<b>Forced</b> - When Interstellar Traveler enters a location: Flip 1 clue on that location to its doom side and place it on Interstellar Traveler, or place 1 doom on Interstellar Traveler if there are no clues on that location.",
-        "traits": "Monster. Yithian."
+        "name": "Viajante Interestelar",
+        "text": "<b>Surgir</b> – Qualquer local <i>Extradimensional</i>.\n<b>Caçador</b>.\n<b>Forçado</b> – Quando Viajante Interestelar entrar em um local: Vire 1 pista desse local para seu lado perdição e coloque-a em Viajante Interestelar, ou coloque 1 perdição sobre Viajante Interestelar se não houver pistas nesse local.",
+        "traits": "Monstro. Yithiano."
     },
     {
         "code": "02330",
-        "name": "Yithian Starseeker",
-        "text": "<b>Spawn</b> - Another Dimension.\nRetaliate.\n<b>Forced</b> - When Yithian Starseeker attacks an investigator with more than 10 cards in his or her discard pile: Place 1 doom on Yithian Starseeker.",
-        "traits": "Monster. Yithian."
+        "name": "Yithiano Buscador de Estrelas",
+        "text": "<b>Surgir</b> – Outra Dimensão.\nRetaliação.\n<b>Forçado</b> – Quando Yithiano Buscador de Estrelas atacar um investigador que tiver mais de 10 cartas em sua pilha de descarte: Coloque 1 perdição sobre Yithiano Buscador de Estrelas.",
+        "traits": "Monstro. Yithiano."
     },
     {
         "code": "02331",
-        "flavor": "The world around you appears to be folding in on itself, warping, twisting, bending.",
-        "name": "Collapsing Reality",
-        "text": "<b>Revelation</b> - If you are at an [[Extradimensional]] location, discard it and take 1 damage. Otherwise, take 2 damage.",
-        "traits": "Hazard."
+        "flavor": "O mundo à sua volta parece estar dobrando-se sobre si mesmo, distorcendo, retorcendo, curvando.",
+        "name": "Realidade em Colapso",
+        "text": "<b>Revelação</b> – Se você estiver em um local <b>Extradimensional</b>, descarte-o e sofra 1 de dano. Caso contrário, sofra 2 de dano.",
+        "traits": "Risco."
     },
     {
         "code": "02332",
-        "name": "Wormhole",
-        "text": "<b>Revelation</b> - Discard cards from the top of the encounter deck until a location is discarded. Resolve that location's 'revelation' ability, then move to that location.",
-        "traits": "Hazard."
+        "name": "Buraco de Minhoca",
+        "text": "<b>Revelação</b> – Descarte cartas do topo do baralho de encontros até um local ser descartado. Resolva a habilidade de 'revelação' do local, então mova-se para esse local.",
+        "traits": "Risco."
     },
     {
         "code": "02333",
-        "name": "Vast Expanse",
-        "text": "<b>Revelation</b> - If there are no [[Extradimensional]] locations in play, Vast Expanse gains surge. Otherwise, test [willpower] (X), where X is the number of [[Extradimensional]] locations in play (max 5). For each point you fail by, take 1 horror.",
+        "name": "Vastidão Imensurável",
+        "text": "<b>Revelação</b> – Se não houver locais <i>Extradimensional</i> em jogo, Vastidão Imensurável ganha Ímpeto. Caso contrário, teste [willpower] (X), onde X é a quantidade de locais <i>Extradimensional</i> em jogo (máximo de 5). Para cada ponto que você falhar, sofra 1 de horror.",
         "traits": "Terror."
     }
 ]

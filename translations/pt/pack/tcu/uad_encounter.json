@@ -1,9 +1,9 @@
 [
     {
         "code": "05238",
-        "name": "Union and Disillusion",
-        "text": "Easy / Standard\n[skull]: -2. If this is a skill test during a <b>circle</b> action, reveal another token.\n[cultist]: -3. If you have no damage on you, take 1 damage. If you have no horror on you, take 1 horror.\n[tablet]: -3. If you fail, a [[Spectral]] enemy at your location attacks you <i>(even if it is exhausted).</i>\n[elder_thing]: -3. If this is a skill test during a <b>circle</b> action and you fail, resolve each haunted ability on your location.",
-        "back_text": "Hard / Expert\n[skull]: -3. If this is a skill test during a <b>circle</b> action, reveal another token.\n[cultist]: -4. If you have no damage on you, take 1 damage. If you have no horror on you, take 1 horror.\n[tablet]: -4. If you fail, a [[Spectral]] enemy at your location attacks you <i>(even if it is exhausted).</i>\n[elder_thing]: -4. If this is a skill test during a <b>circle</b> action and you fail, resolve each haunted ability on your location."
+        "name": "União e Desilusão",
+        "text": "FÁCIL / MÉDIO\n[skull]: -2. Se este for um teste de perícia durante uma ação de <b>círculo</b>, revele outra ficha.\n[cultist]: -3. Se não houver dano sobre você, sofra 1 de dano. Se não houver horror sobre você, sofra 1 de horror.\n[tablet]: -3. Se você falhar, um inimigo <b>Espectral</b> em seu local ataca você (mesmo se ele estiver esgotado).\n[elder_thing]: -3. Se este for um teste de perícia durante uma ação de <b>círculo</b> e você falhar, resolva cada habilidade assombrado em seu local.",
+        "back_text": "DIFÍCIL / EXPERIENTE\n[skull]: -3. Se este for um teste de perícia durante uma ação de <b>círculo</b>, revele outra ficha.\n[cultist]: -4. Se não houver dano sobre você, sofra 1 de dano. Se não houver horror sobre você, sofra 1 de horror.\n[tablet]: -4. Se você falhar, um inimigo <b>Espectral</b> em seu local ataca você (mesmo se ele estiver esgotado).\n[elder_thing]: -4. Se este for um teste de perícia durante uma ação de <b>círculo</b> e você falhar, resolva cada habilidade assombrado em seu local."
     },
     {
         "code": "05239",
@@ -31,12 +31,12 @@
     },
     {
         "code": "05242",
-        "flavor": "The trap set by the Silver Twilight Lodge has drawn the attention of the spectral realm and its inhabitants. One way or another, those who were trapped in the mist will end up here.",
-        "name": "Fated Souls",
-        "text": "Each investigator cannot leave the location in front of him or her.",
-        "back_name": "From the Depths",
-        "back_flavor": "Before long, the revenant arrives.\nIt rises from the depths of the Miskatonic River, unfazed by the water or the mist. Sensing fear and blood, it glides slowly toward the island with its arm outstretched. Its gaze brings dismay. Its grasp brings death.",
-        "back_text": "Spawn The Spectral Watcher at the Miskatonic River.\nShuffle each set-aside copy of Watcher's Grasp and Watcher's Gaze into the encounter deck, along with the encounter discard pile.\nReturn the location in front of each investigator to the center of the play area. (Investigators are no longer prevented from leaving their location.)\nPut the set-aside The Geist-Trap location into play. <i>If the investigators sided with the coven</i>, the brazier at The Geist-Trap is already lit. Place a resource token on it to signify this."
+        "flavor": "A armadilha montada pela Loja do Crepúsculo Prateado atraiu a atenção do reino espectral e de seus habitantes. De uma forma ou de outra, aqueles que foram aprisionados nas brumas vão acabar aqui.",
+        "name": "Almas Destinadas",
+        "text": "Cada investigador não pode deixar o local à frente dele.",
+        "back_name": "Vindo das Profundezas",
+        "back_flavor": "Não demora muito para o retornado chegar.\nEle se ergue das profundezas do Rio Miskatonic, sem ser importunado com as águas ou com as brumas. Farejando medo e sangue, ele desliza lentamente para a ilha, com o braço esticado. O olhar dele traz desalento. O toque dele traz a morte.",
+        "back_text": "Faça surgir O Observador Espectral no Rio Miskatonic.\nEmbaralhe cada cópia de Nas Garras do Observador e O Olhar do Observador previamente separadas no baralho de encontros, junto com a pilha de descarte de encontros.\nDevolva o local à frente de cada investigador para o centro da área de jogo. (Os investigadores não estão mais impedidos de deixar os locais deles.)\nColoque em jogo o local A Armadilha para Geists previamente separado. <i>Se os investigadores se aliaram ao coven</i>, o braseiro em A Armadilha para Geists já está aceso. Coloque uma ficha de recurso nesse local para indicar isso."
     },
     {
         "code": "05243",
@@ -94,97 +94,104 @@
     },
     {
         "code": "05249",
-        "flavor": "Despite the urgency of your task, you find yourself rowing quietly, as though trying to avoid disturbing the river.",
-        "name": "Miskatonic River",
-        "text": "[action]: <b>Resign.</b> You take your rowboat back to the shore of the Miskatonic River, leaving the mysterious island behind.",
-        "traits": "River.",
-        "back_flavor": "Your boat sways gently along the current of the rippling water. The river is deep and dark, and you find yourself suddenly wondering how many bodies might lie forgotten along the riverbed, never to be seen again."
+        "flavor": "Apesar da urgência de sua tarefa, você se vê remando com bastante cuidado, como se estivesse tentando evitar perturbar o rio.",
+        "name": "Rio Miskatonic",
+        "text": "[action]: <b>Renuncie.</b> Você leva seu barco a remo de volta à margem do Rio Miskatonic, deixando a ilha misteriosa para trás.",
+        "traits": "Rio.",
+        "back_flavor": "Seu barco balança gentilmente pela correnteza do rio. O rio é fundo e escuro e, de repente, você se pergunta quantos corpos podem estar esquecidos ao longo de seu leito, para nunca mais serem vistos.",
+        "back_traits": "Rio."
     },
     {
         "code": "05250",
-        "name": "Forbidding Shore",
-        "text": "[action]: <b>Circle.</b> Test [willpower] or [intellect] (3) to find the brazier by the wooded trail. If you succeed, you may light or unlight the brazier.\n<b>Haunted</b> - You must either lose 1 action or lose 2 resources.",
-        "traits": "Woods.",
-        "back_flavor": "As you land on the shore of the island, a flock of birds chatter from the treetops, admonishing you for your trespass. You intrude nonetheless, ignoring the many warnings and indicators that you should turn away."
+        "name": "Margens Traiçoeiras",
+        "text": "[action]: <b>Círculo.</b> Teste [willpower] ou [intellect] (3) para encontrar o braseiro na trilha da mata. Se você tiver sucesso, você pode acender ou apagar o braseiro.\n<b>Assombrado</b> - Você deve perder 1 ação ou perder 2 recursos.",
+        "traits": "Floresta.",
+        "back_flavor": "Quando você pisa em terra firme nas margens da ilha, um bando de pássaros grasna das copas das árvores, recriminando-o por sua transgressão. Mas, mesmo assim, você invade o território deles, ignorando os muitos alertas e indicadores de que deveria ir embora."
     },
     {
         "code": "05251",
-        "name": "Unvisited Isle",
-        "subname": "Standing Stones",
-        "text": "[action]: <b>Circle.</b> Test [willpower]+[intellect] (10) to examine the brazier in front of the standing stone. If you succeed, you may light or unlight the brazier.\n<b>Haunted</b> - Until the end of the round, increase the difficulty of each skill test during a <b>circle</b> action by 2.",
-        "traits": "Woods.",
-        "back_text": "Spectral mist blocks the way. Check Campaign Log.\n- <i>If the investigators sided with the Lodge</i>, you cannot enter this location unless the brazier at the Forbidding Shore is lit.\n- <i>If the investigators sided with the coven</i>, you cannot enter this location unless the brazier at the Forbidding Shore is unlit."
+        "name": "Ilha Evitada",
+        "subname": "Menires",
+        "text": "[action]: <b>Círculo.</b> Teste [willpower]+[intellect] (10) para examinar o braseiro que está em frente ao menir. Se você tiver sucesso, você pode acender ou apagar o braseiro.\n<b>Assombrado</b> – Até o final da rodada, aumente em 2 a dificuldade de cada teste de perícia durante uma ação de <b>círculo</b>.",
+        "traits": "Floresta.",
+        "back_text": "Brumas espectrais barram o caminho. Verifique o Registro da Campanha.\n- <i>Se os investigadores se aliaram à Loja</i>, você não pode entrar neste local, a menos que o braseiro em Margens Traiçoeiras esteja aceso.\n- <i>Se os investigadores se aliaram ao coven</i>, você não pode entrar neste local, a menos que o braseiro em Margens Traiçoeiras esteja apagado."
     },
     {
         "code": "05252",
-        "name": "Unvisited Isle",
-        "subname": "Misty Clearing",
-        "text": "[action]: <b>Circle.</b> Test [willpower]+[agility] (11) to traverse the mist surrounding the brazier. If you succeed, you may light or unlight the brazier.\n<b>Haunted</b> - You must either place 1 doom on this location, or take 1 damage and 1 horror.",
-        "traits": "Woods.",
-        "back_text": "Spectral mist blocks the way. Check Campaign Log.\n- <i>If the investigators sided with the Lodge</i>, you cannot enter this location unless the brazier at the Forbidding Shore is lit.\n- <i>If the investigators sided with the coven</i>, you cannot enter this location unless the brazier at the Forbidding Shore is unlit."
+        "name": "Ilha Evitada",
+        "subname": "Clareira Nevoenta",
+        "text": "[action]: <b>Círculo.</b> Teste [willpower]+[agility] (11) para atravessar as brumas que circundam o braseiro. Se você tiver sucesso, você pode acender ou apagar o braseiro.\n<b>Assombrado</b> - Você deve colocar 1 perdição neste local ou sofrer 1 de dano e 1 de horror.",
+        "traits": "Floresta.",
+        "back_text": "Brumas espectrais barram o caminho. Verifique o Registro da Campanha.\n- <i>Se os investigadores se aliaram à Loja</i>, você não pode entrar neste local, a menos que o braseiro em Margens Traiçoeiras esteja aceso.\n- <i>Se os investigadores se aliaram ao coven</i>, você não pode entrar neste local, a menos que o braseiro em Margens Traiçoeiras esteja apagado.",
+        "back_traits": "Floresta."
     },
     {
         "code": "05253",
-        "name": "Unvisited Isle",
-        "subname": "Forsaken Woods",
-        "text": "[action]: <b>Circle.</b> Test [willpower]+[combat] (11) to clear a path through the woods. If you succeed, you may light or unlight the brazier.\n<b>Haunted</b> - You must either search the encounter deck and discard pile for a Whippoorwill and spawn it at this location, or the nearest Whippoorwill attacks you.",
-        "traits": "Woods.",
-        "back_text": "Spectral mist blocks the way. Check Campaign Log.\n- <i>If the investigators sided with the Lodge</i>, you cannot enter this location unless the brazier at the Forbidding Shore is lit.\n- <i>If the investigators sided with the coven</i>, you cannot enter this location unless the brazier at the Forbidding Shore is unlit."
+        "name": "Ilha Evitada",
+        "subname": "Mata Abandonada",
+        "text": "[action]: <b>Círculo.</b> Teste [willpower]+[combat] (11) para abrir um caminho através da mata. Se você tiver sucesso, você pode acender ou apagar o braseiro.\n<b>Assombrado</b> Você deve procurar no baralho e na pilha de descarte de encontros um Curiango e fazê-lo surgir neste local, ou o Curiango mais próximo ataca você.",
+        "traits": "Floresta.",
+        "back_text": "Brumas espectrais barram o caminho. Verifique o Registro da Campanha.\n- Se os investigadores se aliaram à Loja, você não pode entrar neste local, a menos que o braseiro em Margens Traiçoeiras esteja aceso.\n- Se os investigadores se aliaram ao coven, você não pode entrar neste local, a menos que o braseiro em Margens Traiçoeiras esteja apagado.",
+        "back_traits": "Floresta."
     },
     {
         "code": "05254",
-        "name": "Unvisited Isle",
-        "subname": "Moss-Covered Steps",
-        "text": "[action]: <b>Circle.</b> Test [combat]+[agility] (10) to explore the mossy steps. If you succeed, you may light or unlight the brazier at the top.\n<b>Haunted</b> - Your next move action this round costs 1 additional action.",
-        "traits": "Woods.",
-        "back_text": "Spectral mist blocks the way. Check Campaign Log.\n- <i>If the investigators sided with the Lodge</i>, you cannot enter this location unless the brazier at the Forbidding Shore is lit.\n- <i>If the investigators sided with the coven</i>, you cannot enter this location unless the brazier at the Forbidding Shore is unlit."
+        "name": "Ilha Evitada",
+        "subname": "Degraus Cobertos de Musgo",
+        "text": "[action]: <b>Círculo.</b> Teste [combat]+[agility] (10) para explorar os degraus musgosos. Se você tiver sucesso, você pode acender ou apagar o braseiro no topo.\n<b>Assombrado</b> – Sua próxima ação de movimento nesta roda custa 1 ação adicional.",
+        "traits": "Floresta.",
+        "back_text": "Brumas espectrais barram o caminho. Verifique o Registro da Campanha.\n- <i>Se os investigadores se aliaram à Loja</i>, você não pode entrar neste local, a menos que o braseiro em Margens Traiçoeiras esteja aceso.\n- <i>Se os investigadores se aliaram ao coven</i>, você não pode entrar neste local, a menos que o braseiro em Margens Traiçoeiras esteja apagado.",
+        "back_traits": "Floresta."
     },
     {
         "code": "05255",
-        "name": "Unvisited Isle",
-        "subname": "Haunted Spring",
-        "text": "[action]: <b>Circle.</b> Test [intellect]+[agility] (9) to reach the brazier in the center of the spring. If you succeed, you may light or unlight the brazier.\n<b>Haunted</b> - You must either discard an asset you control, or take 1 damage.",
-        "traits": "Woods.",
-        "back_text": "Spectral mist blocks the way. Check Campaign Log.\n- <i>If the investigators sided with the Lodge</i>, you cannot enter this location unless the brazier at the Forbidding Shore is lit.\n- <i>If the investigators sided with the coven</i>, you cannot enter this location unless the brazier at the Forbidding Shore is unlit."
+        "name": "Ilha Evitada",
+        "subname": "Nascente Assombrada",
+        "text": "[action]: <b>Círculo.</b> Test [intellect] + [agility] (9) para alcançar o braseiro no centro da nascente. Se você tiver sucesso, você pode acender ou apagar o braseiro.\n<b>Assombrado</b> - Você deve descartar um ativo que você controla ou sofrer 1 de dano.",
+        "traits": "Floresta.",
+        "back_text": "Brumas espectrais barram o caminho. Verifique o Registro da Campanha.\n- <i>Se os investigadores se aliaram à Loja</i>, você não pode entrar neste local, a menos que o braseiro em Margens Traiçoeiras esteja aceso.\n- <i>Se os investigadores se aliaram ao coven</i>, você não pode entrar neste local, a menos que o braseiro em Margens Traiçoeiras esteja apagado.",
+        "back_traits": "Floresta."
     },
     {
         "code": "05256",
-        "name": "Unvisited Isle",
-        "subname": "Decayed Willow",
-        "text": "[action]: <b>Circle.</b> Test [intellect]+[combat] (9) to find the brazier inside the decaying tree. If you succeed, you may light or unlight the brazier.\n<b>Haunted</b> - Choose and discard 1 card from your hand.",
-        "traits": "Woods.",
-        "back_text": "Spectral mist blocks the way. Check Campaign Log.\n- <i>If the investigators sided with the Lodge</i>, you cannot enter this location unless the brazier at the Forbidding Shore is lit.\n- <i>If the investigators sided with the coven</i>, you cannot enter this location unless the brazier at the Forbidding Shore is unlit."
+        "name": "Ilha Evitada",
+        "subname": "Salgueiro Apodrecido",
+        "text": "[action]: <b>Círculo.</b> Teste [intellect]+[combat] (9) para encontrar o braseiro dentro da árvore apodrecida. Se você tiver sucesso, você pode acender ou apagar o braseiro.\n<b>Assombrado</b> - Escolha e descarte 1 carta da sua mão.",
+        "traits": "Floresta.",
+        "back_text": "Brumas espectrais barram o caminho. Verifique o Registro da Campanha.\n- <i>Se os investigadores se aliaram à Loja</i>, você não pode entrar neste local, a menos que o braseiro em Margens Traiçoeiras esteja aceso.\n- <i>Se os investigadores se aliaram ao coven</i>, você não pode entrar neste local, a menos que o braseiro em Margens Traiçoeiras esteja apagado.",
+        "back_traits": "Floresta."
     },
     {
         "code": "05257",
-        "name": "The Geist-Trap",
-        "text": "While The Spectral Watcher is at The Geist-Trap, it gains retaliate.\n[action]: <b>Circle.</b> Test [willpower]+[intellect]+[combat]+[agility] (20) to complete the ritual, or to disrupt it. If you succeed, you may either light or unlight the brazier here.\n<b>Haunted</b> - Take 1 damage and 1 horror.",
-        "traits": "Woods. Spectral.",
-        "back_flavor": "Above the treetops, the pillar of ghostly mist rises, covering the sky with spectral faces and desperate, clawing hands. You are getting close now…",
-        "back_text": "The path leading to the site of the ritual is hidden by the spectral mist. You cannot enter The Geist-Trap."
+        "name": "A Armadilha para Geists",
+        "text": "Enquanto O Observador Espectral estiver em A Armadilha para Geists, ele ganha retaliação.\n[action]: <b>Círculo.</b> Teste [willpower]+[intellect]+[combat]+[agility] (20) para completar o ritual ou interrompê-lo. Se você tiver sucesso, você pode acender ou apagar o braseiro aqui.\n<b>Assombrado</b> - Sofra 1 de dano e 1 de horror.",
+        "traits": "Floresta. Espectral.",
+        "back_flavor": "Acima das copas das árvores, pilar de brumas fantasmagóricas se eleva, cobrindo o céu com rostos espectrais e mãos desesperadas tentando se arrastar para fora. Você está chegando perto agora...",
+        "back_text": "O caminho que leva até o local do ritual está escondido pelas brumas espectrais. Você não pode entrar em A Armadilha para Geists.",
+        "back_traits": "Floresta. Espectral."
     },
     {
         "code": "05258",
         "name": "Gavriella Mizrah",
-        "subname": "Not Going Down That Easily",
-        "text": "You get +1 [combat].\n[reaction] After an enemy attacks you, even if that attack was canceled, exhaust Gavriella Mizrah: Discover 1 clue at your location.",
-        "traits": "Ally. Veteran.",
+        "subname": "Não Cairá Tão Fácil",
+        "text": "Você recebe +1 [combat].\n[reaction] Após um inimigo atacar você, mesmo que esse ataque tenha sido cancelado, esgote Gavriella Mizrah: Descubra 1 pista em seu local.",
+        "traits": "Aliado. Veterano.",
         "slot": "Ally"
     },
     {
         "code": "05259",
         "name": "Jerome Davids",
-        "subname": "In Way Over His Head",
-        "text": "You get +1 [intellect].\n[reaction] When an investigator at your location draws a treachery from the encounter deck, exhaust Jerome Davids and discard cards from your hand with a total of at least 2 [intellect] icons: Cancel that card's revelation effect.",
-        "traits": "Ally. Assistant.",
+        "subname": "É Demais para Ele",
+        "text": "Você recebe +1 [intellect].\n[reaction] Quando um investigador em seu local comprar uma traição do baralho de encontros, esgote Jerome Davids e descarte cartas da sua mão com um total de pelo menos 2 ícones [intellect]: Cancele o efeito de revelação dessa carta.",
+        "traits": "Aliado. Assistente.",
         "slot": "Ally"
     },
     {
         "code": "05260",
         "name": "Penny White",
-        "subname": "The Nightmare is Over",
-        "text": "You get +1 [willpower].\n[reaction] After you succeed at a skill test during a revelation effect, exhaust Penny White: Discover 1 clue at your location.",
-        "traits": "Ally. Assistant.",
+        "subname": "O Pesadelo Acabou",
+        "text": "Você recebe +1 [willpower].\n[reaction] Após você ter sucesso em um teste de perícia durante um efeito de revelação, esgote Penny White: Descubra 1 pista em seu local.",
+        "traits": "Aliado. Assistente.",
         "slot": "Ally"
     },
     {
@@ -197,94 +204,96 @@
     },
     {
         "code": "05262",
-        "name": "Gavriella's Fate",
-        "text": "<b>Check the \"Missing Persons\" section of the Campaign Log. <i>If Gavriella disappeared into the mist</i> and <i>you are on Gavriella's trail:</i></b>\n<blockquote><i>Gavriella stumbles out of the mist, her eyes bloodshot and her voice strained. \"Where am I?… Who are you?\"</i></blockquote>\nTake control of the set-aside Gavriella Mizrah story asset. For the remainder of this scenario, she does not take up an ally slot. Next to Gavriella Mizrah's profile, record <i>Gavriella is alive</i>.<hr><b><i>If Gavriella was claimed by specters:</i></b>\nFlip this card to its enemy side and spawn it at your location. <i>If you are on Gavriella's trail</i>, it spawns exhausted and unengaged. Otherwise, it spawns engaged with you.<hr><b>Otherwise:</b>\n<blockquote><i>You find Gavriella's weapon lying in the grass, decayed and broken. No other sign of her can be seen.</i></blockquote>"
+        "name": "O Destino de Gavriella",
+        "text": "Verifique a seção “Desaparecimentos” do Registro da Campanha. <b>Se Gavriella desapareceu nas brumas e você está no rastro de Gavriella:</b>\n<blockquote>Gavriella cambaleia para fora das brumas, com os olhos vermelhos e a voz tensa. “Onde estou?... Quem é você?”</blockquote>\nAssuma o controle do ativo de história Gavriella Mizrah previamente separado. Pelo restante deste cenário, ela não ocupa nenhum espaço de aliado. Ao lado do perfil de Gavriella Mizrah, anote que <i>Gavriella está viva</i>.\n<hr>\n<b>Se Gavriella foi levada pelos espectros:</b>\nVire esta carta para o lado de inimigo e faça-o surgir em seu local. <i>Se você estiver no rastro de Gavriella</i>, ela surge esgotada e desengajada. Caso contrário, ela surge engajada com você.\n<hr>\n<b>Caso contrário:</b>\n<blockquote>Você encontra a arma de Gavriella caída na grama, quebrada e apodrecida. Não há nenhum sinal dela.</blockquote>",
+        "traits": "História."
     },
     {
         "code": "05262b",
         "name": "Gavriella Mizrah",
-        "subname": "You're Next",
-        "text": "Alert. Hunter.\n<b>Forced</b> - After you successfully attack Gavriella Mizrah, if she is ready: Take 1 horror.",
-        "traits": "Humanoid. Geist. Spectral. Elite."
+        "subname": "Você É o Próximo",
+        "text": "Alerta. Caçador.\n<b>Forçado</b> - Após você atacar Gavriella Mizrah com sucesso, se ela estiver preparada: Sofra 1 de horror.",
+        "traits": "Humanoide. Geist. Espectral. Elite."
     },
     {
         "code": "05263",
-        "name": "Jerome's Fate",
-        "text": "<b>Check the \"Missing Persons\" section of the Campaign Log. <i>If Jerome disappeared into the mist</i> and <i>you are on Jerome's trail:</i></b>\n<blockquote><i>Jerome crawls out of the mist, and you help him to his feet. \"Oh god… the mist…\" he whispers. \"It's all connected… It's all connected…\"</i></blockquote>\nTake control of the set-aside Jerome Davids story asset. For the remainder of this scenario, he does not take up an ally slot. Next to Jerome Davids's profile, record <i>Jerome is alive</i>.<hr><b><i>If Jerome was claimed by specters:</i></b>\nFlip this card to its enemy side and spawn it at your location. <i>If you are on Jerome's trail</i>, it spawns exhausted and unengaged. Otherwise, it spawns engaged with you.<hr><b>Otherwise:</b>\n<blockquote><i>You find a scrap of paper from Jerome's pocket notebook on the ground. It simply reads: \"HELP\"</i></blockquote>"
+        "name": "O Destino de Jerome",
+        "text": "Verifique a seção \"Desaparecimentos\" do Registro da Campanha. <b>Se Jerome desapareceu nas brumas e você está no rastro de Jerome:</b>\n<blockquote><i>Jerome rasteja para fora das brumas, e você o ajuda a se levantar. \"Meu Deus... as brumas...\" sussurra ele. \"Está tudo conectado... está tudo conectado...\"</i></blockquote>\nAssuma o controle do ativo de história Jerome Davids previamente separado. Pelo restante deste cenário, ele não ocupa nenhum espaço de aliado. Ao lado do perfil de Jerome Davids, anote que <i>Jerome está vivo</i>.<hr><b>Se Jerome foi levado pelos espectros:</b>\nVire esta carta para o lado de inimigo e faça-o surgir em seu local. <i>Se você estiver no rastro de Jerome</i>, ele surge esgotado e desengajado. Caso contrário, ele surge engajado com você.<hr><b>Caso contrário:</b>\n<blockquote><i>Você encontra no chão um pedaço de papel do caderno de bolso de Jerome. Ele simplesmente diz: \"SOCORRO\"</i></blockquote>"
     },
     {
         "code": "05263b",
         "name": "Jerome Davids",
-        "subname": "Starved for Answers",
-        "text": "Hunter.\n<b>Forced</b> - After Jerome Davids engages you: Choose and discard 2 cards from your hand.",
-        "traits": "Humanoid. Geist. Spectral. Elite."
+        "subname": "Faminto por Respostas",
+        "text": "Caçador.\n<b>Forçado</b> - Após Jerome Davids engajar com você: Escolha e descarte 2 cartas da sua mão.",
+        "traits": "Humanoide. Geist. Espectral. Elite."
     },
     {
         "code": "05264",
-        "name": "Penny's Fate",
-        "text": "<b>Check the \"Missing Persons\" section of the Campaign Log. <i>If Penny disappeared into the mist</i> and <i>you are on Penny's trail:</i></b>\n<blockquote><i>Penny nearly runs directly into you. Her whole body shakes with panic as you hold her safe. \"A-are you alive?\" she cries. \"Is this nightmare finally over?\"</i></blockquote>\nTake control of the set-aside Penny White story asset. For the remainder of this scenario, she does not take up an ally slot. Next to Penny White's profile, record <i>Penny is alive</i>.<hr><b><i>If Penny was claimed by specters:</i></b>\nFlip this card to its enemy side and spawn it at your location. <i>If you are on Penny's trail</i>, it spawns exhausted and unengaged. Otherwise, it spawns engaged with you.<hr><b>Otherwise:</b>\n<blockquote><i>You find Penny's apron lying on the ground, covered in blood. There is no other sign of her.</i></blockquote>"
+        "name": "O Destino de Penny",
+        "text": "Verifique a seção \"Desaparecimentos\" do Registro da Campanha. <b>Se Penny desapareceu nas brumas e você está no rastro de Penny:</b>\n<blockquote>Correndo, Penny quase se choca com você. O corpo inteiro dela estremece de pânico quando você a segura. \"V-você está vivo?\" ela chora. \"Este pesadelo finalmente acabou?\"</blockquote>\nAssuma o controle do ativo de história Penny White previamente separado. Pelo restante deste cenário, ela não ocupa nenhum espaço de aliado. Ao lado do perfil de Penny White, anote que <i>Penny está viva</i>.<hr><b>Se Penny foi levada pelos espectros:</b>\nVire esta carta para o lado de inimigo e faça-o surgir em seu local. <i>Se você estiver no rastro de Penny</i>, ela surge esgotada e desengajada. Caso contrário, ela surge engajada com você.<hr><b>Caso contrário:</b>\n<blockquote>Você encontra o avental de Penny caído no chão, coberto de sangue. Não há nenhum sinal dela.</blockquote>",
+        "traits": "HISTÓRIA"
     },
     {
         "code": "05264b",
         "name": "Penny White",
-        "subname": "Tragic Loss",
-        "text": "Hunter.\n<b>Forced</b> - After you successfully evade Penny White: Take 1 damage.",
-        "traits": "Humanoid. Geist. Spectral. Elite."
+        "subname": "Perda Trágica",
+        "text": "Caçador.\n<b>Forçado</b> – Após você evadir Penny White com sucesso. Sofra 1 de dano.",
+        "traits": "Humanoide. Geist. Espectral. Elite."
     },
     {
         "code": "05265",
-        "name": "Valentino's Fate",
-        "text": "<b>Check the \"Missing Persons\" section of the Campaign Log. <i>If Valentino disappeared into the mist</i> and <i>you are on Valentino's trail:</i></b>\n<blockquote><i>Valentino limps out of the mist, leaning on a nearby tree. He chuckles morbidly as he spots you. \"Cavalry's finally here, eh?\"</i></blockquote>\nTake control of the set-aside Valentino Rivas story asset. For the remainder of this scenario, he does not take up an ally slot. Next to Valentino Rivas's profile, record <i>Valentino is alive</i>.<hr><b><i>If Valentino was claimed by specters:</i></b>\nFlip this card to its enemy side and spawn it at your location. <i>If you are on Valentino's trail</i>, it spawns exhausted and unengaged. Otherwise, it spawns engaged with you.<hr><b>Otherwise:</b>\n<blockquote><i>Valentino's cane lies in the mud, cracked nearly in half. Its handle is stained with old blood.</i></blockquote>"
+        "name": "O Destino de Valentino",
+        "text": "Verifique a seção “Desaparecimentos” do Registro da Campanha. <b>Se Valentino desapareceu nas brumas e você está no rastro de Valentino:</b>\n<blockquote><i>Valentino sai mancando das brumas, apoiando-se em uma árvore próxima. He ri morbidamente quando o vê. “Finalmente a cavalaria chegou, hein?”</i></blockquote>\nAssuma o controle do ativo de história Valentino Rivas previamente separado. Pelo restante deste cenário, ele não ocupa nenhum espaço de aliado. Ao lado do perfil de Valentino Rivas, anote que <i>Valentino está vivo</i>.<hr><b>Se Valentino foi levado pelos espectros:</b>\nVire esta carta para o lado de inimigo e faça-o surgir em seu local. <i>Se você estiver no rastro de Valentino</i>, ele surge esgotado e desengajado. Caso contrário, ele surge engajado com você.<hr><b>Caso contrário:</b>\n<blockquote><i>A bengala de Valentino está na lama, rachada quase ao meio. O cabo está manchado de sangue velho.</i></blockquote>"
     },
     {
         "code": "05265b",
         "name": "Valentino Rivas",
-        "subname": "Ripped Asunder",
-        "text": "Hunter. Retaliate.\n<b>Forced</b> - After Valentino Rivas engages you: Lose 2 resources.",
-        "traits": "Humanoid. Geist. Spectral. Elite."
+        "subname": "Despedaçado",
+        "text": "Caçador. Retaliação.\n<b>Forçado</b> - Após Valentino Rivas engajar com você: Perca 2 recursos.",
+        "traits": "Humanoide. Geist. Espectral. Elite."
     },
     {
         "code": "05266",
-        "flavor": "\"It is vowed that the birds are psychopomps lying in wait for the souls of the dying…\"\n - H. P. Lovecraft, \"The Dunwich Horror\"",
-        "name": "Whippoorwill",
-        "text": "Aloof. Hunter.\nEach investigator at Whippoorwill's location gets -1 [willpower], -1 [intellect], -1 [combat], and -1 [agility].",
-        "traits": "Creature."
+        "flavor": "As pessoas juram que esses pássaros são psicopompos aguardando pelas almas dos moribundos...\n- H. P. Lovecraft, \"O Horror de Dunwich\"",
+        "name": "Curiango",
+        "text": "<b>Arredio. Caçador.</b>\nCada investigador no local de Curiango recebe -1 [willpower], -1 [intellect], -1 [combat] e -1 [agility].",
+        "traits": "Criatura."
     },
     {
         "code": "05267",
-        "name": "Spectral Raven",
-        "text": "<b>Prey</b> - Lowest [intellect].\nAlert. Hunter. Retaliate.\n<b>Forced</b> - After Spectral Raven engages you: You must either resolve each haunted ability on your location, or Spectral Raven gets +2 fight and +2 evade until the end of the investigation phase.",
-        "traits": "Creature. Spectral."
+        "name": "Corvo Espectral",
+        "text": "<b>Presa</b> - Menor [intellect].\nAlerta. Caçador. Retaliação.\n<b>Forçado</b> - Após Corvo Espectral engajar com você: Você deve resolver cada habilidade assombrado em seu local, ou Corvo Espectral recebe +2 de luta e +2 de evasão até o final da fase de investigação.",
+        "traits": "Criatura. Espectral."
     },
     {
         "code": "05268",
-        "flavor": "If they can catch the fleeing soul when it leaves the body, they instantly flutter away chittering in daemonic laughter…\n - H. P. Lovecraft, \"The Dunwich Horror\"",
-        "name": "Eager for Death",
-        "text": "<b>Revelation</b> - Test [willpower] (2). Increase this skill test's difficulty by 1 for each damage on you. If you fail, take 2 horror.",
-        "traits": "Omen."
+        "flavor": "Se conseguem capturar uma alma fugidia quando ela deixa o corpo, eles imediatamente se afastam voando, crocitando uma risada demoníaca...\n– H. P. Lovecraft, \"O Horror de Dunwich\"",
+        "name": "Ávido por Morte",
+        "text": "<b>Revelação</b> – Teste [willpower] (2). Aumente a dificuldade deste teste de perícia em 1 para cada dano sobre você. Se você falhar, sofra 2 de horror.",
+        "traits": "Presságio."
     },
     {
         "code": "05269",
-        "name": "Psychopomp's Song",
-        "text": "Surge. Peril.\n<b>Revelation</b> - Add Psychopomp's Song to any investigator's threat area.\n<b>Forced</b> - When you would take 1 or more damage: Take 2 additional damage and discard Psychopomp's Song.",
-        "traits": "Omen."
+        "name": "Canção do Psicopompo",
+        "text": "Ímpeto. Perigo.\n<b>Revelação</b> – Adicione Canção do Psicopompo à área de ameaças de qualquer investigador.\n<b>Forçado</b> – Quando você for sofrer 1 ou mais de dano: Sofra 2 de dano adicional e descarte Canção do Psicopompo.",
+        "traits": "Presságio."
     },
     {
         "code": "05270",
-        "name": "Death Approaches",
-        "text": "Surge. Peril.\n<b>Revelation</b> - Add Death Approaches to any investigator's threat area.\n<b>Forced</b> - When you would take 1 or more horror: Take 2 additional horror and discard Death Approaches.",
+        "name": "A Morte se Aproxima",
+        "text": "Ímpeto. Perigo.\n<b>Revelação</b> - Adicione A Morte se Aproxima à área de ameaças de qualquer investigador.\n<b>Forçado</b> - Quando você for sofrer 1 ou mais de horror: Sofra 2 de horror adicional e descarte A Morte se Aproxima.",
         "traits": "Terror."
     },
     {
         "code": "05271",
-        "name": "Marked for Death",
-        "text": "<b>Revelation</b> - Test [agility] (2). Increase this skill test's difficulty by 1 for each horror on you. If you fail, take 2 damage.",
-        "traits": "Curse."
+        "name": "Marcado para Morrer",
+        "text": "<b>Revelação</b> - Teste [agility] (2). Aumente a dificuldade deste teste de perícia em 1 para cada horror sobre você. Se você falhar, sofra 2 de dano.",
+        "traits": "Maldição."
     },
     {
         "code": "05272",
-        "name": "Watcher's Gaze",
-        "text": "<b>Revelation</b> - Each investigator tests [willpower] (5). Each investigator who fails must resolve either the haunted ability on his or her location, or the haunted ability on The Spectral Watcher's location.",
-        "traits": "Curse."
+        "name": "O Olhar do Observador",
+        "text": "<b>Revelação</b> – Cada investigador testa [willpower] (5).\nCada investigador que falhar deve resolver a habilidade assombrado do próprio local ou a habilidade assombrado do local de O Observador Espectral.",
+        "traits": "Maldição."
     }
 ]
