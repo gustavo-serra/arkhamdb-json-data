@@ -1,26 +1,26 @@
 [
     {
         "code": "05043",
-        "name": "Disappearance at the Twilight Estate",
-        "text": "Easy / Standard\n[skull]: -3. If you fail and this is an attack or evasion attempt, resolve each haunted ability on your location.",
-        "back_text": "Hard / Expert\n[skull]: -5. If you fail and this is an attack or evasion attempt, resolve each haunted ability on your location."
+        "name": "Desaparecimento na Mansão Crepuscular",
+        "text": "FÁCIL / MÉDIO\n[skull]: -3. Se você falhar e isso for um ataque ou uma tentativa de evasão, resolva cada habilidade assombrado em seu local.",
+        "back_text": "DIFÍCIL / EXPERIENTE\n[skull]: -5. Se você falhar e isso for um ataque ou uma tentativa de evasão, resolva cada habilidade assombrado em seu local."
     },
     {
         "code": "05044",
-        "flavor": "THERE IS NO ESCAPING FATE.\nHEAR THE CALL AND BE REBORN.",
-        "name": "JUDGEMENT • XX",
-        "text": "<b>Forced</b> - After doom is placed on any card: Each investigator must either take 1 damage or 1 horror (2 damage or 2 horror instead if there is 5 or more doom in play).\n<b>Forced</b> - When any investigator is defeated, that investigator must advance this agenda. Do not remove any doom from this agenda when it advances.",
-        "back_name": "Your Demise",
-        "back_text": "In the \"Missing Persons\" section of your Campaign Log, next to your character's profile, make a record of that character's fate, as follows. Then flip this agenda back over.\n- If you were defeated by The Spectral Watcher's attack, record <i>(character's name) was taken by the Watcher.</i>\n- If you were defeated by a [[Monster]] enemy's attack, record <i>(character's name) was claimed by specters.</i>\n- If there was 7 or more doom in play when this agenda advanced, and you were defeated by horror or damage dealt by the <b>Forced</b> ability on agenda 1a, record <i>(character's name) disappeared into the mist.</i>\n- If you were defeated by any other effect, record<i>(character's name) was pulled into the spectral realm.</i>"
+        "flavor": "NÃO HÁ COMO FUGIR DO DESTINO.\nOUÇA O CHAMADO E RENASÇA.",
+        "name": "O JULGAMENTO • XX",
+        "text": "<b>Forçado</b> - Após alguma perdição ser colocada em qualquer carta: Cada investigador deve sofrer 1 de dano ou 1 de horror (2 de dano ou 2 de horror, em vez disso, se houver 5 ou mais perdições em jogo).\n<b>Forçado</b> - Quando algum investigador for derrotado, esse investigador deve avançar esta agenda. Não remova nenhuma perdição desta agenda quando ela avançar.",
+        "back_name": "Seu Amargo Fim",
+        "back_text": "Na seção \"Desaparecimentos\" do seu Registro da Campanha, ao lado do perfil do seu personagem, anote o destino desse personagem, conforme instruído. Então vire esta agenda para o outro lado.\n- Se você foi derrotado pelo ataque de O Observador Espectral, anote que (nome do personagem) foi levado pelo Observador.\n- Se você foi derrotado pelo ataque de um inimigo <b>Monstro</b>, anote que (nome do personagem) foi levado pelos espectros.\n- Se havia 7 ou mais perdições em jogo quando esta agenda avançou, e você foi derrotado pelo horror ou pelo dano causado pela habilidade <b>Forçado</b> da agenda 1a, anote que (nome do personagem) desapareceu nas brumas.\n- Se você foi derrotado por qualquer outro efeito, anote que (nome do personagem) foi puxado para o reino espectral."
     },
     {
         "code": "05045",
-        "flavor": "Something terrible has invaded the home of Josef Meiger. In the moments that follow, you scramble to survive.",
-        "name": "The Disappearance",
-        "text": "<b>Forced</b> - When an investigator is eliminated: Place each of that investigator's clues on this act instead of his or her location.\n<b>Objective</b> - Discover as many clues as you can before your inevitable demise.",
-        "back_name": "…?",
-        "back_flavor": "SHADOWS TWIST IN AETHER'S COIL\nTHE GATE HAS LED US ALL ASTRAY\nDESPAIR LOATHES A BEATING HEART\nDEAD OR LIVING, WE CANNOT SAY\nBLACKEST THRONE IN THE VOID OF SPACE\nSHE WHO SIGNED KNOWS THE WAY\nIT SMELLS YOUR SOUL, IT KNOWS YOUR FATE\nITS GLEAMING EYES HOLD US IN SWAY.",
-        "back_text": "Record in your Campaign Log <i>you are being hunted.</i>\nFlip back to Act 1a."
+        "flavor": "Algo terrível invadiu a casa de Josef Meiger. Nos momentos seguintes, você luta para sobreviver.",
+        "name": "O Desaparecimento",
+        "text": "<b>Forçado</b> - Quando um investigador for eliminado: Coloque cada uma das pistas desse investigador neste ato em vez de no local dele.\n<b>Objective</b> - Descubra o máximo possível de pistas antes de seu amargo e inevitável fim.",
+        "back_name": "...?",
+        "back_flavor": "Sombros se agitam na espiral do éter\nPerdidos estamos, por obra do portal\nO desespero abomina corações que batem\nMortos ou vivos, uma dúvida letal\nTrono mais negro no vazio do espaço\nA que assinou conhece o caminho como tal\nFareja nossas almas, conhece nosso destino\nOs olhos brilhantes nos têm em domínio total",
+        "back_text": "Anote no Registro da Campanha que você está sendo caçado.\nVire esta carta para o lado com o ato 1a."
     },
     {
         "code": "05046",
@@ -60,9 +60,9 @@
     },
     {
         "code": "05050",
-        "name": "The Witching Hour",
-        "text": "Easy / Standard\n[skull]: -1. For each point you fail by, discard the top card of the encounter deck.\n[tablet]: -1. If you fail, after this test resolves, draw the bottommost treachery in the encounter discard pile.\n[elder_thing]: -3. If you fail, choose an exhausted or damaged [[Witch]] enemy at your location or at a connecting location. Ready that enemy and heal all damage from it.",
-        "back_text": "Hard / Expert\n[skull]: -2. Discard cards from the top of the encounter deck equal to this test's difficulty.\n[tablet]: -2. If you fail, after this test resolves, draw the bottommost treachery in the encounter discard pile.\n[elder_thing]: -4. If you fail, ready each [[Witch]] enemy at your location and at each connecting location. Heal all damage from each of those enemies."
+        "name": "A Hora das Bruxas",
+        "text": "FÁCIL / MÉDIO\n[skull]: -1. Para cada ponto que você falhar, descarte a carta do topo do baralho de encontros.\n[tablet]: -1. Se você falhar, após este teste ser resolvido, compre a carta de traição mais ao fundo na pilha de descarte de encontros.\n[elder_thing]: -3. Se você falhar, escolha um inimigo <b>Bruxa</b> em seu local ou em um local conectado que esteja esgotado ou que tenha sofrido dano. Prepare esse inimigo e cure todo o dano dele.",
+        "back_text": "DIFÍCICL / EXPERIENTE\n[skull]: -2. Descarte um número cartas do topo do baralho de encontros igual à dificuldade deste teste.\n[tablet]: -2. Se você falhar, após este teste ser resolvido, compre a carta de traição mais ao fundo na pilha de descarte de encontros.\n[elder_thing]: -4. Se você falhar, prepare cada inimigo <b>Bruxa</b> em seu local e em cada local conectado. Cure todo o dano de cada um desses inimigos."
     },
     {
         "code": "05051",
@@ -74,152 +74,163 @@
     },
     {
         "code": "05052",
-        "flavor": "As midnight draws nearer, the forest begins to take on another form. A canopy of darkness overtakes the stars. The wind picks up in intensity, its whistling echoing through the trees. A dangerous power gathers deep within the woods, drawing only the foul and the foolish.",
-        "name": "The Night Howls",
-        "text": "<b>Forced</b> - At the end of the round: Place 1 doom on this agenda for each [[Witch]] enemy at the Witches' Circle.",
+        "flavor": "À medida que a meia-noite se aproxima, a floresta começa a assumir outra forma. Uma cúpula de escuridão encobre as estrelas. O vento se intensifica, seu assovio ecoando pelas árvores. Um poder perigoso se reúne no fundo da mata, atraindo apenas os perversos e os tolos.",
+        "name": "A Noite Uiva",
+        "text": "<b>Forced</b> - No final da rodada:\nColoque 1 perdição sobre esta agenda para cada inimigo <b>Bruxa</b> no Círculo das Bruxas.",
         "back_name": "Reincarnation",
-        "back_flavor": "A column of lightning flashes in the sky, coupled with an earsplitting clap of thunder that resounds throughout the woods. The earth trembles, and the wind howls as it rushes all around you, intermingled with what sounds like the screaming and shrieking of somebody torn in anguish and misery. That is when the flutes begin to play.",
-        "back_text": "Each surviving investigator is defeated and must search the collection for a random basic [[Omen]] or [[Curse]] weakness and add it to his or her deck. Each investigator who cannot suffers 1 mental trauma instead."
+        "back_flavor": "Uma coluna de relâmpagos fulgura no céu, junto a um trovão ensurdecedor que ressoa pela mata. A terra treme e o vento uiva enquanto corre à sua volta, entrelaçado ao que soa como gritos e guinchos de alguém atormentado pela angústia e pelo sofrimento. É aí que começa o som de flautas.",
+        "back_text": "Cada investigador sobrevivente é derrotado e deve procurar uma fraqueza básica aleatória de <i><b>Presságio</b></i> ou de <i><b>Maldição</b></i> na coleção e adicioná-la ao próprio baralho. Cada investigador que não puder fazer isso sofre 1 trauma mental em vez disso."
     },
     {
         "code": "05053",
-        "flavor": "You have awakened alone deep in the woods south of Arkham. The mysterious soothsayer is nowhere to be seen. You rise up from the muddy trail and try to find your bearings. An oppressive weight hangs in the air.",
-        "name": "Lost in the Woods",
-        "text": "Locations in front of you are connected to one another. You cannot enter locations in front of other investigators.\n<b>Objective</b> - At the end of the round, investigators may spend the requisite number of clues, as a group, to advance.",
-        "back_name": "Deeper into the Woods",
+        "flavor": "Você acordou sozinho nas profundezas da mata ao sul de Arkham. A vidente misteriosa não está em lugar nenhum. Você se levanta da trilha enlamada e tenta se orientar. Há um peso opressivo pairando no ar.",
+        "name": "Perdido na Mata",
+        "text": "Os locais à sua frente estão conectados entre si. Você não pode entrar em locais à frente de outros investigadores.\n<b>Objetivo</b> - No final da rodada, os investigadores podem, em grupo, gastar o número necessário de pistas para avançar.",
+        "back_name": "Nas Profundezas da Mata",
         "back_flavor": "As the rain lets up, a dense fog rolls in throughout the area. Soon all of the woods have vanished within the hazy fog. You call out for your companions, but none answer. You grope blindly in the haze, searching for something, anything to which you can cling.",
-        "back_text": "Each investigator must randomly choose 1 of the set-aside Arkham Woods locations, put it into play in front of him or her, and immediately move to that location (cannot be canceled).\nEach investigator spawns a set-aside Goat Spawn at his or her location (if there are 4 investigators in the game, the lead investigator spawns the set-aside Relentless Dark Young, and each other investigator spawns a set-aside Goat Spawn, instead). Each investigator then tests [willpower] or [agility] (3). Each investigator who succeeds exhausts that enemy and disengages from it.\nShuffle one of the set-aside copies of Daemonic Piping into the encounter deck. Place the other two copies in the encounter discard pile."
+        "back_text": "Enquanto a chuva se abranda, um denso nevoeiro se espalha pela área. Logo toda a mata desaparece dentro da névoa confusa. Você chama por seus companheiros, mas ninguém responde. Às cegas na névoa, você procura alguma coisa, qualquer coisa à qual possa se segurar.\nCada investigador deve escolher aleatoriamente 1 dos locais Floresta de Arkham previamente separados, colocá-lo em jogo à sua frente e se mover imediatamente para esse local (não pode ser cancelado).\nCada investigador faz surgir um inimigo Prole de Bode previamente separado em seu local (se houver 4 investigadores no jogo, em vez disso, o investigador líder faz surgir o inimigo Inexorável Jovem Sombrio separado e cada outro investigador faz surgir um inimigo Prole de Bode separado). Então, cada investigador testa [willpower] ou [agility] (3). Cada investigador que tiver sucesso esgota esse inimigo e desengaja dele.\nEmbaralhe uma das cópias previamente separadas de Flauteio Demoníaco no baralho de encontros. Coloque as outras duas cópias na pilha de descarte de encontros."
     },
     {
         "code": "05054",
-        "flavor": "Whatever arcane rites are being practiced in these woods, they are attracting the attention of all manner of vile beasts, the likes of which you have never seen. Is this what the soothsayer was trying to warn you about?",
-        "name": "Witch Hauntings",
-        "text": "Locations in front of you are connected to one another. You cannot enter locations in front of other investigators.\n<b>Objective</b> - If a single investigator spends the requisite number of clues, advance.",
-        "back_name": "Strange Melodies",
-        "back_flavor": "As you scour the woods for answers - or a path that will lead you back home - you find yourself drawn off the beaten trail by a mesmerizing melody of silvery pipes. Deeper into the damp, hazy woodland you delve, searching for the source of the strange music. Finally, you come upon a foggy clearing, at the center of which lies a half-rotted tree stump. An old but delicately carved wooden flute lies atop the stump, silently beseeching you to approach. The moment you touch the instrument, the piping melody that lured you here is cut short, and the dense fog around you disperses with a sudden breeze.",
-        "back_text": "For the remainder of the scenario, investigators may now enter locations in front of other investigators."
+        "flavor": "Quaisquer sejam os ritos arcanos que estão sendo praticados nesta mata, eles estão chamando a atenção de todo tipo de fera pérfida, as quais você nunca viu antes. Era sobre isso que a vidente estava tentando alertar você?",
+        "name": "Assombrações das Bruxas",
+        "text": "Os locais à sua frente estão conectados entre si. Você não pode entrar em locais à frente de outros investigadores.\n<b>Objetivo</b> - Se um único investigador gastar o número necessário de pistas, avance.",
+        "back_name": "Estranhas Melodias",
+        "back_flavor": "Enquanto vasculha a mata procurando respostas — ou um caminho que leve você de volta para casa — você se vê atraído para fora da trilha por uma hipnótica melodia de flautas ressonantes. Cada vez mais, você se aprofunda na mata úmida e enevoada, procurando a fonte da estranha música. Finalmente, você chega a uma clareira cheia de neblina, no centro da qual está um toco de árvore meio apodrecido. Uma velha, mas delicadamente entalhada flauta de madeira jaz sobre o toco, silenciosamente implorando que você se aproxime. Assim que você encosta no instrumento, a melodia de flautas que o atraiu até aqui é interrompida e a densa névoa à sua volta se dissipa com uma brisa súbita.",
+        "back_text": "Pelo restante do cenário, os investigadores agora podem entrar em locais à frente de outros investigadores."
     },
     {
         "code": "05055",
         "flavor": "With the strange fog dispersed, you are now able to explore the woods. You are unable to find the main path that leads back to Uptown, but this is your chance to discover more about the ritual the witches are conducting.",
-        "name": "Paths into Twilight",
-        "text": "Locations in front of you are connected to one another."
+        "name": "Caminhos para o Crepúsculo",
+        "text": "Com a estranha névoa dispersada, você agora pode explorar a mata. Você não consegue encontrar o caminho principal que leva a Uptown, mas é sua chance de descobrir mais sobre o ritual que as bruxas estão conduzindo.\n\nOs locais à sua frente estão conectados entre si.",
+        "subname": "Ato 3a",
+        "traits": "Floresta. Círculo.",
+        "back_text": "<b>Revelação</b> - Coloque o Círculo das Bruxas em jogo no centro da área de jogo, à frente de nenhum dos investigadores. O investigador líder faz surgir o inimigo Anette Mason previamente separado no Círculo das Bruxas.\n<b>Forçado</b> - Após a fase dos inimigos começar: Mova cada inimigo <i>Bruxa</i> que esteja preparado e desengajado uma vez em direção ao Círculo das Bruxas."
     },
     {
         "code": "05055b",
-        "name": "Witches' Circle",
-        "text": "<b>Revelation</b> - Put the Witches' Circle into play in the center of the play area, in front of none of the investigators. The lead investigator spawns the set-aside Anette Mason at the Witches' Circle.\n<b>Forced</b> - After the enemy phase begins: Move each ready, unengaged [[Witch]] enemy once toward the Witches' Circle.",
-        "traits": "Woods. Circle."
+        "name": "Círculo das Bruxas",
+        "text": "<b>Revelação</b> - Coloque o Círculo das Bruxas em jogo no centro da área de jogo, à frente de nenhum dos investigadores. O investigador líder faz surgir o inimigo Anette Mason previamente separado no Círculo das Bruxas.\n<b>Forced</b> - Após a fase dos inimigos começar: Mova cada inimigo <i>Bruxa</i> que esteja preparado e desengajado uma vez em direção ao Círculo das Bruxas.",
+        "traits": "Floresta. Círculo."
     },
     {
         "code": "05056",
-        "flavor": "You come across a clearing where a ritual circle has been constructed. Several hooded figures stand around it in a trance, unaware of your presence. Overlooking the ritual is a powerfully built woman who brandishes a long wavy dagger as she sees you approach. \"Leave this place at once!\" she commands.",
-        "name": "A Circle Unbroken",
-        "text": "Locations in front of you are connected to one another.\n<b>Objective</b> - If Anette Mason is defeated, advance.\n<b>Objective</b> - If there are no clues on the Witches' Circle, advance.",
-        "back_name": "A Circle Undone",
-        "back_text": "<b>If you advanced by defeating Anette Mason:</b>\n<blockquote><i>\"Stop!\" the coven's leader yells in a commanding voice, grimacing from the wounds you've inflicted. You're not sure if she's speaking to you or to the hooded women surrounding you, but regardless, there is a sudden stillness in the clearing around the circle</i></blockquote>\n<b>(→R1)</b>\n<hr><b>If you advanced by discovering all of the clues in the Witches' Circle:</b>\n<blockquote><i>A loud crack echoes throughout the woods as you break the circle and reverse the witches' spell. \"No! They have broken the ritual!\" one of the witches screams as the spell's energy backfires. White-hot lightning strikes the center of the field, sending dirt and debris flying in every direction. You duck for cover.</i></blockquote>\n<b>(→R2)</b>"
+        "flavor": "Você encontra uma clareira na qual um círculo ritualístico foi construído. Várias figuras encapuzadas estão paradas em transe, alheias à sua presença. Supervisionando o ritual está uma mulher de porte musculoso, que brande uma longa adaga sinuosa ao ver você se aproximar. \"Vá embora imediatamente!\", ela ordena.",
+        "name": "Um Círculo Inviolado",
+        "text": "Os locais à sua frente estão conectados entre si.\n<b>Objective</b> - Se Anette Mason for derrotada, avance.\n<b>Objective</b> - Se não houver pistas no Círculo das Bruxas, avance.",
+        "back_name": "Um Círculo Desfeito",
+        "back_text": "<b>Se você avançou por ter derrotado Anette Mason:</b>\n<blockquote><i>\"Pare!\", a líder do coven grita com uma voz autoritária, uma expressão de dor das feridas que você provocou. Você não tem certeza se ela está falando com você ou com as mulheres encapuzadas à sua volta; mas, de qualquer forma, há uma súbita pausa na clareira em volta do círculo.</i></blockquote>\n<b>(→R1)</b>\n<hr><b>Se você avançou por ter descoberto todas as pistas no Círculo das Bruxas:</b>\n<blockquote><i>Um estalo alto ecoa pela mata quando você rompe o círculo e reverte o feitiço das bruxas. \"Não! Ele arruinou o ritual!\", uma das bruxas grita quando a energia do feitiço se dissipa. Um relâmpago incandescente atinge o centro do campo, fazendo voar terra e destroços por todos os lados. Você se encolhe para se proteger.</i></blockquote>\n<b>(→R2)</b>"
     },
     {
         "code": "05057",
-        "flavor": "\"Come, sisters. Our time is now.\"",
+        "flavor": "\"Venham, irmãs. Nossa hora é agora.\"",
         "name": "Anette Mason",
-        "subname": "The High Priestess",
-        "text": "Retaliate.\n<b>Forced</b> - After the enemy phase begins: Discard the top 3 cards of the encounter deck. Spawn each [[Witch]] enemy discarded by this effect at Anette Mason's location. If no [[Witch]] enemies are discarded by this effect, ready her.",
-        "traits": "Humanoid. Witch. Elite."
+        "subname": "A Suma Sacerdotisa",
+        "text": "Retaliação.\n<b>Forçado</b> - Após a fase dos inimigos começar: Descarte as 3 cartas do topo do baralho de encontros. Faça surgir cada inimigo <i>Bruxa</i> descartado por este efeito no local de Anette Mason. Se nenhum inimigo <i>Bruxa</i> for descartado por este efeito, prepare-a.",
+        "traits": "Humanoide. Bruxa. Elite."
     },
     {
         "code": "05058",
-        "name": "Witch-Haunted Woods",
-        "subname": "Abandoned Mine",
-        "text": "You cannot investigate this location while you have between 3 and 10 resources.\n[free]: Choose an investigator at a different Witch-Haunted Woods. Move up to 3 of your resources to that investigator's resource pool, or vice versa. (Group limit once per round.)",
-        "traits": "Woods.",
-        "back_flavor": "The frigid wind howls around you as you venture deeper into the haunted woods beyond Arkham."
+        "name": "Mata Assombrada por Bruxas",
+        "subname": "Mina Abandonada",
+        "text": "Você não pode investigar este local enquanto tiver entre 3 e 10 recursos.\n[fast]: Escolha um investigador em uma Mata Assombrada por Bruxas diferente. Mova até 3 dos seus recursos para a reserva de recursos desse investigador ou vice-versa. (Limite de grupo de uma vez por rodada.)",
+        "traits": "Floresta.",
+        "back_flavor": "O vento gélido uiva à sua volta enquanto você entra mais fundo na mata assombrada além de Arkham.",
+        "back_traits": "Floresta."
     },
     {
         "code": "05059",
-        "flavor": "Do they mark a grave site? Or something more sinister?",
-        "name": "Witch-Haunted Woods",
-        "subname": "Cairn Stones",
-        "text": "<b>Forced</b> - After any number of clues are discovered from this location: Each investigator at this location loses an equal number of resources.",
-        "traits": "Woods.",
-        "back_flavor": "The frigid wind howls around you as you venture deeper into the haunted woods beyond Arkham."
+        "flavor": "Elas demarcam um sepulcrário? Ou algo mais sinistro?",
+        "name": "Mata Assombrada por Bruxas",
+        "subname": "Pedras Cerimoniais",
+        "text": "<b>Forçado</b> - Após qualquer número de pistas deste local serem descobertas: Cada investigador neste local perde essa mesma quantidade de recursos.",
+        "traits": "Floresta.",
+        "back_flavor": "O vento gélido uiva à sua volta enquanto você entra mais fundo na mata assombrada além de Arkham.",
+        "back_traits": "Floresta."
     },
     {
         "code": "05060",
-        "flavor": "The ghastly likenesses of tortured figures writhe within its bark, gnarled and emaciated. It is agonizing to look upon.",
-        "name": "Witch-Haunted Woods",
-        "subname": "The Lonely Tree",
-        "text": "You cannot investigate this location while you have between 3 and 5 cards in hand.\n[free]: You choose and discard 1 card from your hand, then an investigator at a different Witch-Haunted Woods draws 1 card, or vice versa. (Limit once per round.)",
-        "traits": "Woods.",
-        "back_flavor": "The frigid wind howls around you as you venture deeper into the haunted woods beyond Arkham."
+        "flavor": "Os horrendos semblantes de figuras torturadas se contorcem na casca dela, desfigurados e definhados. É angustiante olhar para ela.",
+        "name": "Mata Assombrada por Bruxas",
+        "subname": "A Árvore Solitária",
+        "text": "Você não pode investigar este local enquanto tiver entre 3 e 5 cartas na mão.\n[fast]: Você escolhe e descarta 1 carta da sua mão, então um investigador em uma Mata Assombrada por Bruxas diferente compra 1 carta, ou vice-versa. (Limite de uma vez por rodada.)",
+        "traits": "Floresta.",
+        "back_flavor": "O vento gélido uiva à sua volta enquanto você entra mais fundo na mata assombrada além de Arkham.",
+        "back_traits": "Floresta."
     },
     {
         "code": "05061",
-        "name": "Witch-Haunted Woods",
-        "subname": "Child's Tree House",
-        "text": "<b>Forced</b> - When the last clue is discovered from this location: Spawn the topmost enemy in the encounter discard pile at this location. (If there are no enemies in the encounter discard pile, discard cards from the top of the encounter deck until an enemy is discarded, and spawn that enemy instead.)",
-        "traits": "Woods.",
-        "back_flavor": "The frigid wind howls around you as you venture deeper into the haunted woods beyond Arkham."
+        "name": "Mata Assombrada por Bruxas",
+        "subname": "Casinha na Árvore",
+        "text": "<b>Forçado</b> - Quando a última pista deste local for descoberta: Faça o inimigo mais acima na pilha de descarte de encontros surgir neste local. (Se não houver inimigos na pilha de descarte de encontros, em vez disso, descarte cartas do topo do baralho de encontros até que um inimigo seja descartado e faça esse inimigo surgir.)",
+        "traits": "Floresta.",
+        "back_flavor": "O vento gélido uiva à sua volta enquanto você entra mais fundo na mata assombrada além de Arkham.",
+        "back_traits": "Floresta."
     },
     {
         "code": "05062",
-        "flavor": "A few tufts of grass are all that cling to life around the base of this old well, the rest of the landscape sucked dry of color.",
-        "name": "Witch-Haunted Woods",
-        "subname": "Tainted Well",
-        "text": "Investigators at other Witch-Haunted Woods locations can commit 1 card to each skill test performed at this location, and vice versa.",
-        "traits": "Woods.",
-        "back_flavor": "The frigid wind howls around you as you venture deeper into the haunted woods beyond Arkham."
+        "flavor": "Alguns tufos de grama são as únicas coisas que se apegam à vida em volta da base deste velho poço, o resto da paisagem drenado de sua cor.",
+        "name": "Mata Assombrada por Bruxas",
+        "subname": "Poço Maculado",
+        "text": "Os investigadores em outros locais Mata Assombrada por Bruxas podem comprometer 1 carta em cada teste de perícia realizado neste local e vice-versa.",
+        "traits": "Floresta.",
+        "back_flavor": "O vento gélido uiva à sua volta enquanto você entra mais fundo na mata assombrada além de Arkham.",
+        "back_traits": "Floresta."
     },
     {
         "code": "05063",
-        "flavor": "Though this trail was abandoned many years ago, a light still shines in the attic of one of the decrepit houses nearby.",
-        "name": "Witch-Haunted Woods",
-        "subname": "Hermit's House",
-        "text": "<b>Forced</b> - After any number of clues are discovered from this location: Each investigator at this location must discard an equal number of cards at random from his or her hand.",
-        "traits": "Woods.",
-        "back_flavor": "The frigid wind howls around you as you venture deeper into the haunted woods beyond Arkham."
+        "flavor": "Embora esta trilha tenha sido abandonada há muitos anos, uma luz ainda brilha no sótão de uma das casas decrépitas nas proximidades.",
+        "name": "Mata Assombrada por Bruxas",
+        "subname": "Casa do Eremita",
+        "text": "<b>Forçado</b> - Após qualquer número de pistas deste local serem descobertas: Cada investigador neste local deve descartar aleatoriamente essa mesma quantidade de cartas da própria mão.",
+        "traits": "Floresta.",
+        "back_flavor": "O vento gélido uiva à sua volta enquanto você entra mais fundo na mata assombrada além de Arkham.",
+        "back_traits": "Floresta."
     },
     {
         "code": "05064",
-        "flavor": "Nothing has lived inside this barn for decades. At least, as far as you know.",
-        "name": "Witch-Haunted Woods",
-        "subname": "Overgrown Barn",
-        "text": "[reaction] When an enemy would spawn at a different Witch-Haunted Woods: Spawn it at this location instead. Then, it makes an immediate attack against each investigator at this location.",
-        "traits": "Woods.",
-        "back_flavor": "The frigid wind howls around you as you venture deeper into the haunted woods beyond Arkham."
+        "flavor": "Nada viveu neste celeiro por décadas.\nPelo menos, que você saiba.",
+        "name": "Mata Assombrada por Bruxas",
+        "subname": "Celeiro Viçoso",
+        "text": "[reaction] Quando um inimigo for surgir em uma Mata Assombrada por Bruxas diferente: Faça-o surgir neste local em vez disso. Então, ele faz um ataque imediato contra cada investigador neste local.",
+        "traits": "Floresta.",
+        "back_flavor": "O vento gélido uiva à sua volta enquanto você entra mais fundo na mata assombrada além de Arkham.",
+        "back_traits": "Floresta."
     },
     {
         "code": "05065",
-        "name": "At Death's Doorstep",
-        "text": "Easy / Standard\n[skull]: -1 (-3 instead if your location is haunted).\n[tablet]: -2. If you fail and this is an attack or evasion attempt, resolve each haunted ability on your location.\n[elder_thing]: -2. If there is a [[Spectral]] enemy at your location, take 1 damage.",
-        "back_text": "Hard / Expert\n[skull]: -2 (-4 instead if your location is haunted).\n[tablet]: -3. If this is an attack or evasion attempt, resolve each haunted ability on your location.\n[elder_thing]: -4. If there is a [[Spectral]] enemy at your location, take 1 damage and 1 horror."
+        "name": "Na Soleira da Morte",
+        "text": "FÁCIL / MÉDIO\n[skull]: -1 (-3 em vez disso se o seu local for assombrado.)\n[tablet]: -2. Se você falhar e isso for um ataque ou uma tentativa de evasão, resolva cada habilidade assombrado em seu local.\n[elder_thing]: -2. Se houver um inimigo <b>Espectral</b> em seu local, sofra 1 de dano.",
+        "back_text": "DIFÍCIL / EXPERIENTE\n[skull]: -2 (-4 em vez disso se o seu local for assombrado.)\n[tablet]: -3. Se isso for um ataque ou uma tentativa de evasão, resolva cada habilidade assombrado em seu local.\n[elder_thing]: -4. Se houver um inimigo <b>Espectral</b> em seu local, sofra 1 de dano e 1 de horror."
     },
     {
         "code": "05066",
-        "flavor": "BE TRUE TO YOURSELF, AND SEEK THE TRUTH IN OTHERS.\nBALANCE THE SCALES.\nYOU SHALL BE CALLED TO ACCOUNT FOR YOUR ACTIONS.",
-        "name": "JUSTICE • XI",
-        "text": "[[Silver Twilight]] enemies cannot be damaged or defeated.\n<b>Forced</b> - When you draw a [[Monster]] enemy: Instead of spawning it, set it aside, out of play, and place 1 doom on this agenda. This effect can cause this agenda to advance.",
-        "back_name": "Pulled into the Shadows",
+        "flavor": "SEJA VERDADEIRO CONSIGO,\nE BUSQUE A VERDADE NOS OUTROS.\nVOCÊ DEVE EQUILIBRAR A BALANÇA.\nUM DIA VOCÊ TERÁ DE PRESTAR CONTAS\nPELAS SUAS AÇÕES.",
+        "name": "A JUSTIÇA • XI",
+        "text": "Os inimigos Crepúsculo Prateado não podem sofrer dano ou serem derrotados.\n<b>Forçado</b> - Quando você comprar um inimigo Monstro: Em vez de fazê-lo surgir, separe-o, fora de jogo, e coloque 1 perdição nesta agenda. Este efeito pode fazer com que esta agenda avance.",
+        "back_name": "Arrastado para as Sombras",
         "back_flavor": "You have uncovered some of the evidence pertaining to the disappearances, but the truth has yet to be unveiled.",
-        "back_text": "If the investigators do not possess 3 [per_investigator] clues as a group, they lose all of their clues.\nIf the investigators possess at least 3 [per_investigator] clues as a group, they must spend 3 [per_investigator] clues and spawn the set-aside Josef Meiger enemy at the location other than the Entry Hall that is farthest from all investigators.\nOpen the Campaign Guide and proceed to <b>Interlude I: A Record of Those Lost</b>.\nOnce this interlude has been resolved, remove all clues from each location in play, and advance to act 1b."
+        "back_text": "Você descobriu algumas evidências sobre os desaparecimentos, mas a verdade ainda está por ser desvelada.\n\nSe os investigadores não possuírem 3 [per_investigator] pistas em grupo, eles perdem todas as pistas deles.\nSe os investigadores possuírem pelo menos 3 [per_investigator] pistas em grupo, eles devem gastar 3 [per_investigator] pistas e fazer surgir o inimigo Josef Meiger previamente separado no local mais distante de todos os investigadores, que não seja o Saguão de Entrada.\nAbra o Guia de Campanha e avance para Interlúdio I: Um Registro dos que Foram Perdidos.\nApós este interlúdio ser resolvido, remova todas as pistas de cada local em jogo e avance para o ato 1b."
     },
     {
         "code": "05067",
-        "flavor": "Does this have something to do with the four missing persons? And if so, what does that mean for your survival?",
-        "name": "Over the Threshold",
-        "text": "Each [[Silver Twilight]] enemy gains <b>Victory 0</b>, and counts as an investigator for the purpose of determining where hunter enemies move during the enemy phase.\n<b>Forced</b> - After the 'hunter enemies move' step of the enemy phase: Each ready [[Spectral]] enemy deals its damage value to each [[Humanoid]] enemy at its location.",
-        "back_name": "Escape, if You Can",
-        "back_flavor": "The mist continues to seep through the walls and the foundation of the building, filling the manor's halls. Inside the mist, you cannot unsee the screaming faces, the twisting torment of the spirits trapped within. Their agony ripples throughout the corridors and pierces your mind. A bout of madness overtakes you. You must escape before you, too, are lost forever. Before you know it, you are running for the exit.",
-        "back_text": "- If the investigators are at act 2, they are trapped inside the spectral realm. <b>(→R3)</b>\n- If the investigators are at act 3, they barely escape with their lives. Each investigator who has not resigned is defeated and suffers 1 physical trauma."
+        "flavor": "Teria isso alguma relação com as quatro pessoas desaparecidas? E, se for o caso, o que isso significa para sua sobrevivência?",
+        "name": "Além do Limiar",
+        "text": "Cada inimigo <b>Crepúsculo Prateado</b> ganha <b>Vitória 0</b> e conta como um investigador para o propósito de determinar para onde inimigos caçadores se movem durante a fase dos inimigos.\n<b>Forced</b> - Após a etapa \"Inimigos caçadores se movem\" na fase dos inimigos: Cada inimigo <b>Espectral</b> preparado causa o valor de dano dele a cada inimigo <b>Humanoide</b> no local dele.",
+        "back_name": "Fuja, Se Puder",
+        "back_flavor": "As brumas continuam a se infiltrar pelas paredes e pela fundação do edifício, preenchendo os corredores da mansão. Dentro delas, você não consegue deixar de ver rostos gritando, o tormento enlouquecido dos espíritos aprisionados nas brumas. A agonia deles emana pelos corredores, perfurando sua mente. Um surto de loucura o domina. Você deve fugir antes que você também se perca para sempre. Antes que perceba, já está correndo para a saída.",
+        "back_text": "- Se os investigadores estiverem no ato 2, eles ficam presos dentro do reino espectral. <b>(→R3)</b>\n- Se os investigadores estiverem no ato 3, eles mal conseguem escapar com vida. Cada investigador que não renunciou é derrotado e sofre 1 trauma físico."
     },
     {
         "code": "05068",
-        "flavor": "As you approach the patio of the Meiger estate, a man in an elegant suit checks your invitation at the door. Inside, guests mingle and chat with one another, but much of the conversation is awkward and terse. A silent tension has gripped the manor, and you are not sure why.",
-        "name": "Hidden Agendas",
-        "text": "<b>Objective</b> - Find information about the disappearances by discovering as many clues as you can. <i>(Do not advance until you are instructed.) (Hint: it may be worthwhile to investigate the last known locations of the missing persons.)</i>",
-        "back_name": "Death Approaches",
+        "flavor": "Ao se aproximar do pátio da mansão Meiger, um homem de terno elegante verifica o seu convite na porta. Lá dentro, os convidados se misturam e conversam entre sí, mas boa parte das conversas é estranha e concisa. Uma tensão silenciosa tomou conta do local, e você não sabe dizer o porquê.",
+        "name": "Planos Ocultos",
+        "text": "<b>Objetivo</b> - Encontre informações sobre os desaparecimentos descobrindo o máximo possível de pistas. <i>(Não avance até ser instruído.) (Dica: pode valer a pena investigar os últimos locais conhecidos das pessoas desaparecidas.)</i>",
+        "back_name": "A Morte se Aproxima",
         "back_flavor": "Before you can investigate further, the building is suddenly plunged into icy darkness. All of the lights flicker once and are snuffed out. A thick, otherworldly mist begins to seep into the corridors, causing everything it touches to decay.",
-        "back_text": "Move each investigator and each enemy currently in the Entry Hall to the Victorian Halls.\nFor each location in play, find the set-aside [[Spectral]] version of that location and swap them <i>(all tokens and cards at the former location are now considered to be at the new location)</i>. If there is an investigator at that location, reveal it.\nIn player order, each investigator spawns one of the set-aside [[Monster]] enemies at his or her location, until each of the set-aside [[Monster]] enemies has been spawned.\nSpawn the set-aside The Spectral Watcher enemy in the Entry Hall. Shuffle the remainder of the set-aside <i>The Watcher</i> encounter set and the set-aside <i>Realm of Death</i> encounter set into the encounter deck, along with the encounter discard pile."
+        "back_text": "Antes que você consiga investigar mais, a mansão subitamente é dominada por uma escuridão gélida. Todas as luzes piscam uma vez e se apagam. Brumas densas e sobrenaturais começam a preencher os corredores, apodrecendo tudo o que tocam.\n\nMova cada investigador e cada inimigo atualmente no Saguão de Entrada para os Corredores Vitorianos.\n\nPara cada local em jogo, encontre a versão <b>Espectral</b> previamente separada desse local e troque-os <i>(considera-se que todas as fichas e cartas que estavam no local antigo agora estão no novo local)</i>. Se houver um investigador nesse local, revele-o.\n\nNa ordem dos jogadores, cada investigador faz surgir em seu próprio local um dos inimigos <b>Monstro</b> previamente separados, até que cada inimigo <b>Monstro</b> separado tenha surgido.\n\nFaça surgir o inimigo O Observador Espectral previamente separado no Saguão de Entrada. Embaralhe o restante do conjunto de encontros O Observador previamente separado e o conjunto de encontros Reino da Morte previamente separado no baralho de encontros, junto com a pilha de descarte de encontros.",
+        "subname": "Ato 1a"
     },
     {
         "code": "05069",
@@ -231,277 +242,284 @@
     },
     {
         "code": "05070",
-        "flavor": "Now that the mist has receded, you might be able to escape with your lives… but what about Josef Meiger and the other Lodge members left behind? Should you stay to make sure they escape, or flee while you have the chance?",
-        "name": "Escape the Cage",
-        "text": "<b>Forced</b> - At the end of the round: Each [[Silver Twilight]] enemy in the Entry Hall escapes; place them beneath the Entry Hall, out of play. Move each ready [[Silver Twilight]] enemy with the aloof keyword once toward the Entry Hall.\n<b>Objective</b> - If each undefeated investigator has resigned, advance.",
-        "back_name": "Alive… for Now",
+        "flavor": "Agora que as brumas retroceram, vocês podem escapar com vida… mas e Josef Meiger e os outros membros da Loja que foram deixados para trás? Vocês devem ficar para garantir que eles escapem ou fugir enquanto podem?",
+        "name": "Fuja da Jaula",
+        "text": "<b>Forçado</b> - No final da rodada: Cada inimigo Crepúsculo Prateado no Saguão de Entrada escapa; coloque-os embaixo do Saguão de Entrada, fora de jogo. Mova cada inimigo Crepúsculo Prateado preparado com a palavra-chave arredio uma vez em direção ao Saguão de Entrada.\n<b>Objetivo</b> - Se cada investigador não derrotado renunciou, avance.",
+        "back_name": "Vivo… Por Enquanto",
         "back_flavor": "Coming to this place was a terrible mistake. You had hoped to uncover evidence pertaining to the disappearances at the estate, not become victims yourselves. As you tear through the entry hall and slam through the manor's heavy front doors, you vow to put as much distance between you and the Meiger estate as you possible can. Unfortunately, your plan is quickly derailed…",
-        "back_text": "<b>(→R1)</b>"
+        "back_text": "Vir para este lugar foi um erro terrível. Vocês esperavam descobrir evidências relacionadas aos desaparecimentos na mansão, não se tornarem novas vítimas. Enquanto atravessam o saguão de entrada e batem as pesadas portas da propriedade, juram colocar o máximo de distância possível entre vocês e a mansão Meiger. \nInfelizmente, esse plano logo se mostrou impossível…\n\n(→R1)"
     },
     {
         "code": "05071",
-        "flavor": "Most of the manor is off-limits to guests who are not members of the Silver Twilight Lodge. But your investigation takes priority, so you wait for the right time to sneak away…",
-        "name": "Entry Hall",
-        "text": "[action]: <b>Resign.</b> \"I guess there is nothing to those disappearances after all.\"",
-        "back_flavor": "Clearly, whatever business Josef Meiger has his hands in, it's doing well. A soft red carpet guides you deeper into the opulent hall, flanked by small statues of marble and ivory. Above, a glimmering chandelier casts a brilliant shine along the polished floor and wooden stairs."
+        "flavor": "A maior parte da mansão está fora dos limites para os convidados que não são membros da Loja do Crepúsculo Prateado. Mas sua investigação é mais importante, então você espera o momento certo para se esgueirar por aí...",
+        "name": "Saguão de Entrada",
+        "text": "[action]: <b>Renuncie.</b> \"Acho que, no fim das contas, não tinha nada de extraordinário naqueles desaparecimentos.\"",
+        "back_flavor": "Claramente, qualquer que seja o negócio em que Josef Meiger esteja envolvido, está indo bem. Um carpete vermelho macio guia você pelo salão opulento, ladeado por pequenas estátuas de mármore e marfim. Acima, um candelabro reluzente lança uma luz brilhante sobre o piso polido e as escadas de madeira."
     },
     {
         "code": "05072",
-        "name": "Victorian Halls",
-        "text": "[action]: You go looking for trouble. Discard cards from the top of the encounter deck until a [[Silver Twilight]] enemy is discarded. Spawn that enemy in the Victorian Halls. Then, gain 2 clues <i>(from the token pool)</i>. (Group limit once per game.)",
-        "back_flavor": "Even the hallways of this manor are luxurious, decorated by thick rugs, bizarre artwork, and uncanny statues shaped from scrap metal. Rays of sunlight shine through the curtains as the sun sets over Arkham outside."
+        "name": "Corredores Vitorianos",
+        "text": "[action]: Você parte em busca de problemas. Descarte cartas do topo do baralho de encontros até que um inimigo <b>Crepúsculo Prateado</b> seja descartado. Faça esse inimigo surgir nos Salões Vitorianos. Então ganhe 2 pistas <i>(da reserva de fichas)</i>. (Limite de grupo de uma vez por jogo).",
+        "back_flavor": "Até mesmo os corredores desta mansão são repletos de luxo, decorados com tapetes espessos, obras de arte bizarras e inquietantes estátuas feitas de pedaços de metal. Raios de sol brilham através das cortinas enquanto o sol se põe sobre Arkham."
     },
     {
         "code": "05073",
-        "flavor": "Mounted animal heads adorn this room's paneled walls, along with other artifacts from Josef's collection. Dominating the room are several overstuffed armchairs arranged around a low table bearing a crystal decanter of brandy.",
-        "name": "Trophy Room",
-        "text": "[action]: You spend some time schmoozing with the other guests. Either gain 2 resources, or spend 2 resources to gain 1 clue <i>(from the token pool)</i>. (Limit once per round.)",
-        "back_flavor": "Flanking this door are two deer heads mounted along the wall, set almost as though they are guarding its entrance."
+        "flavor": "Cabeças de animais adornam as paredes com painéis de madeira deste recinto, junto a outros artefatos da coleção de Josef. Dominando a sala, diversas poltronas estofadas dispostas ao redor de uma mesa baixa com uma garrafa de conhaque feita de cristal.",
+        "name": "Sala dos Troféus",
+        "text": "[action]: Você passa algum tempo batendo papo com os outros convidados. Ganhe 2 recursos, ou gaste 2 recursos para ganhar 1 pista (da reserva de fichas).\n(Limite de uma vez por rodada.)",
+        "back_flavor": "Ladeando esta porta estão duas cabeças de cervo montadas ao longo da parede, dispostas quase como se estivessem guardando a entrada."
     },
     {
         "code": "05074",
-        "flavor": "A ritzy, polished billiard table lies at the center of this room, surrounded by cigarette smoke and illuminated by two ornate lamps. Several guests relax around the table, casually playing or chatting with one another.",
-        "name": "Billiards Room",
-        "text": "[action]: Test [agility] (3) to compete with the other guests. If you succeed, gain 1 clue <i>(from the token pool)</i>. (Limit once per round.)",
-        "back_flavor": "From outside this room, you can hear the telltale clacking of billiard balls clattering against one another, along with idle chatter and laughter."
+        "flavor": "Uma mesa de bilhar luxuosa e polida fica no centro desta sala, envolta por fumaça de charuto e iluminada por duas lamparinas ornamentadas. Alguns convidados relaxam ao redor da mesa, jogando casualmente ou conversando uns com os outros.",
+        "name": "Sala de Bilhar",
+        "text": "[action]: Teste [agility] (3) para competir com os outros convidados. Se você tiver sucesso, ganhe 1 pista <i>(da reserva de fichas)</i>. (Limite de uma vez por rodada.)",
+        "back_flavor": "Do lado de fora desta sala, você consegue ouvir o típico estalar de bolas de bilhar chocando-se umas contra as outras, junto ao burburinho de conversas e risadas."
     },
     {
         "code": "05075",
-        "flavor": "No doubt about it: this must be Josef Meiger's bedroom. The centerpiece of the room is a massive canopy bed, the posts of which are ornately carved. You see no sign of a Mrs. Meiger.",
-        "name": "Master Bedroom",
-        "text": "<b>Forced</b> - When the round ends, if there is at least 1 investigator in the Master Bedroom: Place 1 doom on the nearest [[Silver Twilight]] enemy.",
-        "back_flavor": "This unmarked door is large and well polished, set in a corner of the upstairs hallway out of view of guests and other prying eyes."
+        "flavor": "Sem sombra de dúvidas, esse deve ser o quarto de Josef Meiger. A peça central do quarto é uma enorme cama com dossel, cujos suportes foram entalhados com ornamentos. Você não vê sinal algum do Sr. Meiger.",
+        "name": "Quarto Principal",
+        "text": "<b>Forçado</b> - Quando a rodada terminar, se houver pelo menos 1 investigador no Quarto Principal: Coloque 1 perdição no inimigo <i>Crepúsculo Prateado</i> mais próximo.",
+        "back_flavor": "Esta porta sem identificação é grande e bem polida, situada em um canto do corredor do andar de cima, fora das vistas dos convidados e de outros olhares indiscretos."
     },
     {
         "code": "05076",
-        "name": "Balcony",
-        "text": "[action] Discard cards from your hand with a total of at least 3 [intellect] icons: <b>Parley.</b> The guest here knows more about the Lodge than they let on. Gain 2 clues <i>(from the token pool)</i>. (Group limit once per game.)",
-        "back_flavor": "An open glass door leads onto the balcony outside the estate's master bedroom."
+        "name": "Sacada",
+        "text": "[action] Descarte cartas da sua mão com um total de pelo menos 3 ícones [intellect]: <b>Negociata.</b> O convidado aqui sabe mais sobre a Loja do Crepúsculo Prateado do que quer admitir. Ganhe 2 pistas (da reserva de fichas).\n(Limite de grupo de uma vez por jogo).",
+        "back_flavor": "Uma porta de vidro aberta leva à sacada do lado de fora do quarto principal da mansão."
     },
     {
         "code": "05077",
-        "flavor": "Josef's office is as much a display of his wealth and power as it is a workplace",
-        "name": "Office",
-        "text": "Each [[Silver Twilight]] enemy in the Office lose aloof.\n<b>Forced</b> - If you reveal a [skull], [cultist], [tablet], [elder_thing], or [auto_fail] symbol while investigating the Office: Place 1 doom on the nearest [[Silver Twilight]] enemy.",
-        "back_flavor": "Atop a steep staircase leading to the manor's third floor, far from the hustle and bustle of the party below, a solitary oak door stands sentry, guarding Mr. Meiger's closest secrets.",
-        "back_text": "Each [[Silver Twilight]] enemy in the Office loses aloof."
+        "flavor": "O escritório de Josef é tanto uma exibição de poder e riqueza quanto um local de trabalho.",
+        "name": "Escritório",
+        "text": "Cada inimigo <b>Crepúsculo Prateado</b> no Escritório perde arredio.\n<b>Forçado</b> - Se você revelar um símbolo [skull], [cultist], [tablet], [elder_thing], ou [auto_fail] enquanto investiga o Escritório: Coloque 1 perdição no inimigo <b>Crepúsculo Prateado</b> mais próximo.",
+        "back_flavor": "No topo de uma escadaria íngreme que leva ao terceiro andar da mansão, longe da agitação da festa abaixo, uma solitária porta de carvalho está de guarda, protegendo os maiores segredos do Sr. Meiger.",
+        "back_text": "Cada inimigo <b>Crepúsculo Prateado</b> no Escritório perde arredio."
     },
     {
         "code": "05078",
-        "flavor": "The dark mist begins to recede, and the entry hall to Josef's manor is slowly restored to its original state as the mist dissipates.",
-        "name": "Entry Hall",
-        "text": "[action]: <b>Resign.</b> You tear through the front doors of the manor, escaping the spectral realm and leaving the remainder of the survivors to their fate.",
-        "traits": "Spectral.",
-        "back_flavor": "A wall of dark mist blocks your escape, decaying everything it touches. Ghostly hands grasp at you from the mist, desperately trying to pull you in. You suspect that if you tried to cross through the mist, you wouldn't emerge alive.",
-        "back_text": "The Entry Hall is blocked by a wall of spectral mist. You cannot enter the Entry Hall. [[Silver Twilight]] enemies cannot spawn in the Entry Hall."
+        "flavor": "As brumas sombrias começam a se afastar, e o saguão de entrada da mansão de Josef lentamente retorna ao seu estado original conforme elas se dissipam.",
+        "name": "Saguão de Entrada",
+        "text": "[action]: <b>Renuncie.</b> Você sai desesperado pela porta principal da mansão, fugindo do reino espectral e deixando o restante dos sobreviventes à própria sorte.",
+        "traits": "Espectral.",
+        "back_flavor": "Uma parede de brumas sombrias bloqueia sua fuga, apodrecendo tudo o que toca. Mãos fantasmagóricas despontam das brumas, estendendo-se em sua direção, desesperadamente tentando puxá-lo. Você suspeita que, se tentasse atravessar as brumas, não chegaria vivo do outro lado.",
+        "back_text": "O Saguão de Entrada está bloqueado por uma parede de brumas espectrais. Você não pode entrar no Saguão de Entrada. Os inimigos <b>Crepúsculo Prateado</b> não podem surgir no Saguão de Entrada.",
+        "back_traits": "Espectral."
     },
     {
         "code": "05079",
-        "flavor": "A haunting stillness lingers through the frigid, dead halls. The many paintings that adorn the walls have faded and become unrecognizable, and the metal statuettes flanking the corridors have completed rusted over.",
-        "name": "Victorian Halls",
-        "text": "<b>Haunted</b> - Lose 1 action.",
-        "traits": "Spectral.",
-        "back_flavor": "The warm rays that once illuminated these halls have faded into beams of cold, grey moonlight that shine through floating motes of dust and wisps of dark mist."
+        "flavor": "Uma quietude assombrosa perdura pelos corredores frios e mortos. As muitas pinturas que adornam as paredes desbotaram e ficaram irreconhecíveis, e as estatuetas de metal que ladeavam os corredores enferrujaram completamente.",
+        "name": "Corredores Vitorianos",
+        "text": "<b>Assombrado</b> – Perca 1 [action].",
+        "traits": "Espectral.",
+        "back_flavor": "Os cálidos raios de luz que anteriormente iluminavam estes corredores deram lugar a uma luz de luar fria e cinzenta que brilha através da poeira espalhada pelo ar e dos vestígios de brumas sombrias.",
+        "back_traits": "Espectral."
     },
     {
         "code": "05080",
-        "flavor": "Rotting animal heads adorn this room's wood-paneled walls, once a display of power and sovereignty, now macabre displays of death and decay. You cannot help but feel their empty eyes drill through you as you explore the room.",
-        "name": "Trophy Room",
-        "text": "<b>Haunted</b> - Lose 2 resources. For each resource you cannot lose from this effect, take 1 horror.",
-        "traits": "Spectral.",
-        "back_flavor": "Flanking this door are two rotting deer heads mounted on the wall. They stare at you with hollow, dead eyes."
+        "flavor": "Cabeças apodrecidas de animais adornam as paredes com painéis de madeira desta sala; antes uma exibição de poder e soberania, agora apenas uma exposição macabra de morte e decadência. Você não consegue deixar de sentir os olhos vazios delas perfurando você enquanto explora o recinto.",
+        "name": "Sala dos Troféus",
+        "text": "<b>Assombrado</b> - Perca 2 recursos. Para cada recurso que você não puder perder com este efeito, sofra 1 de horror.",
+        "traits": "Espectral.",
+        "back_flavor": "Ladeando esta porta estão duas cabeças de cervo apodrecendo montadas na parede. Elas encaram você com olhos mortos e vazios.",
+        "back_traits": "Espectral."
     },
     {
         "code": "05081",
-        "flavor": "The game room's warmth and laughter have been replaced with a sense of quiet dread. Tendrils of black mist slither from underneath the collapsed billiard table, twisting and swaying along the floor in a formless dance.",
-        "name": "Billiards Room",
-        "text": "<b>Haunted</b> - You must either discard an asset you control or take 1 damage.",
-        "traits": "Spectral.",
-        "back_flavor": "From outside this room, you can hear the creaking of old wood and the patter of soft footsteps along the ground."
+        "flavor": "O calor e os risos da sala de jogos foram substituídos por uma sensação de pavor silencioso. Tentáculos de brumas sombrias serpenteiam por baixo da mesa de bilhar desabada, retorcendo-se e agitando-se pelo chão em uma dança irreconhecível.",
+        "name": "Sala de Bilhar",
+        "text": "<b>Assombrado</b> - Você deve descartar um ativo que você controla ou sofrer 1 de dano.",
+        "traits": "Espectral.",
+        "back_flavor": "Do lado de fora desta sala, você ouve o estalar de madeira velha e o ruído de passos leves pelo chão.",
+        "back_traits": "Espectral."
     },
     {
         "code": "05082",
-        "flavor": "Tendrils of black mist have invaded every corner of this room from the open balcony doorway, causing the furniture to decay and collapse. Every piece of wood and glass is shattered and warped. Nothing is untouched.",
-        "name": "Master Bedroom",
-        "text": "<b>Haunted</b> - Place 1 of your clues on Master Bedroom.",
-        "traits": "Spectral.",
-        "back_flavor": "This unmarked door is old and partially rotted, set in a quiet corner of the upstairs hallway. A thick, dark fog seeps beneath the door and wafts around your feet."
+        "flavor": "Tentáculos de brumas sombrias invadiram cada canto deste recinto através da porta aberta que leva para a sacada, fazendo com que os móveis apodrecessem e desabassem. Cada peça de madeira e vidro está despedaçada e distorcida. Nada permaneceu intocado.",
+        "name": "Quarto Principal",
+        "text": "<b>Assombrado</b> - Coloque 1 de suas pistas no Quarto Principal.",
+        "traits": "Espectral.",
+        "back_flavor": "Esta porta sem indicações está velha e parcialmente apodrecida, disposta em um canto silencioso do corredor do andar de cima. Brumas espessas e escuras passam por debaixo da porta e flutuam ao redor dos seus pés.",
+        "back_traits": "Espectral."
     },
     {
         "code": "05083",
-        "flavor": "Clouds of dark mist loom above French Hill. Spectral shapes surround the balcony, moaning and writhing in torment.",
-        "name": "Balcony",
-        "text": "<b>Haunted</b> - Each of your cards with health takes 1 direct damage.",
-        "traits": "Spectral.",
-        "back_flavor": "A shattered glass door leads onto the balcony outside the estate's master bedroom."
+        "flavor": "Nuvens de brumas sombrias pairam sobre a região de French Hill. Formas espectrais cercam a sacada, gemendo e se retorcendo em tormento.",
+        "name": "Sacada",
+        "text": "<b>Assombrado</b> – Cada uma de suas cartas com vida sofre 1 de dano direto.",
+        "traits": "Espectral.",
+        "back_flavor": "Uma porta de vidro quebrada leva à sacada do lado de fora do quarto principal da mansão.",
+        "back_traits": "Espectral."
     },
     {
         "code": "05084",
-        "flavor": "A thick, oppressive haze fills what was once an impressive office. Cracks fork up and down the wooden paneling of the walls, and the bookshelves surrounding Josef's desk sag with the weight of rotten, decayed books.",
-        "name": "Office",
-        "text": "<b>Haunted</b> - Choose and discard a card from your hand.",
-        "traits": "Spectral.",
-        "back_flavor": "The lone door atop the second-floor staircase has rotted and decayed as though hundreds of years have passed. The once‑polished oak is now stained and warped. It could collapse at any moment."
+        "flavor": "Uma névoa espessa e opressiva preenche o que antes era um escritório impressionante. Rachaduras sobem e descem pelos painéis de madeira das paredes, e as estantes de livros que ficam ao redor da escrivaninha de Josef estão tortas devido ao peso de livros apodrecidos.",
+        "name": "Escritório",
+        "text": "<b>Assombrado</b> – Escolha e descarte uma carta da sua mão.",
+        "traits": "Espectral.",
+        "back_flavor": "A porta solitária no topo da escadaria do segundo andar apodreceu e se deteriorou como se centenas de anos tivessem se passado. O carvalho, antes polido, agora está manchado e distorcido. A porta pode desabar a qualquer momento.",
+        "back_traits": "Espectral."
     },
     {
         "code": "05085",
-        "flavor": "\"Do not rouse the beast you do not comprehend.\"",
+        "flavor": "\"Não desperte a fera que você não compreende.\"",
         "name": "Josef Meiger",
-        "subname": "Lodge Host",
-        "text": "Retaliate.\n[action] If no other [[Silver Twilight]] enemy has doom on it: <b>Parley.</b> Test [intellect] (4) to convince Josef that this is not your doing. If you fail, Josef Meiger attacks you. If you succeed, flip this card over and resolve its text.",
-        "traits": "Humanoid. Cultist. Silver Twilight. Elite."
+        "subname": "Anfitrião da Loja",
+        "text": "Retaliação.\n[action] Se nenhum outro inimigo Crepúsculo Prateado tiver perdição sobre ele: <b>Negociata.</b> Teste [intellect] (4) para convencer Josef de que isso não é obra sua. Se você falhar, Josef Meiger ataca você. Se você tiver sucesso, vire esta carta para o outro lado e resolva seu texto.",
+        "traits": "Humanoide. Cultista. Crepúsculo Prateado. Elite."
     },
     {
         "code": "05085b",
-        "flavor": "Josef lowers his weapon and studies you for a moment. \"Perhaps you are telling the truth. But if that is true…\" He ponders the situation, then holsters his weapon and checks his pocket watch. \"Regardless, we have little time. If my estimate is correct, the anomaly will recede soon. We must be out of the manor before that occurs, or we'll all be trapped here.\"\nYou ask how he knows all of this, but he merely shakes his head. \"This is not the time. Ask again if we make it out of here alive.\"",
-        "name": "Josef's Plan",
-        "text": "Remove all doom from this card.\nFor the remainder of the game, doom cannot be placed on [[Silver Twilight]] enemies, and Josef Meiger gains aloof.\nFlip this card back to its enemy side and disengage it from all investigators."
+        "flavor": "Josef abaixa a arma e estuda você por um instante. \"Talvez você esteja dizendo a verdade. Mas se isso for verdade...\" Ele pondera sobre a situação, então guarda a arma no coldre e checa o relógio de bolso. \"Mesmo assim, temos pouco tempo. Se minha estimativa estiver correta, a anomalia vai regredir em breve. Precisamos sair da mansão antes disso, ou ficaremos presos aqui.\"\nVocê pergunta como ele sabe de tudo isso, mas Josef apenas balança a cabeça. \"Não é hora para isso. Pergunte novamente se conseguirmos sair daqui vivos.\"",
+        "name": "O Plano de Josef",
+        "text": "Remove todas as perdições desta carta.\nPelo restante do jogo, não é possível colocar perdição sobre inimigos <b>Crepúsculo Prateado</b>, e Josef Meiger ganha arredio.\nVire esta carta de volta para o lado de inimigo e desengaje-a de todos os investigadores."
     },
     {
         "code": "05086",
-        "flavor": "There is no escaping fate.",
-        "name": "The Spectral Watcher",
-        "subname": "You Are Its Prey",
-        "text": "Alert. Hunter.\n<b>Forced</b> - When The Spectral Watcher is defeated: Instead of discarding it, heal all damage from it, disengage it from all investigators, and exhaust it. It does not ready during the upkeep phase this round.",
-        "traits": "Ancient One. Spectral. Elite."
+        "flavor": "Não há como fugir do destino.",
+        "name": "O Observador Espectral",
+        "subname": "Você É a Presa Dele",
+        "text": "Alerta. Caçador.\n<b>Forçado</b> - Quando O Observador Espectral for derrotado: Em vez de descartá-lo, cure todo o dano dele, desengaje-o de todos os investigadores e esgote-o. Ele não é preparado durante a fase de manutenção desta rodada.",
+        "traits": "Ancião. Espectral. Elite."
     },
     {
         "code": "05087",
-        "name": "Watcher's Grasp",
-        "text": "<b>Revelation</b> - Heal 3 damage from The Spectral Watcher. Ready The Spectral Watcher. It moves, engages, and attacks as if it were the enemy phase. Throughout the resolution of this effect, The Spectral Watcher gains \"<b>Prey</b> - You.\"",
-        "traits": "Power. Spectral."
+        "name": "Nas Garras do Observador",
+        "text": "<b>Revelação</b> - Cure 3 de dano de O Observador Espectral. Prepare O Observador Espectral. Ele se move, engaja e ataca como se fosse a fase dos inimigos. Durante a resolução deste efeito, O Observador Espectral ganha \"<b>Presa</b> - Você.\"",
+        "traits": "Poder. Espectral."
     },
     {
         "code": "05088",
-        "name": "Piper of Azathoth",
-        "text": "<b>Prey</b> - Least remaining sanity.\nAlert. Hunter. Retaliate.\n<b>Forced</b> - When the enemy phase ends: Piper of Azathoth attacks each investigator it is not engaged with at its location <i>(regardless of whether it is ready or exhausted)</i>.",
-        "traits": "Monster. Elite."
+        "name": "Flautista de Azathoth",
+        "text": "<b>Presa</b> - Menos sanidade restante.\nAlerta. Caçador. Retaliação.\n<b>Forçado</b> - Quando a fase dos inimigos terminar: Flautista de Azathoth ataca cada investigador com quem não está engajado no local dele <i>(independentemente de estar preparado ou esgotado)</i>.",
+        "traits": "Monstro. Elite."
     },
     {
         "code": "05089",
-        "name": "Daemonic Piping",
-        "text": "Surge.\n<b>Revelation</b> - If Piper of Azathoth is in play, deal 1 horror to each investigator at its location and at each connecting location. Otherwise, put Daemonic Piping into play next to the agenda deck.\nIf there are 3 copies of Daemonic Piping in play, discard them and spawn the Piper of Azathoth engaged with its prey <i>(from any out of play area)</i>.",
-        "traits": "Power. Terror."
+        "name": "Flauteio Demoniaco",
+        "text": "Ímpeto.\n<b>Revelação</b> - Se Flautistade de Azathoth estiver em jogo, cause 1 de horror a cada investigador no local dele e em cada local conectado. Caso contrário, coloque Flauteio Demoniaco em jogo, perto do baralho de agendas.\nSe houver 3 cópias de Flauteio Demoniaco em jogo, descarte-as e faça surgir o Flautista de Azathoth engajado com sua presa <i>(de qualquer área fora de jogo)</i>.",
+        "traits": "Poder. Terror."
     },
     {
         "code": "05090",
-        "flavor": "The hidden cults to which these witches belonged often guarded and handed down surprising secrets from elder, forgotten aeons… - H. P. Lovecraft, <u>The Dreams in the Witch House</u>",
-        "name": "Coven Initiate",
-        "text": "<b>Revelation</b> - Discard the top 2 cards of the encounter deck. If this effect causes the encounter deck to run out of cards, draw the topmost [[Hex]] card in the encounter discard pile.",
-        "traits": "Humanoid. Witch."
+        "flavor": "\"Os cultos secretos a que essas bruxas pertenciam frequentemente protegem e transmitiam surpreendentes segredos de éons antigos e esquecidos...\"\n- H. P. Lovecraft, Os Sonhos na Casa da Bruxa",
+        "name": "Iniciada do Coven",
+        "text": "<b>Revelação</b> - Descarte as 2 cartas do topo do baralho de encontros. Se este efeito fizer com que o baralho de encontros fique sem cartas, compre a carta de <i>Sortilégio</i> mais acima na pilha de descarte de encontros.",
+        "traits": "Humanoide. Bruxa."
     },
     {
         "code": "05091",
-        "name": "Priestess of the Coven",
-        "text": "Retaliate.\nPriestess of the Coven gets +1 fight and +1 evade for each [[Witch]] enemy in the encounter discard pile (to a maximum of +3 fight and +3 evade).\n<b>Forced</b> - When the encounter deck runs out of cards: Priestess of the Coven readies and attacks each investigator at its location.",
-        "traits": "Humanoid. Witch."
+        "name": "Sacerdotisa do Coven",
+        "text": "Retaliação.\nSacerdotisa do Coven recebe +1 de luta e +1 de evasão para cada inimigo <b>Bruxa</b> na pilha de descarte de encontros (até um máximo de +3 de luta e +3 de evasão).\n<b>Forçado</b> - Quando o baralho de encontros ficar sem cartas: Sacerdotisa do Coven é preparada e ataca cada investigador no local dela.",
+        "traits": "Humanoide. Bruxa."
     },
     {
         "code": "05092",
-        "flavor": "The infernal wailing and cackling rattle endlessly through your mind.",
-        "name": "Diabolic Voices",
-        "text": "<b>Revelation</b> - Test [willpower] (3). For each point you fail by, discard 1 random card from your hand. For each card you cannot discard, take 1 horror or 1 damage. This test gets +1 difficulty for each copy of Diabolic Voices in the encounter discard pile.",
-        "traits": "Curse."
+        "flavor": "Os lamentos e risos infernais ressoam incessantemente em sua mente.",
+        "name": "Vozes Diabólicas",
+        "text": "<b>Revelação</b> - Teste [willpower] (3). Para cada ponto que você falhar, descarte 1 carta aleatória da sua mão. Para cada carta que você não puder descartar, sofra 1 de horror ou 1 de dano. Este teste recebe +1 de dificuldade para cada cópia de Vozes Diabólicas na pilha de descarte de encontros.",
+        "traits": "Maldição."
     },
     {
         "code": "05093",
-        "name": "Wracked",
-        "text": "<b>Revelation</b> - Put Wracked into play in your threat area.\nYou get -1 to each of your skills during the first skill test you perform each round.\n[action]: Test [willpower] (3). If you succeed, discard Wracked. If there is an exhausted [[Witch]] enemy at your location, this test is automatically successful.",
-        "traits": "Hex."
+        "name": "Arruinado",
+        "text": "<b>Revelação</b> - Coloque Arruinado em jogo em sua área de ameaças.\nVocê recebe -1 em cada uma de suas perícias durante o primeiro teste de perícia que realizar a cada rodada.\n[action]: Teste [willpower] (3). Se você tiver sucesso, descarte Arruinado. Se houver um inimigo <b>Bruxa</b> esgotado em seu local, este teste é automaticamente bem-sucedido.",
+        "traits": "Sortilégio."
     },
     {
         "code": "05094",
-        "name": "Bedeviled",
-        "text": "<b>Revelation</b> - Put Bedeviled into play in your threat area.\nYou cannot trigger [action] abilities on cards you control.\n[action]: Test [willpower] (3). If you succeed, discard Bedeviled. If there is an exhausted [[Witch]] enemy at your location, this test is automatically successful.",
-        "traits": "Hex."
+        "name": "Atormentado",
+        "text": "<b>Revelação</b> – Coloque Atormentado em jogo em sua área de ameaças.\nVocê não pode ativar habilidades [action] nas cartas que você controla.\n[action]: Teste [willpower] (3). Se você tiver sucesso, descarte Atormentado. Se houver um inimigo <b>Bruxa</b> esgotado em seu local, este teste é automaticamente bem-sucedido.",
+        "traits": "Sortilégio."
     },
     {
         "code": "05095",
-        "name": "Lodge Neophyte",
-        "text": "<b>Spawn</b> - Any empty location.\nAloof.\n<b>Forced</b> - After Lodge Neophyte enters play: Place 1 doom on it.\n[action]: <b>Parley.</b> Test [willpower] (2). If you succeed, remove all doom from Lodge Neophyte.",
-        "traits": "Humanoid. Cultist. Silver Twilight."
+        "name": "Neófito da Loja",
+        "text": "<b>Surgir</b> - Qualquer local vazio.\nArredio.\n<b>Forçado</b> - Após Neófito da Loja entrar em jogo: Coloque 1 perdição sobre ele.\n[action]: <b>Negociata.</b> Teste [willpower] (2). Se você tiver sucesso, remova todas as perdições de Neófito da Loja.",
+        "traits": "Humanoide. Cultista. Crepúsculo Prateado."
     },
     {
         "code": "05096",
-        "name": "Keeper of Secrets",
-        "text": "<b>Spawn</b> - Any empty location.\nAloof. Retaliate.\n<b>Forced</b> - When the mythos phase ends: Place 1 doom on Keeper of Secrets.\n[action]: <b>Parley.</b> Test [intellect] (3). If you succeed, remove all doom from Keeper of Secrets.",
-        "traits": "Humanoid. Cultist. Silver Twilight."
+        "name": "Guardião dos Segredos",
+        "text": "<b>Surgir</b> - Qualquer local vazio.\nArredio. Retaliação.\n<b>Forçado</b> - Quando a fase do mythos terminar: Coloque 1 perdição sobre Guardião dos Segredos.\n[action]: <b>Negociata.</b> Teste [intellect] (3). Se você tiver sucesso, remova todas as perdições de Guardião dos Segredos.",
+        "traits": "Humanoide. Cultista. Crepúsculo Prateado."
     },
     {
         "code": "05097",
-        "name": "Mysteries of the Lodge",
-        "text": "<b>Revelation</b> - Place 1 doom on the nearest [[Cultist]] enemy. Then, until the end of the round, increase the difficulty to fight, evade, or parley with that enemy by 2. If no doom is placed by this effect, Mysteries of the Lodge gains surge.",
-        "traits": "Scheme."
+        "name": "Mistérios da Loja",
+        "text": "<b>Revelação</b> – Coloque 1 perdição sobre o inimigo <i>Cultista</i> mais próximo. Então, até o final da rodada, aumente em 2 a dificuldade para lutar, evadir ou negociar com esse inimigo. Se nenhuma perdição for colocada por este efeito, Mistérios da Loja ganha ímpeto.",
+        "traits": "Esquema."
     },
     {
         "code": "05098",
-        "name": "Evil Past",
-        "text": "<b>Revelation</b> - Put Evil Past into play in your threat area if there is no copy of it in your threat area (if there is, discard Evil Past and it gains surge instead).\n<b>Forced</b> - When the encounter deck runs out of cards: Take 2 horror and test [willpower] (3). If you succeed, discard Evil Past.",
-        "traits": "Curse."
+        "name": "Passado Maligno",
+        "text": "<b>Revelação</b> - Coloque Passado Maligno em jogo em sua área de ameaças se não houver nenhuma cópia dele em sua área de ameaças (se houver, em vez disso descarte Passado Maligno e ele ganha ímpeto).\n<b>Forçado</b> - Quando o baralho de encontros ficar sem cartas: Sofra 2 de horror e teste [willpower] (3). Se você tiver sucesso, descarte Passado Maligno.",
+        "traits": "Maldição."
     },
     {
         "code": "05099",
-        "flavor": "Perhaps these mysteries are better left unknown.",
-        "name": "Centuries of Secrets",
-        "text": "<b>Revelation</b> - Test [willpower] (5). For each point you fail by, discard the top card of the encounter deck. If a [[Curse]] treachery is discarded by this effect, deal 1 direct damage to your investigator and to each of your [[Ally]] assets.",
-        "traits": "Curse."
+        "flavor": "Talvez seja melhor deixar esses mistérios sem resposta.",
+        "name": "Séculos de Segredos",
+        "text": "<b>Revelação</b> - Teste [willpower] (5). Para cada ponto que você falhar, descarte a carta do topo do baralho de encontros. Se uma traição de <i>Maldição</i> for descartada por este efeito, cause 1 de dano direto ao seu investigador e a cada um dos seus ativos de <i>Aliado</i>.",
+        "traits": "Maldição."
     },
     {
         "code": "05100",
-        "flavor": "We beseech the dead, but do we really wish to see them?",
-        "name": "Nether Mist",
-        "text": "<b>Prey</b> - Investigator at the location with the most clues.\nAloof. Hunter.\nNether Mist's location gains: \"<b>Haunted</b> - Nether Mist attacks you.\"",
-        "traits": "Monster. Spectral."
+        "flavor": "Suplicamos aos mortos, mas realmente queremos vê-los?",
+        "name": "Brumas do Submundo",
+        "text": "<b>Presa</b> – Investigador no local com mais pistas.\nArredio. Caçador.\nO local de Brumas do Submundo ganha: \"<b>Assombrado</b> – Brumas do Submundo ataca você.\"",
+        "traits": "Monstro. Espectral."
     },
     {
         "code": "05101",
-        "flavor": "The spectral mist coalesces into an incorporeal canine form. Hungry eyes shine from the darkness.",
-        "name": "Shadow Hound",
-        "text": "<b>Prey</b> - Lowest [agility].\nHunter. Retaliate.\n<b>Forced</b> - After Shadow Hound attacks you: Resolve each haunted ability on your location.",
-        "traits": "Monster. Spectral."
+        "flavor": "As brumas espectrais tomam a forma de um canino incorpóreo. Olhos famintos brilham na escuridão.",
+        "name": "Cão das Sombras",
+        "text": "<b>Presa</b> - Menor [agility].\nCaçador. Retaliação.\n<b>Forçado</b> - Após Cão das Sombras atacar você: Resolva cada habilidade assombrado em seu local.",
+        "traits": "Monstro. Espectral."
     },
     {
         "code": "05102",
-        "flavor": "Hush, child. It will all be over soon.",
-        "name": "Whispers in the Dark",
-        "text": "<b>Revelation</b> - Put Whispers in the Dark into play next to the agenda deck.\nEach location gains: \"<b>Haunted</b> - Take 1 horror.\"\n<b>Forced</b> - When the round ends: Discard Whispers in the Dark.",
-        "traits": "Omen. Spectral."
+        "flavor": "Silêncio, criança. Vai acabar logo logo.",
+        "name": "Sussurros nas Trevas",
+        "text": "<b>Revelação</b> – Coloque Sussurros nas Trevas em jogo perto do baralho de agendas.\nCada local ganha: \"<b>Assombrado</b> – Sofra 1 de horror.\"\n<b>Forçado</b> – Quando a rodada terminar: Descarte Sussurros nas Trevas.",
+        "traits": "Presságio. Espectral."
     },
     {
         "code": "05103",
-        "name": "Wraith",
-        "text": "Hunter.\n<b>Forced</b> - When Wraith is defeated by damage (except from a [[Spell]] or [[Relic]]): Instead of discarding it, attach it to its location. Attached location gains: \"<b>Haunted</b> - Spawn Wraith at this location.\"",
-        "traits": "Monster. Geist. Spectral."
+        "name": "Aparição",
+        "text": "Caçador.\n<b>Forçado</b> – Quando Aparição for derrotada por dano (exceto de uma <i>Magia</i> ou <i>Relíquia</i>): Em vez de descartar Aparição, anexe-a ao local dela. O local anexado ganha: \"<b>Assombrado</b> – Faça Aparição surgir neste local.\"",
+        "traits": "Monstro. Geist. Espectral."
     },
     {
         "code": "05104",
-        "name": "Trapped Spirits",
-        "text": "<b>Revelation</b> - Test [agility] (3). For each point you fail by, take 1 damage. If your location is haunted, as an additional cost for an investigator to commit 1 or more cards to this skill test, he or she must resolve each haunted ability on this location.",
-        "traits": "Terror. Spectral."
+        "name": "Espíritos Aprisionados",
+        "text": "<b>Revelação</b> - Teste [agility] (3). Para cada ponto que você falhar, sofra 1 de dano. Se o seu local estiver assombrado, como um custo adicional para um investigador comprometer 1 ou mais cartas neste teste de perícia, ele deve resolver cada habilidade assombrado do local.",
+        "traits": "Terror. Espectral."
     },
     {
         "code": "05105",
-        "name": "Realm of Torment",
-        "text": "<b>Revelation</b> - Put Realm of Torment into play in your threat area.\n<b>Forced</b> - When your turn begins: Resolve each haunted ability on your location.\n<b>Forced</b> - When your turn ends: Test [willpower] (3). If you succeed, discard Realm of Torment.",
-        "traits": "Terror. Spectral."
+        "name": "Reino de Tormento",
+        "text": "<b>Revelação</b> - Coloque Reino de Tormento em jogo em sua área de ameaças.\n<b>Forçado</b> - Quando seu turno começar: Resolva cada habilidade assombrado em seu local.\n<b>Forçado</b> - Quando seu turno terminar: Teste [willpower] (3). Se você tiver sucesso, descarte Reino de Tormento.",
+        "traits": "Terror. Espectral."
     },
     {
         "code": "05106",
-        "flavor": "Is that… no, it can't be. Just my imagination. Surely.",
-        "name": "Shapes in the Mist",
-        "text": "Surge.\n<b>Revelation</b> - Resolve each haunted ability on your location.",
-        "traits": "Terror. Spectral."
+        "flavor": "“Isso é... não, não pode ser. Deve ser apenas minha imaginação. Com certeza.”",
+        "name": "Formas nas Brumas",
+        "text": "Ímpeto.\n<b>Revelação</b> – Resolva cada habilidade assombrado em seu local.",
+        "traits": "Terror. Espectral."
     },
     {
         "code": "05107",
-        "name": "Terror in the Night",
-        "text": "<b>Revelation</b> - Test [willpower] (4). If you fail, put Terror in the Night into play next to the agenda deck. If you fail by 3 or more, Terror in the Night gains surge.\nIf there are 3 copies of Terror in the Night next to the agenda deck, discard them and each investigator takes 3 horror.",
-        "traits": "Terror. Spectral."
+        "name": "Terrores na Noite",
+        "text": "<b>Revelação</b> - Teste [willpower] (4). Se você falhar, coloque Terrores na Noite em jogo, perto do baralho de agendas. Se você falhar por 3 ou mais, Terrores na Noite ganha ímpeto.\nSe houver 3 cópias de Terrores na Noite perto do baralho de agendas, descarte-as e cada investigador sofre 3 de horror.",
+        "traits": "Terror. Espectral."
     },
     {
         "code": "05108",
-        "name": "Fate of All Fools",
-        "text": "Peril.\n<b>Revelation</b> - You must decide (choose one):\n- If there is no other copy of Fate of All Fools in play, put Fate of All Fools into play in your threat area.\n- An investigator with another copy of Fate of All Fools in his or her threat area takes 2 direct damage.\n- Place 1 doom on another copy of Fate of All Fools.",
-        "traits": "Omen. Spectral."
+        "name": "O Destino de Todos os Tolos",
+        "text": "Perigo.\n<b>Revelação</b> — Você deve decidir (escolha um):\n[reaction] Se não houver outra cópia de O Destino de Todos os Tolos em jogo, coloque O Destino de Todos os Tolos em jogo em sua área de ameaças.\n[reaction] Um investigador com outra cópia de O Destino de Todos os Tolos na área de ameaças dele sofre 2 de dano direto.\n[reaction] Coloque 1 perdição sobre outra cópia de O Destino de Todos os Tolos.",
+        "traits": "Presságio. Espectral."
     }
 ]
