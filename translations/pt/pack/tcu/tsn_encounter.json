@@ -1,250 +1,261 @@
 [
     {
         "code": "05120",
-        "name": "The Secret Name",
-        "text": "Easy / Standard\n[skull]: -1 (-3 instead if you are at an [[Extradimensional]] location).\n[cultist]: Reveal another chaos token. If you fail, discard the top 3 cards of the encounter deck.\n[tablet]: -2. If you fail and Nahab is at your location, she attacks you.\n[elder_thing]: -3. If you fail, resolve the hunter keyword on each enemy in play.",
-        "back_text": "Hard / Expert\n[skull]: -2 (-4 instead if you are at an [[Extradimensional]] location).\n[cultist]: Reveal another chaos token. If you fail, discard the top 5 cards of the encounter deck.\n[tablet]: -3. If you fail and Nahab is in play, she attacks you <i>(regardless of her current location)</i>.\n[elder_thing]: -4. Resolve the hunter keyword on each enemy in play."
+        "name": "O Nome Secreto",
+        "text": "FÁCIL / MÉDIO\n[skull]: -1 (-3, em vez disso, se você estiver em um local <i>Extradimensional</i>).\n[cultist]: Revele outra ficha de caos. Se você falhar, descarte as 3 cartas do topo do baralho de encontros.\n[tablet]: -2. Se você falhar e Nahab estiver em seu local, ela ataca você.\n[elder_thing]: -3. Se você falhar, resolva a palavra-chave caçador de cada inimigo em jogo.",
+        "back_text": "DIFÍCIL / EXPERIENTE\n[skull]: -2 (-4, em vez disso, se você estiver em um local <i>Extradimensional</i>).\n[cultist]: Revele outra ficha de caos. Se você falhar, descarte as 5 cartas do topo do baralho de encontros.\n[tablet]: -3. Se você falhar e Nahab estiver em jogo, ela ataca você <i>(independentemente do local em que ela esteja)</i>.\n[elder_thing]: -4. Resolva a palavra-chave caçador de cada inimigo em jogo."
     },
     {
         "code": "05121",
-        "flavor": "LOOK FOR ANSWERS WITHIN AND NOT WITHOUT.\nMANY PATHS LEAD TO THE SAME ANSWER.\nCONTEMPLATE THE GREATER TRUTH.",
-        "name": "THE HERMIT • IX",
-        "text": "Each non-weakness enemy gets +1 health.\n[reaction] After you defeat Brown Jenkin or Nahab: Gain 1 clue from the token bank (2 clues instead if there are 3 or more investigators in the game).",
-        "back_name": "Rats in the Walls",
-        "back_flavor": "As you explore the old, dilapidated house, the telltale scratching and scurrying in the walls become louder and more frequent. Every now and again a fanged, furry creature darts across the wooden floor, scampering in and out of ratholes in the walls. You wonder if this house is more rat than wood.",
-        "back_text": "If Brown Jenkin is in play, search the encounter deck and discard pile for a Swarm of Rats and spawn it in Brown Jenkin's location. If Brown Jenkin is not in play, search the encounter deck and discard pile for him and spawn it in the lead investigator's location.\nAdditionally, if there are 3 or 4 investigators in the game, search the encounter deck and discard pile for a Swarm of Rats and spawn it in any [[Witch House]] location."
+        "flavor": "PROCURE RESPOSTAS DENTRO, E NÃO FORA. MUITOS CAMINHOS LEVAM ATÉ A MESMA RESPOSTA. CONTEMPLE A GRANDE VERDADE.",
+        "name": "O EREMITA • IX",
+        "text": "Cada inimigo não fraqueza recebe +1 de vida.\n[reaction] Após você derrotar Brown Jenkin ou Nahab: Ganhe 1 pista da reserva de fichas (2 pistas, em vez disso, se houver 3 ou mais investigadores no jogo).",
+        "back_name": "Ratos nas Paredes",
+        "back_flavor": "Conforme você explora a velha casa decadente, o ruído de animais pequenos correndo e arranhando dentro das paredes se torna mais alto e mais frequente. De vez em quando, uma criatura peluda com presas dispara pelo chão de madeira, saindo e entrando de buracos nas paredes. Você se pergunta se nesta casa não haveria mais ratos do que madeira.",
+        "back_text": "Se Brown Jenkin estiver em jogo, procure no baralho e na pilha de descarte de encontros um Enxame de Ratos e faça-o surgir no local de Brown Jenkin. Se Brown Jenkin não estiver em jogo, procure-o no baralho e na pilha de descarte de encontros e faça-o surgir no local do investigador líder.\nAdicionalmente, se houve 3 ou 4 investigadores no jogo, procure no baralho e na pilha de descarte de encontros um Enxame de Ratos e faça-o surgir em qualquer local Casa da Bruxa."
     },
     {
         "code": "05122",
-        "flavor": "…the descriptions of the darting little furry object which served as her familiar were so painfully realistic despite their incredible details. - H. P. Lovecraft, <u>The Dreams in the Witch House</u>",
-        "name": "The Familiar",
-        "text": "Each non-weakness enemy gets +2 health.\n[reaction] After you defeat Brown Jenkin or Nahab: Gain 1 clue from the token bank (2 clues instead if there are 3 or more investigators in the game).",
-        "back_name": "The Crone",
-        "back_flavor": "A dizzying violet light emerges from the crevices of the ramshackle house, behind cracks in the wooden paneling and underneath the floor, bathing you from every angle. An inhuman squeal mocks you as a figure emerges from the witch light. Only a hint of humanity remains in her crooked and broken form. The crone cackles with a nightmarish timbre, her voice echoing and resounding from the realm beyond.",
-        "back_text": "- If it is act 1, spawn the set-aside Nahab in Walter Gilman's Room.\n- If it is act 2, spawn the set-aside Nahab in Keziah's Room.\n- If it is act 3, place 1 doom on Nahab.\nShuffle both set-aside copies of Ghostly Presence into the encounter deck.\nFind Brown Jenkin (even if he is out of play) and place him in Nahab's current location."
+        "flavor": "… as descrições da pequena criatura peluda que lhe servia de familiar eram tão dolorosamente realistas, apesar de seus detalhes impossíveis. – H. P. Lovecraft, <i>Os Sonhos na Casa da Bruxa</i>",
+        "name": "O Familiar",
+        "text": "Cada inimigo não fraqueza recebe +2 de vida.\n[reaction] Após você derrotar Brown Jenkin ou Nahab: Ganhe 1 pista da reserva de fichas (2 pistas, em vez disso, se houver 3 ou mais investigadores no jogo).",
+        "back_name": "A Velha",
+        "back_flavor": "Uma luz violeta atordoante emana das fissuras da casa arruinada, por trás das rachaduras nas tábuas de madeira das paredes e embaixo do chão, banhando você de todos os ângulos. Um guincho inumano zomba de você conforme uma figura emerge da luz de bruxa. Apenas um indício de humanidade permanece na silhueta torta e decadente dela. A velha gargalha em um tom saído de pesadelos, com a voz ecoando e ressoando do reino além.",
+        "back_text": "- Se for o ato 1, faça surgir o inimigo Nahab previamente separado no Quarto de Walter Gilman.\n- Se for o ato 2, faça surgir o inimigo Nahab previamente separado no Quarto de Keziah.\n- Se for o ato 3, coloque 1 perdição sobre Nahab.\nEmbaralhe ambas as cópias de Presença Fantasmagórica previamente separadas no baralho de encontros.\nEncontre Brown Jenkin (mesmo que ele esteja fora de jogo) e coloque-o no local de Nahab."
     },
     {
         "code": "05123",
-        "flavor": "In the dazzling violet light of dream the old woman and the fanged, furry thing came again and with a greater distinctness than on any former occasion. This time they actually reached him, and he felt the crone’s withered claws clutching at him. -H.P. Lovecraft, <u>The Dreams in the Witch House</u>",
-        "name": "The Witch Light",
-        "text": "Each non-weakness enemy gets +3 health.\n[reaction] After you defeat Brown Jenkin or Nahab: Gain 1 clue from the token bank (2 clues instead if there are 3 or more investigators in the game).",
-        "back_name": "An Awakening",
-        "back_flavor": "A sudden flash of violet light causes you to reel backwards. The spectral form of the crone is broken and shattered, but as you fall you can see a sinister grin play across her misshapen face. A jolt of pain surges through you as your head strikes the surface of the wall, and the witch's terrible grin is the last thing you see before everything goes black.\nWhen you awaken, the witch light is gone, but a vision is burned in your mind - the ancient crone, bent over a slanted floor, leering gleefully at a rotting book, a misshapen knife in her crooked fingers. Behind her, the twilight abyss extends into oblivion, and a gaping maw begins to close.",
-        "back_text": "- If it is act 1 or 2, set Nahab aside, out of play, and place 4 doom on agenda 4a as it enters play.\n- If it is act 3, place 1 doom on Nahab."
+        "flavor": "Na atordoante luz violeta do sonho, a velha e a coisa peluda com presas surgiram novamente, e de uma forma bem diferente de qualquer outra ocasião. Desta vez, eles conseguiram alcançá-lo, e ele sentiu as garras ressequidas da bruxa o agarrarem.\n- H. P. Lovecraft, Os Sonhos na Casa da Bruxa",
+        "name": "A Luz de Bruxa",
+        "text": "Cada inimigo não fraqueza recebe +3 de vida.\n[reaction] Após você derrotar Brown Jenkin ou Nahab: Gain 1 pista da reserva de fichas (2 pistas, em vez disso, se houver 3 ou mais investigadores no jogo).",
+        "back_name": "Um Despertar",
+        "back_flavor": "Um súbito clarão de luz violeta faz você cambalear para trás. A forma espectral da velha está quebrada e estilhaçada, mas, enquanto cai, você consegue ver um sorriso sinistro se formar no rosto deformado dela. Uma onda de dor corre por seu corpo quando você bate a cabeça na parede, e o terrível sorriso da bruxa é a última coisa que você vê antes de tudo escurecer.\nQuando você acorda, a luz de bruxa se foi, mas uma visão foi marcada a ferro em sua mente — a velha bruxa, curvada sobre o chão, olhando maliciosamente para um livro apodrecido, segurando uma faca deformada com seus dedos tortos. Atrás dela, o abismo crepuscular se estende até o oblívio, e uma bocarra começa a se fechar.",
+        "back_text": "- Se for o ato 1 ou 2, separe Nahab, fora de jogo, e coloque 4 perdições sobre a agenda 4a, conforme ela entrar em jogo.\n- Se for o ato 3, coloque 1 perdição sobre Nahab."
     },
     {
         "code": "05124",
-        "flavor": "Either this house is truly haunted, or its strange angles and eerie light are playing tricks on your curse-addled mind. Are these ghostly visions real? Or echoes of the house’s gruesome past?",
-        "name": "Marked for Sacrifice",
-        "text": "Each non-weakness enemy gets +4 health.\n[reaction] After you defeat Brown Jenkin or Nahab: Gain 1 clue (2 clues instead if there are 3 or more investigators in the game).",
-        "back_name": "A Dream in the Witch House",
+        "flavor": "Ou esta casa é realmente assombrada, ou seus ângulos estranhos e luz sinistra estão pregando peças em sua mente amaldiçoada. Seriam essas visões fantasmagóricas reais? Ou são apenas ecos do passado terrível da casa?",
+        "name": "Marcado para o Sacrifício",
+        "text": "Cada inimigo não fraqueza recebe +4 de vida.\n[reaction] Após você derrotar Brown Jenkin ou Nahab: Gain 1 pista (da reserva de fichas) (2 pistas, em vez disso, se houver 3 ou mais investigadores no jogo).",
+        "back_name": "Um Sonho na Casa da Bruxa",
         "back_flavor": "Flashes of vision spark your memory as you are dragged along the dirty wooden floor. A foul ceremony - the house - Nahab - a rhythmic chant - the spiraling black vortex - a dark revelry - the Primal Chaos - a child's cries - a writhing tunnel inside your chest.",
-        "back_text": "<b>(→R1)</b>"
+        "back_text": "Visões lampejam na sua memória conforme você é arrastado pelo chão sujo de madeira. Uma cerimônia nefasta — a casa — Nahab — um cântico rítmico — um vórtice negro espiralando — uma folia das trevas — o Caos Primordial — o choro de uma criança — um túnel espasmódico dentro do seu peito.\n<b>(→R1)</b>"
     },
     {
         "code": "05125",
-        "flavor": "When you arrive at the old Witch House, you find it in a sorrier state than you imagined. Surrounded by a crooked picket fence, the house looks as though it may fall apart at any minute. The front door is locked, but you are able to easily enter through one of the windows after pulling apart the rotting wooden boards covering the shattered glass.",
-        "name": "Investigating the Witch House",
-        "text": "<b>Objective</b> - If each undefeated investigator is in Walter Gilman's Room, investigators may spend the requisite number of clues, as a group, to advance.",
-        "back_name": "Specter of the Past",
-        "back_flavor": "Standing in a dead man's room is disconcerting enough, but what you find within is enough to make you want to leave and never return. Walter Gilman's journal is filled with descriptions of his dreams and visions, each more terrifying and perplexing than the last. He mentions seeing the figure of Keziah Mason on more than one occasion, and at one point calls her by another name: \"Nahab.\" As soon as you read the name aloud, the nearby window shatters, and an all-too-familiar spectral mist invades the cramped space. When it recedes, everything about the room has changed. A work desk and an aged bookshelf occupy the far corner of Gilman's room, where his bed should be. The door you entered from is gone. Strange geometrical markings, drawn with a sticky red substance, cover the walls.",
-        "back_text": "Swap Walter Gilman's Room with the set-aside Keziah's Room, taking its place <i>(all tokens and cards at the former location are now at the new location).</i> Remove each other location in play from the game.\nChoose an investigator to take control of the set-aside The Black Book asset. Shuffle both set-aside copies of Strange Geometry into the encounter deck."
+        "flavor": "Ao chegar à velha Casa da Bruxa, você descobre que ela está em um estado mais lamentável do que imaginara. Cercada por uma cerca de estacas torta, parece que a casa pode desmoronar a qualquer instante. A porta da frente está trancada, mas você consegue entrar facilmente por uma das janelas após puxar as tábuas de madeira apodrecidas que cobrem o vidro quebrado.",
+        "name": "Investigando a Casa da Bruxa",
+        "text": "<b>Objetivo</b> - Se cada investigador não derrotado estiver no Quarto de Walter Gilman, os investigadores podem gastar o número necessário de pistas, em grupo, para avançar.",
+        "back_name": "Espectro do Passado",
+        "back_flavor": "Estar no quarto de um morto já é desconcertante demais, mas o que você encontra dentro dele é o bastante para fazer você querer sair e nunca mais voltar. O diário de Walter Gilman está repleto de descrições de seus sonhos e visões, cada um mais terrível e escabroso que o anterior. Ele menciona ter visto a figura de Keziah Mason em mais de uma ocasião, e em certo ponto a chamou por outro nome: \"Nahab.\" Assim que você lê o nome em voz alta, uma janela próxima se estilhaça, e aquelas tão familiares brumas espectrais começam a invadir o espaço apertado. Quando elas recuam, tudo no quarto foi alterado. Uma escrivaninha e uma velha estante de livros ocupam o lado oposto do quarto de Gilman, onde a cama dele deveria estar. A porta por onde você entrou desapareceu. Estranhas marcações geométricas, desenhadas com uma substância vermelha grudenta, cobrem as paredes.",
+        "back_text": "Troque o Quarto de Walter Gilman pelo local Quarto de Keziah previamente separado (todas as fichas e cartas do local anterior estão agora no novo local). Remove do jogo cada outro local em jogo.\nEscolha um investigador para assumir o controle do ativo O Livro Negro previamente separado. Embaralhe ambas as cópias previamente separadas de Geometria Estranha no baralho de encontros."
     },
     {
         "code": "05126",
-        "flavor": "Among the books in this strange room is a black, nameless tome inscribed with dried red blood. It matches a description from Walter Gilman’s journal of a tome he names \"The Black Book.\" This room must be the haunt of Keziah Mason, from over 200 years ago. It is rumored that Keziah had discovered deep mathematical truths that allowed her to traverse space and time. Perhaps you can find a way out using this knowledge.",
-        "name": "Beyond the Witch House",
-        "text": "<b>Objective</b> - Only investigators in the Witch House Ruins may spend the requisite number of clues, as a group, to advance.",
-        "back_name": "A Profane Ritual",
-        "back_flavor": "Searching through the ruins, you find a rotting hole in the slanted ceiling, leading to a closed-off attic. Amidst the debris are crushed and splintered bones, some human and some... not. More of Keziah's awful tomes are scattered about, filled with pages of dark rituals and black spellcraft. On the floor, a circle has been carved - or perhaps gnawed - into the wood. At the center lies a spatter of dried blood and a jagged knife. What terrible rituals were performed in this profane space? Perhaps there is a way you can know for sure. You take the knife and prick your hand deep enough for blood to well in your palm. Using Keziah's formulae, you draw a pattern in the circle, and carve a path through time...",
-        "back_text": "Put the set-aside Site of the Sacrifice location into play.\n- If it is agenda 1, 2, or 3, find Nahab (even if she is out of play), place 2 doom on her, and place her at the Site of the Sacrifice.\n- If it is agenda 4, find Nahab (even if she is out of play) and place her at the Site of the Sacrifice. Move each doom from agenda 4a to Nahab.\nFind Brown Jenkin (even if he is out of play) and place him in Nahab's current location."
+        "flavor": "Entre os livros deste estranho quarto há um tomo negro e sem nome, inscrito com sangue seco. Ele corresponde ao que Walter Gilman descreveu em seu diário como \"O Livro Negro\". Este quarto deve ser o refúgio de Keziah Mason, de mais de 200 anos atrás. Há rumores de que Keziah descobriu profundas verdades matemáticas que lhe permitiram atravessar o espaço-tempo. Talvez você consiga achar uma saída usando esse conhecimento.",
+        "name": "Além da Casa da Bruxa",
+        "text": "<b>Objetivo</b> - Apenas os investigadores nas Ruínas da Casa da Bruxa podem gastar o número necessário de pistas, em grupo, para avançar.",
+        "back_name": "Um Ritual Profano",
+        "back_flavor": "Vasculhando pelas ruínas, você encontra um buraco apodrecido no teto, que leva para um sótão fechado. Em meio aos escombros há ossos quebrados e esmagados, alguns humanos e outros... não. Mais dos terríveis tomos de Keziah estão espalhados, com inúmeras páginas de rituais e feitiçaria sombria. No chão, um círculo foi entalhado — ou talvez roído — na madeira. No centro dele há uma mancha de sangue seco e uma faca dentada. Que terríveis rituais teriam sido realizados neste profane espaço? Talvez haja uma maneira de saber com certeza. Você pega a faca e fura sua mão fundo o bastante para o sangue fluir por sua palma. Usando a fórmula de Keziah, você desenha um padrão no círculo, entalhando um caminho através do tempo...",
+        "back_text": "Coloque em jogo a carta Local do Sacrifício previamente separada.\n- Se for a agenda 1, 2 ou 3, encontre Nahab (mesmo que ela esteja fora de jogo), coloque 2 perdições sobre ela e coloque-a no Local do Sacrifício.\n- Se for a agenda 4, encontre Nahab (mesmo que ela esteja fora de jogo) e coloque-a no Local do Sacrifício. Mova cada perdição da agenda 4a para Nahab.\nEncontre Brown Jenkin (mesmo que ele esteja fora de jogo) e coloque-o no local de Nahab."
     },
     {
         "code": "05127",
-        "flavor": "You part the seams of space-time and arrive at your destination. It is the same cramped attic, but in a different time. The room is dark save for a violet glow emanating from the far edge, where the floor falls into oblivion. From out of the abyss, the ancient crone and her familiar emerge...",
-        "name": "Stopping the Ritual",
-        "text": "Nahab cannot leave the Site of the Sacrifice.\n<b>Forced</b> - When Nahab is defeated: Instead of discarding her, heal all damage from her, disengage her from all investigators, and exhaust her. She does not ready during the upkeep phase this round.\n<b>Objective</b> - If there is no doom on Nahab, advance.",
-        "back_name": "Ritual Averted",
-        "back_flavor": "The ancient crone lets out a banshee's wail as you dismantle her unholy ritual. The room unfurls through space-time, the cramped, slanted walls unfolding to reveal the oblivion beyond. The creature who was once Keziah Mason croaks a loathsome curse as her shapeless form is pulled into the void. Bit by bit, the wood-paneled flooring below your feet breaks apart. Then you are ripped - the pull from the stars - a muddy alleyway - the flute in the woods - the roaring abyss - the gaze of the watcher - The Tower - a green hillside - the black vortex - the screams of the accused - the piper - three arrows - a sacrifice - a ringing bell - an ascension - and you emerge from the anomaly, crashing painfully onto the floor.",
+        "flavor": "Você abre a costura do espaço-tempo e chega ao seu destino. É o mesmo sótão apertado, mas em uma época diferente. O recinto está escuro, exceto por um brilho violeta emanando do outro lado, onde o chão desaparece no oblívio. Saindo do abismo, a velha bruxa e seu familiar emergem...",
+        "name": "Impedindo o Ritual",
+        "text": "Nahab não pode deixar o Local do Sacrifício.\n<b>Forçado</b> - Quando Nahab for derrotada: Em vez de descartá-la, cure todo o dano dela, desengaje-a de todos os investigadores e esgote-a. Ela não é preparada durante a fase de manutenção nesta rodada.\n<b>Objetivo</b> - Se não houver perdições sobre Nahab, avance.",
+        "back_name": "Ritual Evitado",
+        "back_flavor": "A velha bruxa grita como uma banshee enquanto você desfaz o ritual profano dela. O quarto se desdobra pelo espaço-tempo, as paredes estreitas e inclinadas se abrem para revelar o oblívio além. A criatura que antes fora Keziah Mason crocita uma maldição macabra conforme a silhueta amorfa dela é puxada para o vazio. Pedaço a pedaço, o piso de tábuas de madeira abaixo de seus pés começa a se quebrar. Então você é arrastado — a atração das estrelas — um beco lamacento — a flauta na mata — um abismo enorme — o olhar do observador — A Torre — uma encosta verdejante — o vórtice negro — os gritos dos acusados — o flautista — três flechas — um sacrifício — o ressoar de um sino — uma ascensão — e você emerge da anomalia, desabando dolorosamente no chão.",
         "back_text": "<b>(→R2)</b>"
     },
     {
         "code": "05128",
-        "flavor": "Within the aged, decrepit walls of the Witch House, the only signs of life are the rats which scurry in and out of holes in the walls.",
-        "name": "Moldy Halls",
-        "text": "<b>Haunted</b> - Lose 3 resources.",
-        "traits": "Witch House.",
-        "back_flavor": "As you enter the Witch House, you are immediately struck by the musty, stale air. The timber smells of decay and mold. Paper peels off the walls. It is no wonder this house was condemned."
+        "flavor": "Entre as decrépitas e envelhecidas paredes da Casa da Bruxa, o único sinal de vida são os ratos que entram e saem correndo dos buracos nas paredes.",
+        "name": "Corredores Mofados",
+        "text": "<b>Assombrado</b> - Perca 3 recursos.",
+        "traits": "Casa da Bruxa.",
+        "back_flavor": "Ao entrar na Casa da Bruxa, você é imediatamente assolado pelo ar estagnado e bolorento. A madeira fede a mofo e decomposição. O papel de parede está descascando. Não é de se admirar que a casa tenha sido condenada.",
+        "back_traits": "Casa da Bruxa."
     },
     {
         "code": "05129",
-        "name": "Landlord's Quarters",
-        "text": "<b>Forced</b> - After you reveal Landlord's Quarters: Search the encounter deck and discard pile for a Swarm of Rats and spawn it in Moldy Halls. Shuffle the encounter deck.\n<b>Haunted</b> - Search the encounter deck and discard pile for a Swarm of Rats and spawn it in Moldy Halls. Shuffle the encounter deck.",
-        "traits": "Witch House.",
-        "back_name": "Decrepit Door",
-        "back_flavor": "There are no markings or clues which would inform as to who this room once belonged to - only the stench of mold and the sound of rats scampering on the other side."
+        "name": "Aposentos do Senhorio",
+        "text": "<b>Forçado</b> - Após você revelar Aposentos do Senhorio: Procure no baralho e na pilha de descarte de encontros um Enxame de Ratos e faça-o surgir em Corredores Mofados. Embaralhe o baralho de encontros.\n<b>Assombrado</b> - Procure no baralho e na pilha de descarte de encontros um Enxame de Ratos e faça-o surgir em Corredores Mofados. Embaralhe o baralho de encontros.",
+        "traits": "Casa da Bruxa.",
+        "back_name": "Porta Decrépita",
+        "back_flavor": "Não há marcas ou pistas que informem a quem esse quarto possa ter pertencido — apenas o fedor do mofo e o som dos ratos correndo do outro lado.",
+        "back_traits": "Casa da Bruxa."
     },
     {
         "code": "05130",
-        "flavor": "This room is rather plain. Several crucifixes hang on the wall, and a broken loom sits on a table in the corner",
-        "name": "Joe Mazurewicz's Room",
-        "text": "[action]: Search your deck for a [[Blessed]] or [[Item]] asset and add it to your hand. (Group limit once per game.)\n<b>Haunted</b> - You must either take 1 horror, or choose and discard an asset you control.",
-        "traits": "Witch House.",
-        "back_name": "Decrepit Door",
-        "back_flavor": "There are no markings or clues which would inform as to who this room once belonged to - only the stench of mold and the sound of rats scampering on the other side."
+        "flavor": "Neste quarto não há muito para ver. Vários crucifixos estão pendurados na parede, e um tear quebrado está sobre uma mesa no canto.",
+        "name": "Quarto de Joe Mazurewicz",
+        "text": "[action]: Procure em seu baralho um ativo <i>Abençoado</i> ou de <i>Item</i> e adicione-o à sua mão. (Limite de grupo de uma vez por jogo).\n<b>Assombrado</b> - Você deve sofrer 1 de horror ou escolher e descartar um ativo que você controla.",
+        "traits": "Casa da Bruxa.",
+        "back_name": "Porta Decrépita",
+        "back_flavor": "Não há marcas ou pistas que informem a quem esse quarto possa ter pertencido — apenas o fedor do mofo e o som dos ratos correndo do outro lado.",
+        "back_traits": "Casa da Bruxa."
     },
     {
         "code": "05131",
-        "flavor": "A desk covered in university papers and books occupies one wall of the cramped room. Perhaps a student once lived here?",
-        "name": "Frank Elwood's room",
-        "text": "<b>Haunted</b> - You must either place 1 of your clues on Frank Elwood's Room, or place 1 doom on the current agenda.",
-        "traits": "Witch House.",
-        "back_name": "Decrepit Door",
-        "back_flavor": "There are no markings or clues which would inform as to who this room once belonged to - only the stench of mold and the sound of rats scampering on the other side."
+        "flavor": "Uma mesa coberta por documentos da universidade e livros ocupa uma parede deste quarto apertado. Talvez algum estudante já tenha morado aqui antes?",
+        "name": "Quarto de Frank Elwood",
+        "text": "<b>Assombrado</b> - Você deve colocar 1 das suas pistas no Quarto de Frank Elwood ou colocar 1 perdição na agenda atual.",
+        "traits": "Casa da Bruxas.",
+        "back_name": "Porta Decrépita",
+        "back_flavor": "Não há marcas ou pistas que informem a quem esse quarto possa ter pertencido — apenas o fedor do mofo e o som dos ratos correndo do outro lado.",
+        "back_traits": "Casa da Bruxa."
     },
     {
         "code": "05132",
-        "flavor": "Gilman's room was of good size but queerly irregular shape; the north wall slanting perceptibly inward from the outer to the inner end, while the low ceiling slanted gently downward in the same direction. - H. P. Lovecraft, <u>The Dreams in the Witch House</u>",
-        "name": "Walter Gilman's Room",
-        "text": "[action]: Draw 3 cards and take 1 horror. (Limit once per game.)\n<b>Haunted</b> - Discard the top 2 cards of the encounter deck.",
-        "traits": "Witch House.",
-        "back_flavor": "For whatever reason, this room was kept locked even after the building was condemned. You wonder where the key might be.",
-        "back_text": "The door to Walter Gilman's room is locked. As an additional cost to enter Walter Gilman's room, investigators in the Moldy Halls must spend 1 [per_investigator] clues, as a group."
+        "flavor": "O quarto de Gilman tinha um bom tamanho, mas um formato estranhamente irregular; a parede norte se inclinava perceptivelmente para dentro, de uma extremidade para a outra, enquanto o teto baixo descia gentilmente na mesma direção.\n- H. P. Lovecraft, Os Sonhos na Casa da Bruxa",
+        "name": "Quarto de Walter Gilman",
+        "text": "[action]: Compre 3 cartas e sofra 1 de horror. (Limite de uma vez por jogo.)\n<b>Assombrado</b> - Descarte as 2 cartas do topo do baralho de encontros.",
+        "traits": "Casa da Bruxa.",
+        "back_flavor": "Por algum motivo, este quarto foi mantido trancado mesmo depois que a casa foi condenada. Você se pergunta onde a chave pode estar.",
+        "back_text": "A porta para o quarto de Walter Gilman está trancada. Como um custo adicional para entrar no Quarto de Walter Gilman, os investigadores nos Corredores Mofados devem gastar 1 [per_investigator] pistas, em grupo."
     },
     {
         "code": "05133",
-        "name": "Keziah's Room",
-        "text": "[reaction] After you successfully investigate Keziah's Room: Instead of discovering clues, put the top card of the Unknown Places deck into play, unrevealed. Then, you may move to that location.\n<b>Haunted</b> - Discard cards from the top of the encounter deck until a [[Hex]] card is discarded. Draw that card.",
-        "traits": "Spectral. Witch House.",
-        "back_flavor": "Gilman could not have told what he expected to find there, but he knew he wanted to be in the building where some circumstance had more or less suddenly given a mediocre old woman of the seventeenth century an insight into mathematical depths perhaps beyond the utmost modern delvings of Planck, Heisenberg, Einstein, and de Sitter.\n- H. P. Lovecraft, <u>The Dreams in the Witch House</u>"
+        "name": "Quarto de Keziah",
+        "text": "[reaction] Após você investigar com sucesso o Quarto de Keziah: Em vez de descobrir pistas, coloque em jogo a carta do topo do baralho de Lugares Desconhecidos, não revelada. Então, você pode se mover para esse local.\n<b>Assombrado</b> – Descarte cartas do topo do baralho de encontros até que uma carta de <i>Sortilégio</i> seja descartada. Compre essa carta.",
+        "traits": "Espectral. Casa da Bruxa.",
+        "back_flavor": "Gilman não conseguiria dizer o que esperava encontrar lá, mas ele sabia que queria estar dentro da casa onde alguma circunstância desconhecida havia mais ou menos trazido subitamente a uma mulher medíocre do século dezessete um lampejo sobre as profundezas matemáticas, talvez até mesmo além das explorações mais modernas de Planck, Heisenberg, Einstein e de Sitter.\n– H. P. Lovecraft, Os Sonhos na Casa da Bruxa",
+        "back_traits": "Espectral. Casa da Bruxa."
     },
     {
         "code": "05134",
-        "name": "Moldy Halls",
-        "subname": "Earlier Tonight",
-        "text": "[action]: You request aid from your past self. Each investigator at this location may return 1 card from his or her discard pile to his or her hand. Each investigator who does so remembers that he or she \"meddled with the past.\" (Group limit once per game.)",
-        "traits": "Extradimensional. Witch House.",
-        "back_name": "Unknown Places",
-        "back_flavor": "It was also possible that the inhabitants of a given dimensional realm could survive entry to many unknown and incomprehensible realms of additional or indefinitely multiplied dimensions - be they within or outside the given space-time continuum - and that the converse would be likewise true.\n- H. P. Lovecraft, <u>The Dreams in the Witch House</u>"
+        "name": "Corredores Mofados",
+        "subname": "Mais Cedo Nesta Noite",
+        "text": "[action]: Você pede ajuda ao seu eu passado. Cada investigador neste local pode devolver 1 carta da própria pilha de descarte para a própria mão. Cada investigador que fizer isso se lembra que ele \"se intrometeu com o passado.\" (Limite de grupo de uma vez por jogo).",
+        "traits": "Extradimensional. Casa da Bruxa.",
+        "back_name": "Lugares Desconhecidos",
+        "back_flavor": "Também era possível que os habitantes de determinado reino dimensional pudessem sobreviver à entrada em muitos reinos desconhecidos e incompreensíveis de dimensões adicionais ou multiplicadas indefinidamente — estejam elas dentro ou fora do contínuo espaço-tempo —, e que o oposto seria igualmente verdadeiro.\n— H. P. Lovecraft, <u>Os Sonhos na Casa da Bruxa</u>",
+        "back_traits": "Extradimensional."
     },
     {
         "code": "05135",
-        "flavor": "These organic entities whose motions seemed least flagrantly irrelevant and unmotivated were probably projections of life-forms from our own planet, including human beings.\n- H. P. Lovecraft, <u>The Dreams in the Witch House</u>",
-        "name": "Twilight Abyss",
-        "text": "<b>Forced</b> - After you enter Twilight Abyss, test [combat] or [agility] (3). For each point you fail by, take 1 damage.",
-        "traits": "Extradimensional. Otherworld.",
-        "back_name": "Unknown Places",
-        "back_flavor": "It was also possible that the inhabitants of a given dimensional realm could survive entry to many unknown and incomprehensible realms of additional or indefinitely multiplied dimensions - be they within or outside the given space-time continuum - and that the converse would be likewise true.\n- H. P. Lovecraft, <u>The Dreams in the Witch House</u>"
+        "flavor": "Aquelas entidades orgânicas cujos movimentos pareciam menos flagrantemente irrelevantes e desmotivados eram provavelmente projeções de formas de vida do nosso próprio planeta, incluindo seres humanos.\n- H. P. Lovecraft, Os Sonhos na Casa da Bruxa",
+        "name": "Abismo Crepuscular",
+        "text": "<b>Forçado</b> - Após você entrar no Abismo Crepuscular, teste [combat] ou [agility] (3). Para cada ponto que você falhar, sofra 1 de dano.",
+        "traits": "Extradimensional. Outro Mundo.",
+        "back_name": "Lugares Desconhecidos",
+        "back_flavor": "Também era possível que os habitantes de determinado reino dimensional pudessem sobreviver à entrada em muitos reinos desconhecidos e incompreensíveis de dimensões adicionais ou multiplicadas indefinidamente — estejam elas dentro ou fora do contínuo espaço-tempo —, e que o oposto seria igualmente verdadeiro.\n- H. P. Lovecraft, Os Sonhos na Casa da Bruxa",
+        "back_traits": "Extradimensional."
     },
     {
         "code": "05136",
-        "name": "City of Elder Things",
-        "text": "[reaction] After you reveal City of Elder Things, take 2 horror: Put the top card of the Unknown Places deck into play, unrevealed. For the remainder of the scenario, City of Elder Things is considered to be connected to that location, and vice versa.",
-        "traits": "Extradimensional. Otherworld.",
+        "name": "Cidade dos Seres Ancestrais",
+        "text": "[reaction] Após você revelar Cidade dos Seres Ancestrais, sofra 2 de horror: Coloque em jogo a carta do topo do baralho de Lugares Desconhecidos, não revelada. Pelo restante do cenário, considera-se que Cidade dos Seres Ancestrais está conectada a esse local, e vice-versa.",
+        "traits": "Extradimensional. Outro Mundo.",
         "back_name": "Unknown Places",
         "back_flavor": "It was also possible that the inhabitants of a given dimensional realm could survive entry to many unknown and incomprehensible realms of additional or indefinitely multiplied dimensions - be they within or outside the given space-time continuum - and that the converse would be likewise true.\n- H. P. Lovecraft, <u>The Dreams in the Witch House</u>"
     },
     {
         "code": "05137",
-        "flavor": "These appear to be the ruins of the Witch House, perhaps a vision of the building's future. It is a whirlwind of crumbling bricks, blackened, moss-grown shingles, and rotting planks and timbers.",
-        "name": "Witch House Ruins",
-        "text": "[action]: <b>Investigate.</b> If you succeed, instead of discovering clues, heal 2 horror. (Limit once per game.)\n<b>Haunted</b> - Lose 1 action.",
-        "traits": "Extradimensional. Witch House.",
+        "flavor": "Parecem ser as ruins da Casa da Bruxa, talvez uma visão da residência no futuro. É um turbilhão de tijolos desmoronados, com telhas escurecidas e cheias de limo, misturadas com tábuas e madeira apodrecida.",
+        "name": "Ruínas da Casa da Bruxa",
+        "text": "[action]: <b>Investigue.</b> Se você tiver sucesso, em vez de descobrir pistas, cure 2 de horror. (Limite de uma vez por jogo.)\n<b>Assombrado</b> - Perca 1 ação.",
+        "traits": "Extradimensional. Casa da Bruxa.",
         "back_name": "Unknown Places",
         "back_flavor": "It was also possible that the inhabitants of a given dimensional realm could survive entry to many unknown and incomprehensible realms of additional or indefinitely multiplied dimensions - be they within or outside the given space-time continuum - and that the converse would be likewise true.\n- H. P. Lovecraft, <u>The Dreams in the Witch House</u>"
     },
     {
         "code": "05138",
-        "flavor": "…not even Cotton Mather could explain the curves and angles smeared on the grey stone walls with some red, sticky fluid.\n- H. P. Lovecraft, <u>The Dreams in the Witch House</u>",
-        "name": "Salem Gaol, 1692",
-        "text": "[action]: Test [intellect] (3). If you succeed, move to any revealed location. (Limit once per game.)\n<b>Haunted</b>- Move to Keziah's Room.",
+        "flavor": "...nem mesmo Cotton Mather poderia explicar as curvas e ângulos espalhados por aquelas paredes de pedra cinza manchadas com um fluido vermelho e grudento. - H. P. Lovecraft, Os Sonhos na Casa da Bruxa",
+        "name": "Calabouço de Salém, 1692",
+        "text": "[action]: Teste [intellect] (3). Se você tiver sucesso, mova-se para qualquer local revelado. (Limite de uma vez por jogo.)\n<b>Assombrado</b> - Mova-se para o Quarto de Keziah.",
         "traits": "Extradimensional. Salem.",
-        "back_name": "Unknown Places",
-        "back_flavor": "It was also possible that the inhabitants of a given dimensional realm could survive entry to many unknown and incomprehensible realms of additional or indefinitely multiplied dimensions - be they within or outside the given space-time continuum - and that the converse would be likewise true.\n- H. P. Lovecraft, <u>The Dreams in the Witch House</u>"
+        "back_name": "Lugares Desconhecidos",
+        "back_flavor": "Também era possível que os habitantes de determinado reino dimensional pudessem sobreviver à entrada em muitos reinos desconhecidos e incompreensíveis de dimensões adicionais ou multiplicadas indefinidamente — estejam elas dentro ou fora do contínuo espaço-tempo —, e que o oposto seria igualmente verdadeiro.\n- H. P. Lovecraft, Os Sonhos na Casa da Bruxa",
+        "back_traits": "Extradimensional."
     },
     {
         "code": "05139",
-        "flavor": "A place of higher learning?\nOr a place where higher learning is shackled?",
-        "name": "Physics Classroom",
-        "text": "[reaction] After you successfully investigate Physics Classroom by 2 or more: Discover a clue at another revealed location. (Limit once per round.)",
+        "flavor": "Um lugar de ensino superior?\nOu um lugar onde o ensino superior é aprisionado?",
+        "name": "Classe de Física",
+        "text": "[reaction] Após você investigar com sucesso a Classe de Física por 2 ou mais: Descubra uma pista em outro local revelado. (Limite de uma vez por rodada.)",
         "traits": "Extradimensional. Miskatonic.",
-        "back_name": "Unknown Places",
-        "back_flavor": "It was also possible that the inhabitants of a given dimensional realm could survive entry to many unknown and incomprehensible realms of additional or indefinitely multiplied dimensions - be they within or outside the given space-time continuum - and that the converse would be likewise true.\n- H. P. Lovecraft, <u>The Dreams in the Witch House</u>"
+        "back_name": "Lugares Desconhecidos",
+        "back_flavor": "Também era possível que os habitantes de determinado reino dimensional pudessem sobreviver à entrada em muitos reinos desconhecidos e incompreensíveis de dimensões adicionais ou multiplicadas indefinidamente — estejam elas dentro ou fora do contínuo espaço-tempo —, e que o oposto seria igualmente verdadeiro.\n- H. P. Lovecraft, Os Sonhos na Casa da Bruxa",
+        "back_traits": "Extradimensional."
     },
     {
         "code": "05140",
-        "name": "Court of the Great Old Ones",
-        "subname": "A Not-Too-Distant Future",
-        "text": "<b>Forced</b> - After you enter Court of the Great Old Ones, test [willpower] (3). For each point you fail by, take 1 horror.\n<b>Haunted</b> - The next action you perform this round must be an investigate action.",
-        "traits": "Extradimensional. Otherworld.",
-        "back_name": "Unknown Places",
-        "back_flavor": "It was also possible that the inhabitants of a given dimensional realm could survive entry to many unknown and incomprehensible realms of additional or indefinitely multiplied dimensions - be they within or outside the given space-time continuum - and that the converse would be likewise true.\n- H. P. Lovecraft, <u>The Dreams in the Witch House</u>"
+        "name": "Corte dos Grandes Antigos",
+        "subname": "Um Futuro Não Tão Distante",
+        "text": "<b>Forçado</b> - Após você entrar na Corte dos Grandes Antigos, teste [willpower] (3). Para cada ponto que você falhar, sofra 1 de horror.\n<b>Assombrado</b> - A próxima ação que você realizar nesta rodada deve ser uma ação de investigar.",
+        "traits": "Extradimensional. Outro Mundo.",
+        "back_name": "Lugares Desconhecidos",
+        "back_flavor": "Também era possível que os habitantes de determinado reino dimensional pudessem sobreviver à entrada em muitos reinos desconhecidos e incompreensíveis de dimensões adicionais ou multiplicadas indefinidamente — estejam elas dentro ou fora do contínuo espaço-tempo —, e que o oposto seria igualmente verdadeiro.\n- H. P. Lovecraft, Os Sonhos na Casa da Bruxa",
+        "back_traits": "Extradimensional."
     },
     {
         "code": "05141",
-        "name": "Site of the Sacrifice",
-        "text": "[action] Investigators at this location spend 1 [per_investigator] clues, as a group: Remove 1 doom from Nahab. This action does not provoke attacks of opportunity from Nahab.\n<b>Forced</b> - At the end of the round: Add clues to this location until it has 3 [per_investigator] clues on it.\n<b>Haunted</b> - You must either place 1 doom on Nahab, or Nahab attacks you.",
-        "traits": "Extradimensional. Witch House.",
-        "back_flavor": "…presently he was in a crude, windowless little space with rough beams and planks rising to a peak just above his head, and with a curious slanting floor underfoot. Propped level on that floor were low cases full of books of every degree of antiquity and disintegration, and in the centre were a table and bench, both apparently fastened in place.\n- H. P. Lovecraft, <u>The Dreams in the Witch House</u>"
+        "name": "Local do Sacrifício",
+        "text": "[action] Os investigadores neste local gastam 1 [per_investigator] pistas, em grupo: Remova 1 perdição de Nahab. Esta ação não provoca ataques de oportunidade de Nahab.\n<b>Forçado</b> - No final da rodada: Adicione pistas a este local até que ele tenha 3 [per_investigator] pistas sobre ele.\n<b>Assombrado</b> - Você deve colocar 1 perdição sobre Nahab, ou Nahab ataca você.",
+        "traits": "Extradimensional. Casa da Bruxa.",
+        "back_flavor": "...ele estava em um espaço rudimentar, apertado e sem janelas, com vigas e tábuas formando um pico logo acima de sua cabeça, e um curioso chão inclinado abaixo de seus pés. Equilibradas nesse chão havia estantes baixas cheias de livros de diferentes níveis de antiguidade e desintegração, e no centro havia uma mesa e um banco, ambos aparentemente presos no lugar.\n- H. P. Lovecraft, Os Sonhos na Casa da Bruxa",
+        "back_traits": "Extradimensional. Casa da Bruxa."
     },
     {
         "code": "05142",
-        "name": "Strange Geometry",
-        "text": "<b>Revelation</b> - Put Strange Geometry into play and move to it.\n<b>Forced</b> - After the investigation phase ends: Discard Strange Geometry and move each investigator and enemy here to the location with the most clues. Each investigator who moved by this effect takes 1 damage and 1 horror.\n[free] If Strange Geometry has no clues on it: Move to any revealed location.",
+        "name": "Geometria Estranha",
+        "text": "<b>Revelação</b> – Coloque Geometria Estranha em jogo e mova-se para ela.\n<b>Forced</b> – Após a fase de investigação terminar: Descarte Geometria Estranha e mova cada investigador e inimigo deste local para o local com mais pistas. Cada investigador que foi movido por este efeito sofre 1 de dano e 1 de horror.\n[fast] Se Geometria Estranha não tiver pistas sobre ela: Mova-se para qualquer local revelado.",
         "traits": "Extradimensional."
     },
     {
         "code": "05143",
-        "name": "Meddlesome Familiar",
-        "text": "<b>Revelation</b> - If Brown Jenkin is not in play, search the encounter deck and discard pile for him, spawn him at your location, and take 1 damage. Otherwise, search the encounter deck and discard pile for a Swarm of Rats, spawn it engaged with you, then take 1 damage.",
-        "traits": "Curse."
+        "name": "Familiar Intrometido",
+        "text": "<b>Revelação</b> – Se Brown Jenkin não estiver em jogo, procure-o no baralho e na pilha de descarte de encontros, faça-o surgir em seu local e sofra 1 de dano. Caso contrário, procure no baralho e na pilha de descarte de encontros um Enxame de Ratos, faça-o surgir engajado com você, então sofra 1 de dano.",
+        "traits": "Maldição."
     },
     {
         "code": "05144",
-        "name": "Ghostly Presence",
-        "text": "<b>Revelation</b> - If Nahab is in play, ready her, resolve her hunter keyword, and she attacks each investigator at her location. If Nahab is at the Site of the Sacrifice, place 1 doom on her, as well. Otherwise, search the encounter deck and discard pile for Nahab and spawn her at your location.",
-        "traits": "Omen."
+        "name": "Presença Fantasmagórica",
+        "text": "<b>Revelação</b> – Se Nahab estiver em jogo, prepare-a, resolva a palavra-chave caçador dela, e ela ataca cada investigador no local dela. Além disso, se Nahab estiver no Local do Sacrifício, coloque 1 perdição sobre ela. Caso contrário, procure Nahab no baralho e na pilha de descarte de encontros e faça-a surgir em seu local.",
+        "traits": "Presságio."
     },
     {
         "code": "05145",
-        "flavor": "On the morning of the 29th Gilman awaked into a maelstrom of horror. - H. P. Lovecraft, <u>The Dreams in the Witch House</u>",
-        "name": "Extradimensional Visions",
-        "text": "<b>Revelation</b> - Test [willpower] (2). This test gets +1 difficulty for every 10 cards in the encounter discard pile. If you fail, discard an asset you control.",
-        "traits": "Hex."
+        "flavor": "Na manhã do dia 29, Gilman acordou em um turbilhão de horror. - H. P. Lovecraft, Os Sonhos na Casa da Bruxa",
+        "name": "Visões Extradimensionais",
+        "text": "<b>Revelação</b> - Teste [willpower] (2). Este teste recebe +1 de dificuldade para cada 10 cartas na pilha de descarte de encontros. Se você falhar, descarte um ativo que você controla.",
+        "traits": "Sortilégio."
     },
     {
         "code": "05146",
-        "name": "Pulled by the Stars",
-        "text": "<b>Revelation</b> - Put Pulled by the Stars into play in your threat area.\n<b>Forced</b> - At the end of your turn, if you did not move at least once during your turn: Take 2 horror.\n[action]: Test [willpower] (3). If you succeed, discard Pulled by the Stars from play. If there is an exhausted [[Witch]] enemy at your location, this test is automatically successful.",
-        "traits": "Hex."
+        "name": "Atraído pelas Estrelas",
+        "text": "<b>Revelação</b> - Coloque Atraído pelas Estrelas em jogo em sua área de ameaças.\n<b>Forçado</b> - No final do seu turno, se você não se moveu pelo menos uma vez durante seu turno: Sofra 2 de horror.\n[action]: Teste [willpower] (3). Se você tiver sucesso, descarte Atraído pelas Estrelas de jogo. Se houver um inimigo <i>Bruxa</i> esgotado em seu local, este teste é automaticamente bem-sucedido.",
+        "traits": "Sortilégio."
     },
     {
         "code": "05147",
-        "name": "Disquieting Dreams",
-        "text": "<b>Revelation</b> - Test [willpower] (5). If you fail, put Disquieting Dreams into play in your threat area.\n<b>Forced</b> - At the end of your turn: Discard the top card of the encounter deck.\n<b>Forced</b> - When the encounter deck runs out of cards: Discard Disquieting Dreams and reveal the top 10 cards of your deck. Draw each weakness revealed and discard each other revealed card.",
+        "name": "Sonhos Inquietantes",
+        "text": "<b>Revelação</b> – Teste [willpower] (5). Se você falhar, coloque Sonhos Inquietantes em jogo em sua área de ameaças.\n<b>Forçado</b> – No final do seu turno: Descarte a carta do topo do baralho de encontros.\n<b>Forçado</b> – Quando o baralho de encontros ficar sem cartas: Descarte Sonhos Inquietantes e revele as 10 cartas do topo do seu baralho. Compre cada fraqueza revelada e descarte cada outra carta revelada.",
         "traits": "Terror."
     },
     {
         "code": "05148",
         "name": "Brown Jenkin",
-        "subname": "The Witch's Familiar",
-        "text": "Aloof. Hunter.\nEach ready [[Creature]] enemy gets +2 fight.\n<b>Forced</b> - When the enemy phase ends, if Brown Jenkin is ready: Each investigator at his location discards his or her hand, then draws that many cards.",
-        "traits": "Creature. Familiar. Elite."
+        "subname": "O Familiar da Bruxa",
+        "text": "Arredio. Caçador.\nCada inimigo <b>Criatura</b> preparado recebe +2 de luta.\n<b>Forçado</b> - Quando a fase dos inimigos terminar, se Brown Jenkin estiver preparado: Cada investigador no local dele descarta a própria mão, então compra essa mesma quantidade de cartas.",
+        "traits": "Criatura. Familiar. Elite."
     },
     {
         "code": "05149",
         "name": "Nahab",
-        "subname": "She Who Signed the Black Book",
-        "text": "Hunter. Retaliate.\nDo not remove doom from Nahab when the agenda advances.\nNahab gets +X fight, where X is the number of the current agenda.\n<b>Forced</b> - After the enemy phase begins, if Nahab is ready: Place 1 doom on her.",
-        "traits": "Monster. Geist. Witch. Elite."
+        "subname": "Aquela Que Assinou o Livro Negro",
+        "text": "Caçador. Retaliação.\nNão remova perdições de Nahab quando a agenda avançar.\nNahab recebe +X de luta, onde X é o número da agenda atual.\n<b>Forced</b> - Após a fase dos inimigos começar, se Nahab estiver preparada: Coloque 1 perdição nela.",
+        "traits": "Monstro. Geist. Bruxa. Elite."
     },
     {
         "code": "05150",
-        "flavor": "He must sign in his own blood the book of Azathoth and take a new secret name... \n- H. P. Lovecraft, <u>The Dreams in the Witch House</u>",
-        "name": "The Black Book",
-        "subname": "Signed in Blood",
-        "text": "You get +1 [willpower] and +1 [intellect].\n[reaction] When you play a card, exhaust The Black Book and take X horror: Reduce that card's cost by X.",
-        "traits": "Item. Tome. Relic.",
+        "flavor": "Ele precisa assinar o livro de Azathoth com seu próprio sangue e assumir um novo nome secreto...\n- H. P. Lovecraft, Os Sonhos na Casa da Bruxa",
+        "name": "O Livro Negro",
+        "subname": "Assinado com Sangue",
+        "text": "Você recebe +1 [willpower] e +1 [intellect].\n[reaction] Quando você jogar uma carta, esgote O Livro Negro e sofra X de horror. Reduza o custo dessa carta em X.",
+        "traits": "Item. Tomo. Relíquia.",
         "slot": "Hand"
     }
 ]
