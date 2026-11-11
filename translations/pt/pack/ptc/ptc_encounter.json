@@ -253,7 +253,7 @@
         "flavor": "O debate acalorado de Sabastien com outro convidado começa a ficar feio.\nO temperamento dele transforma não só seu comportamento, mas também o seu corpo. Pelos grossos brotam de sua pele, bem como calombos bulbosos que minam sangue e pus. O terno dele vai se rasgando conforme seu corpo se distorce, ossos estalam e músculos incham. Agora ele é tanto fera quanto homem.",
         "name": "Realidade Doentia",
         "text": "Cada investigador no local de Sebastien Moreau sofre 1 de horror.\nMova as pistas sobre Sebastien Moreau para o local dele.\nVire esta carta para seu lado de inimigo e coloque-a no lugar da versão de ativo de <i>Espectador</i> de Sebastien Moreau, removendo aquela versão do jogo.",
-        "traits": "HISTÓRIA"
+        "traits": "História"
     },
     {
         "code": "03068b",
@@ -334,7 +334,7 @@
         "flavor": "Não demora muito para a amigável anfitriã se abrir para você sobre a peça. \"Ah sim, meu marido e eu ajudamos Sebastien a produzir o espetáculo,\" explica ela. \"De início, eu estava um pouco receosa, mas aquele diretor, o Sr. Nigel Engram, nossa, ele é um homem talentoso!\" Ela ri. \"Ele é tão excêntrico! Sabia que antes mesmo dos ensaios começarem ele fez a gente recitar uma espécie de... Bem, acho que era algum tipo de juramento. Uma formalidade, suponho. Sabe como são esses artistas, cheios de rituais bobos. Mas depois disso, ficamos tão empolgados!\" Ela sorri, com zelo em seus olhos. \"Daquele momento em diante, não hesitamos sequer uma vez. O Rei de Amarelo seria a performance mais bem-sucedida na história de Arkham, tínhamos certeza disso!\"",
         "name": "O Juramento de Engram",
         "text": "Lembre-se de que vocês \"entrevistaram Constance.\"\n\nVire esta carta de volta para seu lado de ativo de <b>Espectador</b>.",
-        "traits": "HISTÓRIA"
+        "traits": "História"
     },
     {
         "code": "03077",

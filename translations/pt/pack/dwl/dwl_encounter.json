@@ -158,7 +158,7 @@
         "name": "O Experimento",
         "subname": "Algo Deu Terrivelmente Errado",
         "text": "Massivo.\nO Experimento recebe +3 [per_investigator] de vida.\n<b>Forçado</b> - Quando a fase dos inimigos começar: Prepare O Experimento.\n<b>Objetivo</b> - Se O Experimento for derrotado, avance para o ato 3b.",
-        "traits": "Monstro. Abominacão. Elite."
+        "traits": "Monstro. Abominação. Elite."
     },
     {
         "code": "02059",
@@ -492,8 +492,8 @@
     {
         "code": "02103",
         "name": "Conglomerado de Esferas",
-        "text": "<b>Presa</b> – Menor [willpower].\n<b>Caçador</b>.\n<b>Forçado</b> – Após você atacar Conglomerado de Esferas usando uma carta <b>Corpo a corpo</b>: Descarte a carta utilizada.",
-        "traits": "Monstro. Abominacão."
+        "text": "<b>Presa</b> – Menor [willpower].\n<b>Caçador</b>.\n<b>Forçado</b> – Após você atacar Conglomerado de Esferas usando uma carta <b>Corpo a Corpo</b>: Descarte a carta utilizada.",
+        "traits": "Monstro. Abominação."
     },
     {
         "code": "02104",
