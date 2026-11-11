@@ -108,8 +108,7 @@
         "code": "03326b",
         "flavor": "Este mundo é um resquício do que já foi. A majestade grandiosa de Carcosa professada em O Rei de Amarelo é perdida nessa extensão de desolação sem fim. Árvores mortas e distorcidas, animais famintos e campos sem vida os saúdam onde quer que vocês olhem.\n\nVocês começam a procurar evidências do que pode ter causado essa devastação. Além do lago, vocês notam estruturas sombrias e distorcidas, parecidas com aquelas em Carcosa. Pelo menos uma delas parece ser tão grande quanto o grandioso domínio de Hastur. Vocês se perguntam se algum tipo de conflito pode ter ocorrido entre as duas cidades.",
         "name": "Desolação Erma",
-        "text": "Cause 2[combat] de dano a Hastur.\nVire o verso desta carta. Pelo restante do jogo, esta carta não pode ser virada para o verso novamente.",
-        "traits": "História."
+        "text": "Cause 2[combat] de dano a Hastur.\nVire o verso desta carta. Pelo restante do jogo, esta carta não pode ser virada para o verso novamente."
     },
     {
         "code": "03326c",
@@ -138,8 +137,7 @@
         "code": "03327b",
         "flavor": "You encounter a man among the ruins of the city, haggard and tired. \"Good stranger,\" he says, \"I am ill and lost. Direct me, I beseech you, to Carcosa.\" You tell him that you believe you are in the realm of Carcosa right now, and he falls to his knees in despair. \"No... But that cannot be!\"\nThe man cries and raves, telling you more of the ancient and famous city. Though his words have little meaning to you, deep within your mind, you begin to understand.",
         "name": "Um Momento de Descanso",
-        "text": "Durante sua exploração, vocês encontram uma construção velha e desmoronado que parece ser um refúgio ideal do calor seco desse mundo e de suas horríveis criaturas. Pela primeira vez desde que vocês entraram neste reino, vocês tiram alguns instantes para descansar nas sombras frescas da construção. A calmaria silenciosa acalenta seus músculos doloridos e mente cansada. Mas vocês não podem ficar por muito tempo.\nVocê deve decidir (escolha um):\n[action] Escolha um inimigo em jogo. Esgote esse inimigo e desengaje-o de todos os investigadores.\n[action] Você cura 5 de horror.\nRemova esta carta do jogo e substitua-a por outra cópia de Ruínas de Carcosa, que foi previamente separada, (mova todos os investigadores, inimigos e anexos deste local para a nova cópia de Ruínas de Carcosa). Adicione pistas a essa cópia de Ruínas de Carcosa até que ela tenha uma quantidade de pistas igual ao valor de pistas dela.",
-        "traits": "História."
+        "text": "Durante sua exploração, vocês encontram uma construção velha e desmoronado que parece ser um refúgio ideal do calor seco desse mundo e de suas horríveis criaturas. Pela primeira vez desde que vocês entraram neste reino, vocês tiram alguns instantes para descansar nas sombras frescas da construção. A calmaria silenciosa acalenta seus músculos doloridos e mente cansada. Mas vocês não podem ficar por muito tempo.\nVocê deve decidir (escolha um):\n[action] Escolha um inimigo em jogo. Esgote esse inimigo e desengaje-o de todos os investigadores.\n[action] Você cura 5 de horror.\nRemova esta carta do jogo e substitua-a por outra cópia de Ruínas de Carcosa, que foi previamente separada, (mova todos os investigadores, inimigos e anexos deste local para a nova cópia de Ruínas de Carcosa). Adicione pistas a essa cópia de Ruínas de Carcosa até que ela tenha uma quantidade de pistas igual ao valor de pistas dela."
     },
     {
         "code": "03327c",
@@ -183,8 +181,7 @@
         "code": "03328b",
         "flavor": "You find yourself easily lost within the city's narrow, twisting streets. Routes that should lead back to familiar places lead instead to new parts of the city, and retracing your steps is impossible. Perhaps objects here do not exist in three dimensions like they do on Earth. Conventional maps cannot possibly begin to depict the complexity of Carcosa's design. You explore the streets carefully, and begin to puzzle out a shocking map of the city...",
         "name": "O Desfile do Rei",
-        "text": "Vocês dobram uma esquina e diante de vocês há uma rua ampla e imponente. Uma grandiosa parada marcha nela, em honra ao Rei. Estandartes de pano amarelo esfarrapado drapejam ao vento.\n\nEntão vocês percebem: isso parece uma cena da peça. Vocês quebram a cabeça tentando se lembrar do que deveria acontecer depois. A parada é interrompida e a comitiva é atacada...\n\nTeste [combat] (2). Se você tiver sucesso, esgote Hastur e desengaje-o de todos os investigadores.\n\nRemova esta carta do jogo e substitua-a por outra cópia de Ruas Sombrias, que foi previamente separada, (mova todos os investigadores, inimigos e anexos deste local para a nova cópia de Ruas Sombrias). Adicione pistas a essa cópia de Ruas Sombrias até que ela tenha uma quantidade de pistas igual ao valor de pistas dela.",
-        "traits": "História."
+        "text": "Vocês dobram uma esquina e diante de vocês há uma rua ampla e imponente. Uma grandiosa parada marcha nela, em honra ao Rei. Estandartes de pano amarelo esfarrapado drapejam ao vento.\n\nEntão vocês percebem: isso parece uma cena da peça. Vocês quebram a cabeça tentando se lembrar do que deveria acontecer depois. A parada é interrompida e a comitiva é atacada...\n\nTeste [combat] (2). Se você tiver sucesso, esgote Hastur e desengaje-o de todos os investigadores.\n\nRemova esta carta do jogo e substitua-a por outra cópia de Ruas Sombrias, que foi previamente separada, (mova todos os investigadores, inimigos e anexos deste local para a nova cópia de Ruas Sombrias). Adicione pistas a essa cópia de Ruas Sombrias até que ela tenha uma quantidade de pistas igual ao valor de pistas dela."
     },
     {
         "code": "03328c",
@@ -229,8 +226,7 @@
         "code": "03329b",
         "flavor": "Nothing in this realm seems to make sense. The stairs before you both ascend and descend. The cloudy depths sink and rise and sway, and yet remain still. You are floating in a cloud-wisp of mist and swimming under the sunken waves. The stairs are just a part of your imagination. You decide to jump.",
         "name": "Degraus do Palácio",
-        "text": "Vocês se deparam com um conjunto de degraus que se parece com a grande escadaria do palácio do Ato 1, Cena 4 de O Rei de Amarelo — As mesmas escadas em que Cassilda quase caiu quando ela desmaiou ao ver o Estranho pela primeira vez. Desfazendo seu devaneio, vocês ouvem o arfar de uma mulher e, quando olham para cima, veem Cassilda no topo dos degraus, chocada por estar vendo vocês. Você corre escada acima e consegue apanhá-la enquanto ela cai, envolvendo-a em seus braços. Ela se dissolve em névoas ao seu redor.\nCause 1 [action] de dano a Hastur, esgote-o, e desengaje-o de todos os investigadores.\nVire o verso desta carta. Pelo restante do jogo, esta carta não pode ser virada para o verso novamente.",
-        "traits": "História"
+        "text": "Vocês se deparam com um conjunto de degraus que se parece com a grande escadaria do palácio do Ato 1, Cena 4 de O Rei de Amarelo — As mesmas escadas em que Cassilda quase caiu quando ela desmaiou ao ver o Estranho pela primeira vez. Desfazendo seu devaneio, vocês ouvem o arfar de uma mulher e, quando olham para cima, veem Cassilda no topo dos degraus, chocada por estar vendo vocês. Você corre escada acima e consegue apanhá-la enquanto ela cai, envolvendo-a em seus braços. Ela se dissolve em névoas ao seu redor.\nCause 1 [action] de dano a Hastur, esgote-o, e desengaje-o de todos os investigadores.\nVire o verso desta carta. Pelo restante do jogo, esta carta não pode ser virada para o verso novamente."
     },
     {
         "code": "03329c",
