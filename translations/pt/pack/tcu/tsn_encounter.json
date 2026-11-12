@@ -149,7 +149,8 @@
         "text": "[reaction] Após você revelar Cidade dos Seres Ancestrais, sofra 2 de horror: Coloque em jogo a carta do topo do baralho de Lugares Desconhecidos, não revelada. Pelo restante do cenário, considera-se que Cidade dos Seres Ancestrais está conectada a esse local, e vice-versa.",
         "traits": "Extradimensional. Outro Mundo.",
         "back_name": "Unknown Places",
-        "back_flavor": "It was also possible that the inhabitants of a given dimensional realm could survive entry to many unknown and incomprehensible realms of additional or indefinitely multiplied dimensions - be they within or outside the given space-time continuum - and that the converse would be likewise true.\n- H. P. Lovecraft, <u>The Dreams in the Witch House</u>"
+        "back_flavor": "It was also possible that the inhabitants of a given dimensional realm could survive entry to many unknown and incomprehensible realms of additional or indefinitely multiplied dimensions - be they within or outside the given space-time continuum - and that the converse would be likewise true.\n- H. P. Lovecraft, <u>The Dreams in the Witch House</u>",
+        "back_traits": "Extradimensional."
     },
     {
         "code": "05137",
@@ -158,7 +159,8 @@
         "text": "[action]: <b>Investigue.</b> Se você tiver sucesso, em vez de descobrir pistas, cure 2 de horror. (Limite de uma vez por jogo.)\n<b>Assombrado</b> - Perca 1 ação.",
         "traits": "Extradimensional. Casa da Bruxa.",
         "back_name": "Unknown Places",
-        "back_flavor": "It was also possible that the inhabitants of a given dimensional realm could survive entry to many unknown and incomprehensible realms of additional or indefinitely multiplied dimensions - be they within or outside the given space-time continuum - and that the converse would be likewise true.\n- H. P. Lovecraft, <u>The Dreams in the Witch House</u>"
+        "back_flavor": "It was also possible that the inhabitants of a given dimensional realm could survive entry to many unknown and incomprehensible realms of additional or indefinitely multiplied dimensions - be they within or outside the given space-time continuum - and that the converse would be likewise true.\n- H. P. Lovecraft, <u>The Dreams in the Witch House</u>",
+        "back_traits": "Extradimensional."
     },
     {
         "code": "05138",

@@ -133,7 +133,7 @@
         "code": "04179",
         "name": "Colina de Chapultepec",
         "text": "Cada investigador em Colina de Chapultepec recebe -2 [willpower].\n[reaction] Após comprar uma carta de <b>Sortilégio</b>: Descubra 1 pista neste local. (Limite de grupo de uma vez por fase.)",
-        "traits": "Antigo. Tenochtitlán."
+        "traits": "Remoto. Tenochtitlán."
     },
     {
         "code": "04180",
@@ -145,7 +145,7 @@
         "code": "04181",
         "name": "Canais de Tenochtitlán",
         "text": "<b>Forçado</b> - Após Canais de Tenochtitlán entrar em jogo: Coloque 4 recursos nesta carta.\nEsta carta recebe +1 de véu para cada recurso nela.\n<b>Forçado</b> - Ao final da rodada: Descarte 1 recurso de Canais de Tenochtitlán.",
-        "traits": "Antigo. Tenochtitlán."
+        "traits": "Remoto. Tenochtitlán."
     },
     {
         "code": "04182",
@@ -182,7 +182,7 @@
         "code": "04187",
         "name": "Serpente de Tenochtitlán",
         "text": "Enquanto Serpente de Tenochtitlán estiver em um local <b>Remoto</b> com pistas sobre ele, esta carta ganha retaliação e alerta. Caso contrário, ela ganha <b>caçador</b>.\n<b>Forçado</b> - Após Serpente de Tenochtitlán causar dano a você com um ataque: Se você não estiver envenenado, coloque uma fraqueza separada Envenenado em jogo em sua área de ameaças.",
-        "traits": "Humanoid. Monstro. Serpente."
+        "traits": "Humanoide. Monstro. Serpente."
     },
     {
         "code": "04188",

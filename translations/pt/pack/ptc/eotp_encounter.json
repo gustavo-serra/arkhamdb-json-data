@@ -76,7 +76,7 @@
         "name": "Sociedade Histórica",
         "subname": "Sala de Reuniões",
         "text": "[action] Esgote um ativo de <b>Aliado</b>: Descubra uma pista neste local. (Limite de uma vez por rodada.)",
-        "traits": "Primeiro Andar. Passageway.",
+        "traits": "Primeiro Andar. Passagem.",
         "back_flavor": "Uma porta de madeira comum leva a uma das salas do primeiro andar usadas pela Sociedade Histórica.",
         "back_text": "<b>Forçado</b> - Quando um inimigo surgir neste local: Revele este local.",
         "back_traits": "Primeiro Andar."
@@ -131,7 +131,7 @@
         "name": "Sociedade Histórica",
         "subname": "Biblioteca Histórica",
         "text": "[reaction] Após você investigar com sucesso este local, sofra 2 de horror: Descubra 1 pista neste local. (Limite de uma vez por rodada.)",
-        "traits": "Segundo Andar. Passageway.",
+        "traits": "Segundo Andar. Passagem.",
         "back_flavor": "Uma porta de madeira comum leva a uma das salas do segundo andar usadas pela Sociedade Histórica.",
         "back_text": "<b>Forçado</b> - Quando um inimigo surgir neste local: Revele este local.",
         "back_traits": "Segundo Andar."

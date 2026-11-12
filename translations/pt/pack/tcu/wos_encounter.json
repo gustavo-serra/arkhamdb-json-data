@@ -62,8 +62,6 @@
         "flavor": "Poucas criaturas chamam de lar a mata que circunda a Colina do Carrasco. Campos de flores escuras e pontudas de erva-de-bruxa sufocaram toda a flora local, e vestígios de uma névoa fina e cinzenta espalham-se pelo ar, como longos dedos buscando algo para agarrar.",
         "name": "Campos Assombrados",
         "text": "Cada inimigo <b>Espectral</b> nos Campos Assombrados recebe +1 de valor de horror.",
-        "traits": "Local.",
-        "back_traits": "Local.",
         "back_text": "Espectral.\nCada inimigo <b>Espectral</b> nos Campos Assombrados recebe +1 de valor de horror.\n<b>Assombrado</b> – Mova o inimigo <b>Espectral</b> mais próximo uma vez em direção aos Campos Assombrados.",
         "back_flavor": "Este reino não tolera nada vivo."
     },
@@ -95,8 +93,6 @@
         "flavor": "A forca foi descomissionada em 1901, após a execução do assassino em série Piper Thomassan. Mesmo assim, sua plataforma de madeira ainda persiste no topo da Colina do Carrasco, um memorial dedicado à brutalidade dos seres humanos.",
         "name": "A Forca",
         "text": "A Forca recebe +1 de véu para cada inimigo <b>Bruxa</b> em jogo.",
-        "traits": "Local.",
-        "back_traits": "Local.",
         "back_text": "Espectral.\nA Forca recebe +1 de véu para cada inimigo <b>Bruxa</b> em jogo.\n<b>Assombrado</b> – Descarte as 3 cartas do topo do baralho de encontros padrão. Se um inimigo <b>Bruxa</b> for descartado por este efeito, compre-o.",
         "back_flavor": "Um último suspiro."
     },

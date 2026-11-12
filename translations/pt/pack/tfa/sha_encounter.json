@@ -98,33 +98,28 @@
     },
     {
         "code": "04325",
-        "name": "Misericórdia de Yig",
-        "subname": "Scion of Yig",
-        "text": "Consulte o Registro da Campanha. Se houver 16 ou mais marcas em \"Fúria de Yig\":\nIchtaca se recusa. Vire esta carta para o outro lado.\nSe houver 15 ou menos marcas:\nIchtaca cessa o ataque e ouve suas palavras. \"A glória de Valusia deve ser restaurada. Não há outra maneira\", ela decreta com amarga determinação. \"Ajude-nos a alcançar este objetivo e poderá se juntar a nós. Yig o recriará à sua imagem e semelhança, e viveremos juntos em nosso paraíso atemporal de Valusia.\"\nOs investigadores devem decidir (escolha um):\n[action] \"Eu nunca daria as costas à humanidade!\" Vire esta carta para o outro lado, esgotada e desengajada. Pelo restante deste cenário, você não pode <b>Negociar</b> com Ichtaca.\n[action] \"Eu aceito.\" Remova do jogo esta carta e o ato 4a — \"Repare o Estilhaçamento\" e avance para o ato separado Ato 4a — \"Paraíso Perdido\". Pelo restante deste cenário, você não pode <b>Negociar</b> com Alejandro Vela e inimigos <b>Serpentes</b> não engajam nem atacam você.",
-        "traits": "Humanoid. Monster. Serpent. Elite."
-    },
-    {
-        "code": "04325b",
         "name": "Ichtaca",
-        "text": "<b>Caçador. Retaliação.</b>\n[action]: <b>Negociata.</b> Teste [intellect] (5) para implorar por sua vida. Se um símbolo [cultist] for revelado durante este teste, você tem sucesso automaticamente. Se você falhar, Ichtaca ataca você. Se você tiver sucesso, vire esta carta para o verso e resolva o efeito dela.",
         "subname": "Descendente de Yig",
+        "text": "<b>Caçador. Retaliação.</b>\n[action]: <b>Negociata.</b> Teste [intellect] (5) para implorar por sua vida. Se um símbolo [cultist] for revelado durante este teste, você tem sucesso automaticamente. Se você falhar, Ichtaca ataca você. Se você tiver sucesso, vire esta carta para o verso e resolva o efeito dela.",
         "traits": "Humanoide. Monstro. Serpente. Elite."
     },
     {
+        "code": "04325b",
+        "name": "Misericórdia de Yig",
+        "text": "Consulte o Registro da Campanha. Se houver 16 ou mais marcas em \"Fúria de Yig\":\nIchtaca se recusa. Vire esta carta para o outro lado.\nSe houver 15 ou menos marcas:\nIchtaca cessa o ataque e ouve suas palavras. \"A glória de Valusia deve ser restaurada. Não há outra maneira\", ela decreta com amarga determinação. \"Ajude-nos a alcançar este objetivo e poderá se juntar a nós. Yig o recriará à sua imagem e semelhança, e viveremos juntos em nosso paraíso atemporal de Valusia.\"\nOs investigadores devem decidir (escolha um):\n[action] \"Eu nunca daria as costas à humanidade!\" Vire esta carta para o outro lado, esgotada e desengajada. Pelo restante deste cenário, você não pode <b>Negociar</b> com Ichtaca.\n[action] \"Eu aceito.\" Remova do jogo esta carta e o ato 4a — \"Repare o Estilhaçamento\" e avance para o ato separado Ato 4a — \"Paraíso Perdido\". Pelo restante deste cenário, você não pode <b>Negociar</b> com Alejandro Vela e inimigos <b>Serpentes</b> não engajam nem atacam você."
+    },
+    {
         "code": "04326",
-        "name": "Outra Maneira",
-        "subname": "Or, Is He?",
-        "text": "Os investigadores devem decidir (escolha um):\n◇ \"Eu nunca daria as costas à humanidade!\" Vire esta carta para o outro lado, esgotada e desengajada. Pelo restante deste cenário, você não pode <b>Negociar</b> com Alejandro Vela.\n◇ \"Eu aceito.\" Remova do jogo esta carta e o ato 4a — \"Repare o Estilhaçamento\" e avance para o ato separado Ato 4a — \"Tempo Paralisado\". Pelo restante deste cenário, você não pode <b>Negociar</b> com Ichtaca e inimigos <b>Cultistas</b> não engajam nem atacam você.",
-        "traits": "Humanoid. Cultist. Elite.",
-        "flavor": "Alejandro — se realmente for ele mesmo abaixo da máscara de humanidade — considera suas palavras. \"Muito bem. Pouparemos você, mas somente se ajudar a Irmandade.\" Ele gesticula em direção aos portais ao redor de vocês. \"Seu povo não foi o primeiro a herdar a Terra. Você sabe disso devido às suas viagens. Tentamos fazê-lo entender, mas, na sua teimosia, não nos ouviu. Ouça-me agora. As criaturas que nos levaram à ruína retornarão. Elas varrerão a humanidade deste planeta e a única evidência da sua existência sobreviverá em Pnakotus. Mas juntos podemos impedi-las. Junte-se a nós e você ainda poderá salvar a Terra — e vocês próprios.\""
+        "name": "Alejandro Vela",
+        "subname": "Será Ele Mesmo?",
+        "text": "<b>Alerta. Caçador.</b>\n[action]: <b>Negociata.</b> Teste [intellect] (5) para implorar por sua vida. Se um símbolo [cultist] for revelado durante este teste, você tem sucesso automaticamente.\nSe você falhar, Alejandro Vela ataca você. Se você tiver sucesso, vire esta carta para o verso e resolva o efeito dela.",
+        "traits": "Humanoide. Cultista. Elite."
     },
     {
         "code": "04326b",
-        "flavor": "Alejandro - if it is really him beneath that guise of humanity - contemplates your words. \"Very well. We will spare you, but only if you assist the Brotherhood.\" He motions to the gateways all around you. \"Your kind was not the first to inherit the Earth. You know this, now, from your travels. We tried to get you to understand, but in your stubbornness, you would not listen. Hear me now. The creatures that drove us to ruin will return. They will wipe humanity off this planet, and the only evidence of your existence will live on in Pnakotus. But together we can stop them. Join us, and you may yet save the Earth - and yourselves.",
-        "name": "Alejandro Vela",
-        "text": "<b>Alerta. Caçador.</b>\n[action]: <b>Negociata.</b> Teste [intellect] (5) para implorar por sua vida. Se um símbolo [cultist] for revelado durante este teste, você tem sucesso automaticamente.\nSe você falhar, Alejandro Vela ataca você. Se você tiver sucesso, vire esta carta para o verso e resolva o efeito dela.",
-        "subname": "Será Ele Mesmo?",
-        "traits": "Humanoide. Cultista. Elite."
+        "flavor": "Alejandro — se realmente for ele mesmo abaixo da máscara de humanidade — considera suas palavras. \"Muito bem. Pouparemos você, mas somente se ajudar a Irmandade.\" Ele gesticula em direção aos portais ao redor de vocês. \"Seu povo não foi o primeiro a herdar a Terra. Você sabe disso devido às suas viagens. Tentamos fazê-lo entender, mas, na sua teimosia, não nos ouviu. Ouça-me agora. As criaturas que nos levaram à ruína retornarão. Elas varrerão a humanidade deste planeta e a única evidência da sua existência sobreviverá em Pnakotus. Mas juntos podemos impedi-las. Junte-se a nós e você ainda poderá salvar a Terra — e vocês próprios.\"",
+        "name": "Outra Maneira",
+        "text": "Os investigadores devem decidir (escolha um):\n◇ \"Eu nunca daria as costas à humanidade!\" Vire esta carta para o outro lado, esgotada e desengajada. Pelo restante deste cenário, você não pode <b>Negociar</b> com Alejandro Vela.\n◇ \"Eu aceito.\" Remova do jogo esta carta e o ato 4a — \"Repare o Estilhaçamento\" e avance para o ato separado Ato 4a — \"Tempo Paralisado\". Pelo restante deste cenário, você não pode <b>Negociar</b> com Ichtaca e inimigos <b>Cultistas</b> não engajam nem atacam você."
     },
     {
         "code": "04327",

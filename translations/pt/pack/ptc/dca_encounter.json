@@ -121,8 +121,7 @@
         "code": "03326d",
         "flavor": "Em cada lado estendia-se uma vasta e desolada planície, coberta por um matagal de grama seca, que farfalhava e assobiava ao vento outonal...\n– Ambrose Bierce, \"Um habitante de Carcosa\"",
         "name": "Planícies Ermas",
-        "text": "Enquanto você estiver em Planícies Ermas, você não pode jogar ativos de <b>Aliado</b>.",
-        "traits": "<b>Outro Mundo.</b>"
+        "text": "Enquanto você estiver em Planícies Ermas, você não pode jogar ativos de <b>Aliado</b>."
     },
     {
         "code": "03327a",
@@ -145,15 +144,13 @@
         "name": "Ruínas de Carcosa",
         "text": "<b>Forçado</b> – Após você descobrir a última pista de Ruínas de Carcosa: Sofra 1 de dano.",
         "traits": "Outro Mundo.",
-        "back_traits": "História.",
         "back_text": "Nos arredores da cidade, vocês encontram um mausoléu arruinado. Sua entrada não é diferente da entrada das Catacumbas de Paris: arcadas de pedra decoradas com ossos e crânios zombeteiros. O Símbolo Amarelo está inscrito na pedra acima da última arcada. Uma passagem estreita e desordenada leva para uma câmara circular com um teto abobadado. No centro da câmara jaz um caixão em formato de ovo feito de pedra, sem marcas e firmemente selado. Curiosos, vocês tentam abrir o caixão. Vocês precisam de toda a força para puxar a pesada tampa, e ela desliza para o chão com um baque ecoante. Dentro, vocês encontram um rosto familiar — uma mulher com um vestido esfarrapado. Seu semblante é nobre e sombrio.\nCause 1 [doom] de dano a Hastur.\nVire o verso desta carta. Pelo restante do jogo, esta carta não pode ser virada para o verso novamente."
     },
     {
         "code": "03327d",
         "flavor": "Tão antigas pareciam aquelas relíquias, aqueles vestígios da vaidade e memoriais de afeição e piedade, tão maltratadas e gastas e marcadas...\n– Ambrose Bierce, \"Um habitante de Carcosa\"",
         "name": "Ruínas de Carcosa",
-        "text": "<b>Forçado</b> – Após você descobrir a última pista de Ruínas de Carcosa: Sofra 1 de dano.",
-        "traits": "Outro Mundo."
+        "text": "<b>Forçado</b> – Após você descobrir a última pista de Ruínas de Carcosa: Sofra 1 de dano."
     },
     {
         "code": "03327e",
@@ -166,8 +163,7 @@
         "code": "03327f",
         "flavor": "Tão antigas pareciam aquelas relíquias, aqueles vestígios da vaidade e memoriais de afeição e piedade, tão maltratadas e gastas e marcadas...\n– Ambrose Bierce, \"Um habitante de Carcosa\"",
         "name": "Ruínas de Carcosa",
-        "text": "<b>Forçado</b> – Após você descobrir a última pista de Ruínas de Carcosa: Sofra 1 de dano.",
-        "traits": "Outro Mundo."
+        "text": "<b>Forçado</b> – Após você descobrir a última pista de Ruínas de Carcosa: Sofra 1 de dano."
     },
     {
         "code": "03328a",
@@ -189,15 +185,13 @@
         "name": "Ruas Sombrias",
         "text": "<b>Forçado</b> – Após você descobrir a última pista de Ruas Sombrias: Perca 1 ação.",
         "traits": "Outro Mundo.",
-        "back_traits": "História",
         "back_text": "Vocês passam por uma arcada de pedras escuras, ligando dois pináculos. A inscrição na arcada está em uma língua que vocês nunca viram antes, mas de alguma forma vocês conseguem entender. Quando vocês leem a inscrição em voz alta, o portal de pedra cintila e vocês têm um fragmento de uma visão alternativa da cidade de Carcosa. Ela é vibrante e hipnotizante, como nenhum outro lugar que vocês já viram. A visão dissolve pouco depois, e vocês retornam às ruas arruinadas.\nTeste [willpower] (1). Para cada ponto que você tiver sucesso, cada investigador cura 1 de horror.\nRemova esta carta do jogo e substitua-a por outra cópia de Ruas Sombrias, que foi previamente separada, (mova todos os investigadores, inimigos e anexos deste local para a nova cópia de Ruas Sombrias). Adicione pistas a essa cópia de Ruas Sombrias até que ela tenha uma quantidade de pistas igual ao valor de pistas dela."
     },
     {
         "code": "03328d",
         "flavor": "As ruas serpenteiam e dão voltas sem nenhum aspecto de lógica ou razão.",
         "name": "Ruas Sombrias",
-        "text": "<b>Forçado</b> – Após você descobrir a última pista de Ruas Sombrias: Perca 1 ação.",
-        "traits": "Outro Mundo."
+        "text": "<b>Forçado</b> – Após você descobrir a última pista de Ruas Sombrias: Perca 1 ação."
     },
     {
         "code": "03328e",
@@ -210,8 +204,7 @@
         "code": "03328f",
         "flavor": "As ruas serpenteiam e dão voltas sem nenhum aspecto de lógica ou razão.",
         "name": "Ruas Sombrias",
-        "text": "<b>Forçado</b> – Após você descobrir a última pista de Ruas Sombrias: Perca 1 ação.",
-        "traits": "Outro Mundo."
+        "text": "<b>Forçado</b> – Após você descobrir a última pista de Ruas Sombrias: Perca 1 ação."
     },
     {
         "code": "03329",
@@ -239,8 +232,7 @@
         "code": "03329d",
         "flavor": "Não olhe para cima.",
         "name": "Profundezas de Demhe",
-        "text": "Enquanto você estiver nas Profundezas de Demhe, você não pode jogar cartas com <b>Veloz</b>.",
-        "traits": "Outro Mundo."
+        "text": "Enquanto você estiver nas Profundezas de Demhe, você não pode jogar cartas com <b>Veloz</b>."
     },
     {
         "code": "03330",

@@ -129,9 +129,9 @@
     "flavor": "Muitos cidadãos apavorados estão sentados nos bancos de madeira da igreja, rezando e sussurrando entre si.",
     "name": "South Church",
     "text": "[action]: Compre a carta do topo do baralho de encontros. Então, mova todas as fendas de South Church para o ato atual.\n[action]: <b>Renuncie.</b> Você se esconde pelo restante da noite.",
-    "traits": "Local.",
+    "traits": "Arkham.",
     "back_flavor": "Esta enorme edificação romanesca se eleva sobre o restante de Uptown, lançando luz através de seus vitrais. Padre Michael faz questão de manter a igreja aberta o tempo todo e, apesar dos estranhos acontecimentos pela cidade, esta noite não é diferente.",
-    "back_traits": "Local."
+    "back_traits": "Arkham."
   },
   {
     "code": "05299",
