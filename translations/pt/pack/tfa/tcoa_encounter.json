@@ -82,9 +82,9 @@
         "name": "Sala de Entrevistas",
         "subname": "Câmara de Imobilização",
         "text": "[action]: <b>Negociata.</b> Teste [intellect] (4) ou [combat] (4) para interrogar a mente prisioneira imobilizada aqui. Se você tiver sucesso, lembre-se de que você \"entrevistou um sujeito\". Se você falhar, sofra 2 de horror.",
-        "traits": "Local. Pnakotus.",
+        "traits": "Remoto. Pnakotus.",
         "back_flavor": "Enquanto isso, a mente deslocada, lançada à era e ao corpo do deslocador, seria cuidadosamente guardada. Ela seria impedida de ferir o corpo que ocupava e seria drenada de todo seu conhecimento por interrogadores treinados.\n- H. P. Lovecraft, A Sombra Vinda do Tempo",
-        "back_traits": "Local. Pnakotus."
+        "back_traits": "Remoto. Pnakotus."
     },
     {
         "code": "04247",
@@ -92,9 +92,9 @@
         "name": "Sala de Entrevistas",
         "subname": "Câmara Cheia de Icor",
         "text": "<b>Forçado</b> - Após você entrar neste local: Teste [willpower] (3). Sofra 1 de horror para cada ponto que você falhar.",
-        "traits": "Local. Pnakotus.",
+        "traits": "Remoto. Pnakotus.",
         "back_flavor": "Enquanto isso, a mente deslocada, lançada à era e ao corpo do deslocador, seria cuidadosamente guardada. Ela seria impedida de ferir o corpo que ocupava e seria drenada de todo seu conhecimento por interrogadores treinados.\n- H. P. Lovecraft, A Sombra Vinda do Tempo",
-        "back_traits": "Local. Pnakotus."
+        "back_traits": "Remoto. Pnakotus."
     },
     {
         "code": "04248",
