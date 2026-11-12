@@ -99,20 +99,20 @@
         "flavor": "No topo de uma escadaria estreita e claustrofóbica, vocês encontram a cabine da equipe de iluminação, acima do camarote. Equipamento caro de iluminação e diversos holofotes dominam esta sala apertada.",
         "name": "Caixa de Iluminação",
         "text": "Enquanto você estiver na Caixa de Iluminação, aumente em 2 o custo de recurso de cada carta da sua mão.",
-        "traits": "<b>Privado.</b>",
+        "traits": "Privado.",
         "back_name": "Porta do Saguão",
         "back_flavor": "Uma porta de madeira ornamentada leva para uma das áreas frontais do teatro.",
-        "back_traits": "<b>Privado.</b>"
+        "back_traits": "Privado."
     },
     {
         "code": "03054",
         "flavor": "Gotas de chuva atingem sua roupa conforme você entra na bilheteria. Demora algum tempo para você se lembrar de que comprou seus ingressos dentro do teatro, e então percebe que de alguma forma está chovendo através do teto do saguão.",
         "name": "Bilheteria",
         "text": "[action]: Ganhe 5 recursos. Lembre-se de que você \"roubou da bilheteria.\" (Limite de grupo de uma vez por jogo.)",
-        "traits": "<b>Privado.</b>",
+        "traits": "Privado.",
         "back_name": "Porta do Saguão",
         "back_flavor": "Uma porta de madeira ornamentada leva para uma das áreas frontais do teatro.",
-        "back_traits": "<b>Privado.</b>"
+        "back_traits": "Privado."
     },
     {
         "code": "03055",
@@ -129,10 +129,10 @@
         "flavor": "O camarim do elenco tem todo tipo de vestuário e acessórios, mas é a túnica amarela e esfarrapada no canto da sala que chama a atenção. Parece desalinhada e despedaçada demais para ser usada, mas é sedutora ainda assim.",
         "name": "Camarim",
         "text": "[action][action][action]: Cure 3 de horror.",
-        "traits": "<b>Privado.</b>",
+        "traits": "Privado.",
         "back_name": "Porta dos Bastidores",
         "back_flavor": "Uma porta de madeira simples leva para os fundos de teatro, longe dos olhos curiosos do público.",
-        "back_traits": "<b>Privado.</b>"
+        "back_traits": "Privado."
     },
     {
         "code": "03057",

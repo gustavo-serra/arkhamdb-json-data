@@ -159,8 +159,7 @@
     {
         "code": "02256",
         "name": "Bestas Descomunais",
-        "text": "<b>Revelação</b> – Anexe a um inimigo Prole de Yog-Sothoth em jogo. Se esse inimigo estiver em seu local, sofra 1 de dano.\nO inimigo anexado recebe +1 de luta e +1 de vida.",
-        "traits": "Perigo."
+        "text": "<b>Revelação</b> – Anexe a um inimigo Prole de Yog-Sothoth em jogo. Se esse inimigo estiver em seu local, sofra 1 de dano.\nO inimigo anexado recebe +1 de luta e +1 de vida."
     },
     {
         "code": "02257",
@@ -171,8 +170,7 @@
     {
         "code": "02258",
         "name": "Atraindo Atenção",
-        "text": "Ímpeto.\n<b>Revelação</b> – Cada inimigo Prole de Yog-Sothoth em jogo move-se uma vez em direção a você.",
-        "traits": "Traição."
+        "text": "Ímpeto.\n<b>Revelação</b> – Cada inimigo Prole de Yog-Sothoth em jogo move-se uma vez em direção a você."
     },
     {
         "code": "02259",

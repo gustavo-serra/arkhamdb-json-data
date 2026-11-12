@@ -191,8 +191,7 @@
     {
         "code": "02220",
         "name": "Sequestrado!",
-        "text": "<b>Revelação</b> – Teste [willpower] (4) ou [agility] (4). Se você falhar, adicione um ativo <i>Aliado</i> que você controla, à pilha de sacrifícios em potencial. Então, anexe Sequestrado! à agenda atual. Se você não tiver nenhum ativo <i>Aliado</i>, em vez disso sofra 2 de dano e descarte Sequestrado!\n<b>Forçado</b> – Quando a agenda anexada avançar: Escolha um sacrifício em potencial aleatoriamente e coloque embaixo do baralho de agendas.",
-        "traits": "Traição."
+        "text": "<b>Revelação</b> – Teste [willpower] (4) ou [agility] (4). Se você falhar, adicione um ativo <i>Aliado</i> que você controla, à pilha de sacrifícios em potencial. Então, anexe Sequestrado! à agenda atual. Se você não tiver nenhum ativo <i>Aliado</i>, em vez disso sofra 2 de dano e descarte Sequestrado!\n<b>Forçado</b> – Quando a agenda anexada avançar: Escolha um sacrifício em potencial aleatoriamente e coloque embaixo do baralho de agendas."
     },
     {
         "code": "02221",

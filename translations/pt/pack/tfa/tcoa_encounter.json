@@ -133,10 +133,10 @@
     {
         "code": "04252",
         "name": "Planetário Yithiano",
-        "text": "Remoto. Pnakotus.\n[action][action] Se não houver pistas no Planetário Yithiano: Lembre-se de que você \"descobriu em que ano estamos\".\nEnquanto você estiver no Planetário Yithiano, aumente em 2 o tamanho máximo da sua mão.",
-        "traits": "Local.",
+        "text": "[action][action] Se não houver pistas no Planetário Yithiano: Lembre-se de que você \"descobriu em que ano estamos\".\nEnquanto você estiver no Planetário Yithiano, aumente em 2 o tamanho máximo da sua mão.",
+        "traits": "Remoto. Pnakotus.",
         "back_flavor": "Eu parecia falar, em um estranho idioma de estalos de garra, com intelectos exilados de todas as partes do sistema solar. Havia uma mente do planeta que conhecemos como Vênus, que viveria épocas incalculáveis por vir, e outra de uma lua externa de Júpiter, seis milhões de anos no passado.\n– H. P. Lovecraft, A Sombra Vinda do Tempo",
-        "back_traits": "Local."
+        "back_traits": "Remoto. Pnakotus."
     },
     {
         "code": "04253",

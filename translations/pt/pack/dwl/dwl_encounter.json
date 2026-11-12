@@ -349,8 +349,7 @@
         "code": "02082",
         "flavor": "Todos os olhos estão sobre você, observando cada movimento.",
         "name": "Levantando Suspeitas",
-        "text": "<b>Revelação</b> – Coloque 1 perdição em cada inimigo <i>Criminoso</i> em seu local. Se nenhuma perdição for colocada por este efeito, perca 2 recursos.",
-        "traits": "Traição."
+        "text": "<b>Revelação</b> – Coloque 1 perdição em cada inimigo <i>Criminoso</i> em seu local. Se nenhuma perdição for colocada por este efeito, perca 2 recursos."
     },
     {
         "code": "02083",
